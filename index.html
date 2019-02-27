@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.min.js"></script>
+  <div class="chart-container" style="position: relative; height:40vh; width:100vw">
+    <canvas id="canvas"></canvas>
+  </div>
+  <script>
+    var data;
+
+    function randInt(min, max) {
+      return Math.floor(Math.random() * (max - min) + min)
+    }
+
+    function randomColor() {
+      const colors = [
+        randInt(0, 255),
+        randInt(0, 255),
+        randInt(0, 255)
+      ]
+      return `rgba(${colors.join(', ')}, 1)`
+    }
+
+    $.getJSON("https://sspatari.github.io/kpi-page/data/anonymized_opened_issues.json", function(json) {
+      data = Object.keys(json).map(name => {
+        const dev = json[name]
+        dev.name = name
+        return dev
+      }).sort((a, b) => b.count - a.count)
+
+      var labels = data
+        .map(dev => Object.keys(dev.issues_by_project))
+        .reduce((a, b) => a.concat(b))
+      labels = [...new Set(labels)].sort()
+
+      console.log(labels)
+      console.log(data)
+      var barChartData = {
+        labels: data.map(dev => dev.name),
+        datasets: labels.map(label => {
+          const values = data.map(dev => dev.issues_by_project[label] || 0)
+          return {
+            label: label,
+            backgroundColor: randomColor(),
+            data: values
+          }
+        })
+      }
+
+      var ctx = document.getElementById('canvas').getContext('2d');
+      window.myBar = new Chart(ctx, {
+        type: 'bar',
+        data: barChartData,
+        options: {
+          title: {
+            display: true,
+            text: 'Chart.js Bar Chart - Stacked'
+          },
+          tooltips: {
+            mode: 'index',
+            intersect: false
+          },
+          responsive: true,
+          scales: {
+            xAxes: [{
+              stacked: true,
+            }],
+            yAxes: [{
+              stacked: true
+            }]
+          }
+        }
+      });
+    });
+  </script>
+</head>
+
+<body>
+</body>
+
+</html>
