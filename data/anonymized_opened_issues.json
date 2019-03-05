@@ -116,9 +116,9 @@
     ]
   },
   "An-Ma-Se": {
-    "count": 11,
+    "count": 12,
     "labels": {
-      "2S": 6,
+      "2S": 7,
       "Beta": 1,
       "1M": 1,
       "2L": 1,
@@ -129,16 +129,16 @@
       "gl": 1,
       "ro": 1,
       "st": 1,
-      "su": 7,
+      "su": 8,
       "th": 1
     },
     "categories": {
       "high": 2,
       "medium": 2,
-      "low": 7
+      "low": 8
     },
     "grouped_labels": {
-      "To Do": 3,
+      "To Do": 4,
       "WAITING FOR FEEDBACK": 8
     },
     "overdues": [
