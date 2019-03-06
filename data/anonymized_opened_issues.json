@@ -147,26 +147,26 @@
     ]
   },
   "st-nd": {
-    "count": 10,
+    "count": 12,
     "labels": {
-      "2S": 5,
+      "2S": 7,
       "2M": 2,
       "1M": 2,
       "Beta": 1
     },
     "issues_by_project": {
-      "su": 9,
+      "su": 11,
       "th": 1
     },
     "categories": {
       "high": 3,
       "medium": 2,
-      "low": 5
+      "low": 7
     },
     "grouped_labels": {
       "To Do": 5,
-      "In progress": 1,
-      "WAITING FOR FEEDBACK": 3
+      "WAITING FOR FEEDBACK": 5,
+      "In progress": 1
     },
     "overdues": [
 
@@ -176,8 +176,9 @@
     ]
   },
   "Al-Hi": {
-    "count": 16,
+    "count": 17,
     "labels": {
+      "1S": 1,
       "1M": 5,
       "2M": 1,
       "3S": 1,
@@ -188,14 +189,15 @@
     },
     "issues_by_project": {
       "gl": 1,
-      "th": 15
+      "th": 16
     },
     "categories": {
-      "high": 5,
+      "high": 6,
       "medium": 6,
       "low": 5
     },
     "grouped_labels": {
+      "In progress": 1,
       "To Do": 8
     },
     "overdues": [
@@ -313,23 +315,23 @@
     ]
   },
   "Dm-Lu": {
-    "count": 8,
+    "count": 9,
     "labels": {
-      "2S": 3,
+      "2S": 4,
       "2M": 1,
       "Beta": 3,
       "1L": 1
     },
     "issues_by_project": {
-      "su": 8
+      "su": 9
     },
     "categories": {
       "high": 4,
       "medium": 1,
-      "low": 3
+      "low": 4
     },
     "grouped_labels": {
-      "To Do": 3,
+      "To Do": 4,
       "WAITING FOR FEEDBACK": 4,
       "In progress": 1
     },
