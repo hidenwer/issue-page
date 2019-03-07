@@ -348,28 +348,28 @@
     ]
   },
   "St-Sp": {
-    "count": 10,
+    "count": 9,
     "labels": {
-      "2S": 4,
+      "2S": 3,
       "1": 1,
       "2M": 2,
       "3M": 2,
       "2L": 1
     },
     "issues_by_project": {
-      "ro": 3,
+      "ro": 2,
       "su": 5,
       "th": 2
     },
     "categories": {
       "high": 1,
       "medium": 5,
-      "low": 4
+      "low": 3
     },
     "grouped_labels": {
-      "In progress": 5,
       "To Do": 3,
-      "WAITING FOR FEEDBACK": 1
+      "WAITING FOR FEEDBACK": 1,
+      "In progress": 4
     },
     "overdues": [
       2823,
