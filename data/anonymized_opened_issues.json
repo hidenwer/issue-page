@@ -153,24 +153,24 @@
     ]
   },
   "st-nd": {
-    "count": 12,
+    "count": 13,
     "labels": {
-      "2S": 7,
+      "2S": 8,
       "2M": 2,
       "1M": 2,
       "Beta": 1
     },
     "issues_by_project": {
-      "su": 11,
+      "su": 12,
       "th": 1
     },
     "categories": {
       "high": 3,
       "medium": 2,
-      "low": 7
+      "low": 8
     },
     "grouped_labels": {
-      "To Do": 3,
+      "To Do": 4,
       "WAITING FOR FEEDBACK": 7,
       "In progress": 1
     },
