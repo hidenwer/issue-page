@@ -320,24 +320,24 @@
     ]
   },
   "Dm-Lu": {
-    "count": 7,
+    "count": 8,
     "labels": {
-      "2S": 2,
+      "2S": 3,
       "2M": 2,
       "Beta": 1,
       "3L": 1,
       "1L": 1
     },
     "issues_by_project": {
-      "su": 7
+      "su": 8
     },
     "categories": {
       "high": 2,
       "medium": 2,
-      "low": 3
+      "low": 4
     },
     "grouped_labels": {
-      "To Do": 4,
+      "To Do": 5,
       "WAITING FOR FEEDBACK": 2,
       "In progress": 1
     },
@@ -345,7 +345,7 @@
 
     ],
     "no_due_dates": [
-
+      2922
     ]
   },
   "St-Sp": {
