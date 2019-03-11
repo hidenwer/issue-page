@@ -187,8 +187,8 @@
   "Al-Hi": {
     "count": 17,
     "labels": {
+      "": 1,
       "1M": 5,
-      "1S": 1,
       "2M": 1,
       "3S": 1,
       "3M": 4,
@@ -201,16 +201,14 @@
       "th": 16
     },
     "categories": {
-      "high": 6,
+      "high": 5,
       "medium": 6,
       "low": 5
     },
     "grouped_labels": {
-      "In progress": 1,
       "To Do": 8
     },
     "overdues": [
-      239,
       229,
       215,
       145,
