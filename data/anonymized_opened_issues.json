@@ -26,7 +26,6 @@
 
     ],
     "no_due_dates": [
-      2932,
       332,
       460
     ]
@@ -123,9 +122,9 @@
     ]
   },
   "An-Ma-Se": {
-    "count": 13,
+    "count": 12,
     "labels": {
-      "2S": 4,
+      "2S": 3,
       "2M": 3,
       "3L": 3,
       "1M": 1,
@@ -135,24 +134,23 @@
     "issues_by_project": {
       "gl": 1,
       "st": 2,
-      "su": 9,
+      "su": 8,
       "th": 1
     },
     "categories": {
       "high": 1,
       "medium": 5,
-      "low": 7
+      "low": 6
     },
     "grouped_labels": {
-      "To Do": 3,
       "WAITING FOR FEEDBACK": 8,
-      "In progress": 2
+      "In progress": 2,
+      "To Do": 2
     },
     "overdues": [
 
     ],
     "no_due_dates": [
-      2938,
       145
     ]
   },
@@ -287,7 +285,7 @@
       211
     ],
     "no_due_dates": [
-      2934
+
     ]
   },
   "Al-Me": {
