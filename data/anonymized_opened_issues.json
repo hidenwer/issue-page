@@ -1,31 +1,32 @@
 {
   "Ed-Ma": {
-    "count": 7,
+    "count": 8,
     "labels": {
+      "2S": 3,
       "1S": 1,
       "1M": 1,
-      "2S": 2,
       "2L": 1,
       "1L": 2
     },
     "issues_by_project": {
       "gl": 3,
       "st": 1,
-      "su": 3
+      "su": 4
     },
     "categories": {
       "high": 4,
       "medium": 1,
-      "low": 2
+      "low": 3
     },
     "grouped_labels": {
-      "To Do": 2,
+      "To Do": 3,
       "In progress": 2
     },
     "overdues": [
 
     ],
     "no_due_dates": [
+      2932,
       332,
       460
     ]
