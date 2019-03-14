@@ -60,23 +60,23 @@
     ]
   },
   "Se-Vo": {
-    "count": 8,
+    "count": 9,
     "labels": {
+      "2M": 2,
       "2S": 3,
       "1S": 1,
-      "2M": 1,
       "1M": 1,
       "3M": 1,
       "3L": 1
     },
     "issues_by_project": {
       "gl": 2,
-      "ro": 1,
+      "ro": 2,
       "su": 5
     },
     "categories": {
       "high": 2,
-      "medium": 2,
+      "medium": 3,
       "low": 4
     },
     "grouped_labels": {
