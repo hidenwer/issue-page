@@ -59,31 +59,28 @@
     ]
   },
   "Se-Vo": {
-    "count": 6,
+    "count": 4,
     "labels": {
       "2M": 1,
       "1S": 1,
-      "2S": 2,
       "3M": 1,
       "3L": 1
     },
     "issues_by_project": {
       "gl": 2,
-      "ro": 2,
-      "su": 2
+      "ro": 2
     },
     "categories": {
       "high": 1,
       "medium": 2,
-      "low": 3
+      "low": 1
     },
     "grouped_labels": {
-      "To Do": 4,
-      "In progress": 2
+      "To Do": 3,
+      "In progress": 1
     },
     "overdues": [
-      2910,
-      2869
+
     ],
     "no_due_dates": [
 
@@ -167,7 +164,7 @@
       "low": 5
     },
     "grouped_labels": {
-      "To Do": 6,
+      "To Do": 8,
       "In progress": 1,
       "WAITING FOR FEEDBACK": 2
     },
@@ -176,8 +173,7 @@
     ],
     "no_due_dates": [
       252,
-      2948,
-      204
+      2948
     ]
   },
   "Al-Hi": {
@@ -245,25 +241,23 @@
     ]
   },
   "Ol-Co": {
-    "count": 6,
+    "count": 5,
     "labels": {
       "2M": 2,
-      "2S": 1,
       "1M": 1,
       "3L": 2
     },
     "issues_by_project": {
       "gl": 2,
-      "su": 1,
       "th": 3
     },
     "categories": {
       "high": 1,
       "medium": 2,
-      "low": 3
+      "low": 2
     },
     "grouped_labels": {
-      "To Do": 4,
+      "To Do": 3,
       "In progress": 1
     },
     "overdues": [
@@ -274,31 +268,30 @@
     ]
   },
   "Al-Me": {
-    "count": 12,
+    "count": 11,
     "labels": {
       "2M": 3,
       "2S": 3,
-      "1S": 1,
       "3": 1,
       "3M": 1,
       "1L": 1,
       "3L": 2
     },
     "issues_by_project": {
-      "gl": 2,
+      "gl": 1,
       "ro": 2,
       "st": 2,
       "su": 4,
       "th": 2
     },
     "categories": {
-      "high": 2,
+      "high": 1,
       "medium": 4,
       "low": 5
     },
     "grouped_labels": {
       "To Do": 7,
-      "In progress": 5
+      "In progress": 4
     },
     "overdues": [
       375
@@ -308,28 +301,27 @@
     ]
   },
   "Dm-Lu": {
-    "count": 7,
+    "count": 6,
     "labels": {
       "2S": 1,
       "1M": 1,
       "2M": 1,
       "Beta": 2,
-      "3L": 1,
-      "1L": 1
+      "3L": 1
     },
     "issues_by_project": {
       "gl": 1,
       "ro": 1,
-      "su": 5
+      "su": 4
     },
     "categories": {
-      "high": 4,
+      "high": 3,
       "medium": 1,
       "low": 2
     },
     "grouped_labels": {
       "In progress": 3,
-      "To Do": 3,
+      "To Do": 2,
       "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
