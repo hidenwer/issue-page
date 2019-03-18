@@ -34,7 +34,8 @@
   "co-ci": {
     "count": 8,
     "labels": {
-      "2S": 4,
+      "1S": 1,
+      "2S": 3,
       "1L": 1,
       "1M": 2,
       "3L": 1
@@ -44,9 +45,9 @@
       "su": 6
     },
     "categories": {
-      "high": 3,
+      "high": 4,
       "medium": 0,
-      "low": 5
+      "low": 4
     },
     "grouped_labels": {
       "To Do": 4,
@@ -236,7 +237,6 @@
 
     ],
     "no_due_dates": [
-      2970,
       3044
     ]
   },
