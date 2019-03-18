@@ -1,39 +1,37 @@
 {
   "Ed-Ma": {
-    "count": 9,
+    "count": 8,
     "labels": {
-      "1": 1,
       "2S": 5,
       "2L": 1,
       "1L": 2
     },
     "issues_by_project": {
-      "gl": 2,
+      "gl": 1,
       "st": 1,
       "su": 6
     },
     "categories": {
-      "high": 3,
+      "high": 2,
       "medium": 1,
       "low": 5
     },
     "grouped_labels": {
-      "To Do": 6,
+      "To Do": 5,
       "In progress": 3
     },
     "overdues": [
 
     ],
     "no_due_dates": [
-      512,
       332,
       460
     ]
   },
   "co-ci": {
-    "count": 8,
+    "count": 12,
     "labels": {
-      "1S": 1,
+      "1S": 5,
       "2S": 2,
       "1L": 1,
       "2M": 1,
@@ -42,15 +40,15 @@
     },
     "issues_by_project": {
       "gl": 2,
-      "su": 6
+      "su": 10
     },
     "categories": {
-      "high": 4,
+      "high": 8,
       "medium": 1,
       "low": 3
     },
     "grouped_labels": {
-      "To Do": 4,
+      "To Do": 8,
       "In progress": 4
     },
     "overdues": [
@@ -61,9 +59,9 @@
     ]
   },
   "Se-Vo": {
-    "count": 6,
+    "count": 7,
     "labels": {
-      "2S": 3,
+      "2S": 4,
       "2M": 1,
       "3M": 1,
       "3L": 1
@@ -71,15 +69,15 @@
     "issues_by_project": {
       "gl": 1,
       "ro": 2,
-      "su": 3
+      "su": 4
     },
     "categories": {
       "high": 0,
       "medium": 2,
-      "low": 4
+      "low": 5
     },
     "grouped_labels": {
-      "To Do": 6
+      "To Do": 7
     },
     "overdues": [
 
@@ -119,26 +117,28 @@
     ]
   },
   "An-Ma-Se": {
-    "count": 12,
+    "count": 13,
     "labels": {
       "2S": 6,
+      "1": 1,
       "2M": 3,
       "3M": 2,
       "3L": 1
     },
     "issues_by_project": {
+      "gl": 1,
       "ro": 1,
       "st": 1,
       "su": 7,
       "th": 3
     },
     "categories": {
-      "high": 0,
+      "high": 1,
       "medium": 5,
       "low": 7
     },
     "grouped_labels": {
-      "To Do": 6,
+      "To Do": 7,
       "WAITING FOR FEEDBACK": 2,
       "In progress": 3
     },
@@ -146,6 +146,7 @@
 
     ],
     "no_due_dates": [
+      512,
       145
     ]
   },
