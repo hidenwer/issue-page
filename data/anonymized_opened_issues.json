@@ -78,8 +78,8 @@
       "low": 7
     },
     "grouped_labels": {
-      "To Do": 11,
-      "WAITING FOR FEEDBACK": 1
+      "To Do": 10,
+      "WAITING FOR FEEDBACK": 2
     },
     "overdues": [
 
@@ -236,8 +236,8 @@
       "low": 3
     },
     "grouped_labels": {
-      "To Do": 3,
-      "WAITING FOR FEEDBACK": 2,
+      "To Do": 2,
+      "WAITING FOR FEEDBACK": 3,
       "In progress": 2
     },
     "overdues": [
@@ -266,8 +266,8 @@
       "low": 9
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 4,
-      "To Do": 6,
+      "WAITING FOR FEEDBACK": 6,
+      "To Do": 4,
       "In progress": 1
     },
     "overdues": [
@@ -300,8 +300,8 @@
       "low": 5
     },
     "grouped_labels": {
-      "To Do": 6,
-      "WAITING FOR FEEDBACK": 2,
+      "To Do": 7,
+      "WAITING FOR FEEDBACK": 1,
       "In progress": 3
     },
     "overdues": [
@@ -331,8 +331,8 @@
       "low": 6
     },
     "grouped_labels": {
-      "To Do": 5,
-      "WAITING FOR FEEDBACK": 2,
+      "To Do": 4,
+      "WAITING FOR FEEDBACK": 3,
       "In progress": 2
     },
     "overdues": [
