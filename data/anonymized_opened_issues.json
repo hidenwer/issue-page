@@ -89,9 +89,9 @@
     ]
   },
   "da-ls": {
-    "count": 7,
+    "count": 8,
     "labels": {
-      "2S": 3,
+      "2S": 4,
       "": 1,
       "2M": 1,
       "3L": 1,
@@ -99,15 +99,15 @@
     },
     "issues_by_project": {
       "ro": 2,
-      "su": 5
+      "su": 6
     },
     "categories": {
       "high": 0,
       "medium": 2,
-      "low": 4
+      "low": 5
     },
     "grouped_labels": {
-      "To Do": 2,
+      "To Do": 3,
       "In progress": 3,
       "WAITING FOR FEEDBACK": 1
     },
@@ -176,26 +176,26 @@
     ]
   },
   "Al-Hi": {
-    "count": 18,
+    "count": 19,
     "labels": {
+      "2M": 5,
       "1M": 7,
-      "2M": 4,
       "3M": 4,
       "3S": 1,
       "3L": 2
     },
     "issues_by_project": {
       "gl": 1,
-      "th": 17
+      "th": 18
     },
     "categories": {
       "high": 7,
-      "medium": 8,
+      "medium": 9,
       "low": 3
     },
     "grouped_labels": {
-      "In progress": 1,
-      "To Do": 9
+      "To Do": 10,
+      "In progress": 1
     },
     "overdues": [
       240,
@@ -307,25 +307,25 @@
     ]
   },
   "Dm-Lu": {
-    "count": 7,
+    "count": 9,
     "labels": {
-      "2S": 3,
+      "2S": 5,
       "2M": 1,
       "Beta": 2,
       "3L": 1
     },
     "issues_by_project": {
       "ro": 1,
-      "su": 6
+      "su": 8
     },
     "categories": {
       "high": 2,
       "medium": 1,
-      "low": 4
+      "low": 6
     },
     "grouped_labels": {
+      "To Do": 6,
       "In progress": 2,
-      "To Do": 4,
       "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
@@ -336,25 +336,25 @@
     ]
   },
   "St-Sp": {
-    "count": 9,
+    "count": 10,
     "labels": {
       "2M": 3,
-      "2S": 2,
+      "2S": 3,
       "3M": 3,
       "Beta": 1
     },
     "issues_by_project": {
       "ro": 3,
-      "su": 2,
+      "su": 3,
       "th": 4
     },
     "categories": {
       "high": 1,
       "medium": 6,
-      "low": 2
+      "low": 3
     },
     "grouped_labels": {
-      "To Do": 7,
+      "To Do": 8,
       "In progress": 2
     },
     "overdues": [
