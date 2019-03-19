@@ -239,7 +239,8 @@
       "low": 4
     },
     "grouped_labels": {
-      "To Do": 6,
+      "To Do": 5,
+      "WAITING FOR FEEDBACK": 1,
       "In progress": 2
     },
     "overdues": [
@@ -315,24 +316,24 @@
     ]
   },
   "Dm-Lu": {
-    "count": 9,
+    "count": 10,
     "labels": {
-      "2S": 5,
+      "2S": 6,
       "2M": 1,
       "Beta": 2,
       "3L": 1
     },
     "issues_by_project": {
       "ro": 1,
-      "su": 8
+      "su": 9
     },
     "categories": {
       "high": 2,
       "medium": 1,
-      "low": 6
+      "low": 7
     },
     "grouped_labels": {
-      "To Do": 4,
+      "To Do": 5,
       "WAITING FOR FEEDBACK": 3,
       "In progress": 2
     },
