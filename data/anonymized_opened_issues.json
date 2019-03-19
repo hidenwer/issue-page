@@ -1,22 +1,18 @@
 {
   "Ed-Ma": {
-    "count": 12,
+    "count": 9,
     "labels": {
-      "1S": 2,
-      "1": 1,
       "2S": 6,
       "2L": 1,
       "1L": 2
     },
     "issues_by_project": {
-      "fe": 1,
       "gl": 1,
-      "ro": 1,
-      "st": 2,
+      "st": 1,
       "su": 7
     },
     "categories": {
-      "high": 5,
+      "high": 2,
       "medium": 1,
       "low": 6
     },
@@ -29,9 +25,6 @@
       2901
     ],
     "no_due_dates": [
-      3287,
-      340,
-      186,
       2999,
       332,
       460
