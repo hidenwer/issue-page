@@ -120,9 +120,9 @@
     ]
   },
   "An-Ma-Se": {
-    "count": 13,
+    "count": 14,
     "labels": {
-      "2S": 6,
+      "2S": 7,
       "1": 1,
       "2M": 3,
       "3M": 2,
@@ -132,16 +132,16 @@
       "gl": 1,
       "ro": 1,
       "st": 1,
-      "su": 7,
+      "su": 8,
       "th": 3
     },
     "categories": {
       "high": 1,
       "medium": 5,
-      "low": 7
+      "low": 8
     },
     "grouped_labels": {
-      "To Do": 7,
+      "To Do": 8,
       "WAITING FOR FEEDBACK": 4,
       "In progress": 1
     },
@@ -171,7 +171,7 @@
     },
     "grouped_labels": {
       "To Do": 8,
-      "WAITING FOR FEEDBACK": 1
+      "In progress": 1
     },
     "overdues": [
 
@@ -238,8 +238,7 @@
       "low": 5
     },
     "grouped_labels": {
-      "To Do": 6,
-      "WAITING FOR FEEDBACK": 1,
+      "To Do": 7,
       "In progress": 2
     },
     "overdues": [
