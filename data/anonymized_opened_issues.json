@@ -152,9 +152,10 @@
   "st-nd": {
     "count": 13,
     "labels": {
-      "2S": 9,
+      "2S": 8,
       "3S": 1,
-      "2M": 3
+      "2M": 3,
+      "2L": 1
     },
     "issues_by_project": {
       "su": 10,
@@ -162,12 +163,13 @@
     },
     "categories": {
       "high": 0,
-      "medium": 3,
-      "low": 10
+      "medium": 4,
+      "low": 9
     },
     "grouped_labels": {
-      "To Do": 10,
-      "WAITING FOR FEEDBACK": 2
+      "To Do": 9,
+      "WAITING FOR FEEDBACK": 2,
+      "In progress": 1
     },
     "overdues": [
 
