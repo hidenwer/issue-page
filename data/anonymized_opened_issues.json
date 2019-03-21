@@ -119,27 +119,26 @@
     ]
   },
   "An-Ma-Se": {
-    "count": 14,
+    "count": 13,
     "labels": {
       "2M": 7,
       "2S": 4,
-      "2L": 1,
       "3M": 2
     },
     "issues_by_project": {
       "ro": 1,
-      "su": 9,
+      "su": 8,
       "th": 4
     },
     "categories": {
       "high": 0,
-      "medium": 10,
+      "medium": 9,
       "low": 4
     },
     "grouped_labels": {
       "To Do": 3,
       "WAITING FOR FEEDBACK": 5,
-      "In progress": 4
+      "In progress": 3
     },
     "overdues": [
 
