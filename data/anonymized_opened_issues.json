@@ -16,8 +16,8 @@
       "low": 3
     },
     "grouped_labels": {
-      "To Do": 3,
-      "In progress": 2
+      "In progress": 3,
+      "To Do": 2
     },
     "overdues": [
       2919,
@@ -149,21 +149,20 @@
     ]
   },
   "st-nd": {
-    "count": 12,
+    "count": 11,
     "labels": {
       "2S": 7,
-      "3S": 1,
       "2M": 3,
       "2L": 1
     },
     "issues_by_project": {
-      "su": 9,
+      "su": 8,
       "th": 3
     },
     "categories": {
       "high": 0,
       "medium": 4,
-      "low": 8
+      "low": 7
     },
     "grouped_labels": {
       "WAITING FOR FEEDBACK": 5,
