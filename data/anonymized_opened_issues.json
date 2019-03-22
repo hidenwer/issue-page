@@ -301,24 +301,24 @@
     ]
   },
   "Dm-Lu": {
-    "count": 6,
+    "count": 7,
     "labels": {
-      "2S": 2,
+      "2S": 3,
       "1": 1,
       "2M": 2,
       "Beta": 1
     },
     "issues_by_project": {
-      "su": 5,
+      "su": 6,
       "th": 1
     },
     "categories": {
       "high": 2,
       "medium": 2,
-      "low": 2
+      "low": 3
     },
     "grouped_labels": {
-      "To Do": 4,
+      "To Do": 5,
       "WAITING FOR FEEDBACK": 2
     },
     "overdues": [
