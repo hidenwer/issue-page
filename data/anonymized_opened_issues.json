@@ -143,23 +143,24 @@
     ]
   },
   "st-nd": {
-    "count": 9,
+    "count": 10,
     "labels": {
-      "2S": 5,
+      "2S": 6,
       "3M": 1,
       "2M": 3
     },
     "issues_by_project": {
+      "ro": 1,
       "su": 6,
       "th": 3
     },
     "categories": {
       "high": 0,
       "medium": 4,
-      "low": 5
+      "low": 6
     },
     "grouped_labels": {
-      "To Do": 6,
+      "To Do": 7,
       "In progress": 2,
       "WAITING FOR FEEDBACK": 1
     },
@@ -270,9 +271,9 @@
     ]
   },
   "Al-Me": {
-    "count": 7,
+    "count": 8,
     "labels": {
-      "2S": 1,
+      "2S": 2,
       "2M": 2,
       "3M": 1,
       "1L": 1,
@@ -280,6 +281,7 @@
     },
     "issues_by_project": {
       "gl": 1,
+      "ro": 1,
       "st": 2,
       "su": 2,
       "th": 2
@@ -287,10 +289,10 @@
     "categories": {
       "high": 1,
       "medium": 3,
-      "low": 3
+      "low": 4
     },
     "grouped_labels": {
-      "To Do": 3,
+      "To Do": 4,
       "WAITING FOR FEEDBACK": 1,
       "In progress": 1
     },
@@ -303,24 +305,25 @@
     ]
   },
   "Dm-Lu": {
-    "count": 7,
+    "count": 8,
     "labels": {
+      "1S": 1,
       "2S": 3,
       "1": 1,
       "2M": 2,
       "Beta": 1
     },
     "issues_by_project": {
-      "su": 6,
+      "su": 7,
       "th": 1
     },
     "categories": {
-      "high": 2,
+      "high": 3,
       "medium": 2,
       "low": 3
     },
     "grouped_labels": {
-      "To Do": 6,
+      "To Do": 7,
       "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
@@ -331,26 +334,26 @@
     ]
   },
   "St-Sp": {
-    "count": 7,
+    "count": 8,
     "labels": {
+      "2S": 2,
       "1S": 1,
-      "2S": 1,
       "2M": 1,
       "3M": 3,
       "Beta": 1
     },
     "issues_by_project": {
-      "ro": 2,
+      "ro": 3,
       "su": 3,
       "th": 2
     },
     "categories": {
       "high": 2,
       "medium": 4,
-      "low": 1
+      "low": 2
     },
     "grouped_labels": {
-      "To Do": 5,
+      "To Do": 6,
       "In progress": 2
     },
     "overdues": [
