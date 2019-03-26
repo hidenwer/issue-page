@@ -244,9 +244,9 @@
     ]
   },
   "Ol-Co": {
-    "count": 10,
+    "count": 9,
     "labels": {
-      "2S": 4,
+      "2S": 3,
       "2M": 3,
       "1M": 1,
       "3L": 2
@@ -254,16 +254,16 @@
     "issues_by_project": {
       "gl": 2,
       "ro": 1,
-      "su": 5,
+      "su": 4,
       "th": 2
     },
     "categories": {
       "high": 1,
       "medium": 3,
-      "low": 6
+      "low": 5
     },
     "grouped_labels": {
-      "In progress": 3,
+      "In progress": 2,
       "WAITING FOR FEEDBACK": 4,
       "To Do": 2
     },
