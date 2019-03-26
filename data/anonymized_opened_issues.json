@@ -313,8 +313,7 @@
       "2S": 4,
       "2M": 3,
       "1S": 1,
-      "1": 1,
-      "Beta": 1
+      "Beta": 2
     },
     "issues_by_project": {
       "ro": 1,
@@ -327,9 +326,9 @@
       "low": 4
     },
     "grouped_labels": {
-      "To Do": 6,
+      "To Do": 5,
       "In progress": 1,
-      "WAITING FOR FEEDBACK": 3
+      "WAITING FOR FEEDBACK": 4
     },
     "overdues": [
 
