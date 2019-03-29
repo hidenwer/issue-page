@@ -142,7 +142,7 @@
       "To Do": 1
     },
     "overdues": [
-      3016
+
     ],
     "no_due_dates": [
 
@@ -221,23 +221,23 @@
     ]
   },
   "Ma-Ma": {
-    "count": 6,
+    "count": 5,
     "labels": {
-      "2S": 3,
+      "2S": 2,
       "2M": 2,
       "2L": 1
     },
     "issues_by_project": {
       "ro": 1,
-      "su": 5
+      "su": 4
     },
     "categories": {
       "high": 0,
       "medium": 3,
-      "low": 3
+      "low": 2
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 3,
+      "WAITING FOR FEEDBACK": 2,
       "In progress": 2,
       "To Do": 1
     },
