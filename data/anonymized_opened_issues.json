@@ -1,14 +1,15 @@
 {
   "Ed-Ma": {
-    "count": 6,
+    "count": 7,
     "labels": {
+      "": 1,
       "2S": 2,
       "1S": 1,
       "2M": 1,
       "1L": 2
     },
     "issues_by_project": {
-      "gl": 1,
+      "gl": 2,
       "st": 2,
       "su": 3
     },
@@ -26,6 +27,7 @@
 
     ],
     "no_due_dates": [
+      524,
       332,
       460
     ]
