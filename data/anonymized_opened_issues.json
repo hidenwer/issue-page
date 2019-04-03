@@ -310,8 +310,9 @@
     ]
   },
   "Dm-Lu": {
-    "count": 6,
+    "count": 7,
     "labels": {
+      "3S": 1,
       "2S": 1,
       "1S": 1,
       "Beta": 2,
@@ -319,16 +320,17 @@
       "3M": 1
     },
     "issues_by_project": {
+      "ro": 1,
       "su": 5,
       "th": 1
     },
     "categories": {
       "high": 3,
       "medium": 2,
-      "low": 1
+      "low": 2
     },
     "grouped_labels": {
-      "To Do": 4,
+      "To Do": 5,
       "WAITING FOR FEEDBACK": 1,
       "In progress": 1
     },
