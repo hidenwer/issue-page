@@ -164,8 +164,8 @@
       "low": 8
     },
     "grouped_labels": {
-      "To Do": 6,
-      "WAITING FOR FEEDBACK": 5,
+      "To Do": 7,
+      "WAITING FOR FEEDBACK": 4,
       "In progress": 2
     },
     "overdues": [
@@ -251,9 +251,8 @@
   "Ol-Co": {
     "count": 9,
     "labels": {
-      "1S": 1,
+      "2M": 2,
       "2S": 6,
-      "2M": 1,
       "1M": 1
     },
     "issues_by_project": {
@@ -262,8 +261,8 @@
       "th": 2
     },
     "categories": {
-      "high": 2,
-      "medium": 1,
+      "high": 1,
+      "medium": 2,
       "low": 6
     },
     "grouped_labels": {
