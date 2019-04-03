@@ -95,7 +95,7 @@
     "count": 6,
     "labels": {
       "2S": 4,
-      "2": 1,
+      "Beta": 1,
       "1M": 1
     },
     "issues_by_project": {
@@ -103,13 +103,13 @@
       "su": 5
     },
     "categories": {
-      "high": 1,
+      "high": 2,
       "medium": 0,
       "low": 4
     },
     "grouped_labels": {
-      "To Do": 3,
-      "WAITING FOR FEEDBACK": 2
+      "To Do": 2,
+      "WAITING FOR FEEDBACK": 3
     },
     "overdues": [
       3054,
