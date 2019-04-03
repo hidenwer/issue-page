@@ -148,18 +148,19 @@
     ]
   },
   "st-nd": {
-    "count": 11,
+    "count": 12,
     "labels": {
       "2S": 7,
+      "1L": 1,
       "2M": 4
     },
     "issues_by_project": {
       "ro": 1,
       "su": 8,
-      "th": 2
+      "th": 3
     },
     "categories": {
-      "high": 0,
+      "high": 1,
       "medium": 4,
       "low": 7
     },
@@ -172,6 +173,8 @@
 
     ],
     "no_due_dates": [
+      285,
+      263,
       252
     ]
   },
