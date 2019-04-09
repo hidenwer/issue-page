@@ -87,14 +87,16 @@
     ]
   },
   "da-ls": {
-    "count": 8,
+    "count": 9,
     "labels": {
+      "": 1,
       "2S": 6,
       "Beta": 1,
       "1M": 1
     },
     "issues_by_project": {
       "ro": 1,
+      "st": 1,
       "su": 7
     },
     "categories": {
@@ -111,7 +113,7 @@
 
     ],
     "no_due_dates": [
-
+      344
     ]
   },
   "An-Ma-Se": {
