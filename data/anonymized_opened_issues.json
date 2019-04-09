@@ -75,9 +75,9 @@
       "low": 3
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 3,
-      "To Do": 3,
-      "In progress": 1
+      "WAITING FOR FEEDBACK": 4,
+      "In progress": 1,
+      "To Do": 2
     },
     "overdues": [
 
@@ -132,9 +132,9 @@
       "low": 4
     },
     "grouped_labels": {
-      "To Do": 2,
-      "WAITING FOR FEEDBACK": 4,
-      "In progress": 2
+      "WAITING FOR FEEDBACK": 5,
+      "In progress": 2,
+      "To Do": 1
     },
     "overdues": [
 
@@ -267,7 +267,8 @@
       "low": 7
     },
     "grouped_labels": {
-      "To Do": 6,
+      "To Do": 5,
+      "In progress": 1,
       "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
@@ -328,9 +329,9 @@
       "low": 7
     },
     "grouped_labels": {
-      "To Do": 5,
-      "WAITING FOR FEEDBACK": 1,
-      "In progress": 3
+      "To Do": 4,
+      "WAITING FOR FEEDBACK": 3,
+      "In progress": 2
     },
     "overdues": [
       3304,
@@ -341,24 +342,24 @@
     ]
   },
   "St-Sp": {
-    "count": 4,
+    "count": 5,
     "labels": {
-      "2S": 2,
+      "2S": 3,
       "1M": 1,
       "2M": 1
     },
     "issues_by_project": {
-      "su": 2,
+      "su": 3,
       "th": 2
     },
     "categories": {
       "high": 1,
       "medium": 1,
-      "low": 2
+      "low": 3
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 2,
-      "To Do": 2
+      "To Do": 3,
+      "WAITING FOR FEEDBACK": 2
     },
     "overdues": [
       3097
