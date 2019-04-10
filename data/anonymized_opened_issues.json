@@ -80,7 +80,7 @@
       "To Do": 2
     },
     "overdues": [
-
+      3096
     ],
     "no_due_dates": [
 
@@ -251,24 +251,24 @@
     ]
   },
   "Ol-Co": {
-    "count": 9,
+    "count": 8,
     "labels": {
-      "2S": 7,
+      "2S": 6,
       "2M": 1,
       "1M": 1
     },
     "issues_by_project": {
-      "su": 7,
+      "su": 6,
       "th": 2
     },
     "categories": {
       "high": 1,
       "medium": 1,
-      "low": 7
+      "low": 6
     },
     "grouped_labels": {
       "To Do": 3,
-      "WAITING FOR FEEDBACK": 4
+      "WAITING FOR FEEDBACK": 3
     },
     "overdues": [
       264
@@ -333,6 +333,7 @@
       "In progress": 2
     },
     "overdues": [
+      3308,
       3304,
       255
     ],
