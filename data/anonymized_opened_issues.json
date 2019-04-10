@@ -116,13 +116,14 @@
     ]
   },
   "An-Ma-Se": {
-    "count": 7,
+    "count": 8,
     "labels": {
+      "": 1,
       "2S": 3,
       "2M": 4
     },
     "issues_by_project": {
-      "su": 5,
+      "su": 6,
       "th": 2
     },
     "categories": {
