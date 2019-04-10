@@ -116,25 +116,26 @@
     ]
   },
   "An-Ma-Se": {
-    "count": 8,
+    "count": 9,
     "labels": {
+      "2S": 4,
       "": 1,
-      "2S": 3,
       "2M": 4
     },
     "issues_by_project": {
+      "ro": 1,
       "su": 6,
       "th": 2
     },
     "categories": {
       "high": 0,
       "medium": 4,
-      "low": 3
+      "low": 4
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 6,
-      "In progress": 1,
-      "To Do": 1
+      "To Do": 1,
+      "WAITING FOR FEEDBACK": 7,
+      "In progress": 1
     },
     "overdues": [
 
@@ -144,29 +145,28 @@
     ]
   },
   "st-nd": {
-    "count": 11,
+    "count": 10,
     "labels": {
-      "2S": 7,
+      "2S": 6,
       "2M": 3,
       "1L": 1
     },
     "issues_by_project": {
-      "ro": 1,
       "su": 7,
       "th": 3
     },
     "categories": {
       "high": 1,
       "medium": 3,
-      "low": 7
+      "low": 6
     },
     "grouped_labels": {
       "To Do": 5,
-      "In progress": 2,
+      "In progress": 1,
       "WAITING FOR FEEDBACK": 3
     },
     "overdues": [
-      3312
+
     ],
     "no_due_dates": [
       285,
@@ -297,9 +297,9 @@
       "low": 6
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 2,
+      "WAITING FOR FEEDBACK": 3,
       "To Do": 2,
-      "In progress": 3
+      "In progress": 2
     },
     "overdues": [
       254,
@@ -312,29 +312,28 @@
     ]
   },
   "Dm-Lu": {
-    "count": 9,
+    "count": 8,
     "labels": {
-      "2S": 7,
+      "2S": 6,
       "2M": 2
     },
     "issues_by_project": {
-      "ro": 2,
+      "ro": 1,
       "su": 6,
       "th": 1
     },
     "categories": {
       "high": 0,
       "medium": 2,
-      "low": 7
+      "low": 6
     },
     "grouped_labels": {
       "To Do": 5,
       "WAITING FOR FEEDBACK": 2,
-      "In progress": 2
+      "In progress": 1
     },
     "overdues": [
       3308,
-      3304,
       255
     ],
     "no_due_dates": [
@@ -342,23 +341,24 @@
     ]
   },
   "St-Sp": {
-    "count": 6,
+    "count": 7,
     "labels": {
-      "2S": 4,
+      "2S": 5,
       "1M": 1,
       "2M": 1
     },
     "issues_by_project": {
+      "ro": 1,
       "su": 4,
       "th": 2
     },
     "categories": {
       "high": 1,
       "medium": 1,
-      "low": 4
+      "low": 5
     },
     "grouped_labels": {
-      "To Do": 4,
+      "To Do": 5,
       "WAITING FOR FEEDBACK": 2
     },
     "overdues": [
