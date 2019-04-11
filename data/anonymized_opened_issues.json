@@ -149,24 +149,25 @@
     ]
   },
   "st-nd": {
-    "count": 7,
+    "count": 8,
     "labels": {
+      "3S": 1,
       "2S": 3,
       "1M": 1,
       "1L": 1,
       "2M": 2
     },
     "issues_by_project": {
-      "su": 4,
+      "su": 5,
       "th": 3
     },
     "categories": {
       "high": 2,
       "medium": 2,
-      "low": 3
+      "low": 4
     },
     "grouped_labels": {
-      "To Do": 3,
+      "To Do": 4,
       "WAITING FOR FEEDBACK": 2,
       "In progress": 1
     },
@@ -174,6 +175,7 @@
 
     ],
     "no_due_dates": [
+      3163,
       285,
       263,
       252
