@@ -2,8 +2,8 @@
   "Ed-Ma": {
     "count": 10,
     "labels": {
-      "2S": 6,
-      "1S": 2,
+      "2S": 5,
+      "1S": 3,
       "3M": 1,
       "1L": 1
     },
@@ -13,9 +13,9 @@
       "su": 6
     },
     "categories": {
-      "high": 3,
+      "high": 4,
       "medium": 1,
-      "low": 6
+      "low": 5
     },
     "grouped_labels": {
       "To Do": 8,
