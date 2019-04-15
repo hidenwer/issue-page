@@ -343,24 +343,24 @@
     ]
   },
   "St-Sp": {
-    "count": 7,
+    "count": 8,
     "labels": {
+      "2S": 4,
       "2M": 2,
-      "1S": 2,
-      "2S": 3
+      "1S": 2
     },
     "issues_by_project": {
       "ro": 2,
-      "su": 3,
+      "su": 4,
       "th": 2
     },
     "categories": {
       "high": 2,
       "medium": 2,
-      "low": 3
+      "low": 4
     },
     "grouped_labels": {
-      "To Do": 6
+      "To Do": 7
     },
     "overdues": [
 
