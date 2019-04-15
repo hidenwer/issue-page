@@ -208,7 +208,6 @@
       258,
       256,
       249,
-      240,
       233
     ],
     "no_due_dates": [
@@ -245,8 +244,8 @@
       "low": 5
     },
     "grouped_labels": {
-      "To Do": 3,
-      "WAITING FOR FEEDBACK": 4
+      "To Do": 4,
+      "WAITING FOR FEEDBACK": 3
     },
     "overdues": [
 
