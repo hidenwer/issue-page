@@ -1,9 +1,9 @@
 {
   "Ed-Ma": {
-    "count": 13,
+    "count": 12,
     "labels": {
       "3M": 3,
-      "2S": 5,
+      "2S": 4,
       "1S": 3,
       "1M": 1,
       "1L": 1
@@ -11,17 +11,17 @@
     "issues_by_project": {
       "gl": 4,
       "st": 1,
-      "su": 6,
+      "su": 5,
       "th": 2
     },
     "categories": {
       "high": 5,
       "medium": 3,
-      "low": 5
+      "low": 4
     },
     "grouped_labels": {
       "To Do": 6,
-      "In progress": 4
+      "In progress": 3
     },
     "overdues": [
 
