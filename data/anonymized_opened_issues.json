@@ -119,11 +119,11 @@
   "An-Ma-Se": {
     "count": 12,
     "labels": {
-      "2S": 4,
+      "2S": 3,
       "1S": 1,
       "3S": 1,
-      "Beta": 1,
-      "2M": 5
+      "2M": 6,
+      "Beta": 1
     },
     "issues_by_project": {
       "gl": 1,
@@ -133,8 +133,8 @@
     },
     "categories": {
       "high": 2,
-      "medium": 5,
-      "low": 5
+      "medium": 6,
+      "low": 4
     },
     "grouped_labels": {
       "In progress": 8,
@@ -142,7 +142,6 @@
       "WAITING FOR FEEDBACK": 2
     },
     "overdues": [
-      3161,
       3155,
       3120
     ],
