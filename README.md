@@ -1,2 +1,3 @@
-# https://github.com/hidenwer/issue-page
+# https://hidenwer.github.io/issue-page/
+
 
