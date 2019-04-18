@@ -12,7 +12,7 @@
 
     const randomColor = () => `#${Math.floor(Math.random() * 0xffffff).toString(16)}`
 
-    $.getJSON("https://github.com/hidenwer/issue-page/data/anonymized_opened_issues.json", function(json) {
+    $.getJSON("https://hidenwer.github.io/issue-page/data/anonymized_opened_issues.json", function(json) {
       data = Object.keys(json).map(name => {
         const dev = json[name]
         dev.name = name
