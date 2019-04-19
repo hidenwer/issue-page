@@ -91,11 +91,10 @@
     "count": 9,
     "labels": {
       "2S": 3,
-      "1": 1,
+      "1M": 2,
       "": 1,
       "2M": 2,
-      "Beta": 1,
-      "1M": 1
+      "Beta": 1
     },
     "issues_by_project": {
       "ro": 2,
@@ -110,7 +109,7 @@
     },
     "grouped_labels": {
       "To Do": 4,
-      "In progress": 2,
+      "In progress": 3,
       "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
