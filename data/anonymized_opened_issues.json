@@ -151,8 +151,7 @@
     "count": 9,
     "labels": {
       "2S": 3,
-      "2": 1,
-      "2M": 2,
+      "2M": 3,
       "3S": 1,
       "1L": 1,
       "1M": 1
@@ -164,7 +163,7 @@
     },
     "categories": {
       "high": 2,
-      "medium": 2,
+      "medium": 3,
       "low": 4
     },
     "grouped_labels": {
