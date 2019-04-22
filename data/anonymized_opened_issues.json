@@ -86,10 +86,10 @@
   "da-ls": {
     "count": 9,
     "labels": {
-      "2S": 3,
+      "2S": 2,
       "1M": 2,
       "": 1,
-      "2M": 2,
+      "2M": 3,
       "Beta": 1
     },
     "issues_by_project": {
@@ -100,12 +100,13 @@
     },
     "categories": {
       "high": 3,
-      "medium": 2,
-      "low": 3
+      "medium": 3,
+      "low": 2
     },
     "grouped_labels": {
-      "To Do": 5,
-      "In progress": 3
+      "To Do": 4,
+      "In progress": 3,
+      "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
       3325,
