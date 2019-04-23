@@ -1,9 +1,9 @@
 {
   "Ed-Ma": {
-    "count": 10,
+    "count": 11,
     "labels": {
+      "2S": 4,
       "2M": 2,
-      "2S": 3,
       "3M": 3,
       "1M": 1,
       "1L": 1
@@ -11,16 +11,16 @@
     "issues_by_project": {
       "gl": 4,
       "ro": 1,
-      "su": 3,
+      "su": 4,
       "th": 2
     },
     "categories": {
       "high": 2,
       "medium": 5,
-      "low": 3
+      "low": 4
     },
     "grouped_labels": {
-      "To Do": 8,
+      "To Do": 9,
       "In progress": 1
     },
     "overdues": [
@@ -139,8 +139,8 @@
     },
     "grouped_labels": {
       "To Do": 3,
-      "In progress": 3,
-      "WAITING FOR FEEDBACK": 4
+      "WAITING FOR FEEDBACK": 5,
+      "In progress": 2
     },
     "overdues": [
 
