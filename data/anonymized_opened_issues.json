@@ -294,9 +294,9 @@
     ]
   },
   "Al-Me": {
-    "count": 9,
+    "count": 10,
     "labels": {
-      "2S": 3,
+      "2S": 4,
       "2M": 3,
       "1M": 1,
       "2L": 1,
@@ -306,16 +306,16 @@
       "gl": 1,
       "ro": 1,
       "st": 1,
-      "su": 4,
+      "su": 5,
       "th": 2
     },
     "categories": {
       "high": 1,
       "medium": 4,
-      "low": 4
+      "low": 5
     },
     "grouped_labels": {
-      "To Do": 5,
+      "To Do": 6,
       "In progress": 2,
       "WAITING FOR FEEDBACK": 2
     },
