@@ -228,9 +228,9 @@
     ]
   },
   "Ma-Ma": {
-    "count": 12,
+    "count": 13,
     "labels": {
-      "2S": 5,
+      "2S": 6,
       "Beta": 1,
       "1M": 2,
       "2M": 2,
@@ -240,18 +240,18 @@
     "issues_by_project": {
       "ro": 2,
       "st": 2,
-      "su": 7,
+      "su": 8,
       "th": 1
     },
     "categories": {
       "high": 3,
       "medium": 3,
-      "low": 6
+      "low": 7
     },
     "grouped_labels": {
       "To Do": 8,
-      "In progress": 1,
-      "WAITING FOR FEEDBACK": 3
+      "WAITING FOR FEEDBACK": 4,
+      "In progress": 1
     },
     "overdues": [
 
