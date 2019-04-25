@@ -87,10 +87,10 @@
   "da-ls": {
     "count": 9,
     "labels": {
-      "2S": 2,
+      "2M": 4,
       "1M": 2,
+      "2S": 1,
       "": 1,
-      "2M": 3,
       "Beta": 1
     },
     "issues_by_project": {
@@ -101,8 +101,8 @@
     },
     "categories": {
       "high": 3,
-      "medium": 3,
-      "low": 2
+      "medium": 4,
+      "low": 1
     },
     "grouped_labels": {
       "To Do": 4,
