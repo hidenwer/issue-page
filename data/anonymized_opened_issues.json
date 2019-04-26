@@ -2,9 +2,9 @@
   "Ed-Ma": {
     "count": 10,
     "labels": {
-      "2M": 3,
-      "2S": 2,
+      "2M": 4,
       "3M": 3,
+      "2S": 1,
       "1M": 1,
       "1L": 1
     },
@@ -16,8 +16,8 @@
     },
     "categories": {
       "high": 2,
-      "medium": 6,
-      "low": 2
+      "medium": 7,
+      "low": 1
     },
     "grouped_labels": {
       "To Do": 7,
@@ -284,8 +284,8 @@
   "Al-Me": {
     "count": 6,
     "labels": {
-      "2S": 2,
-      "2M": 1,
+      "2S": 1,
+      "2M": 2,
       "1M": 1,
       "2L": 1,
       "3L": 1
@@ -298,8 +298,8 @@
     },
     "categories": {
       "high": 1,
-      "medium": 2,
-      "low": 3
+      "medium": 3,
+      "low": 2
     },
     "grouped_labels": {
       "To Do": 4,
