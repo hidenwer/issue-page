@@ -134,8 +134,8 @@
     },
     "grouped_labels": {
       "In progress": 3,
-      "To Do": 2,
-      "WAITING FOR FEEDBACK": 3
+      "To Do": 3,
+      "WAITING FOR FEEDBACK": 2
     },
     "overdues": [
 
@@ -147,7 +147,8 @@
   "st-nd": {
     "count": 9,
     "labels": {
-      "2S": 2,
+      "2S": 1,
+      "1S": 1,
       "2M": 5,
       "3S": 1,
       "1M": 1
@@ -158,9 +159,9 @@
       "th": 3
     },
     "categories": {
-      "high": 1,
+      "high": 2,
       "medium": 5,
-      "low": 3
+      "low": 2
     },
     "grouped_labels": {
       "To Do": 6,
