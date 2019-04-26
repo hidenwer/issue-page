@@ -177,9 +177,9 @@
     ]
   },
   "Al-Hi": {
-    "count": 31,
+    "count": 32,
     "labels": {
-      "1": 5,
+      "1": 6,
       "1S": 3,
       "1M": 10,
       "2L": 2,
@@ -192,10 +192,10 @@
     },
     "issues_by_project": {
       "gl": 2,
-      "th": 29
+      "th": 30
     },
     "categories": {
-      "high": 19,
+      "high": 20,
       "medium": 8,
       "low": 3
     },
