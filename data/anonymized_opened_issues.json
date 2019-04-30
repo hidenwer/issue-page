@@ -32,22 +32,23 @@
     ]
   },
   "co-ci": {
-    "count": 3,
+    "count": 4,
     "labels": {
       "2S": 2,
+      "2M": 1,
       "3L": 1
     },
     "issues_by_project": {
-      "su": 3
+      "su": 4
     },
     "categories": {
       "high": 0,
-      "medium": 0,
+      "medium": 1,
       "low": 3
     },
     "grouped_labels": {
       "To Do": 2,
-      "In progress": 1
+      "In progress": 2
     },
     "overdues": [
 
@@ -289,10 +290,10 @@
     ]
   },
   "Al-Me": {
-    "count": 8,
+    "count": 7,
     "labels": {
       "2S": 3,
-      "2M": 2,
+      "2M": 1,
       "1M": 1,
       "2L": 1,
       "3L": 1
@@ -300,17 +301,17 @@
     "issues_by_project": {
       "gl": 1,
       "st": 1,
-      "su": 4,
+      "su": 3,
       "th": 2
     },
     "categories": {
       "high": 1,
-      "medium": 3,
+      "medium": 2,
       "low": 4
     },
     "grouped_labels": {
       "To Do": 6,
-      "In progress": 2
+      "In progress": 1
     },
     "overdues": [
       262
