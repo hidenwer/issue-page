@@ -126,8 +126,8 @@
     "count": 11,
     "labels": {
       "1S": 2,
-      "2S": 6,
-      "2M": 3
+      "2S": 5,
+      "2M": 4
     },
     "issues_by_project": {
       "gl": 1,
@@ -136,8 +136,8 @@
     },
     "categories": {
       "high": 2,
-      "medium": 3,
-      "low": 6
+      "medium": 4,
+      "low": 5
     },
     "grouped_labels": {
       "To Do": 4,
