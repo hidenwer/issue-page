@@ -79,9 +79,9 @@
       "low": 5
     },
     "grouped_labels": {
-      "To Do": 10,
+      "To Do": 9,
       "In progress": 2,
-      "WAITING FOR FEEDBACK": 1
+      "WAITING FOR FEEDBACK": 2
     },
     "overdues": [
 
@@ -94,8 +94,7 @@
     "count": 10,
     "labels": {
       "": 1,
-      "2S": 1,
-      "2M": 4,
+      "2M": 5,
       "1M": 3,
       "Beta": 1
     },
@@ -107,8 +106,8 @@
     },
     "categories": {
       "high": 4,
-      "medium": 4,
-      "low": 1
+      "medium": 5,
+      "low": 0
     },
     "grouped_labels": {
       "To Do": 3,
