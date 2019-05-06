@@ -106,13 +106,12 @@
       "low": 0
     },
     "grouped_labels": {
-      "To Do": 3,
-      "In progress": 5
+      "To Do": 4,
+      "In progress": 3,
+      "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
       344,
-      3121,
-      3010,
       3277
     ],
     "no_due_dates": [
