@@ -273,7 +273,8 @@
   "Ol-Co": {
     "count": 7,
     "labels": {
-      "2S": 3,
+      "1S": 1,
+      "2S": 2,
       "2M": 1,
       "1M": 3
     },
@@ -282,13 +283,14 @@
       "th": 3
     },
     "categories": {
-      "high": 3,
+      "high": 4,
       "medium": 1,
-      "low": 3
+      "low": 2
     },
     "grouped_labels": {
-      "To Do": 3,
-      "WAITING FOR FEEDBACK": 3
+      "To Do": 2,
+      "In progress": 3,
+      "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
 
@@ -349,16 +351,15 @@
       "low": 5
     },
     "grouped_labels": {
-      "To Do": 3,
+      "To Do": 4,
       "In progress": 3,
-      "WAITING FOR FEEDBACK": 3
+      "WAITING FOR FEEDBACK": 2
     },
     "overdues": [
-      3069,
-      255
+      3069
     ],
     "no_due_dates": [
-
+      255
     ]
   },
   "St-Sp": {
