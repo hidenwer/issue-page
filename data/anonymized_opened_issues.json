@@ -1,25 +1,26 @@
 {
   "Ed-Ma": {
-    "count": 7,
+    "count": 8,
     "labels": {
+      "2S": 2,
       "2M": 1,
       "3M": 3,
-      "2S": 1,
       "1M": 1,
       "1L": 1
     },
     "issues_by_project": {
       "gl": 4,
       "ro": 1,
+      "su": 1,
       "th": 2
     },
     "categories": {
       "high": 2,
       "medium": 4,
-      "low": 1
+      "low": 2
     },
     "grouped_labels": {
-      "To Do": 5,
+      "To Do": 6,
       "In progress": 2
     },
     "overdues": [
@@ -362,8 +363,8 @@
   "St-Sp": {
     "count": 9,
     "labels": {
-      "2S": 5,
-      "Beta": 1,
+      "2S": 4,
+      "Beta": 2,
       "2M": 2,
       "1M": 1
     },
@@ -372,17 +373,17 @@
       "th": 2
     },
     "categories": {
-      "high": 2,
+      "high": 3,
       "medium": 2,
-      "low": 5
+      "low": 4
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 1,
-      "To Do": 5,
-      "In progress": 3
+      "WAITING FOR FEEDBACK": 2,
+      "In progress": 3,
+      "To Do": 4
     },
     "overdues": [
-      3306
+
     ],
     "no_due_dates": [
 
