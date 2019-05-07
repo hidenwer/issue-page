@@ -90,7 +90,7 @@
   "da-ls": {
     "count": 9,
     "labels": {
-      "": 1,
+      "1": 1,
       "2M": 4,
       "1M": 3,
       "2L": 1
@@ -102,12 +102,12 @@
       "th": 1
     },
     "categories": {
-      "high": 3,
+      "high": 4,
       "medium": 5,
       "low": 0
     },
     "grouped_labels": {
-      "To Do": 4,
+      "To Do": 5,
       "In progress": 3,
       "WAITING FOR FEEDBACK": 1
     },
@@ -116,7 +116,7 @@
       3277
     ],
     "no_due_dates": [
-      3349
+
     ]
   },
   "An-Ma-Se": {
