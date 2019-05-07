@@ -271,8 +271,7 @@
   "Ol-Co": {
     "count": 9,
     "labels": {
-      "2S": 3,
-      "1S": 1,
+      "2S": 4,
       "2M": 2,
       "1M": 3
     },
@@ -281,13 +280,13 @@
       "th": 3
     },
     "categories": {
-      "high": 4,
+      "high": 3,
       "medium": 2,
-      "low": 3
+      "low": 4
     },
     "grouped_labels": {
-      "To Do": 3,
-      "WAITING FOR FEEDBACK": 4,
+      "To Do": 4,
+      "WAITING FOR FEEDBACK": 3,
       "In progress": 1
     },
     "overdues": [
