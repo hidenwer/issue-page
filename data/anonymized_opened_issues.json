@@ -327,21 +327,19 @@
     ]
   },
   "Dm-Lu": {
-    "count": 9,
+    "count": 8,
     "labels": {
-      "1S": 1,
       "2S": 3,
       "2M": 2,
       "2L": 2,
       "1M": 1
     },
     "issues_by_project": {
-      "ro": 1,
       "su": 7,
       "th": 1
     },
     "categories": {
-      "high": 2,
+      "high": 1,
       "medium": 4,
       "low": 3
     },
