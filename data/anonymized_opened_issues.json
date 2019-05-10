@@ -366,25 +366,25 @@
     ]
   },
   "St-Sp": {
-    "count": 8,
+    "count": 9,
     "labels": {
+      "2S": 3,
       "Beta": 2,
-      "2S": 2,
       "1S": 1,
       "2M": 2,
       "1M": 1
     },
     "issues_by_project": {
-      "su": 6,
+      "su": 7,
       "th": 2
     },
     "categories": {
       "high": 4,
       "medium": 2,
-      "low": 2
+      "low": 3
     },
     "grouped_labels": {
-      "To Do": 4,
+      "To Do": 5,
       "In progress": 4
     },
     "overdues": [
