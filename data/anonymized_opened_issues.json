@@ -88,27 +88,27 @@
     ]
   },
   "da-ls": {
-    "count": 9,
+    "count": 8,
     "labels": {
       "2S": 1,
       "1S": 1,
       "1M": 4,
-      "2M": 2,
+      "2M": 1,
       "2L": 1
     },
     "issues_by_project": {
       "ro": 3,
       "st": 1,
-      "su": 4,
+      "su": 3,
       "th": 1
     },
     "categories": {
       "high": 5,
-      "medium": 3,
+      "medium": 2,
       "low": 1
     },
     "grouped_labels": {
-      "To Do": 7,
+      "To Do": 6,
       "In progress": 2
     },
     "overdues": [
