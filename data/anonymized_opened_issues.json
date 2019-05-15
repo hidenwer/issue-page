@@ -250,8 +250,8 @@
     },
     "grouped_labels": {
       "In progress": 4,
-      "To Do": 2,
-      "WAITING FOR FEEDBACK": 2
+      "WAITING FOR FEEDBACK": 3,
+      "To Do": 1
     },
     "overdues": [
 
@@ -286,7 +286,6 @@
 
     ],
     "no_due_dates": [
-      340,
       264
     ]
   },
@@ -381,7 +380,7 @@
 
     ]
   },
-  "Eu-Mo": {
+  "Da-Ni": {
     "count": 1,
     "labels": {
       "2S": 1
