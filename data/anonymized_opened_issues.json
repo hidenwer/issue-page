@@ -2,8 +2,7 @@
   "Ed-Ma": {
     "count": 11,
     "labels": {
-      "1M": 1,
-      "1S": 1,
+      "1M": 2,
       "2S": 2,
       "2M": 3,
       "3M": 3,
@@ -21,8 +20,8 @@
       "low": 2
     },
     "grouped_labels": {
+      "To Do": 7,
       "WAITING FOR FEEDBACK": 2,
-      "To Do": 5,
       "In progress": 2
     },
     "overdues": [
@@ -388,19 +387,20 @@
     ]
   },
   "Da-Ni": {
-    "count": 1,
+    "count": 2,
     "labels": {
-      "2S": 1
+      "2S": 2
     },
     "issues_by_project": {
-      "su": 1
+      "su": 2
     },
     "categories": {
       "high": 0,
       "medium": 0,
-      "low": 1
+      "low": 2
     },
     "grouped_labels": {
+      "To Do": 1,
       "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
