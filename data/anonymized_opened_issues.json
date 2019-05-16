@@ -37,8 +37,8 @@
     "count": 10,
     "labels": {
       "1S": 1,
-      "2S": 3,
-      "2M": 5,
+      "2M": 6,
+      "2S": 2,
       "2L": 1
     },
     "issues_by_project": {
@@ -46,8 +46,8 @@
     },
     "categories": {
       "high": 1,
-      "medium": 6,
-      "low": 3
+      "medium": 7,
+      "low": 2
     },
     "grouped_labels": {
       "In progress": 8,
