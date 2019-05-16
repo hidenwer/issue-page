@@ -94,7 +94,7 @@
   "da-ls": {
     "count": 6,
     "labels": {
-      "2S": 1,
+      "1S": 1,
       "2M": 1,
       "1M": 3,
       "BetaL": 1
@@ -106,9 +106,9 @@
       "th": 1
     },
     "categories": {
-      "high": 4,
+      "high": 5,
       "medium": 1,
-      "low": 1
+      "low": 0
     },
     "grouped_labels": {
       "To Do": 4,
@@ -352,25 +352,25 @@
     ]
   },
   "St-Sp": {
-    "count": 8,
+    "count": 7,
     "labels": {
       "2S": 1,
-      "Beta": 2,
       "1S": 1,
       "2M": 3,
+      "Beta": 1,
       "1M": 1
     },
     "issues_by_project": {
-      "su": 6,
+      "su": 5,
       "th": 2
     },
     "categories": {
-      "high": 4,
+      "high": 3,
       "medium": 3,
       "low": 1
     },
     "grouped_labels": {
-      "To Do": 5,
+      "To Do": 4,
       "In progress": 2,
       "WAITING FOR FEEDBACK": 1
     },
@@ -405,20 +405,21 @@
     ]
   },
   "Da-Ni": {
-    "count": 2,
+    "count": 3,
     "labels": {
-      "2S": 2
+      "2S": 2,
+      "Beta": 1
     },
     "issues_by_project": {
-      "su": 2
+      "su": 3
     },
     "categories": {
-      "high": 0,
+      "high": 1,
       "medium": 0,
       "low": 2
     },
     "grouped_labels": {
-      "To Do": 1,
+      "To Do": 2,
       "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
