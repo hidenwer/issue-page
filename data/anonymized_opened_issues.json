@@ -132,9 +132,8 @@
     "count": 11,
     "labels": {
       "2S": 7,
-      "2": 1,
-      "3S": 1,
-      "2M": 2
+      "2M": 3,
+      "3S": 1
     },
     "issues_by_project": {
       "ro": 1,
@@ -143,11 +142,11 @@
     },
     "categories": {
       "high": 0,
-      "medium": 2,
+      "medium": 3,
       "low": 8
     },
     "grouped_labels": {
-      "To Do": 5,
+      "To Do": 6,
       "WAITING FOR FEEDBACK": 4,
       "In progress": 1
     },
@@ -155,7 +154,7 @@
 
     ],
     "no_due_dates": [
-      350
+
     ]
   },
   "st-nd": {
