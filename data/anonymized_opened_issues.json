@@ -56,7 +56,7 @@
       "In progress": 6
     },
     "overdues": [
-      3324
+
     ],
     "no_due_dates": [
 
@@ -142,8 +142,8 @@
     },
     "grouped_labels": {
       "To Do": 2,
-      "In progress": 4,
-      "WAITING FOR FEEDBACK": 3
+      "In progress": 5,
+      "WAITING FOR FEEDBACK": 2
     },
     "overdues": [
 
@@ -325,26 +325,25 @@
     ]
   },
   "Dm-Lu": {
-    "count": 5,
+    "count": 4,
     "labels": {
       "2S": 1,
-      "2M": 1,
       "2L": 2,
       "1M": 1
     },
     "issues_by_project": {
-      "su": 4,
+      "su": 3,
       "th": 1
     },
     "categories": {
       "high": 1,
-      "medium": 3,
+      "medium": 2,
       "low": 1
     },
     "grouped_labels": {
       "In progress": 1,
-      "WAITING FOR FEEDBACK": 2,
-      "To Do": 2
+      "To Do": 2,
+      "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
 
