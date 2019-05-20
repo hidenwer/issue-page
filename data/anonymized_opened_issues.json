@@ -267,19 +267,21 @@
     ]
   },
   "Ol-Co": {
-    "count": 7,
+    "count": 8,
     "labels": {
+      "1M": 1,
       "2S": 4,
       "1S": 1,
       "Beta": 1,
       "2M": 1
     },
     "issues_by_project": {
+      "ro": 1,
       "su": 5,
       "th": 2
     },
     "categories": {
-      "high": 2,
+      "high": 3,
       "medium": 1,
       "low": 4
     },
