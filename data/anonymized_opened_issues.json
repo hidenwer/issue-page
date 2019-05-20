@@ -131,7 +131,7 @@
       "2S": 6,
       "2M": 3,
       "3S": 1,
-      "1": 1
+      "1M": 1
     },
     "issues_by_project": {
       "ro": 2,
@@ -145,8 +145,8 @@
     },
     "grouped_labels": {
       "In progress": 4,
-      "WAITING FOR FEEDBACK": 5,
-      "To Do": 3
+      "WAITING FOR FEEDBACK": 6,
+      "To Do": 2
     },
     "overdues": [
 
