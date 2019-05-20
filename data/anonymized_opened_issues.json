@@ -141,9 +141,9 @@
       "low": 8
     },
     "grouped_labels": {
-      "To Do": 4,
-      "In progress": 3,
-      "WAITING FOR FEEDBACK": 4
+      "WAITING FOR FEEDBACK": 5,
+      "To Do": 3,
+      "In progress": 3
     },
     "overdues": [
 
@@ -162,7 +162,8 @@
       "1M": 4
     },
     "issues_by_project": {
-      "su": 9,
+      "fe": 2,
+      "su": 7,
       "th": 5
     },
     "categories": {
