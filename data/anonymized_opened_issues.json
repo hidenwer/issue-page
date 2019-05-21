@@ -82,8 +82,8 @@
       "low": 3
     },
     "grouped_labels": {
-      "To Do": 7,
-      "WAITING FOR FEEDBACK": 1,
+      "WAITING FOR FEEDBACK": 2,
+      "To Do": 6,
       "In progress": 1
     },
     "overdues": [
@@ -174,8 +174,8 @@
       "low": 6
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 4,
-      "To Do": 6,
+      "WAITING FOR FEEDBACK": 5,
+      "To Do": 5,
       "In progress": 2
     },
     "overdues": [
@@ -415,8 +415,7 @@
   "Da-Ni": {
     "count": 4,
     "labels": {
-      "": 2,
-      "2S": 1,
+      "2S": 3,
       "Beta": 1
     },
     "issues_by_project": {
@@ -425,11 +424,11 @@
     "categories": {
       "high": 1,
       "medium": 0,
-      "low": 1
+      "low": 3
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 1,
-      "To Do": 1
+      "To Do": 3,
+      "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
 
