@@ -293,8 +293,9 @@
     ]
   },
   "Al-Me": {
-    "count": 8,
+    "count": 9,
     "labels": {
+      "Beta": 1,
       "2S": 3,
       "2M": 3,
       "2L": 1,
@@ -303,16 +304,16 @@
     "issues_by_project": {
       "gl": 1,
       "st": 1,
-      "su": 4,
+      "su": 5,
       "th": 2
     },
     "categories": {
-      "high": 0,
+      "high": 1,
       "medium": 4,
       "low": 4
     },
     "grouped_labels": {
-      "To Do": 6,
+      "To Do": 7,
       "In progress": 2
     },
     "overdues": [
