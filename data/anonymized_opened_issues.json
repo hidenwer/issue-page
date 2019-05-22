@@ -95,9 +95,8 @@
   "da-ls": {
     "count": 6,
     "labels": {
-      "1S": 1,
+      "1M": 4,
       "2M": 1,
-      "1M": 3,
       "BetaL": 1
     },
     "issues_by_project": {
@@ -267,9 +266,9 @@
     "count": 7,
     "labels": {
       "1M": 1,
-      "2S": 4,
+      "2S": 3,
       "Beta": 1,
-      "2M": 1
+      "2M": 2
     },
     "issues_by_project": {
       "ro": 1,
@@ -278,8 +277,8 @@
     },
     "categories": {
       "high": 2,
-      "medium": 1,
-      "low": 4
+      "medium": 2,
+      "low": 3
     },
     "grouped_labels": {
       "WAITING FOR FEEDBACK": 5,
