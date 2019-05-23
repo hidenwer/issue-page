@@ -305,9 +305,10 @@
   "Al-Me": {
     "count": 10,
     "labels": {
-      "2S": 4,
+      "2S": 3,
       "Beta": 1,
       "2M": 3,
+      "1S": 1,
       "2L": 1,
       "3L": 1
     },
@@ -318,9 +319,9 @@
       "th": 2
     },
     "categories": {
-      "high": 1,
+      "high": 2,
       "medium": 4,
-      "low": 5
+      "low": 4
     },
     "grouped_labels": {
       "To Do": 7,
