@@ -191,10 +191,10 @@
     ]
   },
   "Al-Hi": {
-    "count": 26,
+    "count": 27,
     "labels": {
+      "": 2,
       "1M": 6,
-      "": 1,
       "2M": 4,
       "1S": 1,
       "2S": 1,
@@ -206,7 +206,7 @@
     },
     "issues_by_project": {
       "gl": 2,
-      "th": 24
+      "th": 25
     },
     "categories": {
       "high": 13,
@@ -225,6 +225,7 @@
       410
     ],
     "no_due_dates": [
+      364,
       358,
       296,
       286,
@@ -277,25 +278,25 @@
     ]
   },
   "Ol-Co": {
-    "count": 9,
+    "count": 10,
     "labels": {
-      "2S": 5,
+      "2S": 6,
       "1M": 1,
       "Beta": 1,
       "2M": 2
     },
     "issues_by_project": {
       "ro": 1,
-      "su": 6,
+      "su": 7,
       "th": 2
     },
     "categories": {
       "high": 2,
       "medium": 2,
-      "low": 5
+      "low": 6
     },
     "grouped_labels": {
-      "To Do": 2,
+      "To Do": 3,
       "WAITING FOR FEEDBACK": 6
     },
     "overdues": [
@@ -436,8 +437,8 @@
       "low": 6
     },
     "grouped_labels": {
-      "To Do": 5,
-      "WAITING FOR FEEDBACK": 2
+      "To Do": 6,
+      "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
 
