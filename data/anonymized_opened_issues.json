@@ -1,25 +1,25 @@
 {
   "Ed-Ma": {
-    "count": 8,
+    "count": 9,
     "labels": {
       "1M": 2,
-      "2M": 1,
+      "2M": 2,
       "3M": 3,
       "2S": 1,
       "1L": 1
     },
     "issues_by_project": {
-      "gl": 4,
+      "gl": 5,
       "ro": 1,
       "th": 3
     },
     "categories": {
       "high": 3,
-      "medium": 4,
+      "medium": 5,
       "low": 1
     },
     "grouped_labels": {
-      "To Do": 6,
+      "To Do": 7,
       "In progress": 2
     },
     "overdues": [
@@ -366,24 +366,23 @@
     ]
   },
   "St-Sp": {
-    "count": 7,
+    "count": 6,
     "labels": {
       "2S": 3,
-      "2M": 3,
+      "2M": 2,
       "1M": 1
     },
     "issues_by_project": {
-      "gl": 1,
       "su": 4,
       "th": 2
     },
     "categories": {
       "high": 1,
-      "medium": 3,
+      "medium": 2,
       "low": 3
     },
     "grouped_labels": {
-      "To Do": 6,
+      "To Do": 5,
       "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
@@ -421,21 +420,21 @@
     ]
   },
   "Da-Ni": {
-    "count": 6,
+    "count": 7,
     "labels": {
-      "2S": 5,
+      "2S": 6,
       "Beta": 1
     },
     "issues_by_project": {
-      "su": 6
+      "su": 7
     },
     "categories": {
       "high": 1,
       "medium": 0,
-      "low": 5
+      "low": 6
     },
     "grouped_labels": {
-      "To Do": 6
+      "To Do": 7
     },
     "overdues": [
 
