@@ -159,23 +159,23 @@
     ]
   },
   "st-nd": {
-    "count": 13,
+    "count": 14,
     "labels": {
       "2S": 6,
       "1S": 1,
+      "2M": 2,
       "Beta": 1,
-      "2M": 1,
       "1M": 4
     },
     "issues_by_project": {
       "fe": 1,
       "gl": 1,
       "su": 7,
-      "th": 4
+      "th": 5
     },
     "categories": {
       "high": 6,
-      "medium": 1,
+      "medium": 2,
       "low": 6
     },
     "grouped_labels": {
