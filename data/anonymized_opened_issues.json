@@ -65,32 +65,32 @@
     ]
   },
   "Se-Vo": {
-    "count": 9,
+    "count": 8,
     "labels": {
       "1S": 1,
       "2S": 2,
       "2M": 2,
-      "1M": 3,
+      "1M": 2,
       "3L": 1
     },
     "issues_by_project": {
       "gl": 1,
       "ro": 1,
-      "su": 5,
+      "su": 4,
       "th": 2
     },
     "categories": {
-      "high": 4,
+      "high": 3,
       "medium": 2,
       "low": 3
     },
     "grouped_labels": {
-      "To Do": 7,
+      "To Do": 6,
       "In progress": 1,
       "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
-      3094
+
     ],
     "no_due_dates": [
 
@@ -183,9 +183,9 @@
       "low": 1
     },
     "grouped_labels": {
-      "To Do": 5,
+      "To Do": 4,
       "WAITING FOR FEEDBACK": 2,
-      "In progress": 2
+      "In progress": 3
     },
     "overdues": [
 
@@ -363,9 +363,9 @@
       "low": 4
     },
     "grouped_labels": {
-      "To Do": 5,
+      "To Do": 4,
       "In progress": 2,
-      "WAITING FOR FEEDBACK": 1
+      "WAITING FOR FEEDBACK": 2
     },
     "overdues": [
 
