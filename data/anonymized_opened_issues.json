@@ -371,25 +371,25 @@
     ]
   },
   "St-Sp": {
-    "count": 7,
+    "count": 8,
     "labels": {
+      "2S": 4,
       "1S": 1,
-      "2S": 3,
       "2M": 2,
       "1M": 1
     },
     "issues_by_project": {
       "ro": 1,
-      "su": 4,
+      "su": 5,
       "th": 2
     },
     "categories": {
       "high": 2,
       "medium": 2,
-      "low": 3
+      "low": 4
     },
     "grouped_labels": {
-      "To Do": 5,
+      "To Do": 6,
       "In progress": 1,
       "WAITING FOR FEEDBACK": 1
     },
