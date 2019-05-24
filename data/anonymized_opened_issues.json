@@ -133,7 +133,7 @@
       "2S": 2,
       "1M": 2,
       "2M": 3,
-      "3S": 1
+      "3M": 1
     },
     "issues_by_project": {
       "gl": 1,
@@ -143,8 +143,8 @@
     },
     "categories": {
       "high": 3,
-      "medium": 3,
-      "low": 3
+      "medium": 4,
+      "low": 2
     },
     "grouped_labels": {
       "To Do": 2,
