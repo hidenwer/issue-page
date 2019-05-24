@@ -1,7 +1,8 @@
 {
   "Ed-Ma": {
-    "count": 9,
+    "count": 10,
     "labels": {
+      "1S": 1,
       "1M": 2,
       "2M": 2,
       "3M": 3,
@@ -10,11 +11,11 @@
     },
     "issues_by_project": {
       "gl": 5,
-      "ro": 1,
+      "ro": 2,
       "th": 3
     },
     "categories": {
-      "high": 3,
+      "high": 4,
       "medium": 5,
       "low": 1
     },
@@ -32,9 +33,9 @@
     ]
   },
   "co-ci": {
-    "count": 9,
+    "count": 10,
     "labels": {
-      "1S": 1,
+      "1S": 2,
       "1M": 1,
       "2S": 4,
       "3S": 1,
@@ -43,11 +44,11 @@
     },
     "issues_by_project": {
       "gl": 1,
-      "ro": 2,
+      "ro": 3,
       "su": 6
     },
     "categories": {
-      "high": 2,
+      "high": 3,
       "medium": 2,
       "low": 5
     },
@@ -65,8 +66,9 @@
     ]
   },
   "Se-Vo": {
-    "count": 9,
+    "count": 10,
     "labels": {
+      "1S": 1,
       "2S": 3,
       "2M": 2,
       "1M": 3,
@@ -74,17 +76,18 @@
     },
     "issues_by_project": {
       "gl": 1,
+      "ro": 1,
       "su": 6,
       "th": 2
     },
     "categories": {
-      "high": 3,
+      "high": 4,
       "medium": 2,
       "low": 4
     },
     "grouped_labels": {
-      "To Do": 5,
-      "WAITING FOR FEEDBACK": 4
+      "WAITING FOR FEEDBACK": 5,
+      "To Do": 4
     },
     "overdues": [
       3307,
@@ -96,20 +99,21 @@
     ]
   },
   "da-ls": {
-    "count": 6,
+    "count": 7,
     "labels": {
+      "1S": 1,
       "1M": 4,
       "2M": 1,
       "BetaL": 1
     },
     "issues_by_project": {
-      "ro": 1,
+      "ro": 2,
       "st": 1,
       "su": 3,
       "th": 1
     },
     "categories": {
-      "high": 5,
+      "high": 6,
       "medium": 1,
       "low": 0
     },
@@ -129,8 +133,9 @@
     ]
   },
   "An-Ma-Se": {
-    "count": 10,
+    "count": 11,
     "labels": {
+      "1S": 1,
       "2S": 4,
       "1M": 2,
       "2M": 3,
@@ -138,12 +143,12 @@
     },
     "issues_by_project": {
       "gl": 1,
-      "ro": 1,
+      "ro": 2,
       "su": 4,
       "th": 4
     },
     "categories": {
-      "high": 2,
+      "high": 3,
       "medium": 3,
       "low": 5
     },
@@ -163,25 +168,26 @@
   "st-nd": {
     "count": 12,
     "labels": {
-      "1S": 1,
-      "2S": 4,
+      "1S": 2,
       "2M": 2,
+      "2S": 3,
       "Beta": 1,
       "1M": 4
     },
     "issues_by_project": {
       "gl": 1,
-      "su": 6,
+      "ro": 1,
+      "su": 5,
       "th": 5
     },
     "categories": {
-      "high": 6,
+      "high": 7,
       "medium": 2,
-      "low": 4
+      "low": 3
     },
     "grouped_labels": {
       "To Do": 4,
-      "WAITING FOR FEEDBACK": 6,
+      "WAITING FOR FEEDBACK": 5,
       "In progress": 2
     },
     "overdues": [
@@ -244,8 +250,9 @@
     ]
   },
   "Ma-Ma": {
-    "count": 13,
+    "count": 14,
     "labels": {
+      "1S": 1,
       "2S": 5,
       "2M": 3,
       "1M": 3,
@@ -253,13 +260,13 @@
       "3L": 1
     },
     "issues_by_project": {
-      "ro": 1,
+      "ro": 2,
       "st": 2,
       "su": 6,
       "th": 4
     },
     "categories": {
-      "high": 3,
+      "high": 4,
       "medium": 4,
       "low": 6
     },
@@ -279,18 +286,20 @@
     ]
   },
   "Ol-Co": {
-    "count": 6,
+    "count": 7,
     "labels": {
+      "1S": 1,
       "2S": 3,
       "Beta": 1,
       "2M": 2
     },
     "issues_by_project": {
+      "ro": 1,
       "su": 4,
       "th": 2
     },
     "categories": {
-      "high": 1,
+      "high": 2,
       "medium": 2,
       "low": 3
     },
@@ -307,8 +316,9 @@
     ]
   },
   "Al-Me": {
-    "count": 10,
+    "count": 11,
     "labels": {
+      "1S": 1,
       "2S": 3,
       "Beta": 1,
       "2M": 3,
@@ -318,12 +328,13 @@
     },
     "issues_by_project": {
       "gl": 1,
+      "ro": 1,
       "st": 1,
       "su": 5,
       "th": 3
     },
     "categories": {
-      "high": 2,
+      "high": 3,
       "medium": 4,
       "low": 4
     },
@@ -339,20 +350,22 @@
     ]
   },
   "Dm-Lu": {
-    "count": 7,
+    "count": 8,
     "labels": {
+      "1S": 1,
       "2S": 4,
       "2M": 1,
       "2L": 1,
       "1M": 1
     },
     "issues_by_project": {
+      "ro": 1,
       "st": 1,
       "su": 5,
       "th": 1
     },
     "categories": {
-      "high": 1,
+      "high": 2,
       "medium": 2,
       "low": 4
     },
@@ -369,18 +382,20 @@
     ]
   },
   "St-Sp": {
-    "count": 6,
+    "count": 7,
     "labels": {
+      "1S": 1,
       "2S": 3,
       "2M": 2,
       "1M": 1
     },
     "issues_by_project": {
+      "ro": 1,
       "su": 4,
       "th": 2
     },
     "categories": {
-      "high": 1,
+      "high": 2,
       "medium": 2,
       "low": 3
     },
@@ -396,18 +411,19 @@
     ]
   },
   "Eu-Mo": {
-    "count": 6,
+    "count": 7,
     "labels": {
-      "1S": 1,
+      "1S": 2,
       "2S": 3,
       "3S": 1,
       "Beta": 1
     },
     "issues_by_project": {
+      "ro": 1,
       "su": 6
     },
     "categories": {
-      "high": 2,
+      "high": 3,
       "medium": 0,
       "low": 4
     },
@@ -424,16 +440,18 @@
     ]
   },
   "Da-Ni": {
-    "count": 4,
+    "count": 5,
     "labels": {
+      "1S": 1,
       "2S": 3,
       "Beta": 1
     },
     "issues_by_project": {
+      "ro": 1,
       "su": 4
     },
     "categories": {
-      "high": 1,
+      "high": 2,
       "medium": 0,
       "low": 3
     },
