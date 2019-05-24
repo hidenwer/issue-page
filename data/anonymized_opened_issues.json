@@ -51,12 +51,12 @@
       "low": 5
     },
     "grouped_labels": {
-      "To Do": 3,
-      "In progress": 3,
-      "WAITING FOR FEEDBACK": 2
+      "To Do": 2,
+      "In progress": 5,
+      "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
-      3388
+
     ],
     "no_due_dates": [
 
