@@ -117,8 +117,8 @@
     },
     "grouped_labels": {
       "To Do": 3,
-      "WAITING FOR FEEDBACK": 2,
-      "In progress": 2
+      "In progress": 3,
+      "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
       3196,
@@ -163,28 +163,28 @@
     ]
   },
   "st-nd": {
-    "count": 10,
+    "count": 9,
     "labels": {
       "1S": 2,
       "2M": 1,
-      "2S": 2,
+      "2S": 1,
       "Beta": 1,
       "1M": 4
     },
     "issues_by_project": {
       "gl": 1,
       "ro": 1,
-      "su": 3,
+      "su": 2,
       "th": 5
     },
     "categories": {
       "high": 7,
       "medium": 1,
-      "low": 2
+      "low": 1
     },
     "grouped_labels": {
       "To Do": 5,
-      "WAITING FOR FEEDBACK": 3,
+      "WAITING FOR FEEDBACK": 2,
       "In progress": 2
     },
     "overdues": [
@@ -282,26 +282,26 @@
     ]
   },
   "Ol-Co": {
-    "count": 7,
+    "count": 6,
     "labels": {
       "1S": 1,
-      "2S": 3,
+      "2S": 2,
       "Beta": 1,
       "2M": 2
     },
     "issues_by_project": {
       "ro": 1,
-      "su": 4,
+      "su": 3,
       "th": 2
     },
     "categories": {
       "high": 2,
       "medium": 2,
-      "low": 3
+      "low": 2
     },
     "grouped_labels": {
-      "To Do": 5,
-      "In progress": 1,
+      "To Do": 3,
+      "In progress": 2,
       "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
@@ -314,28 +314,26 @@
   "Al-Me": {
     "count": 10,
     "labels": {
+      "2S": 3,
       "1S": 1,
-      "2S": 2,
       "Beta": 1,
       "2M": 4,
-      "1L": 1,
       "3L": 1
     },
     "issues_by_project": {
-      "gl": 1,
       "ro": 1,
       "st": 1,
-      "su": 4,
+      "su": 5,
       "th": 3
     },
     "categories": {
-      "high": 3,
+      "high": 2,
       "medium": 4,
-      "low": 3
+      "low": 4
     },
     "grouped_labels": {
-      "To Do": 7,
-      "In progress": 3
+      "In progress": 3,
+      "To Do": 7
     },
     "overdues": [
 
@@ -409,8 +407,9 @@
     "count": 7,
     "labels": {
       "1S": 2,
-      "2S": 3,
+      "2S": 2,
       "3S": 1,
+      "2M": 1,
       "Beta": 1
     },
     "issues_by_project": {
@@ -419,8 +418,8 @@
     },
     "categories": {
       "high": 3,
-      "medium": 0,
-      "low": 4
+      "medium": 1,
+      "low": 3
     },
     "grouped_labels": {
       "To Do": 5,
