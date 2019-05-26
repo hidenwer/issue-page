@@ -339,10 +339,10 @@
     ]
   },
   "Dm-Lu": {
-    "count": 7,
+    "count": 8,
     "labels": {
+      "2S": 4,
       "1S": 1,
-      "2S": 3,
       "2M": 1,
       "2L": 1,
       "1M": 1
@@ -350,16 +350,16 @@
     "issues_by_project": {
       "ro": 1,
       "st": 1,
-      "su": 4,
+      "su": 5,
       "th": 1
     },
     "categories": {
       "high": 2,
       "medium": 2,
-      "low": 3
+      "low": 4
     },
     "grouped_labels": {
-      "To Do": 4,
+      "To Do": 5,
       "WAITING FOR FEEDBACK": 2,
       "In progress": 1
     },
