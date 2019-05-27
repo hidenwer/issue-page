@@ -243,9 +243,8 @@
   "Ma-Ma": {
     "count": 11,
     "labels": {
-      "2": 1,
+      "2M": 2,
       "2S": 3,
-      "2M": 1,
       "1M": 3,
       "2L": 2,
       "3L": 1
@@ -258,13 +257,12 @@
     },
     "categories": {
       "high": 3,
-      "medium": 3,
+      "medium": 4,
       "low": 4
     },
     "grouped_labels": {
-      "In progress": 1,
-      "WAITING FOR FEEDBACK": 8,
-      "To Do": 1
+      "To Do": 2,
+      "WAITING FOR FEEDBACK": 7
     },
     "overdues": [
 
