@@ -63,27 +63,27 @@
     ]
   },
   "Se-Vo": {
-    "count": 9,
+    "count": 10,
     "labels": {
+      "2S": 2,
       "1S": 2,
       "2M": 3,
       "1M": 2,
-      "2S": 1,
       "3L": 1
     },
     "issues_by_project": {
       "gl": 1,
       "ro": 2,
-      "su": 4,
+      "su": 5,
       "th": 2
     },
     "categories": {
       "high": 4,
       "medium": 3,
-      "low": 2
+      "low": 3
     },
     "grouped_labels": {
-      "To Do": 5,
+      "To Do": 6,
       "In progress": 2,
       "WAITING FOR FEEDBACK": 1
     },
@@ -432,8 +432,8 @@
   "Da-Ni": {
     "count": 5,
     "labels": {
-      "2S": 3,
-      "1S": 1,
+      "2S": 2,
+      "1S": 2,
       "Beta": 1
     },
     "issues_by_project": {
@@ -441,9 +441,9 @@
       "su": 4
     },
     "categories": {
-      "high": 2,
+      "high": 3,
       "medium": 0,
-      "low": 3
+      "low": 2
     },
     "grouped_labels": {
       "To Do": 5
