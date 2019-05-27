@@ -130,10 +130,10 @@
   "An-Ma-Se": {
     "count": 10,
     "labels": {
-      "2S": 3,
+      "2M": 4,
       "1S": 1,
+      "2S": 2,
       "1M": 2,
-      "2M": 3,
       "3M": 1
     },
     "issues_by_project": {
@@ -144,13 +144,13 @@
     },
     "categories": {
       "high": 3,
-      "medium": 4,
-      "low": 3
+      "medium": 5,
+      "low": 2
     },
     "grouped_labels": {
-      "To Do": 3,
-      "WAITING FOR FEEDBACK": 4,
-      "In progress": 3
+      "In progress": 4,
+      "To Do": 2,
+      "WAITING FOR FEEDBACK": 4
     },
     "overdues": [
 
@@ -389,9 +389,9 @@
       "low": 4
     },
     "grouped_labels": {
-      "To Do": 6,
-      "In progress": 1,
-      "WAITING FOR FEEDBACK": 1
+      "To Do": 5,
+      "WAITING FOR FEEDBACK": 2,
+      "In progress": 1
     },
     "overdues": [
       3192
