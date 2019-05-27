@@ -128,10 +128,10 @@
     ]
   },
   "An-Ma-Se": {
-    "count": 9,
+    "count": 10,
     "labels": {
+      "2S": 3,
       "1S": 1,
-      "2S": 2,
       "1M": 2,
       "2M": 3,
       "3M": 1
@@ -139,16 +139,16 @@
     "issues_by_project": {
       "gl": 1,
       "ro": 2,
-      "su": 2,
+      "su": 3,
       "th": 4
     },
     "categories": {
       "high": 3,
       "medium": 4,
-      "low": 2
+      "low": 3
     },
     "grouped_labels": {
-      "To Do": 2,
+      "To Do": 3,
       "WAITING FOR FEEDBACK": 4,
       "In progress": 3
     },
