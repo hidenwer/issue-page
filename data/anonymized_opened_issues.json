@@ -1,25 +1,25 @@
 {
   "Ed-Ma": {
-    "count": 8,
+    "count": 7,
     "labels": {
       "1M": 2,
-      "2M": 2,
+      "2M": 1,
       "2S": 1,
       "3M": 2,
       "1L": 1
     },
     "issues_by_project": {
-      "gl": 4,
+      "gl": 3,
       "ro": 1,
       "th": 3
     },
     "categories": {
       "high": 3,
-      "medium": 4,
+      "medium": 3,
       "low": 1
     },
     "grouped_labels": {
-      "To Do": 6,
+      "To Do": 5,
       "In progress": 1,
       "WAITING FOR FEEDBACK": 1
     },
