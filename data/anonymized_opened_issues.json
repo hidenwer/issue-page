@@ -431,23 +431,23 @@
     ]
   },
   "Da-Ni": {
-    "count": 5,
+    "count": 6,
     "labels": {
+      "2S": 3,
       "Beta": 2,
-      "2S": 2,
       "1S": 1
     },
     "issues_by_project": {
       "ro": 1,
-      "su": 4
+      "su": 5
     },
     "categories": {
       "high": 3,
       "medium": 0,
-      "low": 2
+      "low": 3
     },
     "grouped_labels": {
-      "To Do": 5
+      "To Do": 6
     },
     "overdues": [
 
