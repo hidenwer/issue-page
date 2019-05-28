@@ -51,9 +51,9 @@
       "low": 4
     },
     "grouped_labels": {
-      "To Do": 1,
+      "To Do": 2,
       "In progress": 4,
-      "WAITING FOR FEEDBACK": 3
+      "WAITING FOR FEEDBACK": 2
     },
     "overdues": [
       3395,
@@ -254,8 +254,8 @@
     "issues_by_project": {
       "ro": 1,
       "st": 2,
-      "su": 4,
-      "th": 6
+      "su": 3,
+      "th": 7
     },
     "categories": {
       "high": 4,
