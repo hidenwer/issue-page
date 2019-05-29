@@ -140,9 +140,9 @@
       "low": 2
     },
     "grouped_labels": {
-      "To Do": 3,
+      "To Do": 2,
       "WAITING FOR FEEDBACK": 4,
-      "In progress": 3
+      "In progress": 4
     },
     "overdues": [
 
@@ -152,26 +152,25 @@
     ]
   },
   "st-nd": {
-    "count": 13,
+    "count": 12,
     "labels": {
-      "2S": 6,
+      "2S": 5,
       "2M": 3,
       "Beta": 1,
       "1M": 3
     },
     "issues_by_project": {
-      "fe": 1,
       "su": 7,
       "th": 5
     },
     "categories": {
       "high": 4,
       "medium": 3,
-      "low": 6
+      "low": 5
     },
     "grouped_labels": {
-      "To Do": 3,
-      "WAITING FOR FEEDBACK": 5,
+      "To Do": 1,
+      "WAITING FOR FEEDBACK": 6,
       "In progress": 3
     },
     "overdues": [
