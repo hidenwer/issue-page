@@ -34,9 +34,9 @@
     "count": 8,
     "labels": {
       "1S": 1,
-      "2S": 3,
+      "2S": 2,
       "3S": 1,
-      "2M": 2,
+      "2M": 3,
       "2L": 1
     },
     "issues_by_project": {
@@ -45,16 +45,15 @@
     },
     "categories": {
       "high": 1,
-      "medium": 3,
-      "low": 4
+      "medium": 4,
+      "low": 3
     },
     "grouped_labels": {
-      "To Do": 2,
+      "To Do": 3,
       "In progress": 4,
-      "WAITING FOR FEEDBACK": 2
+      "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
-      3388,
       3375
     ],
     "no_due_dates": [
