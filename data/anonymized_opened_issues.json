@@ -32,10 +32,10 @@
   "co-ci": {
     "count": 10,
     "labels": {
-      "2S": 4,
+      "2S": 3,
       "1S": 1,
+      "2M": 4,
       "3S": 1,
-      "2M": 3,
       "2L": 1
     },
     "issues_by_project": {
@@ -44,8 +44,8 @@
     },
     "categories": {
       "high": 1,
-      "medium": 4,
-      "low": 5
+      "medium": 5,
+      "low": 4
     },
     "grouped_labels": {
       "To Do": 5,
@@ -123,8 +123,8 @@
   "An-Ma-Se": {
     "count": 10,
     "labels": {
-      "2S": 3,
-      "2M": 4,
+      "2S": 2,
+      "2M": 5,
       "1M": 2,
       "3M": 1
     },
@@ -136,8 +136,8 @@
     },
     "categories": {
       "high": 2,
-      "medium": 5,
-      "low": 3
+      "medium": 6,
+      "low": 2
     },
     "grouped_labels": {
       "To Do": 2,
@@ -364,10 +364,10 @@
   "St-Sp": {
     "count": 9,
     "labels": {
-      "2S": 5,
+      "2S": 4,
       "1S": 1,
-      "1M": 2,
-      "2M": 1
+      "2M": 2,
+      "1M": 2
     },
     "issues_by_project": {
       "ro": 1,
@@ -376,8 +376,8 @@
     },
     "categories": {
       "high": 3,
-      "medium": 1,
-      "low": 5
+      "medium": 2,
+      "low": 4
     },
     "grouped_labels": {
       "To Do": 6,
