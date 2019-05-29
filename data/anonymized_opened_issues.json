@@ -121,9 +121,9 @@
     ]
   },
   "An-Ma-Se": {
-    "count": 9,
+    "count": 10,
     "labels": {
-      "2S": 2,
+      "2S": 3,
       "2M": 4,
       "1M": 2,
       "3M": 1
@@ -131,18 +131,18 @@
     "issues_by_project": {
       "gl": 1,
       "ro": 1,
-      "su": 3,
+      "su": 4,
       "th": 4
     },
     "categories": {
       "high": 2,
       "medium": 5,
-      "low": 2
+      "low": 3
     },
     "grouped_labels": {
+      "To Do": 2,
       "WAITING FOR FEEDBACK": 5,
-      "In progress": 3,
-      "To Do": 1
+      "In progress": 3
     },
     "overdues": [
 
@@ -152,24 +152,25 @@
     ]
   },
   "st-nd": {
-    "count": 12,
+    "count": 13,
     "labels": {
-      "2S": 5,
+      "2S": 6,
       "2M": 3,
       "Beta": 1,
       "1M": 3
     },
     "issues_by_project": {
+      "fe": 1,
       "su": 7,
       "th": 5
     },
     "categories": {
       "high": 4,
       "medium": 3,
-      "low": 5
+      "low": 6
     },
     "grouped_labels": {
-      "To Do": 2,
+      "To Do": 3,
       "WAITING FOR FEEDBACK": 5,
       "In progress": 3
     },
@@ -253,9 +254,9 @@
       "low": 6
     },
     "grouped_labels": {
-      "To Do": 4,
+      "To Do": 5,
       "In progress": 2,
-      "WAITING FOR FEEDBACK": 6
+      "WAITING FOR FEEDBACK": 5
     },
     "overdues": [
 
@@ -287,8 +288,8 @@
       "low": 7
     },
     "grouped_labels": {
-      "To Do": 8,
-      "WAITING FOR FEEDBACK": 3
+      "To Do": 9,
+      "WAITING FOR FEEDBACK": 2
     },
     "overdues": [
 
@@ -330,9 +331,9 @@
     ]
   },
   "Dm-Lu": {
-    "count": 7,
+    "count": 6,
     "labels": {
-      "2S": 3,
+      "2S": 2,
       "1S": 1,
       "2M": 1,
       "2L": 1,
@@ -340,21 +341,21 @@
     },
     "issues_by_project": {
       "ro": 1,
-      "su": 5,
+      "su": 4,
       "th": 1
     },
     "categories": {
       "high": 2,
       "medium": 2,
-      "low": 3
+      "low": 2
     },
     "grouped_labels": {
-      "To Do": 5,
+      "To Do": 4,
       "In progress": 1,
       "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
-      3419
+
     ],
     "no_due_dates": [
       255
