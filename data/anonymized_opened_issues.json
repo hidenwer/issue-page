@@ -312,15 +312,15 @@
       "low": 4
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 2,
-      "In progress": 2,
-      "To Do": 5
+      "In progress": 4,
+      "To Do": 3,
+      "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
 
     ],
     "no_due_dates": [
-
+      352
     ]
   },
   "Dm-Lu": {
@@ -368,9 +368,9 @@
       "low": 3
     },
     "grouped_labels": {
-      "To Do": 3,
+      "To Do": 4,
       "In progress": 1,
-      "WAITING FOR FEEDBACK": 2
+      "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
       3397
@@ -380,21 +380,21 @@
     ]
   },
   "Eu-Mo": {
-    "count": 5,
+    "count": 4,
     "labels": {
-      "2S": 3,
+      "2S": 2,
       "Beta": 2
     },
     "issues_by_project": {
-      "su": 5
+      "su": 4
     },
     "categories": {
       "high": 2,
       "medium": 0,
-      "low": 3
+      "low": 2
     },
     "grouped_labels": {
-      "To Do": 4,
+      "To Do": 3,
       "In progress": 1
     },
     "overdues": [
@@ -430,20 +430,22 @@
     ]
   },
   "Io-Mo": {
-    "count": 1,
+    "count": 2,
     "labels": {
+      "2S": 1,
       "1S": 1
     },
     "issues_by_project": {
-      "ro": 1
+      "ro": 1,
+      "su": 1
     },
     "categories": {
       "high": 1,
       "medium": 0,
-      "low": 0
+      "low": 1
     },
     "grouped_labels": {
-      "To Do": 1
+      "To Do": 2
     },
     "overdues": [
 
