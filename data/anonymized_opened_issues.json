@@ -48,7 +48,7 @@
       "In progress": 2
     },
     "overdues": [
-      3354
+
     ],
     "no_due_dates": [
 
@@ -74,13 +74,12 @@
       "low": 5
     },
     "grouped_labels": {
-      "To Do": 4,
-      "In progress": 5,
+      "To Do": 3,
+      "In progress": 6,
       "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
-      303,
-      293
+
     ],
     "no_due_dates": [
 
@@ -119,54 +118,53 @@
     ]
   },
   "An-Ma-Se": {
-    "count": 10,
+    "count": 9,
     "labels": {
-      "2S": 4,
+      "2S": 3,
       "2M": 4,
       "1M": 2
     },
     "issues_by_project": {
       "gl": 1,
-      "su": 5,
+      "su": 4,
       "th": 4
     },
     "categories": {
       "high": 2,
       "medium": 4,
-      "low": 4
+      "low": 3
     },
     "grouped_labels": {
       "WAITING FOR FEEDBACK": 6,
-      "In progress": 2,
+      "In progress": 1,
       "To Do": 2
     },
     "overdues": [
-      183,
-      49
+      183
     ],
     "no_due_dates": [
-
+      49
     ]
   },
   "st-nd": {
-    "count": 10,
+    "count": 9,
     "labels": {
       "2S": 2,
-      "2M": 5,
+      "2M": 4,
       "Beta": 1,
       "1M": 2
     },
     "issues_by_project": {
-      "su": 6,
+      "su": 5,
       "th": 4
     },
     "categories": {
       "high": 3,
-      "medium": 5,
+      "medium": 4,
       "low": 2
     },
     "grouped_labels": {
-      "To Do": 4,
+      "To Do": 3,
       "In progress": 2,
       "WAITING FOR FEEDBACK": 2
     },
@@ -232,9 +230,9 @@
     ]
   },
   "Ma-Ma": {
-    "count": 8,
+    "count": 9,
     "labels": {
-      "2S": 1,
+      "2S": 2,
       "2M": 2,
       "1M": 3,
       "2L": 2
@@ -242,18 +240,18 @@
     "issues_by_project": {
       "ro": 1,
       "st": 1,
-      "su": 1,
+      "su": 2,
       "th": 5
     },
     "categories": {
       "high": 3,
       "medium": 4,
-      "low": 1
+      "low": 2
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 3,
-      "To Do": 2,
-      "In progress": 1
+      "To Do": 3,
+      "In progress": 2,
+      "WAITING FOR FEEDBACK": 2
     },
     "overdues": [
 
@@ -427,8 +425,8 @@
       "low": 2
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 2,
-      "To Do": 2
+      "WAITING FOR FEEDBACK": 3,
+      "To Do": 1
     },
     "overdues": [
 
