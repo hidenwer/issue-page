@@ -150,20 +150,20 @@
     ]
   },
   "st-nd": {
-    "count": 9,
+    "count": 10,
     "labels": {
       "2S": 3,
-      "2M": 3,
+      "2M": 4,
       "Beta": 1,
       "1M": 2
     },
     "issues_by_project": {
       "su": 6,
-      "th": 3
+      "th": 4
     },
     "categories": {
       "high": 3,
-      "medium": 3,
+      "medium": 4,
       "low": 3
     },
     "grouped_labels": {
@@ -267,24 +267,24 @@
     ]
   },
   "Ol-Co": {
-    "count": 10,
+    "count": 11,
     "labels": {
+      "2S": 7,
       "2M": 2,
-      "2S": 6,
       "Beta": 1,
       "1M": 1
     },
     "issues_by_project": {
-      "su": 7,
+      "su": 8,
       "th": 3
     },
     "categories": {
       "high": 2,
       "medium": 2,
-      "low": 6
+      "low": 7
     },
     "grouped_labels": {
-      "To Do": 4,
+      "To Do": 5,
       "WAITING FOR FEEDBACK": 5,
       "In progress": 1
     },
