@@ -149,21 +149,23 @@
     ]
   },
   "st-nd": {
-    "count": 8,
+    "count": 9,
     "labels": {
+      "3S": 1,
       "2S": 3,
       "2M": 3,
       "Beta": 1,
       "1M": 1
     },
     "issues_by_project": {
+      "ro": 1,
       "su": 6,
       "th": 2
     },
     "categories": {
       "high": 2,
       "medium": 3,
-      "low": 3
+      "low": 4
     },
     "grouped_labels": {
       "To Do": 3,
