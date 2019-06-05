@@ -31,17 +31,19 @@
     ]
   },
   "co-ci": {
-    "count": 8,
+    "count": 9,
     "labels": {
+      "1M": 1,
       "2S": 6,
       "2M": 1,
       "1L": 1
     },
     "issues_by_project": {
+      "gl": 1,
       "su": 8
     },
     "categories": {
-      "high": 1,
+      "high": 2,
       "medium": 1,
       "low": 6
     },
