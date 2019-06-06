@@ -2,10 +2,11 @@
   "Ed-Ma": {
     "count": 10,
     "labels": {
+      "2M": 1,
       "1S": 1,
       "2S": 4,
-      "1M": 2,
-      "3M": 3
+      "3M": 3,
+      "1M": 1
     },
     "issues_by_project": {
       "gl": 2,
@@ -14,8 +15,8 @@
       "th": 3
     },
     "categories": {
-      "high": 3,
-      "medium": 3,
+      "high": 2,
+      "medium": 4,
       "low": 4
     },
     "grouped_labels": {
@@ -25,7 +26,6 @@
 
     ],
     "no_due_dates": [
-      346,
       233
     ]
   },
@@ -181,13 +181,13 @@
     ]
   },
   "Al-Hi": {
-    "count": 24,
+    "count": 23,
     "labels": {
       "1S": 2,
       "1M": 6,
       "2M": 3,
       "2S": 1,
-      "1": 4,
+      "1": 3,
       "2L": 2,
       "1L": 2,
       "3M": 2,
@@ -195,17 +195,17 @@
     },
     "issues_by_project": {
       "gl": 2,
-      "th": 22
+      "th": 21
     },
     "categories": {
-      "high": 14,
+      "high": 13,
       "medium": 7,
       "low": 3
     },
     "grouped_labels": {
       "In progress": 1,
       "WAITING FOR FEEDBACK": 4,
-      "To Do": 10
+      "To Do": 9
     },
     "overdues": [
       334,
@@ -216,7 +216,6 @@
     "no_due_dates": [
       296,
       286,
-      281,
       265,
       249,
       231,
