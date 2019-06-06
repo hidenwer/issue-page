@@ -226,7 +226,7 @@
   "Ma-Ma": {
     "count": 13,
     "labels": {
-      "": 1,
+      "1S": 1,
       "2S": 5,
       "2M": 1,
       "1M": 4,
@@ -239,11 +239,12 @@
       "th": 5
     },
     "categories": {
-      "high": 4,
+      "high": 5,
       "medium": 3,
       "low": 5
     },
     "grouped_labels": {
+      "In progress": 1,
       "To Do": 4,
       "WAITING FOR FEEDBACK": 6
     },
@@ -251,7 +252,6 @@
 
     ],
     "no_due_dates": [
-      3390,
       346,
       294,
       3044
