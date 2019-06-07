@@ -170,8 +170,8 @@
       "low": 6
     },
     "grouped_labels": {
-      "To Do": 5,
-      "WAITING FOR FEEDBACK": 5,
+      "To Do": 4,
+      "WAITING FOR FEEDBACK": 6,
       "In progress": 2
     },
     "overdues": [
@@ -261,25 +261,25 @@
     ]
   },
   "Ol-Co": {
-    "count": 11,
+    "count": 10,
     "labels": {
-      "2S": 6,
+      "2S": 5,
       "2M": 3,
       "Beta": 1,
       "1M": 1
     },
     "issues_by_project": {
-      "su": 8,
+      "su": 7,
       "th": 3
     },
     "categories": {
       "high": 2,
       "medium": 3,
-      "low": 6
+      "low": 5
     },
     "grouped_labels": {
       "To Do": 3,
-      "WAITING FOR FEEDBACK": 7,
+      "WAITING FOR FEEDBACK": 6,
       "In progress": 1
     },
     "overdues": [
