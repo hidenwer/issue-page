@@ -231,9 +231,10 @@
   "Ma-Ma": {
     "count": 12,
     "labels": {
-      "1M": 5,
+      "1S": 1,
       "2S": 4,
       "2M": 1,
+      "1M": 4,
       "2L": 2
     },
     "issues_by_project": {
@@ -249,7 +250,7 @@
     },
     "grouped_labels": {
       "In progress": 1,
-      "WAITING FOR FEEDBACK": 7,
+      "WAITING FOR FEEDBACK": 8,
       "To Do": 2
     },
     "overdues": [
