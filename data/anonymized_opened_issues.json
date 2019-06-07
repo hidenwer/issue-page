@@ -84,33 +84,32 @@
       "In progress": 2
     },
     "overdues": [
-      3428,
-      3301
+      3428
     ],
     "no_due_dates": [
 
     ]
   },
   "da-ls": {
-    "count": 9,
+    "count": 8,
     "labels": {
-      "2S": 6,
+      "2S": 5,
       "1M": 3
     },
     "issues_by_project": {
       "ro": 1,
       "st": 1,
-      "su": 6,
+      "su": 5,
       "th": 1
     },
     "categories": {
       "high": 3,
       "medium": 0,
-      "low": 6
+      "low": 5
     },
     "grouped_labels": {
       "WAITING FOR FEEDBACK": 4,
-      "To Do": 3,
+      "To Do": 2,
       "In progress": 2
     },
     "overdues": [
@@ -122,25 +121,24 @@
     ]
   },
   "An-Ma-Se": {
-    "count": 9,
+    "count": 7,
     "labels": {
-      "2S": 5,
+      "2S": 3,
       "2M": 3,
       "1M": 1
     },
     "issues_by_project": {
-      "su": 5,
+      "su": 3,
       "th": 4
     },
     "categories": {
       "high": 1,
       "medium": 3,
-      "low": 5
+      "low": 3
     },
     "grouped_labels": {
       "To Do": 3,
-      "WAITING FOR FEEDBACK": 5,
-      "In progress": 1
+      "WAITING FOR FEEDBACK": 4
     },
     "overdues": [
       183
@@ -228,15 +226,15 @@
     ]
   },
   "Ma-Ma": {
-    "count": 9,
+    "count": 8,
     "labels": {
-      "2S": 2,
+      "2S": 1,
       "2M": 1,
       "1M": 4,
       "2L": 2
     },
     "issues_by_project": {
-      "ro": 2,
+      "ro": 1,
       "st": 1,
       "su": 1,
       "th": 5
@@ -244,11 +242,10 @@
     "categories": {
       "high": 4,
       "medium": 3,
-      "low": 2
+      "low": 1
     },
     "grouped_labels": {
       "WAITING FOR FEEDBACK": 5,
-      "In progress": 1,
       "To Do": 2
     },
     "overdues": [
