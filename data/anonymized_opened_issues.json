@@ -261,26 +261,26 @@
     ]
   },
   "Ol-Co": {
-    "count": 10,
+    "count": 11,
     "labels": {
-      "2S": 5,
+      "2S": 6,
       "2M": 3,
       "Beta": 1,
       "1M": 1
     },
     "issues_by_project": {
-      "su": 7,
+      "su": 8,
       "th": 3
     },
     "categories": {
       "high": 2,
       "medium": 3,
-      "low": 5
+      "low": 6
     },
     "grouped_labels": {
+      "To Do": 3,
       "WAITING FOR FEEDBACK": 7,
-      "In progress": 1,
-      "To Do": 2
+      "In progress": 1
     },
     "overdues": [
 
