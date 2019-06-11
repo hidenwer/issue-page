@@ -59,9 +59,8 @@
     ]
   },
   "Se-Vo": {
-    "count": 11,
+    "count": 9,
     "labels": {
-      "1S": 2,
       "2S": 1,
       "2M": 6,
       "2L": 1,
@@ -70,10 +69,10 @@
     "issues_by_project": {
       "gl": 1,
       "su": 6,
-      "th": 4
+      "th": 2
     },
     "categories": {
-      "high": 2,
+      "high": 0,
       "medium": 7,
       "low": 2
     },
