@@ -228,12 +228,11 @@
     ]
   },
   "Ma-Ma": {
-    "count": 12,
+    "count": 11,
     "labels": {
       "1S": 1,
       "3S": 1,
       "2S": 3,
-      "2M": 1,
       "1M": 4,
       "2L": 2
     },
@@ -241,15 +240,15 @@
       "ro": 1,
       "st": 2,
       "su": 3,
-      "th": 6
+      "th": 5
     },
     "categories": {
       "high": 5,
-      "medium": 3,
+      "medium": 2,
       "low": 4
     },
     "grouped_labels": {
-      "To Do": 4,
+      "To Do": 3,
       "WAITING FOR FEEDBACK": 8
     },
     "overdues": [
