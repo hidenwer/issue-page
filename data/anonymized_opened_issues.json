@@ -1,8 +1,8 @@
 {
   "Ed-Ma": {
-    "count": 9,
+    "count": 8,
     "labels": {
-      "2M": 2,
+      "2M": 1,
       "1S": 1,
       "2S": 2,
       "3M": 3,
@@ -11,16 +11,16 @@
     "issues_by_project": {
       "gl": 2,
       "ro": 1,
-      "su": 3,
+      "su": 2,
       "th": 3
     },
     "categories": {
       "high": 2,
-      "medium": 5,
+      "medium": 4,
       "low": 2
     },
     "grouped_labels": {
-      "In progress": 3,
+      "In progress": 2,
       "To Do": 4
     },
     "overdues": [
@@ -60,25 +60,25 @@
     ]
   },
   "Se-Vo": {
-    "count": 8,
+    "count": 9,
     "labels": {
       "2S": 1,
-      "2M": 5,
+      "2M": 6,
       "2L": 1,
       "3L": 1
     },
     "issues_by_project": {
       "gl": 1,
-      "su": 5,
+      "su": 6,
       "th": 2
     },
     "categories": {
       "high": 0,
-      "medium": 6,
+      "medium": 7,
       "low": 2
     },
     "grouped_labels": {
-      "In progress": 4,
+      "In progress": 5,
       "To Do": 3,
       "WAITING FOR FEEDBACK": 1
     },
