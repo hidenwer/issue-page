@@ -1,27 +1,26 @@
 {
   "Ed-Ma": {
-    "count": 8,
+    "count": 7,
     "labels": {
       "2M": 1,
-      "1S": 1,
       "2S": 2,
       "3M": 3,
       "1M": 1
     },
     "issues_by_project": {
-      "gl": 2,
+      "gl": 1,
       "ro": 1,
       "su": 2,
       "th": 3
     },
     "categories": {
-      "high": 2,
+      "high": 1,
       "medium": 4,
       "low": 2
     },
     "grouped_labels": {
-      "In progress": 2,
-      "To Do": 4
+      "To Do": 4,
+      "In progress": 1
     },
     "overdues": [
 
@@ -80,7 +79,8 @@
     },
     "grouped_labels": {
       "In progress": 4,
-      "To Do": 5
+      "To Do": 4,
+      "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
 
@@ -137,8 +137,8 @@
     },
     "grouped_labels": {
       "In progress": 1,
-      "WAITING FOR FEEDBACK": 8,
-      "To Do": 1
+      "WAITING FOR FEEDBACK": 6,
+      "To Do": 3
     },
     "overdues": [
 
@@ -170,8 +170,8 @@
     },
     "grouped_labels": {
       "To Do": 4,
-      "WAITING FOR FEEDBACK": 5,
-      "In progress": 4
+      "WAITING FOR FEEDBACK": 6,
+      "In progress": 3
     },
     "overdues": [
 
@@ -248,8 +248,8 @@
       "low": 4
     },
     "grouped_labels": {
-      "To Do": 3,
-      "WAITING FOR FEEDBACK": 8
+      "WAITING FOR FEEDBACK": 9,
+      "To Do": 2
     },
     "overdues": [
 
@@ -308,8 +308,8 @@
       "low": 2
     },
     "grouped_labels": {
-      "In progress": 3,
-      "WAITING FOR FEEDBACK": 2,
+      "WAITING FOR FEEDBACK": 3,
+      "In progress": 2,
       "To Do": 2
     },
     "overdues": [
@@ -396,8 +396,8 @@
     },
     "grouped_labels": {
       "To Do": 1,
-      "In progress": 3,
-      "WAITING FOR FEEDBACK": 1
+      "In progress": 2,
+      "WAITING FOR FEEDBACK": 2
     },
     "overdues": [
 
@@ -450,8 +450,8 @@
       "low": 5
     },
     "grouped_labels": {
-      "In progress": 3,
-      "WAITING FOR FEEDBACK": 2,
+      "In progress": 2,
+      "WAITING FOR FEEDBACK": 3,
       "To Do": 1
     },
     "overdues": [
