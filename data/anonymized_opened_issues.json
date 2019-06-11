@@ -60,8 +60,9 @@
     ]
   },
   "Se-Vo": {
-    "count": 9,
+    "count": 11,
     "labels": {
+      "1S": 2,
       "2S": 1,
       "2M": 6,
       "2L": 1,
@@ -70,10 +71,10 @@
     "issues_by_project": {
       "gl": 1,
       "su": 6,
-      "th": 2
+      "th": 4
     },
     "categories": {
-      "high": 0,
+      "high": 2,
       "medium": 7,
       "low": 2
     },
@@ -181,9 +182,9 @@
     ]
   },
   "Al-Hi": {
-    "count": 22,
+    "count": 23,
     "labels": {
-      "1S": 2,
+      "1S": 3,
       "1M": 5,
       "2M": 3,
       "2S": 1,
@@ -195,10 +196,10 @@
     },
     "issues_by_project": {
       "gl": 2,
-      "th": 20
+      "th": 21
     },
     "categories": {
-      "high": 12,
+      "high": 13,
       "medium": 7,
       "low": 3
     },
