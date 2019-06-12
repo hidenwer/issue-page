@@ -222,22 +222,23 @@
     ]
   },
   "Ma-Ma": {
-    "count": 12,
+    "count": 13,
     "labels": {
       "2S": 4,
       "1M": 5,
       "1S": 1,
+      "2M": 1,
       "2L": 2
     },
     "issues_by_project": {
       "ro": 1,
       "st": 1,
       "su": 4,
-      "th": 6
+      "th": 7
     },
     "categories": {
       "high": 6,
-      "medium": 2,
+      "medium": 3,
       "low": 4
     },
     "grouped_labels": {
