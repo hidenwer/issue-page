@@ -242,8 +242,9 @@
       "low": 4
     },
     "grouped_labels": {
-      "To Do": 3,
-      "WAITING FOR FEEDBACK": 8
+      "In progress": 1,
+      "WAITING FOR FEEDBACK": 8,
+      "To Do": 2
     },
     "overdues": [
 
