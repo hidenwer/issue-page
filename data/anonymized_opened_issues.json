@@ -151,8 +151,8 @@
   "st-nd": {
     "count": 15,
     "labels": {
-      "2S": 6,
-      "2M": 4,
+      "2S": 5,
+      "2M": 5,
       "3S": 1,
       "Beta": 1,
       "2L": 2,
@@ -165,13 +165,13 @@
     },
     "categories": {
       "high": 2,
-      "medium": 6,
-      "low": 7
+      "medium": 7,
+      "low": 6
     },
     "grouped_labels": {
       "To Do": 1,
-      "In progress": 7,
-      "WAITING FOR FEEDBACK": 6
+      "In progress": 6,
+      "WAITING FOR FEEDBACK": 7
     },
     "overdues": [
 
@@ -292,9 +292,9 @@
   "Al-Me": {
     "count": 9,
     "labels": {
-      "2S": 4,
+      "2S": 3,
+      "2M": 3,
       "Beta": 1,
-      "2M": 2,
       "2L": 2
     },
     "issues_by_project": {
@@ -304,8 +304,8 @@
     },
     "categories": {
       "high": 1,
-      "medium": 4,
-      "low": 4
+      "medium": 5,
+      "low": 3
     },
     "grouped_labels": {
       "In progress": 1,
