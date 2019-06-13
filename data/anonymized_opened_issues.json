@@ -166,9 +166,9 @@
       "low": 6
     },
     "grouped_labels": {
-      "To Do": 2,
+      "In progress": 7,
       "WAITING FOR FEEDBACK": 5,
-      "In progress": 6
+      "To Do": 1
     },
     "overdues": [
 
@@ -260,8 +260,8 @@
   "Ol-Co": {
     "count": 12,
     "labels": {
-      "2S": 7,
-      "2M": 3,
+      "2S": 6,
+      "2M": 4,
       "Beta": 1,
       "1M": 1
     },
@@ -271,13 +271,13 @@
     },
     "categories": {
       "high": 2,
-      "medium": 3,
-      "low": 7
+      "medium": 4,
+      "low": 6
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 6,
+      "WAITING FOR FEEDBACK": 7,
       "In progress": 2,
-      "To Do": 3
+      "To Do": 2
     },
     "overdues": [
       251
@@ -448,8 +448,8 @@
       "low": 7
     },
     "grouped_labels": {
-      "To Do": 4,
-      "WAITING FOR FEEDBACK": 2,
+      "To Do": 3,
+      "WAITING FOR FEEDBACK": 3,
       "In progress": 2
     },
     "overdues": [
