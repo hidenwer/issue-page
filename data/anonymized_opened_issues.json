@@ -381,23 +381,23 @@
     ]
   },
   "Eu-Mo": {
-    "count": 9,
+    "count": 8,
     "labels": {
-      "2S": 7,
+      "2S": 6,
       "3S": 1,
       "Beta": 1
     },
     "issues_by_project": {
-      "su": 9
+      "su": 8
     },
     "categories": {
       "high": 1,
       "medium": 0,
-      "low": 8
+      "low": 7
     },
     "grouped_labels": {
       "To Do": 1,
-      "WAITING FOR FEEDBACK": 6,
+      "WAITING FOR FEEDBACK": 5,
       "In progress": 2
     },
     "overdues": [
@@ -440,20 +440,19 @@
   "Io-Mo": {
     "count": 8,
     "labels": {
-      "2S": 7,
-      "1S": 1
+      "2S": 8
     },
     "issues_by_project": {
       "su": 8
     },
     "categories": {
-      "high": 1,
+      "high": 0,
       "medium": 0,
-      "low": 7
+      "low": 8
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 4,
-      "To Do": 3,
+      "WAITING FOR FEEDBACK": 3,
+      "To Do": 4,
       "In progress": 1
     },
     "overdues": [
