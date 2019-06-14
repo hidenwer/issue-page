@@ -152,8 +152,8 @@
   "st-nd": {
     "count": 12,
     "labels": {
-      "2S": 3,
       "2M": 4,
+      "2S": 3,
       "3S": 1,
       "Beta": 1,
       "2L": 2,
@@ -170,9 +170,9 @@
       "low": 4
     },
     "grouped_labels": {
+      "WAITING FOR FEEDBACK": 5,
       "To Do": 1,
-      "In progress": 6,
-      "WAITING FOR FEEDBACK": 4
+      "In progress": 5
     },
     "overdues": [
 
