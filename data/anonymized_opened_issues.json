@@ -78,7 +78,8 @@
       "low": 3
     },
     "grouped_labels": {
-      "In progress": 8,
+      "In progress": 7,
+      "WAITING FOR FEEDBACK": 1,
       "To Do": 2
     },
     "overdues": [
@@ -89,28 +90,27 @@
     ]
   },
   "da-ls": {
-    "count": 7,
+    "count": 6,
     "labels": {
       "2S": 4,
-      "1M": 3
+      "1M": 2
     },
     "issues_by_project": {
       "ro": 1,
       "st": 1,
-      "su": 4,
-      "th": 1
+      "su": 4
     },
     "categories": {
-      "high": 3,
+      "high": 2,
       "medium": 0,
       "low": 4
     },
     "grouped_labels": {
-      "In progress": 5,
+      "In progress": 4,
       "To Do": 2
     },
     "overdues": [
-      306
+
     ],
     "no_due_dates": [
       344,
