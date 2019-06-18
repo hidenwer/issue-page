@@ -108,7 +108,8 @@
     },
     "grouped_labels": {
       "In progress": 5,
-      "To Do": 2
+      "WAITING FOR FEEDBACK": 1,
+      "To Do": 1
     },
     "overdues": [
 
@@ -172,8 +173,9 @@
       "low": 3
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 6,
-      "In progress": 6
+      "WAITING FOR FEEDBACK": 5,
+      "In progress": 6,
+      "To Do": 1
     },
     "overdues": [
 
@@ -183,30 +185,30 @@
     ]
   },
   "Al-Hi": {
-    "count": 23,
+    "count": 22,
     "labels": {
       "1": 4,
       "2S": 2,
       "1M": 6,
       "2M": 3,
-      "2L": 2,
+      "2L": 1,
       "1L": 2,
       "3M": 2,
       "3L": 2
     },
     "issues_by_project": {
       "gl": 2,
-      "th": 21
+      "th": 20
     },
     "categories": {
       "high": 12,
-      "medium": 7,
+      "medium": 6,
       "low": 4
     },
     "grouped_labels": {
       "WAITING FOR FEEDBACK": 8,
       "In progress": 1,
-      "To Do": 9
+      "To Do": 8
     },
     "overdues": [
       390,
@@ -220,7 +222,6 @@
     ],
     "no_due_dates": [
       296,
-      286,
       265,
       249,
       231,
