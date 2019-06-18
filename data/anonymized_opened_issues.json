@@ -107,9 +107,8 @@
       "low": 5
     },
     "grouped_labels": {
-      "In progress": 5,
-      "WAITING FOR FEEDBACK": 1,
-      "To Do": 1
+      "In progress": 4,
+      "WAITING FOR FEEDBACK": 3
     },
     "overdues": [
 
@@ -138,9 +137,9 @@
       "low": 2
     },
     "grouped_labels": {
-      "To Do": 4,
+      "WAITING FOR FEEDBACK": 6,
       "In progress": 2,
-      "WAITING FOR FEEDBACK": 5
+      "To Do": 3
     },
     "overdues": [
 
@@ -304,9 +303,8 @@
       "2L": 1
     },
     "issues_by_project": {
-      "st": 1,
       "su": 4,
-      "th": 2
+      "th": 3
     },
     "categories": {
       "high": 1,
@@ -320,7 +318,7 @@
     "overdues": [
       3423,
       262,
-      323
+      393
     ],
     "no_due_dates": [
       352
