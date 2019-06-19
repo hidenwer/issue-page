@@ -1,8 +1,8 @@
 {
   "Ed-Ma": {
-    "count": 7,
+    "count": 6,
     "labels": {
-      "2S": 2,
+      "2S": 1,
       "2M": 1,
       "3M": 3,
       "1M": 1
@@ -11,16 +11,16 @@
       "gl": 1,
       "ro": 1,
       "su": 1,
-      "th": 4
+      "th": 3
     },
     "categories": {
       "high": 1,
       "medium": 4,
-      "low": 2
+      "low": 1
     },
     "grouped_labels": {
-      "To Do": 5,
       "WAITING FOR FEEDBACK": 1,
+      "To Do": 4,
       "In progress": 1
     },
     "overdues": [
