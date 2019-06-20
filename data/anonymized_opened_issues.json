@@ -301,24 +301,24 @@
     ]
   },
   "Al-Me": {
-    "count": 7,
+    "count": 9,
     "labels": {
-      "2S": 2,
+      "2S": 4,
       "2M": 3,
       "Beta": 1,
       "2L": 1
     },
     "issues_by_project": {
-      "su": 4,
+      "su": 6,
       "th": 3
     },
     "categories": {
       "high": 1,
       "medium": 4,
-      "low": 2
+      "low": 4
     },
     "grouped_labels": {
-      "To Do": 5,
+      "To Do": 7,
       "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
