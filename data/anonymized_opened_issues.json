@@ -2,8 +2,8 @@
   "Ed-Ma": {
     "count": 6,
     "labels": {
-      "2M": 2,
-      "3M": 3,
+      "2M": 3,
+      "3M": 2,
       "1M": 1
     },
     "issues_by_project": {
@@ -29,19 +29,17 @@
     ]
   },
   "co-ci": {
-    "count": 8,
+    "count": 7,
     "labels": {
       "2S": 3,
       "2M": 3,
-      "1M": 1,
       "1L": 1
     },
     "issues_by_project": {
-      "gl": 1,
       "su": 7
     },
     "categories": {
-      "high": 2,
+      "high": 1,
       "medium": 3,
       "low": 3
     },
@@ -50,32 +48,31 @@
       "In progress": 4
     },
     "overdues": [
-      557
+
     ],
     "no_due_dates": [
       2428
     ]
   },
   "Se-Vo": {
-    "count": 8,
+    "count": 7,
     "labels": {
       "2S": 1,
       "2M": 5,
-      "2L": 1,
       "3L": 1
     },
     "issues_by_project": {
       "gl": 1,
-      "su": 5,
+      "su": 4,
       "th": 2
     },
     "categories": {
       "high": 0,
-      "medium": 6,
+      "medium": 5,
       "low": 2
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 3,
+      "WAITING FOR FEEDBACK": 2,
       "In progress": 3,
       "To Do": 2
     },
@@ -280,17 +277,16 @@
       "low": 5
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 7,
-      "In progress": 2
+      "WAITING FOR FEEDBACK": 4,
+      "In progress": 4,
+      "To Do": 1
     },
     "overdues": [
-      3586,
       3585,
-      3557,
       251
     ],
     "no_due_dates": [
-
+      340
     ]
   },
   "Al-Me": {
@@ -311,8 +307,8 @@
       "low": 3
     },
     "grouped_labels": {
-      "To Do": 5,
-      "WAITING FOR FEEDBACK": 1,
+      "To Do": 4,
+      "WAITING FOR FEEDBACK": 2,
       "In progress": 1
     },
     "overdues": [
@@ -441,23 +437,23 @@
     ]
   },
   "Eu-Mo": {
-    "count": 8,
+    "count": 7,
     "labels": {
-      "2S": 7,
+      "2S": 6,
       "2M": 1
     },
     "issues_by_project": {
-      "su": 8
+      "su": 7
     },
     "categories": {
       "high": 0,
       "medium": 1,
-      "low": 7
+      "low": 6
     },
     "grouped_labels": {
-      "In progress": 2,
       "WAITING FOR FEEDBACK": 5,
-      "To Do": 1
+      "To Do": 1,
+      "In progress": 1
     },
     "overdues": [
       3593
