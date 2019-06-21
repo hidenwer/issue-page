@@ -51,12 +51,10 @@
       "In progress": 5
     },
     "overdues": [
-      3609,
-      557,
-      2428
+      557
     ],
     "no_due_dates": [
-
+      2428
     ]
   },
   "Se-Vo": {
@@ -317,10 +315,10 @@
     },
     "grouped_labels": {
       "To Do": 5,
-      "WAITING FOR FEEDBACK": 2
+      "WAITING FOR FEEDBACK": 1,
+      "In progress": 1
     },
     "overdues": [
-      3423,
       262,
       393
     ],
@@ -450,24 +448,25 @@
     ]
   },
   "Eu-Mo": {
-    "count": 7,
+    "count": 8,
     "labels": {
-      "2S": 6,
+      "2S": 7,
       "2M": 1
     },
     "issues_by_project": {
-      "su": 7
+      "su": 8
     },
     "categories": {
       "high": 0,
       "medium": 1,
-      "low": 6
+      "low": 7
     },
     "grouped_labels": {
       "In progress": 3,
-      "WAITING FOR FEEDBACK": 4
+      "WAITING FOR FEEDBACK": 5
     },
     "overdues": [
+      3615,
       3593
     ],
     "no_due_dates": [
