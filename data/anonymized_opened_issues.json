@@ -2,8 +2,7 @@
   "Ed-Ma": {
     "count": 6,
     "labels": {
-      "2S": 1,
-      "2M": 1,
+      "2M": 2,
       "3M": 3,
       "1M": 1
     },
@@ -15,8 +14,8 @@
     },
     "categories": {
       "high": 1,
-      "medium": 4,
-      "low": 1
+      "medium": 5,
+      "low": 0
     },
     "grouped_labels": {
       "In progress": 2,
@@ -237,9 +236,9 @@
     ]
   },
   "Ma-Ma": {
-    "count": 12,
+    "count": 11,
     "labels": {
-      "1M": 5,
+      "1M": 4,
       "2S": 3,
       "1S": 1,
       "2M": 1,
@@ -249,10 +248,10 @@
       "ro": 1,
       "st": 1,
       "su": 3,
-      "th": 7
+      "th": 6
     },
     "categories": {
-      "high": 6,
+      "high": 5,
       "medium": 3,
       "low": 3
     },
