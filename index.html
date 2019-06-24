@@ -8,25 +8,23 @@
     <canvas id="canvas"></canvas>
   </div>
   <script>
-    var data;
-
     const randomColor = () => `#${Math.floor(Math.random() * 0xffffff).toString(16)}`
 
     $.getJSON("https://hidenwer.github.io/issue-page/data/anonymized_opened_issues.json", function(json) {
-      data = Object.keys(json).map(name => {
+      const data = Object.keys(json).map(name => {
         const dev = json[name]
         dev.name = name
         return dev
-      }).sort((a, b) => b.count - a.count)
+      }).sort((a, b) => b.count - (b.grouped_labels.blocked || 0) - a.count + (a.grouped_labels.blocked || 0))
 
-      var labels = data
+      let labels = data
         .map(dev => Object.keys(dev.issues_by_project))
         .reduce((a, b) => a.concat(b))
       labels = [...new Set(labels)].sort()
 
       console.log(labels)
       console.log(data)
-      var barChartData = {
+      const barChartData = {
         labels: data.map(dev => dev.name),
         datasets: labels.map(label => {
           const values = data.map(dev => dev.issues_by_project[label] || 0)
@@ -38,7 +36,7 @@
         })
       }
 
-      var ctx = document.getElementById('canvas').getContext('2d');
+      const ctx = document.getElementById('canvas').getContext('2d');
       window.myBar = new Chart(ctx, {
         type: 'bar',
         data: barChartData,
