@@ -106,7 +106,8 @@
       "low": 3
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 4,
+      "To Do": 1,
+      "WAITING FOR FEEDBACK": 3,
       "In progress": 2
     },
     "overdues": [
@@ -266,26 +267,26 @@
     ]
   },
   "Ol-Co": {
-    "count": 9,
+    "count": 8,
     "labels": {
       "2M": 4,
-      "2S": 3,
+      "2S": 2,
       "Beta": 1,
       "1M": 1
     },
     "issues_by_project": {
-      "su": 6,
+      "su": 5,
       "th": 2
     },
     "categories": {
       "high": 2,
       "medium": 4,
-      "low": 3
+      "low": 2
     },
     "grouped_labels": {
-      "To Do": 2,
-      "WAITING FOR FEEDBACK": 4,
+      "To Do": 4,
       "In progress": 2,
+      "WAITING FOR FEEDBACK": 1,
       "blocked": 1
     },
     "overdues": [
@@ -299,25 +300,25 @@
     ]
   },
   "Al-Me": {
-    "count": 9,
+    "count": 8,
     "labels": {
-      "2S": 4,
+      "2S": 3,
       "2M": 3,
       "Beta": 1,
       "2L": 1
     },
     "issues_by_project": {
-      "su": 6,
+      "su": 5,
       "th": 2
     },
     "categories": {
       "high": 1,
       "medium": 4,
-      "low": 4
+      "low": 3
     },
     "grouped_labels": {
       "To Do": 5,
-      "WAITING FOR FEEDBACK": 2,
+      "WAITING FOR FEEDBACK": 1,
       "In progress": 1,
       "blocked": 1
     },
@@ -430,12 +431,11 @@
       "low": 4
     },
     "grouped_labels": {
-      "To Do": 4,
-      "WAITING FOR FEEDBACK": 5
+      "To Do": 5,
+      "WAITING FOR FEEDBACK": 4
     },
     "overdues": [
-      3659,
-      3464
+
     ],
     "no_due_dates": [
 
@@ -456,8 +456,8 @@
       "low": 6
     },
     "grouped_labels": {
-      "To Do": 2,
-      "WAITING FOR FEEDBACK": 4,
+      "To Do": 3,
+      "WAITING FOR FEEDBACK": 3,
       "In progress": 1
     },
     "overdues": [
