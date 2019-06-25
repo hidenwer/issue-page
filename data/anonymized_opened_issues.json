@@ -415,8 +415,9 @@
   "Da-Ni": {
     "count": 9,
     "labels": {
-      "1S": 2,
+      "1S": 1,
       "2S": 4,
+      "1M": 1,
       "2M": 1,
       "Beta": 2
     },
@@ -430,7 +431,8 @@
       "low": 4
     },
     "grouped_labels": {
-      "To Do": 6,
+      "To Do": 5,
+      "In progress": 1,
       "WAITING FOR FEEDBACK": 3
     },
     "overdues": [
