@@ -120,11 +120,11 @@
   "An-Ma-Se": {
     "count": 9,
     "labels": {
+      "2L": 1,
       "2S": 2,
       "1S": 1,
       "2M": 3,
-      "1M": 2,
-      "2L": 1
+      "1M": 2
     },
     "issues_by_project": {
       "su": 5,
@@ -137,7 +137,7 @@
     },
     "grouped_labels": {
       "To Do": 1,
-      "In progress": 4,
+      "In progress": 3,
       "WAITING FOR FEEDBACK": 2
     },
     "overdues": [
@@ -182,8 +182,9 @@
     ]
   },
   "Al-Hi": {
-    "count": 23,
+    "count": 24,
     "labels": {
+      "1S": 1,
       "": 4,
       "1L": 3,
       "1M": 7,
@@ -194,15 +195,15 @@
     },
     "issues_by_project": {
       "gl": 2,
-      "th": 16
+      "th": 17
     },
     "categories": {
-      "high": 12,
+      "high": 13,
       "medium": 5,
       "low": 2
     },
     "grouped_labels": {
-      "To Do": 10,
+      "To Do": 11,
       "WAITING FOR FEEDBACK": 8,
       "blocked": 5
     },
