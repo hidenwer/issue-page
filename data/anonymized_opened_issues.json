@@ -247,10 +247,10 @@
       "low": 4
     },
     "grouped_labels": {
-      "In progress": 2,
-      "WAITING FOR FEEDBACK": 9,
+      "WAITING FOR FEEDBACK": 10,
       "To Do": 3,
-      "blocked": 5
+      "blocked": 5,
+      "In progress": 1
     },
     "overdues": [
 
