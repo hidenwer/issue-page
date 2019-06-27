@@ -31,24 +31,24 @@
     ]
   },
   "co-ci": {
-    "count": 8,
+    "count": 7,
     "labels": {
       "1S": 2,
       "2S": 1,
-      "2M": 4,
+      "2M": 3,
       "1L": 1
     },
     "issues_by_project": {
-      "su": 8
+      "su": 7
     },
     "categories": {
       "high": 3,
-      "medium": 4,
+      "medium": 3,
       "low": 1
     },
     "grouped_labels": {
       "To Do": 4,
-      "In progress": 4
+      "In progress": 3
     },
     "overdues": [
       3661,
@@ -325,24 +325,24 @@
     ]
   },
   "Dm-Lu": {
-    "count": 5,
+    "count": 4,
     "labels": {
       "1S": 1,
-      "2S": 3,
+      "2S": 2,
       "1M": 1
     },
     "issues_by_project": {
-      "su": 4,
+      "su": 3,
       "th": 1
     },
     "categories": {
       "high": 2,
       "medium": 0,
-      "low": 3
+      "low": 2
     },
     "grouped_labels": {
       "To Do": 2,
-      "WAITING FOR FEEDBACK": 3
+      "WAITING FOR FEEDBACK": 2
     },
     "overdues": [
       3631
