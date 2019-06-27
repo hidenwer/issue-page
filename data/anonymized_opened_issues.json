@@ -34,8 +34,8 @@
     "count": 8,
     "labels": {
       "1S": 2,
-      "2S": 2,
-      "2M": 3,
+      "2S": 1,
+      "2M": 4,
       "1L": 1
     },
     "issues_by_project": {
@@ -43,8 +43,8 @@
     },
     "categories": {
       "high": 3,
-      "medium": 3,
-      "low": 2
+      "medium": 4,
+      "low": 1
     },
     "grouped_labels": {
       "To Do": 4,
@@ -62,9 +62,9 @@
     "count": 13,
     "labels": {
       "1S": 4,
-      "2S": 2,
+      "2S": 1,
       "2": 1,
-      "2M": 5,
+      "2M": 6,
       "3L": 1
     },
     "issues_by_project": {
@@ -74,8 +74,8 @@
     },
     "categories": {
       "high": 4,
-      "medium": 5,
-      "low": 3
+      "medium": 6,
+      "low": 2
     },
     "grouped_labels": {
       "To Do": 10,
@@ -298,9 +298,9 @@
   "Al-Me": {
     "count": 6,
     "labels": {
-      "2S": 2,
+      "2S": 1,
+      "2M": 3,
       "Beta": 1,
-      "2M": 2,
       "2L": 1
     },
     "issues_by_project": {
@@ -309,12 +309,11 @@
     },
     "categories": {
       "high": 1,
-      "medium": 3,
-      "low": 2
+      "medium": 4,
+      "low": 1
     },
     "grouped_labels": {
-      "To Do": 4,
-      "WAITING FOR FEEDBACK": 1,
+      "To Do": 5,
       "blocked": 1
     },
     "overdues": [
