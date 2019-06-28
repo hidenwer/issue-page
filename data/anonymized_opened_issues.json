@@ -79,7 +79,8 @@
       "In progress": 2
     },
     "overdues": [
-
+      380,
+      379
     ],
     "no_due_dates": [
 
@@ -199,6 +200,8 @@
       "blocked": 5
     },
     "overdues": [
+      389,
+      357,
       280
     ],
     "no_due_dates": [
