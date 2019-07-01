@@ -60,7 +60,8 @@
       "1S": 3,
       "2S": 1,
       "2": 1,
-      "2M": 5,
+      "2M": 4,
+      "1M": 1,
       "2L": 1,
       "3L": 1
     },
@@ -70,8 +71,8 @@
       "th": 3
     },
     "categories": {
-      "high": 3,
-      "medium": 6,
+      "high": 4,
+      "medium": 5,
       "low": 2
     },
     "grouped_labels": {
@@ -226,9 +227,9 @@
     ]
   },
   "Ma-Ma": {
-    "count": 14,
+    "count": 13,
     "labels": {
-      "2S": 3,
+      "2S": 2,
       "2M": 4,
       "1M": 4,
       "2L": 3
@@ -236,17 +237,16 @@
     "issues_by_project": {
       "ro": 2,
       "st": 1,
-      "su": 1,
       "th": 5
     },
     "categories": {
       "high": 4,
       "medium": 7,
-      "low": 3
+      "low": 2
     },
     "grouped_labels": {
       "To Do": 2,
-      "WAITING FOR FEEDBACK": 9,
+      "WAITING FOR FEEDBACK": 8,
       "blocked": 5,
       "In progress": 1
     },
