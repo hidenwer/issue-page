@@ -345,16 +345,15 @@
     ]
   },
   "St-Sp": {
-    "count": 6,
+    "count": 5,
     "labels": {
       "2S": 3,
-      "2": 1,
       "2M": 1,
       "1M": 1
     },
     "issues_by_project": {
       "ro": 1,
-      "su": 3,
+      "su": 2,
       "th": 2
     },
     "categories": {
@@ -364,7 +363,7 @@
     },
     "grouped_labels": {
       "To Do": 3,
-      "In progress": 2,
+      "In progress": 1,
       "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
