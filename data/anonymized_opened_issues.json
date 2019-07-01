@@ -29,24 +29,24 @@
     ]
   },
   "co-ci": {
-    "count": 5,
+    "count": 6,
     "labels": {
-      "2S": 2,
+      "2S": 3,
       "2M": 1,
       "1M": 1,
       "1L": 1
     },
     "issues_by_project": {
-      "su": 4,
+      "su": 5,
       "th": 1
     },
     "categories": {
       "high": 2,
       "medium": 1,
-      "low": 2
+      "low": 3
     },
     "grouped_labels": {
-      "To Do": 3,
+      "To Do": 4,
       "In progress": 2
     },
     "overdues": [
