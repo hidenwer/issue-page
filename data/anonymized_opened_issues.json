@@ -239,7 +239,7 @@
     "issues_by_project": {
       "ro": 1,
       "st": 1,
-      "th": 6
+      "th": 5
     },
     "categories": {
       "high": 3,
@@ -247,8 +247,8 @@
       "low": 1
     },
     "grouped_labels": {
+      "blocked": 5,
       "WAITING FOR FEEDBACK": 7,
-      "blocked": 4,
       "In progress": 1,
       "To Do": 1
     },
