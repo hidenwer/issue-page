@@ -122,18 +122,18 @@
     ]
   },
   "An-Ma-Se": {
-    "count": 8,
+    "count": 9,
     "labels": {
       "2S": 3,
-      "2M": 3,
-      "1M": 2
+      "1M": 3,
+      "2M": 3
     },
     "issues_by_project": {
       "su": 5,
-      "th": 2
+      "th": 3
     },
     "categories": {
-      "high": 2,
+      "high": 3,
       "medium": 3,
       "low": 3
     },
