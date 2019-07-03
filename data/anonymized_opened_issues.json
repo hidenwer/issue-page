@@ -60,28 +60,28 @@
     ]
   },
   "Se-Vo": {
-    "count": 11,
+    "count": 12,
     "labels": {
+      "1M": 2,
       "3S": 1,
       "2S": 3,
       "2": 1,
       "2M": 3,
-      "1M": 1,
       "2L": 1,
       "3L": 1
     },
     "issues_by_project": {
       "gl": 1,
       "su": 6,
-      "th": 4
+      "th": 5
     },
     "categories": {
-      "high": 1,
+      "high": 2,
       "medium": 4,
       "low": 5
     },
     "grouped_labels": {
-      "To Do": 7,
+      "To Do": 8,
       "In progress": 1,
       "WAITING FOR FEEDBACK": 2
     },
