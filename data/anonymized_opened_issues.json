@@ -138,13 +138,13 @@
       "low": 4
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 4,
-      "In progress": 2,
+      "WAITING FOR FEEDBACK": 5,
+      "In progress": 1,
       "To Do": 2,
       "blocked": 1
     },
     "overdues": [
-      3705
+
     ],
     "no_due_dates": [
       332,
