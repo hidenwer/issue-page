@@ -1,7 +1,8 @@
 {
   "Ed-Ma": {
-    "count": 4,
+    "count": 5,
     "labels": {
+      "3S": 1,
       "2M": 1,
       "3M": 2,
       "1M": 1
@@ -9,12 +10,12 @@
     "issues_by_project": {
       "gl": 1,
       "ro": 1,
-      "th": 2
+      "th": 3
     },
     "categories": {
       "high": 1,
       "medium": 3,
-      "low": 0
+      "low": 1
     },
     "grouped_labels": {
       "To Do": 3,
@@ -58,8 +59,9 @@
     ]
   },
   "Se-Vo": {
-    "count": 10,
+    "count": 11,
     "labels": {
+      "3S": 1,
       "2S": 3,
       "2": 1,
       "2M": 3,
@@ -70,12 +72,12 @@
     "issues_by_project": {
       "gl": 1,
       "su": 6,
-      "th": 3
+      "th": 4
     },
     "categories": {
       "high": 1,
       "medium": 4,
-      "low": 4
+      "low": 5
     },
     "grouped_labels": {
       "To Do": 7,
@@ -92,8 +94,9 @@
     ]
   },
   "da-ls": {
-    "count": 7,
+    "count": 8,
     "labels": {
+      "3S": 1,
       "2M": 2,
       "2S": 3,
       "1M": 2
@@ -101,12 +104,13 @@
     "issues_by_project": {
       "ro": 1,
       "st": 1,
-      "su": 5
+      "su": 5,
+      "th": 1
     },
     "categories": {
       "high": 2,
       "medium": 2,
-      "low": 3
+      "low": 4
     },
     "grouped_labels": {
       "To Do": 2,
@@ -122,20 +126,21 @@
     ]
   },
   "An-Ma-Se": {
-    "count": 9,
+    "count": 10,
     "labels": {
+      "3S": 1,
       "2S": 2,
       "1M": 3,
       "2M": 4
     },
     "issues_by_project": {
       "su": 5,
-      "th": 3
+      "th": 4
     },
     "categories": {
       "high": 3,
       "medium": 4,
-      "low": 2
+      "low": 3
     },
     "grouped_labels": {
       "WAITING FOR FEEDBACK": 4,
@@ -152,8 +157,9 @@
     ]
   },
   "st-nd": {
-    "count": 13,
+    "count": 14,
     "labels": {
+      "3S": 1,
       "2S": 9,
       "2M": 2,
       "1M": 1,
@@ -162,12 +168,12 @@
     "issues_by_project": {
       "fe": 1,
       "su": 9,
-      "th": 2
+      "th": 3
     },
     "categories": {
       "high": 1,
       "medium": 3,
-      "low": 9
+      "low": 10
     },
     "grouped_labels": {
       "To Do": 2,
@@ -183,8 +189,9 @@
     ]
   },
   "Al-Hi": {
-    "count": 24,
+    "count": 25,
     "labels": {
+      "3S": 1,
       "1S": 1,
       "": 1,
       "2": 3,
@@ -197,12 +204,12 @@
     },
     "issues_by_project": {
       "gl": 2,
-      "th": 17
+      "th": 18
     },
     "categories": {
       "high": 14,
       "medium": 4,
-      "low": 2
+      "low": 3
     },
     "grouped_labels": {
       "To Do": 10,
@@ -233,8 +240,9 @@
     ]
   },
   "Ma-Ma": {
-    "count": 12,
+    "count": 13,
     "labels": {
+      "3S": 1,
       "2S": 2,
       "2M": 4,
       "1M": 3,
@@ -244,12 +252,12 @@
       "ro": 1,
       "st": 1,
       "su": 1,
-      "th": 5
+      "th": 6
     },
     "categories": {
       "high": 3,
       "medium": 7,
-      "low": 2
+      "low": 3
     },
     "grouped_labels": {
       "In progress": 3,
@@ -351,8 +359,9 @@
     ]
   },
   "St-Sp": {
-    "count": 8,
+    "count": 9,
     "labels": {
+      "3S": 1,
       "2S": 4,
       "2": 1,
       "2M": 2,
@@ -361,12 +370,12 @@
     "issues_by_project": {
       "ro": 1,
       "su": 5,
-      "th": 2
+      "th": 3
     },
     "categories": {
       "high": 1,
       "medium": 2,
-      "low": 4
+      "low": 5
     },
     "grouped_labels": {
       "To Do": 3,
