@@ -124,9 +124,9 @@
   "An-Ma-Se": {
     "count": 9,
     "labels": {
-      "2S": 3,
+      "2S": 2,
       "1M": 3,
-      "2M": 3
+      "2M": 4
     },
     "issues_by_project": {
       "su": 5,
@@ -134,8 +134,8 @@
     },
     "categories": {
       "high": 3,
-      "medium": 3,
-      "low": 3
+      "medium": 4,
+      "low": 2
     },
     "grouped_labels": {
       "To Do": 3,
@@ -154,7 +154,8 @@
   "st-nd": {
     "count": 10,
     "labels": {
-      "2S": 9,
+      "2S": 8,
+      "2M": 1,
       "2L": 1
     },
     "issues_by_project": {
@@ -163,8 +164,8 @@
     },
     "categories": {
       "high": 0,
-      "medium": 1,
-      "low": 9
+      "medium": 2,
+      "low": 8
     },
     "grouped_labels": {
       "WAITING FOR FEEDBACK": 9,
@@ -229,9 +230,9 @@
     ]
   },
   "Ma-Ma": {
-    "count": 12,
+    "count": 13,
     "labels": {
-      "2S": 2,
+      "2S": 3,
       "2M": 4,
       "1M": 3,
       "2L": 3
@@ -240,12 +241,12 @@
       "ro": 1,
       "st": 1,
       "su": 1,
-      "th": 5
+      "th": 6
     },
     "categories": {
       "high": 3,
       "medium": 7,
-      "low": 2
+      "low": 3
     },
     "grouped_labels": {
       "In progress": 3,
