@@ -249,10 +249,10 @@
       "low": 2
     },
     "grouped_labels": {
-      "In progress": 2,
+      "In progress": 3,
       "To Do": 2,
       "blocked": 4,
-      "WAITING FOR FEEDBACK": 7
+      "WAITING FOR FEEDBACK": 6
     },
     "overdues": [
       413
@@ -456,19 +456,19 @@
     ]
   },
   "Eu-Mo": {
-    "count": 8,
+    "count": 7,
     "labels": {
       "Beta": 1,
-      "2S": 3,
+      "2S": 2,
       "2M": 4
     },
     "issues_by_project": {
-      "su": 8
+      "su": 7
     },
     "categories": {
       "high": 1,
       "medium": 4,
-      "low": 3
+      "low": 2
     },
     "grouped_labels": {
       "To Do": 1,
