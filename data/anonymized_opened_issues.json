@@ -410,7 +410,7 @@
   "Eu-Mo": {
     "count": 4,
     "labels": {
-      "3": 1,
+      "3M": 1,
       "Beta": 1,
       "2S": 1,
       "2M": 1
@@ -421,7 +421,7 @@
     },
     "categories": {
       "high": 1,
-      "medium": 1,
+      "medium": 2,
       "low": 1
     },
     "grouped_labels": {
