@@ -290,15 +290,17 @@
     },
     "grouped_labels": {
       "To Do": 4,
-      "In progress": 2,
-      "blocked": 1
+      "In progress": 1,
+      "blocked": 1,
+      "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
       262,
       393
     ],
     "no_due_dates": [
-      352
+      352,
+      3363
     ]
   },
   "St-Sp": {
