@@ -81,8 +81,8 @@
       "low": 4
     },
     "grouped_labels": {
-      "To Do": 6,
-      "WAITING FOR FEEDBACK": 2,
+      "To Do": 7,
+      "WAITING FOR FEEDBACK": 1,
       "In progress": 5
     },
     "overdues": [
@@ -341,25 +341,24 @@
     ]
   },
   "Va-Be": {
-    "count": 3,
+    "count": 2,
     "labels": {
-      "2S": 3
+      "2S": 2
     },
     "issues_by_project": {
-      "su": 3
+      "su": 2
     },
     "categories": {
       "high": 0,
       "medium": 0,
-      "low": 3
+      "low": 2
     },
     "grouped_labels": {
       "To Do": 1,
-      "In progress": 1,
-      "WAITING FOR FEEDBACK": 1
+      "In progress": 1
     },
     "overdues": [
-      3747
+
     ],
     "no_due_dates": [
 
@@ -442,7 +441,6 @@
       "In progress": 2
     },
     "overdues": [
-      3737,
       3497
     ],
     "no_due_dates": [
