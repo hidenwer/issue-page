@@ -60,8 +60,9 @@
     ]
   },
   "Se-Vo": {
-    "count": 12,
+    "count": 13,
     "labels": {
+      "": 1,
       "2S": 2,
       "1M": 1,
       "3S": 1,
@@ -71,7 +72,7 @@
     },
     "issues_by_project": {
       "gl": 1,
-      "su": 6,
+      "su": 7,
       "th": 5
     },
     "categories": {
@@ -80,7 +81,7 @@
       "low": 4
     },
     "grouped_labels": {
-      "To Do": 5,
+      "To Do": 6,
       "WAITING FOR FEEDBACK": 2,
       "In progress": 5
     },
@@ -393,23 +394,24 @@
     ]
   },
   "Eu-Mo": {
-    "count": 4,
+    "count": 5,
     "labels": {
+      "2S": 2,
       "3M": 1,
       "Beta": 1,
-      "2S": 1,
       "2M": 1
     },
     "issues_by_project": {
       "ro": 1,
-      "su": 3
+      "su": 4
     },
     "categories": {
       "high": 1,
       "medium": 2,
-      "low": 1
+      "low": 2
     },
     "grouped_labels": {
+      "To Do": 1,
       "In progress": 1,
       "WAITING FOR FEEDBACK": 3
     },
