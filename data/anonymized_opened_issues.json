@@ -126,8 +126,8 @@
   "An-Ma-Se": {
     "count": 7,
     "labels": {
-      "2M": 3,
-      "2S": 2,
+      "2M": 4,
+      "2S": 1,
       "1M": 2
     },
     "issues_by_project": {
@@ -136,8 +136,8 @@
     },
     "categories": {
       "high": 2,
-      "medium": 3,
-      "low": 2
+      "medium": 4,
+      "low": 1
     },
     "grouped_labels": {
       "In progress": 2,
