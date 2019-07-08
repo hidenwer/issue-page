@@ -80,8 +80,8 @@
       "low": 4
     },
     "grouped_labels": {
-      "To Do": 8,
-      "In progress": 5
+      "In progress": 6,
+      "To Do": 7
     },
     "overdues": [
       380,
@@ -339,20 +339,21 @@
     ]
   },
   "Va-Be": {
-    "count": 2,
+    "count": 3,
     "labels": {
+      "1": 1,
       "2S": 2
     },
     "issues_by_project": {
-      "su": 2
+      "su": 3
     },
     "categories": {
-      "high": 0,
+      "high": 1,
       "medium": 0,
       "low": 2
     },
     "grouped_labels": {
-      "To Do": 1,
+      "To Do": 2,
       "In progress": 1
     },
     "overdues": [
