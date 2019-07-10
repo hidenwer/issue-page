@@ -155,9 +155,8 @@
     ]
   },
   "st-nd": {
-    "count": 13,
+    "count": 12,
     "labels": {
-      "3S": 1,
       "2S": 4,
       "Beta": 1,
       "2M": 5,
@@ -166,23 +165,23 @@
     },
     "issues_by_project": {
       "su": 9,
-      "th": 4
+      "th": 3
     },
     "categories": {
       "high": 3,
       "medium": 5,
-      "low": 5
+      "low": 4
     },
     "grouped_labels": {
-      "To Do": 4,
       "WAITING FOR FEEDBACK": 5,
-      "In progress": 4
+      "In progress": 4,
+      "To Do": 3
     },
     "overdues": [
 
     ],
     "no_due_dates": [
-      463
+
     ]
   },
   "Al-Hi": {
