@@ -33,8 +33,7 @@
   "co-ci": {
     "count": 5,
     "labels": {
-      "2": 1,
-      "2S": 2,
+      "2S": 3,
       "1M": 2
     },
     "issues_by_project": {
@@ -44,7 +43,7 @@
     "categories": {
       "high": 2,
       "medium": 0,
-      "low": 2
+      "low": 3
     },
     "grouped_labels": {
       "To Do": 3,
@@ -122,8 +121,7 @@
   "An-Ma-Se": {
     "count": 9,
     "labels": {
-      "2": 1,
-      "2S": 3,
+      "2S": 4,
       "2M": 3,
       "1M": 2
     },
@@ -134,7 +132,7 @@
     "categories": {
       "high": 2,
       "medium": 3,
-      "low": 3
+      "low": 4
     },
     "grouped_labels": {
       "To Do": 2,
@@ -390,8 +388,7 @@
   "Eu-Mo": {
     "count": 7,
     "labels": {
-      "2": 1,
-      "2S": 4,
+      "2S": 5,
       "3M": 1,
       "Beta": 1
     },
@@ -402,7 +399,7 @@
     "categories": {
       "high": 1,
       "medium": 1,
-      "low": 4
+      "low": 5
     },
     "grouped_labels": {
       "To Do": 2,
