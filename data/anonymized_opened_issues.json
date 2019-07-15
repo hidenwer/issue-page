@@ -301,24 +301,24 @@
     ]
   },
   "St-Sp": {
-    "count": 7,
+    "count": 8,
     "labels": {
-      "2S": 3,
+      "2S": 4,
       "1S": 1,
       "1M": 2,
       "2M": 1
     },
     "issues_by_project": {
-      "su": 3,
+      "su": 4,
       "th": 4
     },
     "categories": {
       "high": 3,
       "medium": 1,
-      "low": 3
+      "low": 4
     },
     "grouped_labels": {
-      "To Do": 4,
+      "To Do": 5,
       "WAITING FOR FEEDBACK": 2
     },
     "overdues": [
