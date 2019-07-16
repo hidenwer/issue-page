@@ -332,21 +332,22 @@
     ]
   },
   "Va-Be": {
-    "count": 4,
+    "count": 5,
     "labels": {
-      "2S": 1,
+      "2S": 2,
       "Beta": 1,
       "2M": 2
     },
     "issues_by_project": {
-      "su": 4
+      "su": 5
     },
     "categories": {
       "high": 1,
       "medium": 2,
-      "low": 1
+      "low": 2
     },
     "grouped_labels": {
+      "To Do": 1,
       "WAITING FOR FEEDBACK": 1,
       "In progress": 3
     },
