@@ -109,8 +109,8 @@
       "low": 4
     },
     "grouped_labels": {
-      "To Do": 2,
-      "WAITING FOR FEEDBACK": 1,
+      "WAITING FOR FEEDBACK": 2,
+      "To Do": 1,
       "In progress": 3
     },
     "overdues": [
@@ -169,9 +169,9 @@
       "low": 3
     },
     "grouped_labels": {
-      "To Do": 3,
-      "WAITING FOR FEEDBACK": 1,
-      "In progress": 5
+      "WAITING FOR FEEDBACK": 3,
+      "In progress": 5,
+      "To Do": 1
     },
     "overdues": [
 
@@ -412,24 +412,24 @@
     ]
   },
   "Io-Mo": {
-    "count": 7,
+    "count": 6,
     "labels": {
-      "2S": 5,
+      "2S": 4,
       "2M": 1,
       "Beta": 1
     },
     "issues_by_project": {
       "ro": 1,
-      "su": 6
+      "su": 5
     },
     "categories": {
       "high": 1,
       "medium": 1,
-      "low": 5
+      "low": 4
     },
     "grouped_labels": {
       "To Do": 3,
-      "In progress": 3
+      "In progress": 2
     },
     "overdues": [
 
