@@ -133,24 +133,24 @@
     ]
   },
   "An-Ma-Se": {
-    "count": 10,
+    "count": 11,
     "labels": {
-      "2S": 5,
+      "2S": 6,
       "2M": 3,
       "1M": 2
     },
     "issues_by_project": {
-      "su": 6,
+      "su": 7,
       "th": 4
     },
     "categories": {
       "high": 2,
       "medium": 3,
-      "low": 5
+      "low": 6
     },
     "grouped_labels": {
       "WAITING FOR FEEDBACK": 4,
-      "In progress": 4,
+      "In progress": 5,
       "To Do": 2
     },
     "overdues": [
@@ -180,8 +180,8 @@
       "low": 3
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 3,
-      "In progress": 5,
+      "WAITING FOR FEEDBACK": 4,
+      "In progress": 4,
       "To Do": 1
     },
     "overdues": [
@@ -192,11 +192,10 @@
     ]
   },
   "Al-Hi": {
-    "count": 24,
+    "count": 23,
     "labels": {
       "1S": 1,
       "2M": 5,
-      "": 1,
       "2": 3,
       "1M": 8,
       "1": 2,
@@ -206,7 +205,7 @@
     },
     "issues_by_project": {
       "gl": 2,
-      "th": 15
+      "th": 14
     },
     "categories": {
       "high": 13,
@@ -214,7 +213,7 @@
       "low": 1
     },
     "grouped_labels": {
-      "To Do": 9,
+      "To Do": 8,
       "blocked": 7,
       "WAITING FOR FEEDBACK": 7,
       "In progress": 1
@@ -226,7 +225,6 @@
       323
     ],
     "no_due_dates": [
-      421,
       402,
       389,
       375,
@@ -304,9 +302,9 @@
     },
     "grouped_labels": {
       "To Do": 4,
-      "In progress": 2,
-      "blocked": 1,
-      "WAITING FOR FEEDBACK": 1
+      "WAITING FOR FEEDBACK": 2,
+      "In progress": 1,
+      "blocked": 1
     },
     "overdues": [
       262,
@@ -399,24 +397,24 @@
     ]
   },
   "Eu-Mo": {
-    "count": 9,
+    "count": 8,
     "labels": {
-      "2S": 7,
+      "2S": 6,
       "3M": 1,
       "Beta": 1
     },
     "issues_by_project": {
       "ro": 1,
-      "su": 8
+      "su": 7
     },
     "categories": {
       "high": 1,
       "medium": 1,
-      "low": 7
+      "low": 6
     },
     "grouped_labels": {
       "In progress": 2,
-      "WAITING FOR FEEDBACK": 7
+      "WAITING FOR FEEDBACK": 6
     },
     "overdues": [
 
