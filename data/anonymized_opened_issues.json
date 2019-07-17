@@ -193,10 +193,9 @@
   "Al-Hi": {
     "count": 23,
     "labels": {
-      "1S": 1,
+      "1M": 9,
       "2M": 5,
       "2": 3,
-      "1M": 8,
       "1": 2,
       "1L": 2,
       "3M": 1,
@@ -413,9 +412,8 @@
       "low": 7
     },
     "grouped_labels": {
-      "To Do": 1,
-      "WAITING FOR FEEDBACK": 7,
-      "In progress": 1
+      "In progress": 2,
+      "WAITING FOR FEEDBACK": 7
     },
     "overdues": [
 
