@@ -141,21 +141,21 @@
       "2S": 4,
       "2L": 1,
       "1S": 1,
-      "2M": 4,
-      "1M": 1
+      "2M": 2,
+      "1M": 3
     },
     "issues_by_project": {
       "su": 6,
       "th": 5
     },
     "categories": {
-      "high": 2,
-      "medium": 5,
+      "high": 4,
+      "medium": 3,
       "low": 4
     },
     "grouped_labels": {
-      "To Do": 3,
-      "WAITING FOR FEEDBACK": 7,
+      "To Do": 5,
+      "WAITING FOR FEEDBACK": 5,
       "In progress": 1
     },
     "overdues": [
