@@ -424,12 +424,11 @@
       "low": 8
     },
     "grouped_labels": {
-      "In progress": 3,
-      "WAITING FOR FEEDBACK": 7
+      "In progress": 4,
+      "WAITING FOR FEEDBACK": 6
     },
     "overdues": [
-      3784,
-      3718
+      3784
     ],
     "no_due_dates": [
 
