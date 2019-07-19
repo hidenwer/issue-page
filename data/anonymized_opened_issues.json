@@ -133,11 +133,11 @@
   "An-Ma-Se": {
     "count": 9,
     "labels": {
-      "1S": 2,
+      "1S": 1,
       "2S": 3,
       "2L": 1,
-      "2M": 2,
-      "1M": 1
+      "1M": 2,
+      "2M": 2
     },
     "issues_by_project": {
       "ro": 1,
@@ -302,8 +302,8 @@
       "low": 2
     },
     "grouped_labels": {
-      "To Do": 5,
-      "In progress": 1,
+      "In progress": 2,
+      "To Do": 4,
       "blocked": 1,
       "WAITING FOR FEEDBACK": 1
     },
