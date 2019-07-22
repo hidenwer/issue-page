@@ -1,22 +1,22 @@
 {
   "Ed-Ma": {
-    "count": 13,
+    "count": 14,
     "labels": {
+      "1M": 3,
       "2S": 1,
       "3L": 1,
       "2M": 7,
-      "1M": 2,
       "2": 1,
       "3M": 1
     },
     "issues_by_project": {
-      "gl": 1,
+      "gl": 2,
       "ro": 1,
       "su": 1,
       "th": 7
     },
     "categories": {
-      "high": 2,
+      "high": 3,
       "medium": 8,
       "low": 2
     },
