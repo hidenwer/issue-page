@@ -373,22 +373,22 @@
     ]
   },
   "Da-Ni": {
-    "count": 5,
+    "count": 6,
     "labels": {
-      "2S": 3,
+      "2S": 4,
       "2M": 2
     },
     "issues_by_project": {
-      "su": 4,
+      "su": 5,
       "th": 1
     },
     "categories": {
       "high": 0,
       "medium": 2,
-      "low": 3
+      "low": 4
     },
     "grouped_labels": {
-      "To Do": 3,
+      "To Do": 4,
       "In progress": 1,
       "WAITING FOR FEEDBACK": 1
     },
@@ -400,23 +400,24 @@
     ]
   },
   "Eu-Mo": {
-    "count": 6,
+    "count": 7,
     "labels": {
-      "2S": 4,
+      "2S": 5,
       "2M": 1,
       "3M": 1
     },
     "issues_by_project": {
       "ro": 1,
-      "su": 4,
+      "su": 5,
       "th": 1
     },
     "categories": {
       "high": 0,
       "medium": 2,
-      "low": 4
+      "low": 5
     },
     "grouped_labels": {
+      "To Do": 1,
       "In progress": 4,
       "WAITING FOR FEEDBACK": 1
     },
