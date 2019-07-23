@@ -22,6 +22,7 @@
     "grouped_labels": {
       "To Do": 4,
       "blocked": 3,
+      "WAITING FOR FEEDBACK": 1,
       "In progress": 1
     },
     "overdues": [
