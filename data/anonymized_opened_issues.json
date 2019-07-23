@@ -130,25 +130,24 @@
     ]
   },
   "An-Ma-Se": {
-    "count": 9,
+    "count": 8,
     "labels": {
-      "2S": 6,
+      "2S": 5,
       "2L": 1,
       "2M": 1,
       "1M": 1
     },
     "issues_by_project": {
-      "su": 7,
+      "su": 6,
       "th": 2
     },
     "categories": {
       "high": 1,
       "medium": 2,
-      "low": 6
+      "low": 5
     },
     "grouped_labels": {
       "WAITING FOR FEEDBACK": 6,
-      "In progress": 1,
       "To Do": 2
     },
     "overdues": [
@@ -159,25 +158,26 @@
     ]
   },
   "st-nd": {
-    "count": 12,
+    "count": 13,
     "labels": {
+      "2S": 7,
       "3S": 1,
-      "2S": 6,
       "2M": 4,
       "1M": 1
     },
     "issues_by_project": {
       "fe": 1,
+      "st": 1,
       "su": 7,
       "th": 4
     },
     "categories": {
       "high": 1,
       "medium": 4,
-      "low": 7
+      "low": 8
     },
     "grouped_labels": {
-      "To Do": 5,
+      "To Do": 6,
       "WAITING FOR FEEDBACK": 4,
       "In progress": 3
     },
@@ -358,8 +358,8 @@
     },
     "grouped_labels": {
       "To Do": 1,
-      "WAITING FOR FEEDBACK": 4,
-      "In progress": 1
+      "WAITING FOR FEEDBACK": 3,
+      "In progress": 2
     },
     "overdues": [
 
