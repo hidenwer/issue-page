@@ -4,9 +4,8 @@
     "labels": {
       "2S": 1,
       "3L": 1,
-      "2M": 7,
+      "2M": 8,
       "1M": 2,
-      "2": 1,
       "3M": 1
     },
     "issues_by_project": {
@@ -17,7 +16,7 @@
     },
     "categories": {
       "high": 2,
-      "medium": 8,
+      "medium": 9,
       "low": 2
     },
     "grouped_labels": {
@@ -313,25 +312,25 @@
     ]
   },
   "St-Sp": {
-    "count": 7,
+    "count": 8,
     "labels": {
-      "2S": 3,
+      "2S": 4,
       "1S": 1,
       "1M": 2,
       "2M": 1
     },
     "issues_by_project": {
       "ro": 1,
-      "su": 3,
+      "su": 4,
       "th": 3
     },
     "categories": {
       "high": 3,
       "medium": 1,
-      "low": 3
+      "low": 4
     },
     "grouped_labels": {
-      "To Do": 2,
+      "To Do": 3,
       "WAITING FOR FEEDBACK": 3,
       "In progress": 1
     },
