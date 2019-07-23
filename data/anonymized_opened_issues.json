@@ -118,8 +118,7 @@
     },
     "grouped_labels": {
       "To Do": 1,
-      "WAITING FOR FEEDBACK": 1,
-      "In progress": 3
+      "In progress": 4
     },
     "overdues": [
 
@@ -372,22 +371,24 @@
     ]
   },
   "Da-Ni": {
-    "count": 6,
+    "count": 7,
     "labels": {
+      "1S": 1,
       "2S": 4,
       "2M": 2
     },
     "issues_by_project": {
+      "ro": 1,
       "su": 5,
       "th": 1
     },
     "categories": {
-      "high": 0,
+      "high": 1,
       "medium": 2,
       "low": 4
     },
     "grouped_labels": {
-      "To Do": 2,
+      "To Do": 3,
       "WAITING FOR FEEDBACK": 3,
       "In progress": 1
     },
