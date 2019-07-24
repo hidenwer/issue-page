@@ -244,8 +244,7 @@
     "count": 13,
     "labels": {
       "2S": 4,
-      "2": 1,
-      "2M": 3,
+      "2M": 4,
       "2L": 3,
       "1M": 2
     },
@@ -257,14 +256,14 @@
     },
     "categories": {
       "high": 2,
-      "medium": 6,
+      "medium": 7,
       "low": 4
     },
     "grouped_labels": {
-      "To Do": 3,
+      "To Do": 2,
       "WAITING FOR FEEDBACK": 9,
-      "blocked": 3,
-      "In progress": 1
+      "In progress": 2,
+      "blocked": 3
     },
     "overdues": [
 
