@@ -158,15 +158,13 @@
     ]
   },
   "st-nd": {
-    "count": 13,
+    "count": 12,
     "labels": {
       "2S": 7,
-      "3S": 1,
       "2M": 4,
       "1M": 1
     },
     "issues_by_project": {
-      "fe": 1,
       "st": 1,
       "su": 7,
       "th": 4
@@ -174,10 +172,10 @@
     "categories": {
       "high": 1,
       "medium": 4,
-      "low": 8
+      "low": 7
     },
     "grouped_labels": {
-      "To Do": 5,
+      "To Do": 4,
       "WAITING FOR FEEDBACK": 5,
       "In progress": 3
     },
