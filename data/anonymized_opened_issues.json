@@ -185,9 +185,9 @@
     ]
   },
   "Al-Hi": {
-    "count": 25,
+    "count": 24,
     "labels": {
-      "1M": 11,
+      "1M": 10,
       "2L": 1,
       "2": 3,
       "2M": 4,
@@ -198,15 +198,15 @@
     },
     "issues_by_project": {
       "gl": 2,
-      "th": 16
+      "th": 15
     },
     "categories": {
-      "high": 15,
+      "high": 14,
       "medium": 6,
       "low": 1
     },
     "grouped_labels": {
-      "To Do": 10,
+      "To Do": 9,
       "WAITING FOR FEEDBACK": 9,
       "blocked": 7,
       "In progress": 1
