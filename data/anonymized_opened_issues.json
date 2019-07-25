@@ -117,9 +117,9 @@
       "low": 2
     },
     "grouped_labels": {
-      "To Do": 2,
-      "WAITING FOR FEEDBACK": 1,
-      "In progress": 3
+      "WAITING FOR FEEDBACK": 2,
+      "In progress": 3,
+      "To Do": 1
     },
     "overdues": [
       3863
@@ -340,24 +340,24 @@
     ]
   },
   "Va-Be": {
-    "count": 6,
+    "count": 7,
     "labels": {
+      "2S": 2,
       "1S": 1,
-      "2S": 1,
       "2M": 3,
       "Beta": 1
     },
     "issues_by_project": {
-      "su": 6
+      "su": 7
     },
     "categories": {
       "high": 2,
       "medium": 3,
-      "low": 1
+      "low": 2
     },
     "grouped_labels": {
       "To Do": 2,
-      "WAITING FOR FEEDBACK": 3,
+      "WAITING FOR FEEDBACK": 4,
       "In progress": 1
     },
     "overdues": [
@@ -416,8 +416,8 @@
     },
     "grouped_labels": {
       "To Do": 1,
-      "WAITING FOR FEEDBACK": 4,
-      "In progress": 1
+      "WAITING FOR FEEDBACK": 3,
+      "In progress": 2
     },
     "overdues": [
       3865
