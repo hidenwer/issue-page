@@ -20,7 +20,7 @@
     "grouped_labels": {
       "In progress": 5,
       "WAITING FOR FEEDBACK": 5,
-      "To Do": 3,
+      "To Do": 2,
       "blocked": 2
     },
     "overdues": [
@@ -153,8 +153,7 @@
       3826
     ],
     "no_due_dates": [
-      425,
-      311
+      425
     ]
   },
   "st-nd": {
