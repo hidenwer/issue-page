@@ -37,8 +37,9 @@
     ]
   },
   "Al-Hi": {
-    "count": 24,
+    "count": 25,
     "labels": {
+      "2S": 1,
       "1M": 10,
       "2L": 1,
       "2": 3,
@@ -50,12 +51,12 @@
     },
     "issues_by_project": {
       "gl": 2,
-      "th": 15
+      "th": 16
     },
     "categories": {
       "high": 14,
       "medium": 6,
-      "low": 1
+      "low": 2
     },
     "grouped_labels": {
       "To Do": 9,
