@@ -138,7 +138,7 @@
     },
     "issues_by_project": {
       "su": 5,
-      "th": 2
+      "th": 1
     },
     "categories": {
       "high": 2,
@@ -146,7 +146,8 @@
       "low": 5
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 7
+      "WAITING FOR FEEDBACK": 6,
+      "blocked": 1
     },
     "overdues": [
       3873
@@ -273,32 +274,31 @@
     ]
   },
   "Al-Me": {
-    "count": 8,
+    "count": 7,
     "labels": {
-      "2S": 2,
+      "2S": 1,
       "2M": 3,
       "Beta": 2,
       "2L": 1
     },
     "issues_by_project": {
-      "su": 5,
+      "su": 4,
       "th": 2
     },
     "categories": {
       "high": 2,
       "medium": 4,
-      "low": 2
+      "low": 1
     },
     "grouped_labels": {
-      "In progress": 3,
       "WAITING FOR FEEDBACK": 2,
       "To Do": 2,
-      "blocked": 1
+      "blocked": 1,
+      "In progress": 2
     },
     "overdues": [
       262,
-      393,
-      1641
+      393
     ],
     "no_due_dates": [
       352,
