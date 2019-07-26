@@ -415,22 +415,20 @@
     ]
   },
   "Va-Be": {
-    "count": 3,
+    "count": 2,
     "labels": {
-      "2M": 2,
-      "Beta": 1
+      "2M": 2
     },
     "issues_by_project": {
-      "su": 3
+      "su": 2
     },
     "categories": {
-      "high": 1,
+      "high": 0,
       "medium": 2,
       "low": 0
     },
     "grouped_labels": {
       "In progress": 1,
-      "To Do": 1,
       "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
