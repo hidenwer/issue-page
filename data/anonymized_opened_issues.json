@@ -147,8 +147,8 @@
       "low": 5
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 6,
-      "To Do": 2
+      "WAITING FOR FEEDBACK": 5,
+      "To Do": 3
     },
     "overdues": [
       3873,
@@ -159,27 +159,27 @@
     ]
   },
   "st-nd": {
-    "count": 8,
+    "count": 7,
     "labels": {
-      "2S": 4,
+      "2S": 3,
       "2M": 3,
       "1M": 1
     },
     "issues_by_project": {
-      "su": 5,
+      "su": 4,
       "th": 3
     },
     "categories": {
       "high": 1,
       "medium": 3,
-      "low": 4
+      "low": 3
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 6,
+      "WAITING FOR FEEDBACK": 5,
       "In progress": 3
     },
     "overdues": [
-      3879
+
     ],
     "no_due_dates": [
 
@@ -308,31 +308,30 @@
     ]
   },
   "St-Sp": {
-    "count": 8,
+    "count": 7,
     "labels": {
       "2S": 2,
-      "2M": 3,
       "1S": 1,
+      "2M": 2,
       "1M": 2
     },
     "issues_by_project": {
       "fe": 1,
       "ro": 1,
-      "su": 3,
+      "su": 2,
       "th": 3
     },
     "categories": {
       "high": 3,
-      "medium": 3,
+      "medium": 2,
       "low": 2
     },
     "grouped_labels": {
       "In progress": 4,
-      "WAITING FOR FEEDBACK": 3,
-      "To Do": 1
+      "To Do": 1,
+      "WAITING FOR FEEDBACK": 2
     },
     "overdues": [
-      3870,
       3406,
       3840
     ],
@@ -371,27 +370,27 @@
     ]
   },
   "Da-Ni": {
-    "count": 9,
+    "count": 8,
     "labels": {
       "2S": 5,
       "1S": 1,
-      "2M": 3
+      "2M": 2
     },
     "issues_by_project": {
       "ro": 1,
-      "su": 6,
+      "su": 5,
       "th": 1
     },
     "categories": {
       "high": 1,
-      "medium": 3,
+      "medium": 2,
       "low": 5
     },
     "grouped_labels": {
       "To Do": 2,
       "blocked": 1,
       "In progress": 2,
-      "WAITING FOR FEEDBACK": 4
+      "WAITING FOR FEEDBACK": 3
     },
     "overdues": [
       3842,
@@ -447,8 +446,8 @@
       "low": 4
     },
     "grouped_labels": {
-      "To Do": 1,
-      "WAITING FOR FEEDBACK": 3,
+      "To Do": 2,
+      "WAITING FOR FEEDBACK": 2,
       "In progress": 2
     },
     "overdues": [
