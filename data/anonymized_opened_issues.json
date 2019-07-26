@@ -160,8 +160,9 @@
     "count": 7,
     "labels": {
       "2S": 3,
-      "2M": 3,
-      "1M": 1
+      "2M": 2,
+      "1M": 1,
+      "2L": 1
     },
     "issues_by_project": {
       "su": 4,
