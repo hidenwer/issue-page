@@ -155,8 +155,8 @@
   "st-nd": {
     "count": 7,
     "labels": {
-      "2S": 3,
-      "2M": 2,
+      "2M": 3,
+      "2S": 2,
       "1M": 1,
       "2L": 1
     },
@@ -166,8 +166,8 @@
     },
     "categories": {
       "high": 1,
-      "medium": 3,
-      "low": 3
+      "medium": 4,
+      "low": 2
     },
     "grouped_labels": {
       "To Do": 1,
