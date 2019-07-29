@@ -33,7 +33,6 @@
       317,
       3335,
       297,
-      242,
       196
     ]
   },
@@ -91,9 +90,9 @@
     ]
   },
   "Ma-Ma": {
-    "count": 11,
+    "count": 12,
     "labels": {
-      "2S": 3,
+      "2S": 4,
       "2M": 3,
       "2L": 3,
       "1M": 2
@@ -101,17 +100,17 @@
     "issues_by_project": {
       "ro": 1,
       "st": 1,
-      "su": 2,
+      "su": 3,
       "th": 4
     },
     "categories": {
       "high": 2,
       "medium": 6,
-      "low": 3
+      "low": 4
     },
     "grouped_labels": {
+      "To Do": 3,
       "WAITING FOR FEEDBACK": 8,
-      "To Do": 2,
       "blocked": 3,
       "In progress": 1
     },
