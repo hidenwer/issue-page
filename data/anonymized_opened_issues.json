@@ -100,7 +100,7 @@
       "ro": 1,
       "st": 1,
       "su": 4,
-      "th": 1
+      "th": 2
     },
     "categories": {
       "high": 2,
@@ -108,17 +108,17 @@
       "low": 5
     },
     "grouped_labels": {
-      "To Do": 2,
-      "WAITING FOR FEEDBACK": 9,
-      "blocked": 6,
+      "To Do": 3,
+      "WAITING FOR FEEDBACK": 8,
+      "blocked": 5,
       "In progress": 1
     },
     "overdues": [
 
     ],
     "no_due_dates": [
-      424,
       420,
+      418,
       406,
       314,
       346,
