@@ -107,10 +107,10 @@
       "low": 5
     },
     "grouped_labels": {
-      "In progress": 2,
-      "WAITING FOR FEEDBACK": 7,
+      "WAITING FOR FEEDBACK": 8,
       "To Do": 3,
-      "blocked": 5
+      "blocked": 5,
+      "In progress": 1
     },
     "overdues": [
       3885
@@ -156,28 +156,27 @@
     ]
   },
   "An-Ma-Se": {
-    "count": 10,
+    "count": 9,
     "labels": {
-      "2S": 4,
+      "2S": 3,
       "1S": 2,
       "2M": 1,
       "1M": 2,
       "Beta": 1
     },
     "issues_by_project": {
-      "ro": 1,
       "su": 7,
       "th": 1
     },
     "categories": {
       "high": 5,
       "medium": 1,
-      "low": 4
+      "low": 3
     },
     "grouped_labels": {
       "WAITING FOR FEEDBACK": 6,
       "To Do": 1,
-      "In progress": 2,
+      "In progress": 1,
       "blocked": 1
     },
     "overdues": [
@@ -290,9 +289,9 @@
       "low": 6
     },
     "grouped_labels": {
-      "To Do": 6,
-      "In progress": 2,
-      "WAITING FOR FEEDBACK": 1
+      "To Do": 5,
+      "WAITING FOR FEEDBACK": 2,
+      "In progress": 2
     },
     "overdues": [
       380,
