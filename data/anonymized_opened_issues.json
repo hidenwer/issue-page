@@ -48,7 +48,7 @@
     },
     "issues_by_project": {
       "gl": 2,
-      "th": 17
+      "th": 15
     },
     "categories": {
       "high": 13,
@@ -57,8 +57,8 @@
     },
     "grouped_labels": {
       "WAITING FOR FEEDBACK": 9,
-      "To Do": 10,
-      "blocked": 6,
+      "To Do": 9,
+      "blocked": 8,
       "In progress": 1
     },
     "overdues": [
@@ -164,8 +164,7 @@
       "Beta": 1
     },
     "issues_by_project": {
-      "su": 9,
-      "th": 1
+      "su": 9
     },
     "categories": {
       "high": 4,
@@ -173,10 +172,10 @@
       "low": 7
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 7,
+      "WAITING FOR FEEDBACK": 8,
       "In progress": 1,
-      "To Do": 2,
-      "blocked": 1
+      "To Do": 1,
+      "blocked": 2
     },
     "overdues": [
 
