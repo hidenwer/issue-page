@@ -25,7 +25,7 @@
       "WAITING FOR FEEDBACK": 2
     },
     "overdues": [
-      3413
+
     ],
     "no_due_dates": [
       378,
@@ -157,26 +157,25 @@
     ]
   },
   "An-Ma-Se": {
-    "count": 12,
+    "count": 11,
     "labels": {
       "2S": 7,
       "1S": 1,
-      "2M": 1,
       "1M": 2,
       "Beta": 1
     },
     "issues_by_project": {
-      "su": 10,
+      "su": 9,
       "th": 1
     },
     "categories": {
       "high": 4,
-      "medium": 1,
+      "medium": 0,
       "low": 7
     },
     "grouped_labels": {
       "To Do": 2,
-      "WAITING FOR FEEDBACK": 9,
+      "WAITING FOR FEEDBACK": 8,
       "blocked": 1
     },
     "overdues": [
