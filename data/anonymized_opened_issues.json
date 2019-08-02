@@ -108,8 +108,8 @@
       "low": 7
     },
     "grouped_labels": {
-      "To Do": 3,
-      "WAITING FOR FEEDBACK": 9,
+      "WAITING FOR FEEDBACK": 10,
+      "To Do": 2,
       "blocked": 5,
       "In progress": 1
     },
