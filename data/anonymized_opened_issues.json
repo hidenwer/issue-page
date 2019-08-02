@@ -157,23 +157,23 @@
     ]
   },
   "An-Ma-Se": {
-    "count": 11,
+    "count": 10,
     "labels": {
-      "2S": 7,
+      "2S": 6,
       "1S": 1,
       "1M": 2,
       "Beta": 1
     },
     "issues_by_project": {
-      "su": 9
+      "su": 8
     },
     "categories": {
       "high": 4,
       "medium": 0,
-      "low": 7
+      "low": 6
     },
     "grouped_labels": {
-      "To Do": 3,
+      "To Do": 2,
       "In progress": 1,
       "WAITING FOR FEEDBACK": 6,
       "blocked": 2
