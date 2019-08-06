@@ -105,7 +105,7 @@
       "ro": 1,
       "st": 1,
       "su": 11,
-      "th": 1
+      "th": 2
     },
     "categories": {
       "high": 3,
@@ -115,8 +115,8 @@
     "grouped_labels": {
       "To Do": 7,
       "WAITING FOR FEEDBACK": 5,
-      "In progress": 2,
-      "blocked": 5
+      "In progress": 3,
+      "blocked": 4
     },
     "overdues": [
 
