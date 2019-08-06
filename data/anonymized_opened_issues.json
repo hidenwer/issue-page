@@ -1,7 +1,8 @@
 {
   "Ed-Ma": {
-    "count": 14,
+    "count": 15,
     "labels": {
+      "2S": 1,
       "2L": 1,
       "1S": 1,
       "1M": 2,
@@ -12,16 +13,17 @@
     "issues_by_project": {
       "gl": 1,
       "ro": 2,
+      "su": 1,
       "th": 9
     },
     "categories": {
       "high": 3,
       "medium": 10,
-      "low": 1
+      "low": 2
     },
     "grouped_labels": {
+      "To Do": 6,
       "In progress": 5,
-      "To Do": 5,
       "blocked": 2,
       "WAITING FOR FEEDBACK": 1
     },
@@ -369,26 +371,26 @@
     ]
   },
   "Eu-Mo": {
-    "count": 11,
+    "count": 10,
     "labels": {
-      "2S": 7,
+      "2S": 6,
       "1S": 1,
       "2M": 2,
       "Beta": 1
     },
     "issues_by_project": {
       "ro": 1,
-      "su": 8,
+      "su": 7,
       "th": 2
     },
     "categories": {
       "high": 2,
       "medium": 2,
-      "low": 7
+      "low": 6
     },
     "grouped_labels": {
       "To Do": 4,
-      "In progress": 4,
+      "In progress": 3,
       "WAITING FOR FEEDBACK": 3
     },
     "overdues": [
