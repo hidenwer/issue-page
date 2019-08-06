@@ -95,7 +95,8 @@
   "Ma-Ma": {
     "count": 19,
     "labels": {
-      "2S": 10,
+      "2S": 9,
+      "1S": 1,
       "2M": 4,
       "2L": 3,
       "1M": 2
@@ -107,9 +108,9 @@
       "th": 1
     },
     "categories": {
-      "high": 2,
+      "high": 3,
       "medium": 7,
-      "low": 10
+      "low": 9
     },
     "grouped_labels": {
       "To Do": 6,
