@@ -64,6 +64,7 @@
       "In progress": 1
     },
     "overdues": [
+      500,
       499
     ],
     "no_due_dates": [
@@ -117,7 +118,8 @@
       "blocked": 4
     },
     "overdues": [
-
+      3954,
+      3907
     ],
     "no_due_dates": [
       420,
@@ -215,7 +217,7 @@
       "WAITING FOR FEEDBACK": 4
     },
     "overdues": [
-
+      3579
     ],
     "no_due_dates": [
       252
@@ -247,6 +249,7 @@
     },
     "overdues": [
       3423,
+      3956,
       3947
     ],
     "no_due_dates": [
@@ -308,6 +311,7 @@
       "In progress": 4
     },
     "overdues": [
+      3925,
       380,
       379
     ],
