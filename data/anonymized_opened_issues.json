@@ -1,8 +1,8 @@
 {
   "Ed-Ma": {
-    "count": 13,
+    "count": 15,
     "labels": {
-      "2S": 1,
+      "2S": 3,
       "2L": 1,
       "1M": 2,
       "3L": 1,
@@ -12,16 +12,16 @@
     "issues_by_project": {
       "gl": 1,
       "ro": 1,
-      "su": 1,
+      "su": 3,
       "th": 8
     },
     "categories": {
       "high": 2,
       "medium": 9,
-      "low": 2
+      "low": 4
     },
     "grouped_labels": {
-      "To Do": 6,
+      "To Do": 8,
       "In progress": 4,
       "blocked": 2
     },
