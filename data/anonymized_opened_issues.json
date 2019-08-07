@@ -49,7 +49,7 @@
     },
     "issues_by_project": {
       "gl": 2,
-      "th": 17
+      "th": 18
     },
     "categories": {
       "high": 14,
@@ -59,7 +59,7 @@
     "grouped_labels": {
       "To Do": 7,
       "WAITING FOR FEEDBACK": 9,
-      "blocked": 9,
+      "blocked": 8,
       "In progress": 1
     },
     "overdues": [
