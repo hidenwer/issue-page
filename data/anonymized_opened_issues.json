@@ -36,11 +36,11 @@
     ]
   },
   "Al-Hi": {
-    "count": 32,
+    "count": 33,
     "labels": {
+      "2S": 4,
       "1M": 11,
       "2M": 9,
-      "2S": 3,
       "1L": 3,
       "2L": 1,
       "2": 1,
@@ -50,12 +50,12 @@
     },
     "issues_by_project": {
       "gl": 2,
-      "th": 22
+      "th": 23
     },
     "categories": {
       "high": 16,
       "medium": 11,
-      "low": 4
+      "low": 5
     },
     "grouped_labels": {
       "To Do": 9,
@@ -192,9 +192,8 @@
   "st-nd": {
     "count": 13,
     "labels": {
-      "2S": 6,
+      "2S": 7,
       "2M": 5,
-      "2L": 1,
       "1M": 1
     },
     "issues_by_project": {
@@ -203,8 +202,8 @@
     },
     "categories": {
       "high": 1,
-      "medium": 6,
-      "low": 6
+      "medium": 5,
+      "low": 7
     },
     "grouped_labels": {
       "In progress": 6,
