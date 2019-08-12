@@ -420,5 +420,28 @@
     "no_due_dates": [
       3650
     ]
+  },
+  "Va-Be": {
+    "count": 1,
+    "labels": {
+      "2S": 1
+    },
+    "issues_by_project": {
+      "su": 1
+    },
+    "categories": {
+      "high": 0,
+      "medium": 0,
+      "low": 1
+    },
+    "grouped_labels": {
+      "To Do": 1
+    },
+    "overdues": [
+
+    ],
+    "no_due_dates": [
+
+    ]
   }
 }
