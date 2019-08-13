@@ -91,12 +91,12 @@
     ]
   },
   "Ma-Ma": {
-    "count": 15,
+    "count": 16,
     "labels": {
+      "2S": 2,
       "1S": 2,
       "2": 1,
       "2M": 6,
-      "2S": 1,
       "2L": 3,
       "1M": 2
     },
@@ -104,15 +104,15 @@
       "ro": 2,
       "st": 1,
       "su": 4,
-      "th": 4
+      "th": 5
     },
     "categories": {
       "high": 4,
       "medium": 9,
-      "low": 1
+      "low": 2
     },
     "grouped_labels": {
-      "In progress": 5,
+      "In progress": 6,
       "To Do": 2,
       "WAITING FOR FEEDBACK": 5,
       "blocked": 4
