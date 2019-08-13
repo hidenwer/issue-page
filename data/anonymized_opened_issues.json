@@ -250,23 +250,23 @@
     ]
   },
   "Al-Me": {
-    "count": 6,
+    "count": 7,
     "labels": {
-      "2S": 3,
+      "2S": 4,
       "2M": 2,
       "2L": 1
     },
     "issues_by_project": {
-      "su": 3,
+      "su": 4,
       "th": 2
     },
     "categories": {
       "high": 0,
       "medium": 3,
-      "low": 3
+      "low": 4
     },
     "grouped_labels": {
-      "To Do": 3,
+      "To Do": 4,
       "blocked": 1,
       "WAITING FOR FEEDBACK": 2
     },
