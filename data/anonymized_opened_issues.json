@@ -269,9 +269,9 @@
       "low": 5
     },
     "grouped_labels": {
-      "To Do": 6,
-      "blocked": 1,
-      "WAITING FOR FEEDBACK": 2
+      "To Do": 5,
+      "WAITING FOR FEEDBACK": 3,
+      "blocked": 1
     },
     "overdues": [
       262,
@@ -381,8 +381,7 @@
       "2M": 1
     },
     "issues_by_project": {
-      "ro": 1,
-      "su": 9,
+      "su": 10,
       "th": 1
     },
     "categories": {
