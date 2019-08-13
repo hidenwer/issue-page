@@ -222,23 +222,23 @@
     ]
   },
   "St-Sp": {
-    "count": 11,
+    "count": 12,
     "labels": {
-      "2S": 8,
+      "2S": 9,
       "1M": 2,
       "2M": 1
     },
     "issues_by_project": {
-      "su": 7,
+      "su": 8,
       "th": 3
     },
     "categories": {
       "high": 2,
       "medium": 1,
-      "low": 8
+      "low": 9
     },
     "grouped_labels": {
-      "To Do": 3,
+      "To Do": 4,
       "WAITING FOR FEEDBACK": 6,
       "In progress": 1,
       "blocked": 1
@@ -252,23 +252,23 @@
     ]
   },
   "Al-Me": {
-    "count": 6,
+    "count": 8,
     "labels": {
-      "2S": 3,
+      "2S": 5,
       "2M": 2,
       "2L": 1
     },
     "issues_by_project": {
-      "su": 3,
+      "su": 5,
       "th": 2
     },
     "categories": {
       "high": 0,
       "medium": 3,
-      "low": 3
+      "low": 5
     },
     "grouped_labels": {
-      "To Do": 3,
+      "To Do": 5,
       "blocked": 1,
       "WAITING FOR FEEDBACK": 2
     },
@@ -373,24 +373,25 @@
     ]
   },
   "Eu-Mo": {
-    "count": 6,
+    "count": 8,
     "labels": {
-      "2S": 5,
+      "2S": 6,
+      "1S": 1,
       "2M": 1
     },
     "issues_by_project": {
       "ro": 1,
-      "su": 4,
+      "su": 6,
       "th": 1
     },
     "categories": {
-      "high": 0,
+      "high": 1,
       "medium": 1,
-      "low": 5
+      "low": 6
     },
     "grouped_labels": {
+      "To Do": 3,
       "In progress": 1,
-      "To Do": 1,
       "WAITING FOR FEEDBACK": 4
     },
     "overdues": [
@@ -401,25 +402,25 @@
     ]
   },
   "Io-Mo": {
-    "count": 4,
+    "count": 5,
     "labels": {
-      "2S": 2,
+      "2S": 3,
       "2M": 1,
       "Beta": 1
     },
     "issues_by_project": {
       "ro": 1,
-      "su": 2,
+      "su": 3,
       "th": 1
     },
     "categories": {
       "high": 1,
       "medium": 1,
-      "low": 2
+      "low": 3
     },
     "grouped_labels": {
+      "To Do": 2,
       "In progress": 1,
-      "To Do": 1,
       "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
@@ -430,23 +431,23 @@
     ]
   },
   "Va-Be": {
-    "count": 5,
+    "count": 6,
     "labels": {
-      "2S": 5
+      "2S": 6
     },
     "issues_by_project": {
       "ro": 2,
-      "su": 3
+      "su": 4
     },
     "categories": {
       "high": 0,
       "medium": 0,
-      "low": 5
+      "low": 6
     },
     "grouped_labels": {
+      "To Do": 2,
       "WAITING FOR FEEDBACK": 1,
-      "In progress": 1,
-      "To Do": 1
+      "In progress": 1
     },
     "overdues": [
 
