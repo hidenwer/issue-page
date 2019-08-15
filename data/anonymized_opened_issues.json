@@ -39,13 +39,10 @@
   "Al-Hi": {
     "count": 29,
     "labels": {
-      "": 1,
+      "1M": 13,
       "1L": 4,
-      "2M": 9,
-      "1M": 10,
+      "2M": 10,
       "2L": 1,
-      "2": 1,
-      "1": 2,
       "3L": 1
     },
     "issues_by_project": {
@@ -53,25 +50,25 @@
       "th": 18
     },
     "categories": {
-      "high": 16,
-      "medium": 10,
+      "high": 17,
+      "medium": 11,
       "low": 1
     },
     "grouped_labels": {
-      "To Do": 7,
-      "WAITING FOR FEEDBACK": 9,
+      "In progress": 3,
+      "To Do": 8,
       "blocked": 9,
-      "In progress": 1
+      "WAITING FOR FEEDBACK": 9
     },
     "overdues": [
-      477,
-      323
+
     ],
     "no_due_dates": [
       529,
       511,
       493,
       492,
+      477,
       411,
       409,
       408,
@@ -81,6 +78,7 @@
       373,
       357,
       324,
+      323,
       280,
       265,
       263,
