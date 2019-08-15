@@ -163,9 +163,9 @@
     ]
   },
   "An-Ma-Se": {
-    "count": 9,
+    "count": 10,
     "labels": {
-      "2S": 2,
+      "2S": 3,
       "1M": 3,
       "1S": 1,
       "2M": 3
@@ -174,12 +174,12 @@
       "ro": 1,
       "st": 1,
       "su": 4,
-      "th": 2
+      "th": 3
     },
     "categories": {
       "high": 4,
       "medium": 3,
-      "low": 2
+      "low": 3
     },
     "grouped_labels": {
       "In progress": 1,
@@ -453,8 +453,8 @@
       "low": 6
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 2,
-      "To Do": 2,
+      "WAITING FOR FEEDBACK": 1,
+      "To Do": 3,
       "In progress": 1
     },
     "overdues": [
