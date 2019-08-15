@@ -322,9 +322,9 @@
   "co-ci": {
     "count": 10,
     "labels": {
-      "2S": 4,
+      "2S": 3,
       "1S": 1,
-      "2M": 3,
+      "2M": 4,
       "3S": 1,
       "1M": 1
     },
@@ -335,8 +335,8 @@
     },
     "categories": {
       "high": 2,
-      "medium": 3,
-      "low": 5
+      "medium": 4,
+      "low": 4
     },
     "grouped_labels": {
       "WAITING FOR FEEDBACK": 1,
