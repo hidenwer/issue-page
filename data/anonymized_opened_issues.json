@@ -362,23 +362,23 @@
     ]
   },
   "Eu-Mo": {
-    "count": 7,
+    "count": 8,
     "labels": {
-      "2S": 5,
+      "2S": 6,
       "1S": 1,
       "2M": 1
     },
     "issues_by_project": {
-      "su": 6,
+      "su": 7,
       "th": 1
     },
     "categories": {
       "high": 1,
       "medium": 1,
-      "low": 5
+      "low": 6
     },
     "grouped_labels": {
-      "To Do": 3,
+      "To Do": 4,
       "In progress": 3,
       "WAITING FOR FEEDBACK": 1
     },
@@ -408,8 +408,8 @@
       "low": 4
     },
     "grouped_labels": {
-      "To Do": 3,
-      "WAITING FOR FEEDBACK": 1,
+      "To Do": 2,
+      "WAITING FOR FEEDBACK": 2,
       "In progress": 2
     },
     "overdues": [
