@@ -350,7 +350,7 @@
     },
     "issues_by_project": {
       "su": 4,
-      "th": 2
+      "th": 1
     },
     "categories": {
       "high": 0,
@@ -358,9 +358,9 @@
       "low": 5
     },
     "grouped_labels": {
-      "To Do": 3,
+      "To Do": 2,
       "WAITING FOR FEEDBACK": 3,
-      "blocked": 2
+      "blocked": 3
     },
     "overdues": [
 
