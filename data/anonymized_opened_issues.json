@@ -207,10 +207,10 @@
       "low": 2
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 3,
+      "WAITING FOR FEEDBACK": 4,
       "blocked": 1,
       "In progress": 3,
-      "To Do": 3
+      "To Do": 2
     },
     "overdues": [
       4018
