@@ -219,8 +219,8 @@
   "St-Sp": {
     "count": 9,
     "labels": {
-      "2S": 5,
-      "2M": 2,
+      "2S": 4,
+      "2M": 3,
       "1M": 2
     },
     "issues_by_project": {
@@ -229,8 +229,8 @@
     },
     "categories": {
       "high": 2,
-      "medium": 2,
-      "low": 5
+      "medium": 3,
+      "low": 4
     },
     "grouped_labels": {
       "To Do": 4,
