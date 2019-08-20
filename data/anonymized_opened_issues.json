@@ -201,7 +201,7 @@
     "issues_by_project": {
       "ro": 1,
       "su": 7,
-      "th": 3
+      "th": 4
     },
     "categories": {
       "high": 2,
@@ -210,9 +210,8 @@
     },
     "grouped_labels": {
       "To Do": 3,
-      "WAITING FOR FEEDBACK": 5,
-      "In progress": 4,
-      "blocked": 1
+      "WAITING FOR FEEDBACK": 4,
+      "In progress": 5
     },
     "overdues": [
 
