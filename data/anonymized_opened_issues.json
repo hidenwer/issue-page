@@ -339,8 +339,7 @@
       "2M": 3
     },
     "issues_by_project": {
-      "su": 3,
-      "th": 1
+      "su": 3
     },
     "categories": {
       "high": 0,
@@ -348,8 +347,8 @@
       "low": 4
     },
     "grouped_labels": {
-      "To Do": 2,
-      "blocked": 3,
+      "To Do": 1,
+      "blocked": 4,
       "WAITING FOR FEEDBACK": 2
     },
     "overdues": [
