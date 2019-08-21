@@ -331,21 +331,21 @@
     ]
   },
   "Da-Ni": {
-    "count": 7,
+    "count": 8,
     "labels": {
-      "2S": 4,
+      "2S": 5,
       "2M": 3
     },
     "issues_by_project": {
-      "su": 3
+      "su": 4
     },
     "categories": {
       "high": 0,
       "medium": 3,
-      "low": 4
+      "low": 5
     },
     "grouped_labels": {
-      "To Do": 2,
+      "To Do": 3,
       "blocked": 4,
       "WAITING FOR FEEDBACK": 1
     },
