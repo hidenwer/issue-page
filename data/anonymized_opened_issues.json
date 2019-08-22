@@ -180,8 +180,8 @@
       "low": 7
     },
     "grouped_labels": {
-      "To Do": 4,
-      "WAITING FOR FEEDBACK": 7,
+      "To Do": 3,
+      "WAITING FOR FEEDBACK": 8,
       "In progress": 1,
       "blocked": 1
     },
@@ -222,23 +222,23 @@
     ]
   },
   "St-Sp": {
-    "count": 9,
+    "count": 8,
     "labels": {
-      "2S": 5,
+      "2S": 4,
       "2M": 2,
       "1M": 2
     },
     "issues_by_project": {
-      "su": 5,
+      "su": 4,
       "th": 3
     },
     "categories": {
       "high": 2,
       "medium": 2,
-      "low": 5
+      "low": 4
     },
     "grouped_labels": {
-      "In progress": 3,
+      "In progress": 2,
       "WAITING FOR FEEDBACK": 3,
       "To Do": 2,
       "blocked": 1
