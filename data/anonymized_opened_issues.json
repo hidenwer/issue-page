@@ -134,7 +134,8 @@
   "da-ls": {
     "count": 7,
     "labels": {
-      "2S": 5,
+      "2S": 4,
+      "1S": 1,
       "1M": 2
     },
     "issues_by_project": {
@@ -143,12 +144,13 @@
       "su": 5
     },
     "categories": {
-      "high": 2,
+      "high": 3,
       "medium": 0,
-      "low": 5
+      "low": 4
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 5,
+      "WAITING FOR FEEDBACK": 4,
+      "To Do": 1,
       "In progress": 2
     },
     "overdues": [
