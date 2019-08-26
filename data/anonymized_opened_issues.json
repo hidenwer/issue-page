@@ -94,8 +94,7 @@
   "Ma-Ma": {
     "count": 16,
     "labels": {
-      "": 1,
-      "2S": 4,
+      "2S": 5,
       "1M": 4,
       "2M": 3,
       "2L": 4
@@ -109,7 +108,7 @@
     "categories": {
       "high": 4,
       "medium": 7,
-      "low": 4
+      "low": 5
     },
     "grouped_labels": {
       "To Do": 2,
@@ -121,7 +120,6 @@
 
     ],
     "no_due_dates": [
-      542,
       420,
       418,
       413,
@@ -196,24 +194,24 @@
     ]
   },
   "st-nd": {
-    "count": 12,
+    "count": 13,
     "labels": {
+      "2S": 5,
       "1S": 3,
-      "2S": 4,
       "1M": 3,
       "2M": 2
     },
     "issues_by_project": {
-      "su": 8,
+      "su": 9,
       "th": 4
     },
     "categories": {
       "high": 6,
       "medium": 2,
-      "low": 4
+      "low": 5
     },
     "grouped_labels": {
-      "To Do": 2,
+      "To Do": 3,
       "WAITING FOR FEEDBACK": 4,
       "In progress": 6
     },
