@@ -49,7 +49,7 @@
     },
     "issues_by_project": {
       "gl": 2,
-      "th": 21
+      "th": 20
     },
     "categories": {
       "high": 14,
@@ -59,8 +59,8 @@
     "grouped_labels": {
       "To Do": 10,
       "WAITING FOR FEEDBACK": 11,
-      "In progress": 2,
-      "blocked": 8
+      "blocked": 9,
+      "In progress": 2
     },
     "overdues": [
       537,
@@ -68,6 +68,7 @@
     ],
     "no_due_dates": [
       529,
+      515,
       511,
       508,
       477,
@@ -85,6 +86,7 @@
       263,
       251,
       249,
+      188,
       145,
       410,
       144
@@ -110,7 +112,7 @@
       "low": 5
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 7,
+      "WAITING FOR FEEDBACK": 8,
       "In progress": 2,
       "blocked": 4,
       "To Do": 1
