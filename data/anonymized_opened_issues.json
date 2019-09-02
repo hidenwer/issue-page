@@ -2,7 +2,7 @@
   "Ed-Ma": {
     "count": 17,
     "labels": {
-      "1S": 1,
+      "1M": 1,
       "2S": 3,
       "2M": 10,
       "3S": 1,
@@ -206,8 +206,8 @@
     },
     "grouped_labels": {
       "In progress": 2,
-      "To Do": 3,
-      "WAITING FOR FEEDBACK": 5
+      "To Do": 4,
+      "WAITING FOR FEEDBACK": 4
     },
     "overdues": [
 
