@@ -37,7 +37,8 @@
   "Al-Hi": {
     "count": 31,
     "labels": {
-      "1S": 2,
+      "2S": 1,
+      "1S": 1,
       "2M": 11,
       "2L": 2,
       "3M": 1,
@@ -50,9 +51,9 @@
       "th": 20
     },
     "categories": {
-      "high": 16,
+      "high": 15,
       "medium": 14,
-      "low": 1
+      "low": 2
     },
     "grouped_labels": {
       "To Do": 9,
