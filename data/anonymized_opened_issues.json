@@ -193,10 +193,11 @@
   "st-nd": {
     "count": 10,
     "labels": {
+      "": 1,
       "2S": 4,
       "2M": 3,
       "3M": 1,
-      "1M": 2
+      "1M": 1
     },
     "issues_by_project": {
       "gl": 1,
@@ -204,7 +205,7 @@
       "th": 3
     },
     "categories": {
-      "high": 2,
+      "high": 1,
       "medium": 4,
       "low": 4
     },
@@ -217,7 +218,7 @@
 
     ],
     "no_due_dates": [
-      533,
+      550,
       252
     ]
   },
