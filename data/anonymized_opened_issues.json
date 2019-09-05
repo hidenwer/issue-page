@@ -187,18 +187,20 @@
     ]
   },
   "st-nd": {
-    "count": 11,
+    "count": 12,
     "labels": {
+      "1S": 1,
       "2S": 7,
       "2M": 3,
       "1M": 1
     },
     "issues_by_project": {
+      "ro": 1,
       "su": 9,
       "th": 2
     },
     "categories": {
-      "high": 1,
+      "high": 2,
       "medium": 3,
       "low": 7
     },
