@@ -275,26 +275,26 @@
     ]
   },
   "Da-Ni": {
-    "count": 8,
+    "count": 9,
     "labels": {
+      "2S": 4,
       "Beta": 1,
-      "2S": 3,
       "2M": 4
     },
     "issues_by_project": {
-      "su": 4,
+      "su": 5,
       "th": 1
     },
     "categories": {
       "high": 1,
       "medium": 4,
-      "low": 3
+      "low": 4
     },
     "grouped_labels": {
+      "To Do": 2,
       "WAITING FOR FEEDBACK": 2,
       "In progress": 2,
-      "blocked": 3,
-      "To Do": 1
+      "blocked": 3
     },
     "overdues": [
 
