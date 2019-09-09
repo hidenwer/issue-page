@@ -133,25 +133,25 @@
     ]
   },
   "da-ls": {
-    "count": 8,
+    "count": 9,
     "labels": {
-      "2S": 4,
+      "2S": 5,
       "2LS": 1,
       "1M": 3
     },
     "issues_by_project": {
       "ro": 1,
       "st": 1,
-      "su": 5,
+      "su": 6,
       "th": 1
     },
     "categories": {
       "high": 3,
       "medium": 1,
-      "low": 4
+      "low": 5
     },
     "grouped_labels": {
-      "To Do": 2,
+      "To Do": 3,
       "WAITING FOR FEEDBACK": 1,
       "In progress": 5
     },
@@ -332,22 +332,23 @@
     ]
   },
   "Io-Mo": {
-    "count": 7,
+    "count": 8,
     "labels": {
+      "2M": 2,
       "2S": 5,
-      "2M": 1,
       "Beta": 1
     },
     "issues_by_project": {
-      "su": 7
+      "su": 7,
+      "th": 1
     },
     "categories": {
       "high": 1,
-      "medium": 1,
+      "medium": 2,
       "low": 5
     },
     "grouped_labels": {
-      "To Do": 3,
+      "To Do": 4,
       "In progress": 3,
       "WAITING FOR FEEDBACK": 1
     },
