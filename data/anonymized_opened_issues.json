@@ -91,9 +91,9 @@
     ]
   },
   "Ma-Ma": {
-    "count": 14,
+    "count": 15,
     "labels": {
-      "2S": 4,
+      "2S": 5,
       "1M": 3,
       "2M": 3,
       "2L": 4
@@ -101,16 +101,16 @@
     "issues_by_project": {
       "ro": 1,
       "st": 1,
-      "su": 1,
+      "su": 2,
       "th": 6
     },
     "categories": {
       "high": 3,
       "medium": 7,
-      "low": 4
+      "low": 5
     },
     "grouped_labels": {
-      "To Do": 2,
+      "To Do": 3,
       "WAITING FOR FEEDBACK": 5,
       "blocked": 5,
       "In progress": 2
@@ -331,23 +331,22 @@
     ]
   },
   "Io-Mo": {
-    "count": 7,
+    "count": 6,
     "labels": {
-      "2S": 5,
+      "2S": 4,
       "2M": 1,
       "Beta": 1
     },
     "issues_by_project": {
-      "su": 6,
-      "th": 1
+      "su": 6
     },
     "categories": {
       "high": 1,
       "medium": 1,
-      "low": 5
+      "low": 4
     },
     "grouped_labels": {
-      "To Do": 4,
+      "To Do": 3,
       "WAITING FOR FEEDBACK": 1,
       "In progress": 2
     },
