@@ -1,8 +1,8 @@
 {
   "Ed-Ma": {
-    "count": 18,
+    "count": 19,
     "labels": {
-      "1M": 1,
+      "1M": 2,
       "2S": 4,
       "2M": 10,
       "3S": 1,
@@ -13,10 +13,10 @@
       "gl": 3,
       "ro": 1,
       "su": 1,
-      "th": 8
+      "th": 9
     },
     "categories": {
-      "high": 1,
+      "high": 2,
       "medium": 11,
       "low": 6
     },
@@ -36,23 +36,23 @@
     ]
   },
   "Al-Hi": {
-    "count": 32,
+    "count": 33,
     "labels": {
+      "1M": 11,
       "12M": 1,
       "1L": 4,
       "1S": 1,
       "2M": 12,
       "2L": 2,
       "3M": 1,
-      "1M": 10,
       "3L": 1
     },
     "issues_by_project": {
       "gl": 2,
-      "th": 21
+      "th": 22
     },
     "categories": {
-      "high": 16,
+      "high": 17,
       "medium": 16,
       "low": 1
     },
@@ -155,8 +155,8 @@
     },
     "grouped_labels": {
       "To Do": 1,
-      "In progress": 5,
-      "WAITING FOR FEEDBACK": 3
+      "WAITING FOR FEEDBACK": 4,
+      "In progress": 4
     },
     "overdues": [
 
