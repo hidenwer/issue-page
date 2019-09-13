@@ -113,9 +113,9 @@
       "low": 8
     },
     "grouped_labels": {
-      "To Do": 2,
+      "To Do": 3,
       "In progress": 4,
-      "WAITING FOR FEEDBACK": 7,
+      "WAITING FOR FEEDBACK": 6,
       "blocked": 6
     },
     "overdues": [
@@ -152,8 +152,8 @@
       "low": 7
     },
     "grouped_labels": {
-      "To Do": 3,
-      "WAITING FOR FEEDBACK": 4,
+      "To Do": 2,
+      "WAITING FOR FEEDBACK": 5,
       "In progress": 3
     },
     "overdues": [
@@ -328,8 +328,8 @@
       "low": 5
     },
     "grouped_labels": {
-      "To Do": 3,
-      "WAITING FOR FEEDBACK": 4
+      "To Do": 4,
+      "WAITING FOR FEEDBACK": 3
     },
     "overdues": [
       4272
