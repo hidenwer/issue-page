@@ -93,29 +93,29 @@
     ]
   },
   "Ma-Ma": {
-    "count": 17,
+    "count": 18,
     "labels": {
+      "2S": 7,
       "1M": 4,
-      "2S": 6,
       "2M": 3,
       "2L": 4
     },
     "issues_by_project": {
       "ro": 2,
       "st": 1,
-      "su": 2,
+      "su": 3,
       "th": 6
     },
     "categories": {
       "high": 4,
       "medium": 7,
-      "low": 6
+      "low": 7
     },
     "grouped_labels": {
+      "To Do": 2,
       "In progress": 4,
       "WAITING FOR FEEDBACK": 6,
-      "blocked": 6,
-      "To Do": 1
+      "blocked": 6
     },
     "overdues": [
 
@@ -240,8 +240,8 @@
       "low": 2
     },
     "grouped_labels": {
-      "To Do": 8,
-      "In progress": 1,
+      "In progress": 2,
+      "To Do": 7,
       "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
