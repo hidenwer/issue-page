@@ -92,9 +92,9 @@
     ]
   },
   "Ma-Ma": {
-    "count": 21,
+    "count": 20,
     "labels": {
-      "2M": 5,
+      "2M": 4,
       "1M": 4,
       "2S": 8,
       "2L": 4
@@ -103,11 +103,11 @@
       "ro": 2,
       "st": 1,
       "su": 4,
-      "th": 8
+      "th": 7
     },
     "categories": {
       "high": 4,
-      "medium": 9,
+      "medium": 8,
       "low": 8
     },
     "grouped_labels": {
