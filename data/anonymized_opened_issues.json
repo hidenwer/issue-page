@@ -170,26 +170,26 @@
     ]
   },
   "An-Ma-Se": {
-    "count": 14,
+    "count": 15,
     "labels": {
+      "1S": 2,
       "2S": 6,
-      "1S": 1,
       "2M": 1,
       "1M": 4,
       "Beta": 2
     },
     "issues_by_project": {
       "st": 1,
-      "su": 10,
+      "su": 11,
       "th": 1
     },
     "categories": {
-      "high": 7,
+      "high": 8,
       "medium": 1,
       "low": 6
     },
     "grouped_labels": {
-      "To Do": 5,
+      "To Do": 6,
       "WAITING FOR FEEDBACK": 6,
       "blocked": 2
     },
