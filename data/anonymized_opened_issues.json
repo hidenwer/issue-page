@@ -229,8 +229,8 @@
   "Se-Vo": {
     "count": 12,
     "labels": {
-      "1S": 3,
-      "2S": 2,
+      "1S": 4,
+      "2S": 1,
       "2M": 6,
       "3L": 1
     },
@@ -240,9 +240,9 @@
       "th": 4
     },
     "categories": {
-      "high": 3,
+      "high": 4,
       "medium": 6,
-      "low": 3
+      "low": 2
     },
     "grouped_labels": {
       "To Do": 9,
