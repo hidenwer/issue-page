@@ -36,8 +36,9 @@
     ]
   },
   "Al-Hi": {
-    "count": 35,
+    "count": 36,
     "labels": {
+      "1": 1,
       "2S": 2,
       "1M": 11,
       "12M": 1,
@@ -50,10 +51,10 @@
     },
     "issues_by_project": {
       "gl": 2,
-      "th": 24
+      "th": 25
     },
     "categories": {
-      "high": 17,
+      "high": 18,
       "medium": 16,
       "low": 3
     },
@@ -70,6 +71,7 @@
       171
     ],
     "no_due_dates": [
+      590,
       532,
       515,
       511,
