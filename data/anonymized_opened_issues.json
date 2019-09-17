@@ -191,8 +191,8 @@
       "low": 6
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 6,
-      "To Do": 6,
+      "WAITING FOR FEEDBACK": 7,
+      "To Do": 5,
       "In progress": 1,
       "blocked": 2
     },
@@ -350,18 +350,18 @@
     ]
   },
   "Io-Mo": {
-    "count": 10,
+    "count": 11,
     "labels": {
+      "2M": 2,
       "2S": 8,
-      "2M": 1,
       "Beta": 1
     },
     "issues_by_project": {
-      "su": 10
+      "su": 11
     },
     "categories": {
       "high": 1,
-      "medium": 1,
+      "medium": 2,
       "low": 8
     },
     "grouped_labels": {
