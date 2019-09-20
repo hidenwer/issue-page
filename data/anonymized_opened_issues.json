@@ -41,7 +41,7 @@
     "labels": {
       "2S": 3,
       "1M": 13,
-      "1": 1,
+      "1S": 1,
       "1L": 4,
       "2M": 12,
       "2L": 2,
@@ -50,7 +50,7 @@
     },
     "issues_by_project": {
       "gl": 2,
-      "th": 26
+      "th": 24
     },
     "categories": {
       "high": 18,
@@ -58,19 +58,16 @@
       "low": 4
     },
     "grouped_labels": {
-      "To Do": 12,
-      "WAITING FOR FEEDBACK": 11,
-      "blocked": 9,
-      "In progress": 2
+      "To Do": 13,
+      "In progress": 4,
+      "WAITING FOR FEEDBACK": 9,
+      "blocked": 11
     },
     "overdues": [
-      579,
-      543,
-      506,
-      171
+
     ],
     "no_due_dates": [
-      590,
+      543,
       532,
       515,
       511,
@@ -92,6 +89,7 @@
       251,
       249,
       188,
+      171,
       145,
       410,
       144
@@ -202,30 +200,29 @@
     ]
   },
   "st-nd": {
-    "count": 18,
+    "count": 17,
     "labels": {
       "3S": 1,
       "2S": 6,
-      "1M": 6,
+      "1M": 5,
       "2M": 3,
       "1S": 1,
       "1L": 1
     },
     "issues_by_project": {
       "fe": 1,
-      "ro": 1,
       "su": 10,
       "th": 5
     },
     "categories": {
-      "high": 8,
+      "high": 7,
       "medium": 3,
       "low": 7
     },
     "grouped_labels": {
-      "To Do": 6,
-      "WAITING FOR FEEDBACK": 5,
-      "In progress": 4,
+      "To Do": 5,
+      "WAITING FOR FEEDBACK": 4,
+      "In progress": 5,
       "blocked": 1
     },
     "overdues": [
@@ -256,8 +253,8 @@
       "low": 3
     },
     "grouped_labels": {
+      "To Do": 7,
       "WAITING FOR FEEDBACK": 1,
-      "To Do": 6,
       "In progress": 5
     },
     "overdues": [
@@ -300,23 +297,23 @@
     ]
   },
   "Da-Ni": {
-    "count": 16,
+    "count": 15,
     "labels": {
-      "2S": 10,
+      "2S": 9,
       "1S": 1,
       "2M": 5
     },
     "issues_by_project": {
-      "su": 12,
+      "su": 11,
       "th": 1
     },
     "categories": {
       "high": 1,
       "medium": 5,
-      "low": 10
+      "low": 9
     },
     "grouped_labels": {
-      "To Do": 6,
+      "To Do": 5,
       "In progress": 2,
       "WAITING FOR FEEDBACK": 5,
       "blocked": 3
