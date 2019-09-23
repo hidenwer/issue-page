@@ -357,23 +357,23 @@
     ]
   },
   "Io-Mo": {
-    "count": 8,
+    "count": 9,
     "labels": {
-      "2S": 6,
+      "2S": 7,
       "1M": 1,
       "Beta": 1
     },
     "issues_by_project": {
-      "su": 7,
+      "su": 8,
       "th": 1
     },
     "categories": {
       "high": 2,
       "medium": 0,
-      "low": 6
+      "low": 7
     },
     "grouped_labels": {
-      "To Do": 4,
+      "To Do": 5,
       "WAITING FOR FEEDBACK": 2,
       "In progress": 2
     },
