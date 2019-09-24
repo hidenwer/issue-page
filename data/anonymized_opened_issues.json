@@ -360,8 +360,9 @@
   "Io-Mo": {
     "count": 8,
     "labels": {
-      "2S": 6,
+      "2S": 4,
       "1M": 1,
+      "2M": 2,
       "Beta": 1
     },
     "issues_by_project": {
@@ -370,13 +371,13 @@
     },
     "categories": {
       "high": 2,
-      "medium": 0,
-      "low": 6
+      "medium": 2,
+      "low": 4
     },
     "grouped_labels": {
-      "To Do": 4,
+      "To Do": 3,
       "WAITING FOR FEEDBACK": 3,
-      "In progress": 1
+      "In progress": 2
     },
     "overdues": [
       3650
