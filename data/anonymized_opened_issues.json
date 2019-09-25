@@ -102,9 +102,9 @@
     ]
   },
   "Ma-Ma": {
-    "count": 19,
+    "count": 20,
     "labels": {
-      "2S": 6,
+      "2S": 7,
       "1M": 6,
       "2M": 4,
       "2L": 3
@@ -113,12 +113,12 @@
       "ro": 1,
       "st": 1,
       "su": 4,
-      "th": 7
+      "th": 8
     },
     "categories": {
       "high": 6,
       "medium": 7,
-      "low": 6
+      "low": 7
     },
     "grouped_labels": {
       "To Do": 5,
@@ -239,8 +239,8 @@
   "Se-Vo": {
     "count": 10,
     "labels": {
-      "1S": 2,
-      "1M": 2,
+      "1M": 3,
+      "1S": 1,
       "2M": 5,
       "3L": 1
     },
