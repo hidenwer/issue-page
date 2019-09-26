@@ -141,30 +141,29 @@
     ]
   },
   "da-ls": {
-    "count": 10,
+    "count": 9,
     "labels": {
       "2S": 5,
-      "2M": 1,
       "1M": 4
     },
     "issues_by_project": {
       "ro": 1,
       "st": 1,
-      "su": 6,
+      "su": 5,
       "th": 2
     },
     "categories": {
       "high": 4,
-      "medium": 1,
+      "medium": 0,
       "low": 5
     },
     "grouped_labels": {
       "To Do": 3,
-      "WAITING FOR FEEDBACK": 3,
+      "WAITING FOR FEEDBACK": 2,
       "In progress": 4
     },
     "overdues": [
-      4381
+
     ],
     "no_due_dates": [
       344,
@@ -191,8 +190,8 @@
       "low": 4
     },
     "grouped_labels": {
-      "In progress": 1,
-      "To Do": 9,
+      "In progress": 2,
+      "To Do": 8,
       "WAITING FOR FEEDBACK": 1,
       "blocked": 2
     },
@@ -208,20 +207,20 @@
   "st-nd": {
     "count": 8,
     "labels": {
-      "1M": 3,
-      "2M": 4,
-      "1L": 1
+      "2M": 5,
+      "1M": 3
     },
     "issues_by_project": {
       "su": 3,
       "th": 5
     },
     "categories": {
-      "high": 4,
-      "medium": 4,
+      "high": 3,
+      "medium": 5,
       "low": 0
     },
     "grouped_labels": {
+      "To Do": 1,
       "WAITING FOR FEEDBACK": 2,
       "In progress": 4
     },
@@ -229,7 +228,7 @@
       4345
     ],
     "no_due_dates": [
-      252
+
     ]
   },
   "Se-Vo": {
@@ -310,8 +309,8 @@
       "low": 3
     },
     "grouped_labels": {
-      "To Do": 3,
-      "In progress": 4,
+      "To Do": 2,
+      "In progress": 5,
       "WAITING FOR FEEDBACK": 2,
       "blocked": 3
     },
@@ -355,29 +354,28 @@
     ]
   },
   "Io-Mo": {
-    "count": 7,
+    "count": 6,
     "labels": {
-      "2S": 3,
+      "2S": 2,
       "1M": 1,
       "2M": 2,
       "Beta": 1
     },
     "issues_by_project": {
-      "su": 6,
+      "su": 5,
       "th": 1
     },
     "categories": {
       "high": 2,
       "medium": 2,
-      "low": 3
+      "low": 2
     },
     "grouped_labels": {
-      "To Do": 4,
+      "To Do": 3,
       "WAITING FOR FEEDBACK": 1,
       "In progress": 2
     },
     "overdues": [
-      4393,
       3650
     ],
     "no_due_dates": [
