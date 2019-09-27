@@ -323,8 +323,9 @@
   "Eu-Mo": {
     "count": 10,
     "labels": {
-      "2S": 7,
+      "2S": 6,
       "3M": 1,
+      "1S": 1,
       "2M": 2
     },
     "issues_by_project": {
@@ -333,14 +334,14 @@
       "th": 2
     },
     "categories": {
-      "high": 0,
+      "high": 1,
       "medium": 3,
-      "low": 7
+      "low": 6
     },
     "grouped_labels": {
-      "To Do": 3,
+      "In progress": 4,
       "WAITING FOR FEEDBACK": 4,
-      "In progress": 3
+      "To Do": 2
     },
     "overdues": [
 
