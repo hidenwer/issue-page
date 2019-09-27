@@ -201,8 +201,7 @@
   "st-nd": {
     "count": 12,
     "labels": {
-      "1S": 1,
-      "2S": 3,
+      "2S": 4,
       "2M": 5,
       "1M": 3
     },
@@ -211,9 +210,9 @@
       "th": 5
     },
     "categories": {
-      "high": 4,
+      "high": 3,
       "medium": 5,
-      "low": 3
+      "low": 4
     },
     "grouped_labels": {
       "To Do": 4,
