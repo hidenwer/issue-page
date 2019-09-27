@@ -35,13 +35,13 @@
     ]
   },
   "Al-Hi": {
-    "count": 37,
+    "count": 36,
     "labels": {
       "2S": 2,
       "": 2,
       "1M": 13,
       "1S": 1,
-      "1L": 5,
+      "1L": 4,
       "2L": 2,
       "3M": 1,
       "2M": 10,
@@ -49,15 +49,15 @@
     },
     "issues_by_project": {
       "gl": 3,
-      "th": 23
+      "th": 22
     },
     "categories": {
-      "high": 19,
+      "high": 18,
       "medium": 13,
       "low": 3
     },
     "grouped_labels": {
-      "To Do": 13,
+      "To Do": 12,
       "WAITING FOR FEEDBACK": 9,
       "blocked": 11,
       "In progress": 2
@@ -167,25 +167,25 @@
     ]
   },
   "An-Ma-Se": {
-    "count": 10,
+    "count": 9,
     "labels": {
-      "2S": 3,
+      "2S": 2,
       "1M": 4,
       "2M": 2,
       "1S": 1
     },
     "issues_by_project": {
-      "su": 6,
+      "su": 5,
       "th": 2
     },
     "categories": {
       "high": 5,
       "medium": 2,
-      "low": 3
+      "low": 2
     },
     "grouped_labels": {
       "To Do": 4,
-      "In progress": 2,
+      "In progress": 1,
       "WAITING FOR FEEDBACK": 2,
       "blocked": 2
     },
