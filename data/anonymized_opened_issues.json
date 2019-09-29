@@ -164,24 +164,24 @@
     ]
   },
   "An-Ma-Se": {
-    "count": 10,
+    "count": 11,
     "labels": {
-      "2S": 4,
+      "2S": 5,
       "1M": 3,
       "2M": 2,
       "1S": 1
     },
     "issues_by_project": {
-      "su": 6,
+      "su": 7,
       "th": 2
     },
     "categories": {
       "high": 4,
       "medium": 2,
-      "low": 4
+      "low": 5
     },
     "grouped_labels": {
-      "To Do": 5,
+      "To Do": 6,
       "In progress": 2,
       "WAITING FOR FEEDBACK": 1,
       "blocked": 2
@@ -286,24 +286,24 @@
     ]
   },
   "Da-Ni": {
-    "count": 9,
+    "count": 10,
     "labels": {
-      "2S": 4,
+      "2S": 5,
       "2M": 3,
       "1M": 2
     },
     "issues_by_project": {
       "ro": 1,
-      "su": 5,
+      "su": 6,
       "th": 1
     },
     "categories": {
       "high": 2,
       "medium": 3,
-      "low": 4
+      "low": 5
     },
     "grouped_labels": {
-      "To Do": 3,
+      "To Do": 4,
       "In progress": 4,
       "blocked": 2
     },
