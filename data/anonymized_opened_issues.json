@@ -28,19 +28,19 @@
     },
     "overdues": [
       459,
-      414,
-      378,
       317,
-      297,
-      242,
-      40
+      297
     ],
     "no_due_dates": [
       600,
       592,
       558,
       576,
-      196
+      414,
+      378,
+      242,
+      196,
+      40
     ]
   },
   "Al-Hi": {
@@ -114,7 +114,7 @@
       "ro": 1,
       "st": 1,
       "su": 4,
-      "th": 8
+      "th": 7
     },
     "categories": {
       "high": 6,
@@ -123,14 +123,15 @@
     },
     "grouped_labels": {
       "In progress": 4,
-      "WAITING FOR FEEDBACK": 8,
+      "WAITING FOR FEEDBACK": 7,
       "To Do": 2,
-      "blocked": 6
+      "blocked": 7
     },
     "overdues": [
 
     ],
     "no_due_dates": [
+      570,
       542,
       424,
       420,
@@ -222,9 +223,9 @@
       "low": 10
     },
     "grouped_labels": {
+      "In progress": 3,
       "To Do": 9,
-      "WAITING FOR FEEDBACK": 7,
-      "In progress": 2
+      "WAITING FOR FEEDBACK": 7
     },
     "overdues": [
       428
@@ -349,7 +350,8 @@
     },
     "grouped_labels": {
       "In progress": 2,
-      "WAITING FOR FEEDBACK": 7
+      "WAITING FOR FEEDBACK": 6,
+      "To Do": 1
     },
     "overdues": [
 
