@@ -1,8 +1,8 @@
 {
   "Ed-Ma": {
-    "count": 18,
+    "count": 17,
     "labels": {
-      "2S": 3,
+      "2S": 2,
       "1S": 1,
       "1M": 3,
       "2M": 9,
@@ -12,19 +12,19 @@
     "issues_by_project": {
       "gl": 2,
       "ro": 1,
-      "su": 3,
+      "su": 2,
       "th": 5
     },
     "categories": {
       "high": 4,
       "medium": 10,
-      "low": 4
+      "low": 3
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 2,
       "To Do": 7,
       "blocked": 7,
-      "In progress": 1
+      "In progress": 1,
+      "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
       459,
@@ -102,9 +102,9 @@
     ]
   },
   "Ma-Ma": {
-    "count": 20,
+    "count": 19,
     "labels": {
-      "2S": 8,
+      "2S": 7,
       "1M": 6,
       "2M": 3,
       "2L": 3
@@ -112,18 +112,18 @@
     "issues_by_project": {
       "ro": 1,
       "st": 1,
-      "su": 4,
+      "su": 3,
       "th": 7
     },
     "categories": {
       "high": 6,
       "medium": 6,
-      "low": 8
+      "low": 7
     },
     "grouped_labels": {
       "In progress": 4,
       "WAITING FOR FEEDBACK": 6,
-      "To Do": 3,
+      "To Do": 2,
       "blocked": 7
     },
     "overdues": [
@@ -300,27 +300,27 @@
     ]
   },
   "Da-Ni": {
-    "count": 10,
+    "count": 9,
     "labels": {
       "2S": 4,
-      "1S": 2,
+      "1S": 1,
       "1M": 1,
       "2M": 3
     },
     "issues_by_project": {
       "ro": 1,
-      "su": 6,
+      "su": 5,
       "th": 1
     },
     "categories": {
-      "high": 3,
+      "high": 2,
       "medium": 3,
       "low": 4
     },
     "grouped_labels": {
       "To Do": 4,
       "In progress": 2,
-      "WAITING FOR FEEDBACK": 2,
+      "WAITING FOR FEEDBACK": 1,
       "blocked": 2
     },
     "overdues": [
@@ -332,22 +332,22 @@
     ]
   },
   "Eu-Mo": {
-    "count": 9,
+    "count": 8,
     "labels": {
-      "2S": 5,
+      "2S": 4,
       "2M": 4
     },
     "issues_by_project": {
-      "su": 7,
+      "su": 6,
       "th": 2
     },
     "categories": {
       "high": 0,
       "medium": 4,
-      "low": 5
+      "low": 4
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 7,
+      "WAITING FOR FEEDBACK": 6,
       "In progress": 1,
       "To Do": 1
     },
