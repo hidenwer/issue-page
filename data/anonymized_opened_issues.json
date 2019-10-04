@@ -284,7 +284,7 @@
       "In progress": 4
     },
     "overdues": [
-      584
+
     ],
     "no_due_dates": [
       3420,
@@ -292,25 +292,25 @@
     ]
   },
   "Da-Ni": {
-    "count": 9,
+    "count": 10,
     "labels": {
-      "2S": 5,
+      "2S": 6,
       "1S": 1,
       "1M": 1,
       "2M": 2
     },
     "issues_by_project": {
       "ro": 1,
-      "su": 5,
+      "su": 6,
       "th": 1
     },
     "categories": {
       "high": 2,
       "medium": 2,
-      "low": 5
+      "low": 6
     },
     "grouped_labels": {
-      "To Do": 5,
+      "To Do": 6,
       "In progress": 1,
       "blocked": 2,
       "WAITING FOR FEEDBACK": 1
