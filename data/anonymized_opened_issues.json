@@ -164,7 +164,7 @@
     "grouped_labels": {
       "In progress": 5,
       "To Do": 2,
-      "WAITING FOR FEEDBACK": 2
+      "WAITING FOR FEEDBACK": 3
     },
     "overdues": [
       301
@@ -330,24 +330,24 @@
     ]
   },
   "Eu-Mo": {
-    "count": 9,
+    "count": 8,
     "labels": {
       "2S": 6,
-      "2M": 3
+      "2M": 2
     },
     "issues_by_project": {
-      "su": 7,
+      "su": 6,
       "th": 2
     },
     "categories": {
       "high": 0,
-      "medium": 3,
+      "medium": 2,
       "low": 6
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 3,
-      "To Do": 3,
-      "In progress": 3
+      "WAITING FOR FEEDBACK": 2,
+      "To Do": 2,
+      "In progress": 4
     },
     "overdues": [
 
