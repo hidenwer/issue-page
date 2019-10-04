@@ -138,24 +138,22 @@
     ]
   },
   "da-ls": {
-    "count": 5,
+    "count": 4,
     "labels": {
-      "2S": 1,
       "1M": 4
     },
     "issues_by_project": {
       "ro": 1,
       "st": 1,
-      "su": 1,
       "th": 2
     },
     "categories": {
       "high": 4,
       "medium": 0,
-      "low": 1
+      "low": 0
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 2,
+      "WAITING FOR FEEDBACK": 1,
       "In progress": 3
     },
     "overdues": [
@@ -194,7 +192,8 @@
     ],
     "no_due_dates": [
       425,
-      347
+      347,
+      253
     ]
   },
   "st-nd": {
@@ -322,23 +321,23 @@
     ]
   },
   "Eu-Mo": {
-    "count": 9,
+    "count": 8,
     "labels": {
-      "2S": 5,
+      "2S": 4,
       "2M": 4
     },
     "issues_by_project": {
-      "su": 7,
+      "su": 6,
       "th": 2
     },
     "categories": {
       "high": 0,
       "medium": 4,
-      "low": 5
+      "low": 4
     },
     "grouped_labels": {
-      "In progress": 5,
-      "WAITING FOR FEEDBACK": 4
+      "WAITING FOR FEEDBACK": 4,
+      "In progress": 4
     },
     "overdues": [
 
