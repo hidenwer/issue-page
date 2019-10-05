@@ -22,6 +22,7 @@
     },
     "grouped_labels": {
       "To Do": 5,
+      "In progress": 1,
       "blocked": 5,
       "WAITING FOR FEEDBACK": 5
     },
