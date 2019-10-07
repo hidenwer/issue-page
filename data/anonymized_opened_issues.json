@@ -287,24 +287,25 @@
     ]
   },
   "Da-Ni": {
-    "count": 13,
+    "count": 14,
     "labels": {
+      "1S": 1,
       "2S": 9,
       "1M": 2,
       "2M": 2
     },
     "issues_by_project": {
       "ro": 2,
-      "su": 8,
+      "su": 9,
       "th": 1
     },
     "categories": {
-      "high": 2,
+      "high": 3,
       "medium": 2,
       "low": 9
     },
     "grouped_labels": {
-      "To Do": 6,
+      "To Do": 7,
       "In progress": 3,
       "WAITING FOR FEEDBACK": 2,
       "blocked": 2
