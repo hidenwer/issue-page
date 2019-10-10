@@ -318,24 +318,24 @@
     ]
   },
   "Eu-Mo": {
-    "count": 11,
+    "count": 12,
     "labels": {
-      "2S": 8,
+      "2S": 9,
       "2M": 3
     },
     "issues_by_project": {
-      "su": 9,
+      "su": 10,
       "th": 2
     },
     "categories": {
       "high": 0,
       "medium": 3,
-      "low": 8
+      "low": 9
     },
     "grouped_labels": {
+      "To Do": 2,
       "WAITING FOR FEEDBACK": 9,
-      "In progress": 1,
-      "To Do": 1
+      "In progress": 1
     },
     "overdues": [
 
@@ -368,7 +368,6 @@
       "In progress": 4
     },
     "overdues": [
-      4438,
       3650
     ],
     "no_due_dates": [
