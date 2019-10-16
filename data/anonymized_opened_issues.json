@@ -209,7 +209,7 @@
     "issues_by_project": {
       "gl": 1,
       "su": 4,
-      "th": 7
+      "th": 6
     },
     "categories": {
       "high": 3,
@@ -217,7 +217,8 @@
       "low": 2
     },
     "grouped_labels": {
-      "To Do": 7,
+      "blocked": 1,
+      "To Do": 6,
       "WAITING FOR FEEDBACK": 4,
       "In progress": 1
     },
@@ -225,7 +226,7 @@
 
     ],
     "no_due_dates": [
-
+      635
     ]
   },
   "Se-Vo": {
