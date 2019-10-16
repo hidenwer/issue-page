@@ -169,23 +169,23 @@
     ]
   },
   "An-Ma-Se": {
-    "count": 14,
+    "count": 15,
     "labels": {
-      "2S": 9,
+      "2S": 10,
       "2M": 2,
       "1M": 3
     },
     "issues_by_project": {
-      "su": 10,
+      "su": 11,
       "th": 2
     },
     "categories": {
       "high": 3,
       "medium": 2,
-      "low": 9
+      "low": 10
     },
     "grouped_labels": {
-      "To Do": 5,
+      "To Do": 6,
       "WAITING FOR FEEDBACK": 5,
       "In progress": 2,
       "blocked": 2
@@ -201,9 +201,8 @@
   "st-nd": {
     "count": 14,
     "labels": {
-      "2S": 4,
+      "2S": 5,
       "2M": 7,
-      "1S": 1,
       "1M": 2
     },
     "issues_by_project": {
@@ -212,13 +211,13 @@
       "th": 6
     },
     "categories": {
-      "high": 3,
+      "high": 2,
       "medium": 7,
-      "low": 4
+      "low": 5
     },
     "grouped_labels": {
-      "To Do": 4,
-      "WAITING FOR FEEDBACK": 6,
+      "To Do": 5,
+      "WAITING FOR FEEDBACK": 5,
       "blocked": 1,
       "In progress": 3
     },
@@ -262,13 +261,12 @@
     ]
   },
   "co-ci": {
-    "count": 16,
+    "count": 15,
     "labels": {
       "1S": 2,
       "2S": 6,
       "2M": 3,
       "1L": 1,
-      "3M": 1,
       "3S": 1,
       "1M": 1,
       "Beta": 1
@@ -276,17 +274,17 @@
     "issues_by_project": {
       "gl": 1,
       "ro": 2,
-      "su": 12,
+      "su": 11,
       "th": 1
     },
     "categories": {
       "high": 5,
-      "medium": 4,
+      "medium": 3,
       "low": 7
     },
     "grouped_labels": {
       "To Do": 13,
-      "In progress": 3
+      "In progress": 2
     },
     "overdues": [
 
@@ -297,25 +295,25 @@
     ]
   },
   "Da-Ni": {
-    "count": 13,
+    "count": 12,
     "labels": {
       "1S": 1,
-      "2S": 8,
+      "2S": 7,
       "1M": 1,
       "2M": 3
     },
     "issues_by_project": {
       "ro": 1,
-      "su": 9,
+      "su": 8,
       "th": 1
     },
     "categories": {
       "high": 2,
       "medium": 3,
-      "low": 8
+      "low": 7
     },
     "grouped_labels": {
-      "To Do": 6,
+      "To Do": 5,
       "WAITING FOR FEEDBACK": 4,
       "In progress": 1,
       "blocked": 2
