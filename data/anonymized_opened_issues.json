@@ -61,13 +61,13 @@
       "low": 6
     },
     "grouped_labels": {
-      "To Do": 9,
-      "WAITING FOR FEEDBACK": 10,
-      "In progress": 3,
+      "In progress": 4,
+      "WAITING FOR FEEDBACK": 11,
+      "To Do": 7,
       "blocked": 11
     },
     "overdues": [
-      624
+
     ],
     "no_due_dates": [
       634,
