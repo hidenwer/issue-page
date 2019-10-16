@@ -139,24 +139,24 @@
     ]
   },
   "da-ls": {
-    "count": 14,
+    "count": 15,
     "labels": {
-      "2S": 11,
+      "2S": 12,
       "1M": 3
     },
     "issues_by_project": {
       "ro": 1,
       "st": 1,
-      "su": 11,
+      "su": 12,
       "th": 1
     },
     "categories": {
       "high": 3,
       "medium": 0,
-      "low": 11
+      "low": 12
     },
     "grouped_labels": {
-      "To Do": 9,
+      "To Do": 10,
       "WAITING FOR FEEDBACK": 3,
       "In progress": 2
     },
