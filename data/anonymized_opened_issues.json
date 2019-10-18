@@ -263,9 +263,9 @@
   "co-ci": {
     "count": 15,
     "labels": {
-      "2S": 6,
+      "2S": 5,
       "1S": 2,
-      "2M": 3,
+      "2M": 4,
       "1L": 1,
       "3S": 1,
       "1M": 1,
@@ -279,8 +279,8 @@
     },
     "categories": {
       "high": 5,
-      "medium": 3,
-      "low": 7
+      "medium": 4,
+      "low": 6
     },
     "grouped_labels": {
       "To Do": 9,
@@ -288,7 +288,7 @@
       "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
-      4537
+
     ],
     "no_due_dates": [
       3420,
@@ -298,9 +298,9 @@
   "Da-Ni": {
     "count": 12,
     "labels": {
-      "2S": 8,
+      "2S": 7,
       "1S": 1,
-      "2M": 3
+      "2M": 4
     },
     "issues_by_project": {
       "ro": 1,
@@ -309,8 +309,8 @@
     },
     "categories": {
       "high": 1,
-      "medium": 3,
-      "low": 8
+      "medium": 4,
+      "low": 7
     },
     "grouped_labels": {
       "To Do": 6,
@@ -329,8 +329,8 @@
   "Eu-Mo": {
     "count": 13,
     "labels": {
-      "2S": 7,
-      "2M": 6
+      "2S": 6,
+      "2M": 7
     },
     "issues_by_project": {
       "su": 11,
@@ -338,17 +338,16 @@
     },
     "categories": {
       "high": 0,
-      "medium": 6,
-      "low": 7
+      "medium": 7,
+      "low": 6
     },
     "grouped_labels": {
-      "To Do": 4,
+      "To Do": 5,
       "In progress": 7,
-      "WAITING FOR FEEDBACK": 2
+      "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
       4541,
-      4533,
       4502
     ],
     "no_due_dates": [
