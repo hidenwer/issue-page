@@ -199,25 +199,25 @@
     ]
   },
   "st-nd": {
-    "count": 17,
+    "count": 16,
     "labels": {
       "1M": 4,
-      "2S": 6,
+      "2S": 5,
       "2M": 7
     },
     "issues_by_project": {
-      "su": 8,
+      "su": 7,
       "th": 9
     },
     "categories": {
       "high": 4,
       "medium": 7,
-      "low": 6
+      "low": 5
     },
     "grouped_labels": {
       "In progress": 5,
       "To Do": 6,
-      "WAITING FOR FEEDBACK": 5
+      "WAITING FOR FEEDBACK": 4
     },
     "overdues": [
 
