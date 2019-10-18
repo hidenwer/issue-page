@@ -39,9 +39,9 @@
     ]
   },
   "Al-Hi": {
-    "count": 37,
+    "count": 36,
     "labels": {
-      "2S": 8,
+      "2S": 7,
       "": 1,
       "1S": 1,
       "2M": 11,
@@ -58,13 +58,13 @@
     "categories": {
       "high": 12,
       "medium": 14,
-      "low": 10
+      "low": 9
     },
     "grouped_labels": {
-      "To Do": 9,
-      "blocked": 12,
       "WAITING FOR FEEDBACK": 11,
-      "In progress": 5
+      "In progress": 5,
+      "To Do": 8,
+      "blocked": 11
     },
     "overdues": [
 
@@ -342,8 +342,7 @@
       "In progress": 7
     },
     "overdues": [
-      4541,
-      4502
+      4541
     ],
     "no_due_dates": [
 
