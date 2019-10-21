@@ -263,9 +263,9 @@
     ]
   },
   "co-ci": {
-    "count": 9,
+    "count": 8,
     "labels": {
-      "2S": 4,
+      "2S": 3,
       "2M": 2,
       "3S": 1,
       "1M": 1,
@@ -274,18 +274,18 @@
     "issues_by_project": {
       "gl": 1,
       "ro": 1,
-      "su": 6,
+      "su": 5,
       "th": 1
     },
     "categories": {
       "high": 2,
       "medium": 2,
-      "low": 5
+      "low": 4
     },
     "grouped_labels": {
       "To Do": 6,
-      "In progress": 2,
-      "WAITING FOR FEEDBACK": 1
+      "WAITING FOR FEEDBACK": 1,
+      "In progress": 1
     },
     "overdues": [
       584,
