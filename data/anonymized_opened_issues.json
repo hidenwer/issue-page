@@ -234,25 +234,25 @@
     ]
   },
   "Se-Vo": {
-    "count": 8,
+    "count": 9,
     "labels": {
-      "2S": 2,
+      "2S": 3,
       "1M": 1,
       "2M": 4,
       "3L": 1
     },
     "issues_by_project": {
       "gl": 1,
-      "su": 4,
+      "su": 5,
       "th": 3
     },
     "categories": {
       "high": 1,
       "medium": 4,
-      "low": 3
+      "low": 4
     },
     "grouped_labels": {
-      "To Do": 6,
+      "To Do": 7,
       "In progress": 2
     },
     "overdues": [
