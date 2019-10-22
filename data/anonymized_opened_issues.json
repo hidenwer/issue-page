@@ -230,7 +230,8 @@
     ],
     "no_due_dates": [
       635,
-      625
+      625,
+      428
     ]
   },
   "Se-Vo": {
@@ -342,9 +343,9 @@
       "low": 5
     },
     "grouped_labels": {
-      "To Do": 2,
+      "To Do": 3,
       "In progress": 3,
-      "WAITING FOR FEEDBACK": 3
+      "WAITING FOR FEEDBACK": 2
     },
     "overdues": [
       456,
