@@ -170,8 +170,8 @@
   "An-Ma-Se": {
     "count": 11,
     "labels": {
-      "2S": 5,
-      "2M": 2,
+      "2S": 4,
+      "2M": 3,
       "1S": 1,
       "1M": 3
     },
@@ -181,8 +181,8 @@
     },
     "categories": {
       "high": 4,
-      "medium": 2,
-      "low": 5
+      "medium": 3,
+      "low": 4
     },
     "grouped_labels": {
       "To Do": 2,
