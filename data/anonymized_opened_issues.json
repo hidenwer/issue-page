@@ -167,25 +167,25 @@
     ]
   },
   "An-Ma-Se": {
-    "count": 11,
+    "count": 10,
     "labels": {
-      "2S": 5,
+      "2S": 4,
       "2M": 2,
       "1S": 1,
       "1M": 3
     },
     "issues_by_project": {
       "su": 7,
-      "th": 2
+      "th": 1
     },
     "categories": {
       "high": 4,
       "medium": 2,
-      "low": 5
+      "low": 4
     },
     "grouped_labels": {
-      "WAITING FOR FEEDBACK": 3,
       "To Do": 4,
+      "WAITING FOR FEEDBACK": 2,
       "In progress": 2,
       "blocked": 2
     },
@@ -225,6 +225,7 @@
     "no_due_dates": [
       635,
       625,
+      588,
       428
     ]
   },
