@@ -68,6 +68,7 @@
       624
     ],
     "no_due_dates": [
+      633,
       631,
       602,
       570,
@@ -356,8 +357,8 @@
   "Io-Mo": {
     "count": 8,
     "labels": {
-      "2S": 2,
-      "2M": 5,
+      "2M": 6,
+      "2S": 1,
       "1M": 1
     },
     "issues_by_project": {
@@ -366,8 +367,8 @@
     },
     "categories": {
       "high": 1,
-      "medium": 5,
-      "low": 2
+      "medium": 6,
+      "low": 1
     },
     "grouped_labels": {
       "To Do": 1,
@@ -375,8 +376,7 @@
       "WAITING FOR FEEDBACK": 1
     },
     "overdues": [
-      4582,
-      4575
+
     ],
     "no_due_dates": [
 
