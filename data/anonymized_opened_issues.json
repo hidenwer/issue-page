@@ -259,7 +259,7 @@
       "In progress": 6
     },
     "overdues": [
-      4596
+
     ],
     "no_due_dates": [
       414
@@ -316,10 +316,10 @@
       "low": 4
     },
     "grouped_labels": {
-      "To Do": 3,
+      "To Do": 2,
+      "In progress": 2,
       "WAITING FOR FEEDBACK": 2,
-      "blocked": 2,
-      "In progress": 1
+      "blocked": 2
     },
     "overdues": [
 
