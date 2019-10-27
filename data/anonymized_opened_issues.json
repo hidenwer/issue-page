@@ -1,9 +1,10 @@
 {
   "Ed-Ma": {
-    "count": 13,
+    "count": 14,
     "labels": {
       "1M": 2,
       "2M": 8,
+      "1S": 1,
       "2S": 1,
       "3S": 1,
       "3M": 1
@@ -11,10 +12,10 @@
     "issues_by_project": {
       "gl": 1,
       "ro": 1,
-      "th": 5
+      "th": 6
     },
     "categories": {
-      "high": 2,
+      "high": 3,
       "medium": 9,
       "low": 2
     },
@@ -39,7 +40,7 @@
     ]
   },
   "Al-Hi": {
-    "count": 39,
+    "count": 41,
     "labels": {
       "1M": 12,
       "2S": 7,
@@ -47,20 +48,21 @@
       "2M": 12,
       "2L": 2,
       "3M": 1,
-      "3L": 2
+      "3L": 2,
+      "1S": 2
     },
     "issues_by_project": {
       "gl": 2,
-      "th": 25
+      "th": 27
     },
     "categories": {
-      "high": 15,
+      "high": 17,
       "medium": 15,
       "low": 9
     },
     "grouped_labels": {
       "To Do": 9,
-      "WAITING FOR FEEDBACK": 15,
+      "WAITING FOR FEEDBACK": 16,
       "In progress": 4,
       "blocked": 12
     },
