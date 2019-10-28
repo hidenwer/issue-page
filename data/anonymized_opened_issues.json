@@ -68,7 +68,7 @@
       "blocked": 12
     },
     "overdues": [
-
+      666
     ],
     "no_due_dates": [
       653,
@@ -206,27 +206,27 @@
     ]
   },
   "st-nd": {
-    "count": 16,
+    "count": 17,
     "labels": {
       "2S": 6,
+      "2M": 5,
       "1M": 5,
-      "1S": 1,
-      "2M": 4
+      "1S": 1
     },
     "issues_by_project": {
       "fe": 1,
-      "su": 5,
+      "su": 6,
       "th": 10
     },
     "categories": {
       "high": 6,
-      "medium": 4,
+      "medium": 5,
       "low": 6
     },
     "grouped_labels": {
       "To Do": 6,
-      "In progress": 5,
-      "WAITING FOR FEEDBACK": 5
+      "WAITING FOR FEEDBACK": 6,
+      "In progress": 5
     },
     "overdues": [
 
