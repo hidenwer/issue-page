@@ -107,9 +107,9 @@
     ]
   },
   "Ma-Ma": {
-    "count": 21,
+    "count": 22,
     "labels": {
-      "2S": 4,
+      "2S": 5,
       "2M": 6,
       "1L": 1,
       "1M": 7,
@@ -119,17 +119,17 @@
       "ro": 1,
       "st": 1,
       "su": 2,
-      "th": 11
+      "th": 12
     },
     "categories": {
       "high": 8,
       "medium": 9,
-      "low": 4
+      "low": 5
     },
     "grouped_labels": {
+      "In progress": 5,
       "WAITING FOR FEEDBACK": 8,
       "To Do": 3,
-      "In progress": 4,
       "blocked": 6
     },
     "overdues": [
@@ -230,7 +230,7 @@
       "low": 5
     },
     "grouped_labels": {
-      "To Do": 5,
+      "To Do": 4,
       "blocked": 1,
       "WAITING FOR FEEDBACK": 6,
       "In progress": 3
