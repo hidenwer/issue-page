@@ -317,22 +317,22 @@
     ]
   },
   "Da-Ni": {
-    "count": 9,
+    "count": 8,
     "labels": {
-      "2S": 7,
+      "2S": 6,
       "2M": 2
     },
     "issues_by_project": {
-      "su": 6,
+      "su": 5,
       "th": 1
     },
     "categories": {
       "high": 0,
       "medium": 2,
-      "low": 7
+      "low": 6
     },
     "grouped_labels": {
-      "To Do": 4,
+      "To Do": 3,
       "WAITING FOR FEEDBACK": 2,
       "blocked": 2,
       "In progress": 1
@@ -374,23 +374,23 @@
     ]
   },
   "Io-Mo": {
-    "count": 8,
+    "count": 9,
     "labels": {
       "2S": 5,
       "1M": 1,
-      "2M": 2
+      "2M": 3
     },
     "issues_by_project": {
-      "su": 7,
+      "su": 8,
       "th": 1
     },
     "categories": {
       "high": 1,
-      "medium": 2,
+      "medium": 3,
       "low": 5
     },
     "grouped_labels": {
-      "To Do": 5,
+      "To Do": 6,
       "In progress": 3
     },
     "overdues": [
