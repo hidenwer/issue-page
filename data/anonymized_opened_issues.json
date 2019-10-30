@@ -46,9 +46,9 @@
     ]
   },
   "Al-Hi": {
-    "count": 46,
+    "count": 45,
     "labels": {
-      "1M": 14,
+      "1M": 13,
       "2S": 6,
       "2M": 14,
       "1S": 4,
@@ -59,16 +59,16 @@
     },
     "issues_by_project": {
       "gl": 3,
-      "th": 32
+      "th": 31
     },
     "categories": {
-      "high": 21,
+      "high": 20,
       "medium": 17,
       "low": 8
     },
     "grouped_labels": {
       "To Do": 13,
-      "WAITING FOR FEEDBACK": 20,
+      "WAITING FOR FEEDBACK": 19,
       "In progress": 3,
       "blocked": 11
     },
@@ -155,8 +155,8 @@
   "da-ls": {
     "count": 10,
     "labels": {
-      "2S": 5,
-      "2M": 1,
+      "2S": 4,
+      "2M": 2,
       "1M": 4
     },
     "issues_by_project": {
@@ -167,8 +167,8 @@
     },
     "categories": {
       "high": 4,
-      "medium": 1,
-      "low": 5
+      "medium": 2,
+      "low": 4
     },
     "grouped_labels": {
       "To Do": 2,
@@ -187,8 +187,8 @@
   "An-Ma-Se": {
     "count": 10,
     "labels": {
-      "2S": 5,
-      "2M": 2,
+      "2S": 4,
+      "2M": 3,
       "1M": 3
     },
     "issues_by_project": {
@@ -197,8 +197,8 @@
     },
     "categories": {
       "high": 3,
-      "medium": 2,
-      "low": 5
+      "medium": 3,
+      "low": 4
     },
     "grouped_labels": {
       "To Do": 1,
@@ -351,7 +351,8 @@
   "Eu-Mo": {
     "count": 11,
     "labels": {
-      "2S": 7,
+      "3S": 1,
+      "2S": 6,
       "2M": 4
     },
     "issues_by_project": {
