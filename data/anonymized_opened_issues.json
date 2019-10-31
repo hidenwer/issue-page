@@ -217,18 +217,18 @@
   "st-nd": {
     "count": 15,
     "labels": {
-      "2M": 6,
+      "1M": 5,
       "2S": 4,
-      "1S": 1,
-      "1M": 4
+      "2M": 5,
+      "1S": 1
     },
     "issues_by_project": {
       "su": 5,
       "th": 9
     },
     "categories": {
-      "high": 5,
-      "medium": 6,
+      "high": 6,
+      "medium": 5,
       "low": 4
     },
     "grouped_labels": {
@@ -241,7 +241,6 @@
 
     ],
     "no_due_dates": [
-      682,
       642,
       635,
       625,
