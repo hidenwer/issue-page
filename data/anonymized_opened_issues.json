@@ -194,28 +194,6 @@
 
       ]
     },
-    "Ir-Un": {
-      "service_count": 2,
-      "count": 10,
-      "labels": {
-        "1M": 1,
-        "1S": 1,
-        "2S": 3,
-        "3L": 1,
-        "3S": 1,
-        "L": 1
-      },
-      "issues_by_project": {
-        "in/de": 8,
-        "se/gl": 1,
-        "se/su": 1
-      },
-      "categories": {
-        "low": 5,
-        "medium": 0,
-        "high": 2
-      }
-    },
     "Ma-Gu": {
       "service_count": 14,
       "count": 14,
@@ -414,16 +392,6 @@
         "3": 1
       }
     },
-    "Ir-Un": {
-      "count": 0,
-      "labels": {
-        "On": 0,
-        "Bl": 0,
-        "1": 0,
-        "2": 0,
-        "3": 0
-      }
-    },
     "Ma-Gu": {
       "count": 1,
       "labels": {
@@ -488,10 +456,10 @@
       }
     },
     "An-Ma-Se": {
-      "count": 49,
+      "count": 48,
       "labels": {
         "WA": 8,
-        "On": 5,
+        "On": 4,
         "Bl": 4,
         "1": 14,
         "2": 13,
@@ -562,17 +530,6 @@
         "1": 3,
         "2": 6,
         "3": 5
-      }
-    },
-    "Ir-Un": {
-      "count": 2,
-      "labels": {
-        "WA": 0,
-        "On": 0,
-        "Bl": 0,
-        "1": 0,
-        "2": 2,
-        "3": 0
       }
     },
     "Ma-Gu": {
