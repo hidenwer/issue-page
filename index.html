@@ -1,70 +1,137 @@
 <!DOCTYPE html>
 <html>
+<style>
+    .center {
+        margin: auto;
+        width: 97%;
+    }
+</style>
 
 <head>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.min.js"></script>
-  <div class="chart-container" style="position: relative; height:40vh; width:100vw">
-    <canvas id="canvas"></canvas>
-  </div>
-  <script>
-    const randomColor = () => `#${Math.floor(Math.random() * 0xffffff).toString(16)}`
-
-    $.getJSON("https://hidenwer.github.io/issue-page/data/anonymized_opened_issues.json", function(json) {
-      const data = Object.keys(json).map(name => {
-        const dev = json[name]
-        dev.name = name
-        return dev
-      }).sort((a, b) => b.count - (b.grouped_labels.blocked || 0) - a.count + (a.grouped_labels.blocked || 0))
-
-      let labels = data
-        .map(dev => Object.keys(dev.issues_by_project))
-        .reduce((a, b) => a.concat(b))
-      labels = [...new Set(labels)].sort()
-
-      console.log(labels)
-      console.log(data)
-      const barChartData = {
-        labels: data.map(dev => dev.name),
-        datasets: labels.map(label => {
-          const values = data.map(dev => dev.issues_by_project[label] || 0)
-          return {
-            label: label,
-            backgroundColor: randomColor(),
-            data: values
-          }
-        })
-      }
-
-      const ctx = document.getElementById('canvas').getContext('2d');
-      window.myBar = new Chart(ctx, {
-        type: 'bar',
-        data: barChartData,
-        options: {
-          title: {
-            display: true,
-            text: 'Chart.js Bar Chart - Stacked'
-          },
-          tooltips: {
-            mode: 'index',
-            intersect: false
-          },
-          responsive: true,
-          scales: {
-            xAxes: [{
-              stacked: true,
-            }],
-            yAxes: [{
-              stacked: true
-            }]
-          }
-        }
-      });
-    });
-  </script>
+    <link rel="apple-touch-icon" sizes="180x180" href="favicon_package_v0/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon_package_v0/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon_package_v0/favicon-16x16.png">
+    <link rel="manifest" href="favicon_package_v0/site.webmanifest">
+    <link rel="mask-icon" href="favicon_package_v0/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.min.js"></script>
 </head>
 
 <body>
+    <ul class="nav nav-pills mb-3 center" id="pills-tab" role="tablist">
+        <li class="nav-item">
+            <a class="nav-link" id="load-tab" data-toggle="pill" href="#load" role="tab" aria-controls="load" aria-selected="false">load</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" id="lbl-tab" data-toggle="pill" href="#lbl" role="tab" aria-controls="lbl" aria-selected="false">lbl</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" id="int-tab" data-toggle="pill" href="#int" role="tab" aria-controls="int" aria-selected="false">int</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" id="s-tab" data-toggle="pill" href="#s" role="tab" aria-controls="s" aria-selected="false">S</a>
+        </li>
+    </ul>
+    <div class="tab-content" id="pills-tabContent">
+        <div class="tab-pane fade" id="load" role="tabpanel" aria-labelledby="pills-home-tab">
+          <div class="chart-container center">
+              <canvas></canvas>
+          </div>
+        </div>
+        <div class="tab-pane fade" id="lbl" role="tabpanel" aria-labelledby="pills-profile-tab">
+          <div class="chart-container center">
+              <canvas></canvas>
+          </div>
+        </div>
+        <div class="tab-pane fade" id="int" role="tabpanel" aria-labelledby="pills-profile-tab">
+          <div class="chart-container center">
+              <canvas></canvas>
+          </div>
+        </div>
+        <div class="tab-pane fade" id="s" role="tabpanel" aria-labelledby="pills-contact-tab">
+          <div class="chart-container center">
+              <canvas></canvas>
+          </div>
+        </div>
+    </div>
+
+    <script>
+        $(`#${localStorage.selectedTab || 'load-tab'}`).tab('show')
+        $('a[data-toggle="pill"]').on('shown.bs.tab', event => localStorage.selectedTab = event.target.id)
+
+        const randomColor = () => `#${Math.floor(Math.random() * 0xffffff).toString(16)}`
+
+        function draw(tab) {
+            // console.log(tab)
+            data = Object.keys(window.json[tab]).map(name => {
+                // console.log(name)
+                const dev = window.json[tab][name]
+                dev.name  = name
+                return dev
+            }).sort((a, b) => b.count - a.count)
+            let labels = data
+                .map(dev => Object.keys(dev.issues_by_project || dev.labels))
+                .reduce((a, b) => a.concat(b))
+            labels = [...new Set(labels)].sort()
+
+            const barChartData = {
+                labels: data.map(dev => dev.name),
+                datasets: labels.map(label => {
+                    const values = data.map(dev => labelContainer(dev)[label] || 0)
+                    return {
+                        label: label,
+                        backgroundColor: randomColor(),
+                        data: values
+                    }
+                })
+            }
+
+            function labelContainer(dev) {
+              if (dev.issues_by_project) {
+                return dev.issues_by_project;
+              } else {
+                return dev.labels;
+              }
+            }
+
+            const ctx = document.querySelector(`div#${tab} canvas`).getContext('2d');
+            window.myBar = new Chart(ctx, {
+                type: 'bar',
+                data: barChartData,
+                options: {
+                    tooltips: {
+                        mode: 'index',
+                        intersect: false
+                    },
+                    responsive: true,
+                    scales: {
+                        xAxes: [{
+                            stacked: true,
+                        }],
+                        yAxes: [{
+                            stacked: true
+                        }]
+                    }
+                }
+            });
+        }
+
+        $.getJSON("https://hidenwer.github.io/issue-page/data/anonymized_opened_issues.json", function(json) {
+            delete json.lbl["An-Ma-Se"];
+            delete json.load["An-Ma-Se"];
+
+            window.json = json
+            draw("load")
+            draw("int")
+            draw("lbl")
+            draw("s")
+        });
+    </script>
 </body>
 
 </html>

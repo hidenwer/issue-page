@@ -1,407 +1,678 @@
 {
-  "Ed-Ma": {
-    "count": 18,
-    "labels": {
-      "2S": 2,
-      "1S": 2,
-      "2M": 9,
-      "": 1,
-      "1M": 2,
-      "3S": 1,
-      "3M": 1
+  "load": {
+    "Al-Hi": {
+      "service_count": 23,
+      "count": 23,
+      "labels": {
+        "1L": 1,
+        "1M": 5,
+        "1S": 10,
+        "2L": 1,
+        "2M": 2,
+        "2S": 2,
+        "3L": 1,
+        "3M": 1
+      },
+      "issues_by_project": {
+        "se/su": 5,
+        "se/th": 18
+      },
+      "categories": {
+        "low": 3,
+        "medium": 4,
+        "high": 16
+      }
     },
-    "issues_by_project": {
-      "gl": 2,
-      "ro": 2,
-      "su": 1,
-      "th": 7
+    "An-Ma-Se": {
+      "service_count": 31,
+      "count": 32,
+      "labels": {
+        "1L": 1,
+        "1M": 8,
+        "1S": 5,
+        "2L": 5,
+        "2M": 6,
+        "2S": 2,
+        "3L": 2,
+        "3M": 1,
+        "3S": 1
+      },
+      "issues_by_project": {
+        "sa/bu": 1,
+        "se/gl": 14,
+        "se/ro": 1,
+        "se/st": 1,
+        "se/su": 2,
+        "se/th": 13
+      },
+      "categories": {
+        "low": 5,
+        "medium": 12,
+        "high": 14
+      }
     },
-    "categories": {
-      "high": 4,
-      "medium": 10,
-      "low": 3
+    "An-Mo": {
+      "service_count": 20,
+      "count": 20,
+      "labels": {
+        "1M": 5,
+        "1S": 2,
+        "2M": 4,
+        "2S": 9
+      },
+      "issues_by_project": {
+        "se/su": 10,
+        "se/th": 10
+      },
+      "categories": {
+        "low": 9,
+        "medium": 4,
+        "high": 7
+      }
     },
-    "grouped_labels": {
-      "In progress": 1,
-      "To Do": 7,
-      "blocked": 6,
-      "WAITING FOR FEEDBACK": 2
-    },
-    "overdues": [
-      317,
-      242
-    ],
-    "no_due_dates": [
-      3466,
-      664,
-      606,
-      592,
-      571,
-      558,
-      576,
-      378,
-      196,
-      40
-    ]
-  },
-  "Al-Hi": {
-    "count": 45,
-    "labels": {
-      "1M": 13,
-      "2S": 4,
-      "2M": 16,
-      "1S": 4,
-      "1L": 3,
-      "2L": 2,
-      "3M": 1,
-      "3L": 2
-    },
-    "issues_by_project": {
-      "gl": 3,
-      "th": 30
-    },
-    "categories": {
-      "high": 20,
-      "medium": 19,
-      "low": 6
-    },
-    "grouped_labels": {
-      "WAITING FOR FEEDBACK": 19,
-      "To Do": 12,
-      "In progress": 3,
-      "blocked": 12
-    },
-    "overdues": [
+    "Co-Ci": {
+      "service_count": 18,
+      "count": 18,
+      "labels": {
+        "1L": 1,
+        "1M": 4,
+        "1S": 7,
+        "2M": 2,
+        "2S": 4
+      },
+      "issues_by_project": {
+        "se/gl": 2,
+        "se/ro": 1,
+        "se/su": 12,
+        "se/th": 3
+      },
+      "categories": {
+        "low": 4,
+        "medium": 2,
+        "high": 12
+      },
+      "no_due_dates": [
 
-    ],
-    "no_due_dates": [
-      674,
-      653,
-      648,
-      633,
-      631,
-      602,
-      595,
-      570,
-      535,
-      532,
-      515,
-      508,
-      477,
-      411,
-      409,
-      408,
-      402,
-      389,
-      373,
-      357,
-      324,
-      265,
-      263,
-      251,
-      249,
-      188,
-      171,
-      145,
-      410,
-      144
-    ]
-  },
-  "Ma-Ma": {
-    "count": 21,
-    "labels": {
-      "1S": 1,
-      "2S": 5,
-      "2M": 6,
-      "1L": 1,
-      "1M": 5,
-      "2L": 3
+      ]
     },
-    "issues_by_project": {
-      "ro": 1,
-      "st": 1,
-      "su": 2,
-      "th": 11
-    },
-    "categories": {
-      "high": 7,
-      "medium": 9,
-      "low": 5
-    },
-    "grouped_labels": {
-      "WAITING FOR FEEDBACK": 10,
-      "In progress": 2,
-      "To Do": 3,
-      "blocked": 6
-    },
-    "overdues": [
+    "Da-Su": {
+      "service_count": 19,
+      "count": 19,
+      "labels": {
+        "1M": 2,
+        "1S": 8,
+        "2M": 4,
+        "2S": 3,
+        "3M": 1,
+        "Beta": 1
+      },
+      "issues_by_project": {
+        "se/su": 12,
+        "se/th": 7
+      },
+      "categories": {
+        "low": 3,
+        "medium": 5,
+        "high": 11
+      },
+      "no_due_dates": [
 
-    ],
-    "no_due_dates": [
-      620,
-      542,
-      513,
-      424,
-      420,
-      418,
-      406,
-      314,
-      346,
-      302,
-      294,
-      3044
-    ]
-  },
-  "da-ls": {
-    "count": 9,
-    "labels": {
-      "2S": 3,
-      "2M": 2,
-      "1M": 4
+      ]
     },
-    "issues_by_project": {
-      "ro": 1,
-      "st": 1,
-      "su": 5,
-      "th": 2
+    "Da-Ni": {
+      "service_count": 19,
+      "count": 22,
+      "labels": {
+        "1M": 4,
+        "1S": 4,
+        "2L": 1,
+        "2M": 5,
+        "2S": 3,
+        "3M": 2
+      },
+      "issues_by_project": {
+        "sa/bu": 3,
+        "se/gl": 1,
+        "se/su": 8,
+        "se/th": 10
+      },
+      "categories": {
+        "low": 3,
+        "medium": 8,
+        "high": 8
+      }
     },
-    "categories": {
-      "high": 4,
-      "medium": 2,
-      "low": 3
+    "Ed-Ma": {
+      "service_count": 23,
+      "count": 23,
+      "labels": {
+        "1L": 1,
+        "1M": 3,
+        "1S": 1,
+        "2L": 2,
+        "2M": 7,
+        "2S": 5,
+        "3L": 1,
+        "3M": 3
+      },
+      "issues_by_project": {
+        "se/gl": 1,
+        "se/kp": 5,
+        "se/ro": 1,
+        "se/su": 6,
+        "se/th": 10
+      },
+      "categories": {
+        "low": 6,
+        "medium": 12,
+        "high": 5
+      }
     },
-    "grouped_labels": {
-      "To Do": 1,
-      "WAITING FOR FEEDBACK": 4,
-      "In progress": 4
-    },
-    "overdues": [
+    "Eu-Mo": {
+      "service_count": 23,
+      "count": 24,
+      "labels": {
+        "1M": 4,
+        "1S": 6,
+        "2M": 6,
+        "2S": 3,
+        "3M": 2,
+        "3S": 2
+      },
+      "issues_by_project": {
+        "sa/bu": 1,
+        "se/st": 1,
+        "se/su": 13,
+        "se/th": 9
+      },
+      "categories": {
+        "low": 5,
+        "medium": 8,
+        "high": 10
+      },
+      "no_due_dates": [
 
-    ],
-    "no_due_dates": [
-      306,
-      344,
-      3277
-    ]
-  },
-  "An-Ma-Se": {
-    "count": 7,
-    "labels": {
-      "2S": 3,
-      "2M": 1,
-      "1M": 3
+      ]
     },
-    "issues_by_project": {
-      "su": 4,
-      "th": 1
+    "Ir-Un": {
+      "service_count": 2,
+      "count": 10,
+      "labels": {
+        "1M": 1,
+        "1S": 1,
+        "2S": 3,
+        "3L": 1,
+        "3S": 1,
+        "L": 1
+      },
+      "issues_by_project": {
+        "in/de": 8,
+        "se/gl": 1,
+        "se/su": 1
+      },
+      "categories": {
+        "low": 5,
+        "medium": 0,
+        "high": 2
+      }
     },
-    "categories": {
-      "high": 3,
-      "medium": 1,
-      "low": 3
-    },
-    "grouped_labels": {
-      "To Do": 1,
-      "WAITING FOR FEEDBACK": 3,
-      "In progress": 1,
-      "blocked": 2
-    },
-    "overdues": [
+    "Ma-Gu": {
+      "service_count": 14,
+      "count": 14,
+      "labels": {
+        "1S": 4,
+        "2S": 7,
+        "3M": 1,
+        "3S": 2
+      },
+      "issues_by_project": {
+        "se/su": 12,
+        "se/th": 2
+      },
+      "categories": {
+        "low": 9,
+        "medium": 1,
+        "high": 4
+      },
+      "no_due_dates": [
 
-    ],
-    "no_due_dates": [
-      425,
-      253
-    ]
-  },
-  "st-nd": {
-    "count": 15,
-    "labels": {
-      "1M": 5,
-      "2S": 4,
-      "2M": 5,
-      "1S": 1
+      ]
     },
-    "issues_by_project": {
-      "su": 5,
-      "th": 9
-    },
-    "categories": {
-      "high": 6,
-      "medium": 5,
-      "low": 4
-    },
-    "grouped_labels": {
-      "To Do": 4,
-      "blocked": 1,
-      "In progress": 4,
-      "WAITING FOR FEEDBACK": 6
-    },
-    "overdues": [
+    "Ro-Ci": {
+      "service_count": 20,
+      "count": 20,
+      "labels": {
+        "1M": 4,
+        "1S": 5,
+        "2M": 5,
+        "2S": 4,
+        "3M": 1,
+        "Beta": 1
+      },
+      "issues_by_project": {
+        "se/su": 11,
+        "se/th": 9
+      },
+      "categories": {
+        "low": 4,
+        "medium": 6,
+        "high": 10
+      },
+      "no_due_dates": [
 
-    ],
-    "no_due_dates": [
-      642,
-      635,
-      625,
-      610,
-      607,
-      588,
-      428
-    ]
-  },
-  "Se-Vo": {
-    "count": 12,
-    "labels": {
-      "1S": 1,
-      "2S": 5,
-      "2M": 3,
-      "1M": 1,
-      "3M": 1,
-      "3L": 1
+      ]
     },
-    "issues_by_project": {
-      "gl": 1,
-      "su": 6,
-      "th": 5
+    "Se-Vo": {
+      "service_count": 17,
+      "count": 17,
+      "labels": {
+        "1L": 1,
+        "1M": 3,
+        "1S": 6,
+        "2M": 1,
+        "2S": 3,
+        "3S": 3
+      },
+      "issues_by_project": {
+        "se/gl": 1,
+        "se/su": 14,
+        "se/th": 2
+      },
+      "categories": {
+        "low": 6,
+        "medium": 1,
+        "high": 10
+      }
     },
-    "categories": {
-      "high": 2,
-      "medium": 4,
-      "low": 6
-    },
-    "grouped_labels": {
-      "To Do": 4,
-      "WAITING FOR FEEDBACK": 5,
-      "In progress": 3
-    },
-    "overdues": [
+    "Se-Tu": {
+      "service_count": 21,
+      "count": 21,
+      "labels": {
+        "1M": 3,
+        "1S": 3,
+        "2M": 5,
+        "2S": 7,
+        "3M": 2,
+        "3S": 1
+      },
+      "issues_by_project": {
+        "se/gl": 1,
+        "se/su": 15,
+        "se/th": 5
+      },
+      "categories": {
+        "low": 8,
+        "medium": 7,
+        "high": 6
+      },
+      "no_due_dates": [
 
-    ],
-    "no_due_dates": [
-      414
-    ]
-  },
-  "co-ci": {
-    "count": 9,
-    "labels": {
-      "2S": 4,
-      "1S": 1,
-      "2M": 1,
-      "3S": 1,
-      "1M": 1,
-      "Beta": 1
+      ]
     },
-    "issues_by_project": {
-      "gl": 1,
-      "ro": 1,
-      "su": 5,
-      "th": 2
-    },
-    "categories": {
-      "high": 3,
-      "medium": 1,
-      "low": 5
-    },
-    "grouped_labels": {
-      "To Do": 6,
-      "WAITING FOR FEEDBACK": 3
-    },
-    "overdues": [
+    "St-Da": {
+      "service_count": 18,
+      "count": 18,
+      "labels": {
+        "1M": 6,
+        "1S": 4,
+        "2M": 5,
+        "2S": 2,
+        "3S": 1
+      },
+      "issues_by_project": {
+        "se/su": 12,
+        "se/th": 6
+      },
+      "categories": {
+        "low": 3,
+        "medium": 5,
+        "high": 10
+      },
+      "no_due_dates": [
 
-    ],
-    "no_due_dates": [
-      584,
-      3420,
-      359
-    ]
+      ]
+    }
   },
-  "Da-Ni": {
-    "count": 10,
-    "labels": {
-      "2S": 5,
-      "1S": 2,
-      "2M": 3
+  "int": {
+    "Al-Hi": {
+      "count": 7,
+      "labels": {
+        "On": 3,
+        "Bl": 1,
+        "1": 2,
+        "2": 1,
+        "3": 0
+      }
     },
-    "issues_by_project": {
-      "su": 6,
-      "th": 2
+    "An-Ma-Se": {
+      "count": 3,
+      "labels": {
+        "On": 1,
+        "Bl": 0,
+        "1": 0,
+        "2": 1,
+        "3": 1
+      }
     },
-    "categories": {
-      "high": 2,
-      "medium": 3,
-      "low": 5
+    "An-Mo": {
+      "count": 4,
+      "labels": {
+        "On": 0,
+        "Bl": 0,
+        "1": 2,
+        "2": 2,
+        "3": 0
+      }
     },
-    "grouped_labels": {
-      "To Do": 5,
-      "In progress": 1,
-      "WAITING FOR FEEDBACK": 2,
-      "blocked": 2
+    "Co-Ci": {
+      "count": 2,
+      "labels": {
+        "On": 0,
+        "Bl": 0,
+        "1": 1,
+        "2": 1,
+        "3": 0
+      }
     },
-    "overdues": [
-      4622
-    ],
-    "no_due_dates": [
-      523,
-      495
-    ]
+    "Da-Su": {
+      "count": 3,
+      "labels": {
+        "On": 0,
+        "Bl": 0,
+        "1": 0,
+        "2": 2,
+        "3": 1
+      }
+    },
+    "Da-Ni": {
+      "count": 6,
+      "labels": {
+        "On": 0,
+        "Bl": 0,
+        "1": 2,
+        "2": 3,
+        "3": 1
+      }
+    },
+    "Ed-Ma": {
+      "count": 4,
+      "labels": {
+        "On": 0,
+        "Bl": 0,
+        "1": 1,
+        "2": 2,
+        "3": 1
+      }
+    },
+    "Eu-Mo": {
+      "count": 5,
+      "labels": {
+        "On": 1,
+        "Bl": 0,
+        "1": 2,
+        "2": 1,
+        "3": 1
+      }
+    },
+    "Ir-Un": {
+      "count": 0,
+      "labels": {
+        "On": 0,
+        "Bl": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0
+      }
+    },
+    "Ma-Gu": {
+      "count": 1,
+      "labels": {
+        "On": 0,
+        "Bl": 0,
+        "1": 0,
+        "2": 0,
+        "3": 1
+      }
+    },
+    "Ro-Ci": {
+      "count": 5,
+      "labels": {
+        "On": 0,
+        "Bl": 0,
+        "1": 1,
+        "2": 3,
+        "3": 1
+      }
+    },
+    "Se-Vo": {
+      "count": 2,
+      "labels": {
+        "On": 1,
+        "Bl": 0,
+        "1": 1,
+        "2": 0,
+        "3": 0
+      }
+    },
+    "Se-Tu": {
+      "count": 5,
+      "labels": {
+        "On": 1,
+        "Bl": 0,
+        "1": 0,
+        "2": 2,
+        "3": 2
+      }
+    },
+    "St-Da": {
+      "count": 5,
+      "labels": {
+        "On": 0,
+        "Bl": 0,
+        "1": 2,
+        "2": 3,
+        "3": 0
+      }
+    }
   },
-  "Eu-Mo": {
-    "count": 10,
-    "labels": {
-      "2S": 3,
-      "2M": 7
+  "lbl": {
+    "Al-Hi": {
+      "count": 30,
+      "labels": {
+        "WA": 14,
+        "On": 4,
+        "Bl": 2,
+        "1": 4,
+        "2": 4,
+        "3": 2
+      }
     },
-    "issues_by_project": {
-      "ro": 1,
-      "su": 6,
-      "th": 3
+    "An-Ma-Se": {
+      "count": 49,
+      "labels": {
+        "WA": 8,
+        "On": 5,
+        "Bl": 4,
+        "1": 14,
+        "2": 13,
+        "3": 5
+      }
     },
-    "categories": {
-      "high": 0,
-      "medium": 7,
-      "low": 3
+    "An-Mo": {
+      "count": 21,
+      "labels": {
+        "WA": 7,
+        "On": 1,
+        "Bl": 0,
+        "1": 3,
+        "2": 10,
+        "3": 0
+      }
     },
-    "grouped_labels": {
-      "WAITING FOR FEEDBACK": 6,
-      "To Do": 2,
-      "In progress": 3
+    "Co-Ci": {
+      "count": 19,
+      "labels": {
+        "WA": 3,
+        "On": 1,
+        "Bl": 0,
+        "1": 10,
+        "2": 5,
+        "3": 0
+      }
     },
-    "overdues": [
-      4625,
-      456,
-      262
-    ],
-    "no_due_dates": [
-
-    ]
+    "Da-Su": {
+      "count": 23,
+      "labels": {
+        "WA": 2,
+        "On": 1,
+        "Bl": 2,
+        "1": 8,
+        "2": 8,
+        "3": 2
+      }
+    },
+    "Da-Ni": {
+      "count": 21,
+      "labels": {
+        "WA": 7,
+        "On": 2,
+        "Bl": 0,
+        "1": 6,
+        "2": 4,
+        "3": 2
+      }
+    },
+    "Ed-Ma": {
+      "count": 23,
+      "labels": {
+        "WA": 0,
+        "On": 0,
+        "Bl": 0,
+        "1": 5,
+        "2": 14,
+        "3": 4
+      }
+    },
+    "Eu-Mo": {
+      "count": 28,
+      "labels": {
+        "WA": 10,
+        "On": 2,
+        "Bl": 2,
+        "1": 3,
+        "2": 6,
+        "3": 5
+      }
+    },
+    "Ir-Un": {
+      "count": 2,
+      "labels": {
+        "WA": 0,
+        "On": 0,
+        "Bl": 0,
+        "1": 0,
+        "2": 2,
+        "3": 0
+      }
+    },
+    "Ma-Gu": {
+      "count": 14,
+      "labels": {
+        "WA": 0,
+        "On": 0,
+        "Bl": 0,
+        "1": 4,
+        "2": 7,
+        "3": 3
+      }
+    },
+    "Ro-Ci": {
+      "count": 20,
+      "labels": {
+        "WA": 6,
+        "On": 0,
+        "Bl": 0,
+        "1": 6,
+        "2": 7,
+        "3": 1
+      }
+    },
+    "Se-Vo": {
+      "count": 19,
+      "labels": {
+        "WA": 2,
+        "On": 1,
+        "Bl": 0,
+        "1": 9,
+        "2": 3,
+        "3": 4
+      }
+    },
+    "Se-Tu": {
+      "count": 22,
+      "labels": {
+        "WA": 6,
+        "On": 1,
+        "Bl": 0,
+        "1": 3,
+        "2": 9,
+        "3": 3
+      }
+    },
+    "St-Da": {
+      "count": 20,
+      "labels": {
+        "WA": 5,
+        "On": 1,
+        "Bl": 1,
+        "1": 7,
+        "2": 5,
+        "3": 1
+      }
+    }
   },
-  "Io-Mo": {
-    "count": 11,
-    "labels": {
-      "1S": 1,
-      "2S": 6,
-      "1M": 1,
-      "2M": 3
+  "s": {
+    "Co-Ur": {
+      "count": 42,
+      "issues_by_project": {
+        "sa/bu": 1,
+        "se/ro": 1,
+        "se/st": 1,
+        "se/su": 37,
+        "se/th": 2
+      }
     },
-    "issues_by_project": {
-      "su": 9,
-      "th": 2
+    "Cr-Bu": {
+      "count": 40,
+      "issues_by_project": {
+        "ca/in": 2,
+        "sa/bu": 5,
+        "se/su": 29,
+        "se/th": 4
+      }
     },
-    "categories": {
-      "high": 2,
-      "medium": 3,
-      "low": 6
+    "Ig-Li": {
+      "count": 30,
+      "issues_by_project": {
+        "se/su": 30
+      }
     },
-    "grouped_labels": {
-      "To Do": 7,
-      "In progress": 4
+    "Ir-Gr": {
+      "count": 23,
+      "issues_by_project": {
+        "ca/gl": 1,
+        "ca/in": 14,
+        "sa/bu": 1,
+        "se/gl": 4,
+        "se/kp": 2,
+        "se/su": 1
+      }
     },
-    "overdues": [
-
-    ],
-    "no_due_dates": [
-
-    ]
+    "Vi-Sa": {
+      "count": 29,
+      "issues_by_project": {
+        "se/su": 29
+      }
+    }
   }
 }
