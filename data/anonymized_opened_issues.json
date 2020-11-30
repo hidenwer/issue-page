@@ -845,11 +845,11 @@
       }
     },
     "Cr-Bu": {
-      "count": 23,
+      "count": 24,
       "issues_by_project": {
         "ca/in": 2,
         "sa/bu": 3,
-        "se/su": 16,
+        "se/su": 17,
         "se/th": 2
       }
     },
