@@ -842,17 +842,17 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 35,
+      "count": 36,
       "issues_by_project": {
-        "se/su": 35
+        "se/su": 36
       }
     },
     "Cr-Bu": {
-      "count": 23,
+      "count": 24,
       "issues_by_project": {
         "ca/in": 1,
         "sa/bu": 3,
-        "se/su": 17,
+        "se/su": 18,
         "se/th": 2
       }
     },
