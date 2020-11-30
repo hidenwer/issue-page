@@ -209,8 +209,8 @@
       ]
     },
     "Eu-Mo": {
-      "service_count": 26,
-      "count": 26,
+      "service_count": 25,
+      "count": 25,
       "labels": {
         "1M": 3,
         "1S": 8,
@@ -220,17 +220,16 @@
         "4M": 1,
         "4S": 3,
         "5S": 3,
-        "7M": 1,
         "Beta": 1
       },
       "issues_by_project": {
         "se/gl": 1,
         "se/su": 20,
-        "se/th": 5
+        "se/th": 4
       },
       "categories": {
         "low": 8,
-        "medium": 3,
+        "medium": 2,
         "high": 15
       },
       "no_due_dates": [
@@ -727,8 +726,8 @@
       "count": 31,
       "labels": {
         "Ne": 1,
-        "WA": 19,
-        "On": 3,
+        "WA": 18,
+        "On": 4,
         "Bl": 2,
         "1": 2,
         "2": 2,
@@ -840,10 +839,9 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 32,
+      "count": 31,
       "issues_by_project": {
-        "se/su": 31,
-        "se/th": 1
+        "se/su": 31
       }
     },
     "Cr-Bu": {
