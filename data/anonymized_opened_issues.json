@@ -318,11 +318,11 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 19,
-      "count": 19,
+      "service_count": 18,
+      "count": 18,
       "labels": {
         "1M": 2,
-        "1S": 5,
+        "1S": 4,
         "2S": 3,
         "3S": 2,
         "4M": 1,
@@ -332,13 +332,13 @@
         "8S": 1
       },
       "issues_by_project": {
-        "se/su": 13,
+        "se/su": 12,
         "se/th": 6
       },
       "categories": {
         "low": 6,
         "medium": 3,
-        "high": 10
+        "high": 9
       },
       "no_due_dates": [
 
@@ -800,9 +800,9 @@
       }
     },
     "Se-Tu": {
-      "count": 19,
+      "count": 18,
       "labels": {
-        "Ne": 1,
+        "Ne": 0,
         "WA": 9,
         "On": 0,
         "Bl": 0,
@@ -847,11 +847,11 @@
       }
     },
     "Cr-Bu": {
-      "count": 24,
+      "count": 23,
       "issues_by_project": {
         "ca/in": 2,
         "sa/bu": 3,
-        "se/su": 17,
+        "se/su": 16,
         "se/th": 2
       }
     },
