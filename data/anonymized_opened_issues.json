@@ -849,12 +849,12 @@
       }
     },
     "Cr-Bu": {
-      "count": 27,
+      "count": 28,
       "issues_by_project": {
         "ca/in": 1,
         "sa/bu": 3,
         "se/su": 21,
-        "se/th": 2
+        "se/th": 3
       }
     },
     "Ig-Li": {
