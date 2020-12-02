@@ -865,11 +865,11 @@
       }
     },
     "Ir-Gr": {
-      "count": 27,
+      "count": 28,
       "issues_by_project": {
         "ca/gl": 4,
         "ca/in": 13,
-        "sa/bu": 2,
+        "sa/bu": 3,
         "sa/do": 1,
         "se/gl": 4,
         "se/kp": 1,
