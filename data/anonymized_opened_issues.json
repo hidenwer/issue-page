@@ -1,14 +1,14 @@
 {
   "load": {
     "Al-Hi": {
-      "service_count": 33,
-      "count": 33,
+      "service_count": 32,
+      "count": 32,
       "labels": {
         "1M": 5,
         "1S": 13,
         "2S": 1,
         "3M": 6,
-        "3S": 2,
+        "3S": 1,
         "4M": 1,
         "4S": 1,
         "5M": 2,
@@ -18,10 +18,10 @@
       "issues_by_project": {
         "se/gl": 3,
         "se/su": 3,
-        "se/th": 27
+        "se/th": 26
       },
       "categories": {
-        "low": 5,
+        "low": 4,
         "medium": 9,
         "high": 19
       }
@@ -593,7 +593,7 @@
   },
   "lbl": {
     "Al-Hi": {
-      "count": 41,
+      "count": 40,
       "labels": {
         "Ne": 1,
         "WA": 19,
@@ -601,7 +601,7 @@
         "Bl": 3,
         "1": 4,
         "2": 1,
-        "3": 5,
+        "3": 4,
         "4": 1,
         "5": 2,
         "6": 0,
