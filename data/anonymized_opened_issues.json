@@ -27,12 +27,12 @@
       }
     },
     "An-Ma-Se": {
-      "service_count": 27,
-      "count": 27,
+      "service_count": 28,
+      "count": 28,
       "labels": {
         "1L": 1,
         "1M": 2,
-        "1S": 5,
+        "1S": 6,
         "10M": 1,
         "2L": 3,
         "2M": 2,
@@ -46,14 +46,14 @@
         "7M": 1
       },
       "issues_by_project": {
-        "se/gl": 12,
+        "se/gl": 13,
         "se/su": 4,
         "se/th": 11
       },
       "categories": {
         "low": 4,
         "medium": 8,
-        "high": 15
+        "high": 16
       }
     },
     "An-Mo": {
@@ -86,13 +86,13 @@
       ]
     },
     "Co-Ci": {
-      "service_count": 17,
-      "count": 17,
+      "service_count": 18,
+      "count": 18,
       "labels": {
         "1L": 1,
         "1M": 1,
         "1S": 1,
-        "2S": 2,
+        "2S": 3,
         "3S": 1,
         "4M": 1,
         "4S": 2,
@@ -102,13 +102,13 @@
         "7S": 1
       },
       "issues_by_project": {
-        "se/su": 13,
+        "se/su": 14,
         "se/th": 4
       },
       "categories": {
         "low": 10,
         "medium": 2,
-        "high": 5
+        "high": 6
       },
       "no_due_dates": [
 
@@ -237,12 +237,12 @@
       ]
     },
     "Ma-Gu": {
-      "service_count": 12,
-      "count": 12,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1M": 1,
         "1S": 1,
-        "2S": 1,
+        "2S": 2,
         "3S": 2,
         "4M": 2,
         "4S": 1,
@@ -252,13 +252,13 @@
         "7M": 1
       },
       "issues_by_project": {
-        "se/su": 7,
+        "se/su": 8,
         "se/th": 5
       },
       "categories": {
         "low": 4,
         "medium": 5,
-        "high": 3
+        "high": 4
       },
       "overdues": [
 
@@ -613,13 +613,13 @@
       }
     },
     "An-Ma-Se": {
-      "count": 39,
+      "count": 40,
       "labels": {
         "Ne": 0,
         "WA": 7,
         "On": 4,
         "Bl": 0,
-        "1": 10,
+        "1": 11,
         "2": 4,
         "3": 4,
         "4": 2,
@@ -651,14 +651,14 @@
       }
     },
     "Co-Ci": {
-      "count": 17,
+      "count": 18,
       "labels": {
         "Ne": 0,
         "WA": 4,
         "On": 0,
         "Bl": 0,
         "1": 2,
-        "2": 1,
+        "2": 2,
         "3": 1,
         "4": 3,
         "5": 4,
@@ -746,14 +746,14 @@
       }
     },
     "Ma-Gu": {
-      "count": 13,
+      "count": 14,
       "labels": {
         "Ne": 0,
         "WA": 2,
         "On": 1,
         "Bl": 0,
         "1": 2,
-        "2": 1,
+        "2": 2,
         "3": 2,
         "4": 3,
         "5": 2,
