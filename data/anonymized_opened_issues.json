@@ -27,17 +27,16 @@
       }
     },
     "An-Ma-Se": {
-      "service_count": 25,
-      "count": 25,
+      "service_count": 26,
+      "count": 26,
       "labels": {
         "1M": 2,
-        "1S": 4,
+        "1S": 6,
         "10M": 1,
         "2L": 3,
         "2M": 2,
         "2S": 2,
         "3M": 5,
-        "3S": 1,
         "4M": 1,
         "5L": 1,
         "6L": 1,
@@ -45,14 +44,14 @@
         "7M": 1
       },
       "issues_by_project": {
-        "se/gl": 11,
+        "se/gl": 12,
         "se/su": 4,
         "se/th": 10
       },
       "categories": {
-        "low": 4,
+        "low": 3,
         "medium": 8,
-        "high": 13
+        "high": 15
       }
     },
     "An-Mo": {
@@ -613,15 +612,15 @@
       }
     },
     "An-Ma-Se": {
-      "count": 37,
+      "count": 38,
       "labels": {
-        "Ne": 0,
+        "Ne": 1,
         "WA": 7,
         "On": 4,
         "Bl": 0,
-        "1": 8,
+        "1": 9,
         "2": 4,
-        "3": 4,
+        "3": 3,
         "4": 2,
         "5": 2,
         "6": 1,
