@@ -87,12 +87,11 @@
       ]
     },
     "Co-Ci": {
-      "service_count": 17,
-      "count": 17,
+      "service_count": 16,
+      "count": 16,
       "labels": {
         "1L": 1,
         "1M": 1,
-        "1S": 1,
         "2S": 2,
         "3S": 1,
         "4M": 1,
@@ -103,13 +102,13 @@
         "7S": 1
       },
       "issues_by_project": {
-        "se/su": 13,
+        "se/su": 12,
         "se/th": 4
       },
       "categories": {
         "low": 10,
         "medium": 2,
-        "high": 5
+        "high": 4
       },
       "no_due_dates": [
 
@@ -652,13 +651,13 @@
       }
     },
     "Co-Ci": {
-      "count": 17,
+      "count": 16,
       "labels": {
         "Ne": 0,
         "WA": 5,
         "On": 0,
         "Bl": 0,
-        "1": 2,
+        "1": 1,
         "2": 1,
         "3": 1,
         "4": 2,
@@ -769,12 +768,12 @@
       "count": 21,
       "labels": {
         "Ne": 0,
-        "WA": 10,
+        "WA": 11,
         "On": 1,
         "Bl": 0,
         "1": 1,
         "2": 1,
-        "3": 3,
+        "3": 2,
         "4": 2,
         "5": 2,
         "6": 0,
