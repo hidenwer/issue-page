@@ -57,12 +57,13 @@
       }
     },
     "An-Mo": {
-      "service_count": 17,
-      "count": 17,
+      "service_count": 18,
+      "count": 18,
       "labels": {
         "1M": 2,
         "1S": 3,
         "2M": 1,
+        "2S": 1,
         "3M": 1,
         "3S": 3,
         "4M": 2,
@@ -73,13 +74,13 @@
         "Beta": 1
       },
       "issues_by_project": {
-        "se/su": 11,
+        "se/su": 12,
         "se/th": 6
       },
       "categories": {
         "low": 5,
         "medium": 5,
-        "high": 7
+        "high": 8
       },
       "no_due_dates": [
 
@@ -206,13 +207,13 @@
       ]
     },
     "Eu-Mo": {
-      "service_count": 27,
-      "count": 27,
+      "service_count": 28,
+      "count": 28,
       "labels": {
         "1M": 3,
         "1S": 6,
         "2M": 1,
-        "2S": 1,
+        "2S": 2,
         "3M": 2,
         "3S": 3,
         "4M": 1,
@@ -224,13 +225,13 @@
       "issues_by_project": {
         "se/gl": 1,
         "se/st": 1,
-        "se/su": 21,
+        "se/su": 22,
         "se/th": 4
       },
       "categories": {
         "low": 12,
         "medium": 3,
-        "high": 12
+        "high": 13
       },
       "no_due_dates": [
 
@@ -265,12 +266,12 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 20,
-      "count": 21,
+      "service_count": 21,
+      "count": 22,
       "labels": {
         "1S": 2,
         "10S": 1,
-        "2S": 2,
+        "2S": 3,
         "3S": 6,
         "4M": 3,
         "4S": 1,
@@ -282,13 +283,13 @@
       },
       "issues_by_project": {
         "sa/bu": 1,
-        "se/su": 13,
+        "se/su": 14,
         "se/th": 7
       },
       "categories": {
         "low": 11,
         "medium": 5,
-        "high": 4
+        "high": 5
       },
       "no_due_dates": [
 
@@ -318,12 +319,12 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 21,
-      "count": 21,
+      "service_count": 22,
+      "count": 22,
       "labels": {
         "1M": 2,
         "1S": 4,
-        "2S": 3,
+        "2S": 4,
         "3S": 2,
         "4M": 1,
         "5M": 2,
@@ -334,24 +335,24 @@
         "9S": 1
       },
       "issues_by_project": {
-        "se/su": 15,
+        "se/su": 16,
         "se/th": 6
       },
       "categories": {
         "low": 9,
         "medium": 3,
-        "high": 9
+        "high": 10
       },
       "no_due_dates": [
 
       ]
     },
     "St-Da": {
-      "service_count": 17,
-      "count": 17,
+      "service_count": 18,
+      "count": 18,
       "labels": {
         "1S": 5,
-        "2S": 1,
+        "2S": 2,
         "3S": 4,
         "4M": 3,
         "4S": 1,
@@ -359,13 +360,13 @@
         "6M": 2
       },
       "issues_by_project": {
-        "se/su": 12,
+        "se/su": 13,
         "se/th": 5
       },
       "categories": {
         "low": 6,
         "medium": 5,
-        "high": 6
+        "high": 7
       }
     }
   },
@@ -632,14 +633,14 @@
       }
     },
     "An-Mo": {
-      "count": 17,
+      "count": 18,
       "labels": {
         "Ne": 2,
         "WA": 3,
         "On": 1,
         "Bl": 0,
         "1": 1,
-        "2": 1,
+        "2": 2,
         "3": 3,
         "4": 3,
         "5": 2,
@@ -727,14 +728,14 @@
       }
     },
     "Eu-Mo": {
-      "count": 31,
+      "count": 32,
       "labels": {
         "Ne": 1,
         "WA": 17,
         "On": 3,
         "Bl": 1,
         "1": 1,
-        "2": 2,
+        "2": 3,
         "3": 3,
         "4": 1,
         "5": 1,
@@ -765,14 +766,14 @@
       }
     },
     "Ro-Ci": {
-      "count": 21,
+      "count": 22,
       "labels": {
         "Ne": 0,
         "WA": 9,
         "On": 1,
         "Bl": 0,
         "1": 1,
-        "2": 1,
+        "2": 2,
         "3": 4,
         "4": 2,
         "5": 2,
@@ -803,14 +804,14 @@
       }
     },
     "Se-Tu": {
-      "count": 21,
+      "count": 22,
       "labels": {
         "Ne": 0,
         "WA": 10,
         "On": 0,
         "Bl": 0,
         "1": 2,
-        "2": 2,
+        "2": 3,
         "3": 1,
         "4": 1,
         "5": 2,
@@ -822,14 +823,14 @@
       }
     },
     "St-Da": {
-      "count": 18,
+      "count": 19,
       "labels": {
         "Ne": 0,
-        "WA": 5,
+        "WA": 4,
         "On": 1,
         "Bl": 0,
-        "1": 3,
-        "2": 1,
+        "1": 4,
+        "2": 2,
         "3": 2,
         "4": 3,
         "5": 1,
