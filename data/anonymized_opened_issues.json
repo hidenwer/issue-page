@@ -116,14 +116,14 @@
       ]
     },
     "Da-Su": {
-      "service_count": 19,
-      "count": 20,
+      "service_count": 18,
+      "count": 19,
       "labels": {
         "1M": 3,
         "1S": 1,
         "2L": 1,
         "2M": 2,
-        "2S": 4,
+        "2S": 3,
         "3M": 2,
         "3S": 1,
         "4M": 1,
@@ -134,14 +134,14 @@
       },
       "issues_by_project": {
         "se/gl": 2,
-        "se/su": 8,
+        "se/su": 7,
         "se/th": 9,
         "sh/sa": 1
       },
       "categories": {
         "low": 3,
         "medium": 5,
-        "high": 12
+        "high": 11
       }
     },
     "Da-Ni": {
@@ -319,12 +319,12 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 22,
-      "count": 22,
+      "service_count": 23,
+      "count": 23,
       "labels": {
         "1M": 2,
         "1S": 4,
-        "2S": 4,
+        "2S": 5,
         "3S": 2,
         "4M": 1,
         "5M": 2,
@@ -335,13 +335,13 @@
         "9S": 1
       },
       "issues_by_project": {
-        "se/su": 16,
+        "se/su": 17,
         "se/th": 6
       },
       "categories": {
         "low": 9,
         "medium": 3,
-        "high": 10
+        "high": 11
       },
       "no_due_dates": [
 
@@ -617,10 +617,10 @@
       "count": 40,
       "labels": {
         "Ne": 0,
-        "WA": 8,
+        "WA": 7,
         "On": 4,
         "Bl": 0,
-        "1": 10,
+        "1": 11,
         "2": 4,
         "3": 4,
         "4": 2,
@@ -671,14 +671,14 @@
       }
     },
     "Da-Su": {
-      "count": 21,
+      "count": 20,
       "labels": {
         "Ne": 0,
         "WA": 6,
         "On": 0,
         "Bl": 2,
         "1": 2,
-        "2": 5,
+        "2": 4,
         "3": 2,
         "4": 1,
         "5": 1,
@@ -804,14 +804,14 @@
       }
     },
     "Se-Tu": {
-      "count": 22,
+      "count": 23,
       "labels": {
         "Ne": 0,
         "WA": 10,
         "On": 0,
         "Bl": 0,
         "1": 2,
-        "2": 3,
+        "2": 4,
         "3": 1,
         "4": 1,
         "5": 2,
