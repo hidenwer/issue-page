@@ -87,12 +87,11 @@
       ]
     },
     "Co-Ci": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1L": 1,
         "1M": 1,
-        "2S": 1,
         "3S": 1,
         "4M": 1,
         "4S": 2,
@@ -102,13 +101,13 @@
         "7S": 1
       },
       "issues_by_project": {
-        "se/su": 10,
+        "se/su": 9,
         "se/th": 4
       },
       "categories": {
         "low": 9,
         "medium": 2,
-        "high": 3
+        "high": 2
       },
       "no_due_dates": [
 
@@ -649,10 +648,10 @@
       }
     },
     "Co-Ci": {
-      "count": 14,
+      "count": 13,
       "labels": {
         "Ne": 0,
-        "WA": 4,
+        "WA": 3,
         "On": 0,
         "Bl": 0,
         "1": 1,
@@ -855,9 +854,9 @@
       }
     },
     "Ig-Li": {
-      "count": 28,
+      "count": 27,
       "issues_by_project": {
-        "se/su": 28
+        "se/su": 27
       }
     },
     "Ir-Gr": {
