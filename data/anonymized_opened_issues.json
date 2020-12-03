@@ -311,13 +311,12 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 22,
-      "count": 22,
+      "service_count": 21,
+      "count": 21,
       "labels": {
         "1M": 3,
         "1S": 3,
         "2S": 5,
-        "3M": 1,
         "4M": 1,
         "4S": 1,
         "5M": 2,
@@ -328,12 +327,12 @@
         "9S": 1
       },
       "issues_by_project": {
-        "se/su": 16,
+        "se/su": 15,
         "se/th": 6
       },
       "categories": {
         "low": 7,
-        "medium": 4,
+        "medium": 3,
         "high": 11
       },
       "no_due_dates": [
@@ -799,10 +798,10 @@
       }
     },
     "Se-Tu": {
-      "count": 22,
+      "count": 21,
       "labels": {
         "Ne": 0,
-        "WA": 13,
+        "WA": 12,
         "On": 0,
         "Bl": 0,
         "1": 1,
@@ -853,9 +852,9 @@
       }
     },
     "Ig-Li": {
-      "count": 27,
+      "count": 26,
       "issues_by_project": {
-        "se/su": 27
+        "se/su": 26
       }
     },
     "Ir-Gr": {
