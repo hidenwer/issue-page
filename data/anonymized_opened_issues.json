@@ -172,11 +172,11 @@
       ]
     },
     "Ed-Ma": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 14,
+      "count": 14,
       "labels": {
         "1L": 1,
-        "1M": 2,
+        "1M": 3,
         "10L": 1,
         "10M": 1,
         "3M": 2,
@@ -192,12 +192,12 @@
         "se/kp": 2,
         "se/ro": 1,
         "se/su": 2,
-        "se/th": 7
+        "se/th": 8
       },
       "categories": {
         "low": 4,
         "medium": 6,
-        "high": 3
+        "high": 4
       },
       "no_due_dates": [
 
@@ -236,11 +236,10 @@
       ]
     },
     "Ma-Gu": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "1M": 1,
-        "1S": 1,
         "2S": 2,
         "3S": 2,
         "4M": 2,
@@ -251,13 +250,13 @@
         "7M": 1
       },
       "issues_by_project": {
-        "se/su": 8,
+        "se/su": 7,
         "se/th": 5
       },
       "categories": {
         "low": 4,
         "medium": 5,
-        "high": 4
+        "high": 3
       }
     },
     "Ro-Ci": {
@@ -471,9 +470,9 @@
     "Ed-Ma": {
       "count": 5,
       "labels": {
-        "On": 1,
+        "On": 0,
         "Bl": 0,
-        "1": 1,
+        "1": 2,
         "2": 0,
         "3": 1,
         "4": 1,
@@ -704,13 +703,13 @@
       }
     },
     "Ed-Ma": {
-      "count": 18,
+      "count": 17,
       "labels": {
         "Ne": 2,
         "WA": 6,
-        "On": 3,
+        "On": 1,
         "Bl": 2,
-        "1": 0,
+        "1": 1,
         "2": 0,
         "3": 1,
         "4": 0,
@@ -742,10 +741,10 @@
       }
     },
     "Ma-Gu": {
-      "count": 14,
+      "count": 13,
       "labels": {
         "Ne": 0,
-        "WA": 3,
+        "WA": 2,
         "On": 1,
         "Bl": 0,
         "1": 1,
@@ -845,11 +844,11 @@
       }
     },
     "Cr-Bu": {
-      "count": 34,
+      "count": 33,
       "issues_by_project": {
         "ca/in": 1,
         "sa/bu": 3,
-        "se/su": 27,
+        "se/su": 26,
         "se/th": 3
       }
     },
