@@ -115,8 +115,8 @@
       ]
     },
     "Da-Su": {
-      "service_count": 16,
-      "count": 17,
+      "service_count": 15,
+      "count": 16,
       "labels": {
         "1M": 3,
         "1S": 1,
@@ -128,20 +128,22 @@
         "4M": 1,
         "5S": 1,
         "6S": 1,
-        "7M": 2,
-        "Beta": 1
+        "7M": 2
       },
       "issues_by_project": {
         "se/gl": 1,
-        "se/su": 6,
+        "se/su": 5,
         "se/th": 9,
         "sh/sa": 1
       },
       "categories": {
         "low": 3,
         "medium": 4,
-        "high": 10
-      }
+        "high": 9
+      },
+      "no_due_dates": [
+
+      ]
     },
     "Da-Ni": {
       "service_count": 13,
@@ -255,13 +257,13 @@
       }
     },
     "Ro-Ci": {
-      "service_count": 18,
-      "count": 19,
+      "service_count": 17,
+      "count": 18,
       "labels": {
         "1M": 1,
         "2M": 1,
         "2S": 2,
-        "3S": 5,
+        "3S": 4,
         "4M": 1,
         "4S": 3,
         "5M": 2,
@@ -271,11 +273,11 @@
       },
       "issues_by_project": {
         "sa/bu": 1,
-        "se/su": 13,
+        "se/su": 12,
         "se/th": 5
       },
       "categories": {
-        "low": 10,
+        "low": 9,
         "medium": 4,
         "high": 4
       },
@@ -665,8 +667,8 @@
       "count": 18,
       "labels": {
         "Ne": 0,
-        "WA": 8,
-        "On": 0,
+        "WA": 7,
+        "On": 1,
         "Bl": 2,
         "1": 2,
         "2": 1,
@@ -757,7 +759,7 @@
       }
     },
     "Ro-Ci": {
-      "count": 19,
+      "count": 18,
       "labels": {
         "Ne": 0,
         "WA": 9,
@@ -765,7 +767,7 @@
         "Bl": 0,
         "1": 0,
         "2": 2,
-        "3": 3,
+        "3": 2,
         "4": 2,
         "5": 2,
         "6": 0,
@@ -841,17 +843,17 @@
       }
     },
     "Cr-Bu": {
-      "count": 30,
+      "count": 29,
       "issues_by_project": {
         "sa/bu": 3,
-        "se/su": 24,
+        "se/su": 23,
         "se/th": 3
       }
     },
     "Ig-Li": {
-      "count": 26,
+      "count": 25,
       "issues_by_project": {
-        "se/su": 26
+        "se/su": 25
       }
     },
     "Ir-Gr": {
