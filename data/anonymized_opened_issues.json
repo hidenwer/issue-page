@@ -59,15 +59,15 @@
       }
     },
     "An-Mo": {
-      "service_count": 17,
-      "count": 17,
+      "service_count": 16,
+      "count": 16,
       "labels": {
         "1M": 2,
         "1S": 3,
         "2M": 1,
         "3M": 1,
         "3S": 2,
-        "4M": 2,
+        "4M": 1,
         "4S": 2,
         "5M": 1,
         "5S": 1,
@@ -76,11 +76,11 @@
       },
       "issues_by_project": {
         "se/su": 11,
-        "se/th": 6
+        "se/th": 5
       },
       "categories": {
         "low": 5,
-        "medium": 5,
+        "medium": 4,
         "high": 7
       },
       "no_due_dates": [
@@ -625,10 +625,10 @@
       }
     },
     "An-Mo": {
-      "count": 17,
+      "count": 16,
       "labels": {
         "Ne": 2,
-        "WA": 7,
+        "WA": 6,
         "On": 1,
         "Bl": 0,
         "1": 1,
