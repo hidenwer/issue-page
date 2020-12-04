@@ -256,13 +256,13 @@
       }
     },
     "Ro-Ci": {
-      "service_count": 21,
-      "count": 22,
+      "service_count": 20,
+      "count": 21,
       "labels": {
         "1M": 2,
         "2M": 1,
         "2S": 2,
-        "3S": 6,
+        "3S": 5,
         "4M": 1,
         "4S": 3,
         "5M": 2,
@@ -273,11 +273,11 @@
       },
       "issues_by_project": {
         "sa/bu": 1,
-        "se/su": 15,
+        "se/su": 14,
         "se/th": 6
       },
       "categories": {
-        "low": 12,
+        "low": 11,
         "medium": 4,
         "high": 5
       },
@@ -758,10 +758,10 @@
       }
     },
     "Ro-Ci": {
-      "count": 22,
+      "count": 21,
       "labels": {
         "Ne": 0,
-        "WA": 11,
+        "WA": 10,
         "On": 1,
         "Bl": 0,
         "1": 1,
@@ -867,9 +867,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 18,
+      "count": 17,
       "issues_by_project": {
-        "se/su": 17,
+        "se/su": 16,
         "se/th": 1
       }
     }
