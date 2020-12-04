@@ -115,15 +115,15 @@
       ]
     },
     "Da-Su": {
-      "service_count": 17,
-      "count": 18,
+      "service_count": 16,
+      "count": 17,
       "labels": {
         "1M": 3,
         "1S": 1,
         "2L": 1,
         "2M": 2,
         "2S": 2,
-        "3M": 2,
+        "3M": 1,
         "3S": 1,
         "4M": 1,
         "5S": 1,
@@ -132,14 +132,14 @@
         "Beta": 1
       },
       "issues_by_project": {
-        "se/gl": 2,
+        "se/gl": 1,
         "se/su": 6,
         "se/th": 9,
         "sh/sa": 1
       },
       "categories": {
         "low": 3,
-        "medium": 5,
+        "medium": 4,
         "high": 10
       }
     },
@@ -255,8 +255,8 @@
       }
     },
     "Ro-Ci": {
-      "service_count": 19,
-      "count": 20,
+      "service_count": 18,
+      "count": 19,
       "labels": {
         "1M": 1,
         "2M": 1,
@@ -267,16 +267,15 @@
         "5M": 2,
         "5S": 2,
         "6M": 1,
-        "6S": 1,
         "7": 1
       },
       "issues_by_project": {
         "sa/bu": 1,
-        "se/su": 14,
+        "se/su": 13,
         "se/th": 5
       },
       "categories": {
-        "low": 11,
+        "low": 10,
         "medium": 4,
         "high": 4
       },
@@ -662,15 +661,15 @@
       }
     },
     "Da-Su": {
-      "count": 19,
+      "count": 18,
       "labels": {
         "Ne": 0,
-        "WA": 7,
+        "WA": 8,
         "On": 0,
         "Bl": 2,
         "1": 2,
         "2": 1,
-        "3": 2,
+        "3": 0,
         "4": 1,
         "5": 1,
         "6": 1,
@@ -757,18 +756,18 @@
       }
     },
     "Ro-Ci": {
-      "count": 20,
+      "count": 19,
       "labels": {
         "Ne": 0,
-        "WA": 10,
+        "WA": 9,
         "On": 1,
         "Bl": 0,
         "1": 0,
         "2": 2,
-        "3": 2,
+        "3": 3,
         "4": 2,
         "5": 2,
-        "6": 1,
+        "6": 0,
         "7": 0,
         "8": 0,
         "9": 0,
@@ -841,10 +840,10 @@
       }
     },
     "Cr-Bu": {
-      "count": 33,
+      "count": 32,
       "issues_by_project": {
         "sa/bu": 3,
-        "se/su": 27,
+        "se/su": 26,
         "se/th": 3
       }
     },
