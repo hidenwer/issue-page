@@ -61,12 +61,12 @@
       }
     },
     "An-Mo": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 17,
+      "count": 17,
       "labels": {
         "1M": 2,
         "1S": 2,
-        "2S": 1,
+        "2S": 2,
         "3M": 1,
         "3S": 2,
         "4M": 1,
@@ -78,13 +78,13 @@
         "Beta": 1
       },
       "issues_by_project": {
-        "se/su": 11,
+        "se/su": 12,
         "se/th": 5
       },
       "categories": {
         "low": 6,
         "medium": 4,
-        "high": 6
+        "high": 7
       },
       "no_due_dates": [
 
@@ -261,11 +261,11 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 13,
-      "count": 14,
+      "service_count": 15,
+      "count": 16,
       "labels": {
         "1M": 1,
-        "2M": 1,
+        "2M": 2,
         "2S": 2,
         "3M": 1,
         "3S": 1,
@@ -273,17 +273,18 @@
         "5M": 1,
         "5S": 2,
         "6M": 1,
-        "7": 1
+        "7": 1,
+        "9S": 1
       },
       "issues_by_project": {
         "sa/bu": 1,
-        "se/su": 9,
+        "se/su": 11,
         "se/th": 4
       },
       "categories": {
-        "low": 6,
+        "low": 7,
         "medium": 3,
-        "high": 4
+        "high": 5
       },
       "overdues": [
 
@@ -316,54 +317,51 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 18,
-      "count": 18,
+      "service_count": 14,
+      "count": 14,
       "labels": {
         "1M": 3,
         "1S": 2,
-        "2M": 1,
-        "2S": 3,
+        "2S": 2,
         "4M": 1,
-        "4S": 1,
         "5M": 2,
         "5S": 2,
         "6S": 1,
-        "8S": 1,
-        "9S": 1
+        "8S": 1
       },
       "issues_by_project": {
-        "se/su": 12,
+        "se/su": 8,
         "se/th": 6
       },
       "categories": {
-        "low": 6,
+        "low": 4,
         "medium": 3,
-        "high": 9
+        "high": 7
       },
       "no_due_dates": [
 
       ]
     },
     "St-Da": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 15,
+      "count": 15,
       "labels": {
         "1S": 2,
         "2S": 1,
         "3S": 2,
         "4M": 2,
-        "4S": 1,
+        "4S": 2,
         "5S": 2,
         "6M": 2,
         "6S": 1,
         "7M": 1
       },
       "issues_by_project": {
-        "se/su": 10,
+        "se/su": 11,
         "se/th": 4
       },
       "categories": {
-        "low": 6,
+        "low": 7,
         "medium": 5,
         "high": 3
       }
@@ -632,14 +630,14 @@
       }
     },
     "An-Mo": {
-      "count": 16,
+      "count": 17,
       "labels": {
         "Ne": 2,
         "WA": 4,
         "On": 1,
         "Bl": 0,
         "1": 1,
-        "2": 1,
+        "2": 2,
         "3": 2,
         "4": 3,
         "5": 0,
@@ -765,21 +763,21 @@
       }
     },
     "Ro-Ci": {
-      "count": 14,
+      "count": 16,
       "labels": {
         "Ne": 0,
         "WA": 6,
         "On": 1,
         "Bl": 0,
         "1": 0,
-        "2": 2,
+        "2": 3,
         "3": 1,
         "4": 2,
         "5": 2,
         "6": 0,
         "7": 0,
         "8": 0,
-        "9": 0,
+        "9": 1,
         "10": 0
       }
     },
@@ -803,26 +801,26 @@
       }
     },
     "Se-Tu": {
-      "count": 18,
+      "count": 14,
       "labels": {
         "Ne": 0,
-        "WA": 10,
+        "WA": 9,
         "On": 0,
         "Bl": 0,
         "1": 1,
-        "2": 1,
+        "2": 0,
         "3": 0,
-        "4": 2,
+        "4": 1,
         "5": 2,
         "6": 1,
         "7": 0,
         "8": 0,
-        "9": 1,
+        "9": 0,
         "10": 0
       }
     },
     "St-Da": {
-      "count": 14,
+      "count": 15,
       "labels": {
         "Ne": 0,
         "WA": 5,
@@ -831,7 +829,7 @@
         "1": 1,
         "2": 1,
         "3": 0,
-        "4": 2,
+        "4": 3,
         "5": 1,
         "6": 3,
         "7": 1,
