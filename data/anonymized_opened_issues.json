@@ -86,9 +86,6 @@
         "medium": 4,
         "high": 7
       },
-      "overdues": [
-
-      ],
       "no_due_dates": [
 
       ]
@@ -176,9 +173,6 @@
         "medium": 4,
         "high": 7
       },
-      "overdues": [
-
-      ],
       "no_due_dates": [
 
       ]
@@ -241,10 +235,7 @@
         "low": 11,
         "medium": 4,
         "high": 14
-      },
-      "overdues": [
-
-      ]
+      }
     },
     "Ma-Gu": {
       "service_count": 14,
@@ -266,10 +257,7 @@
         "low": 7,
         "medium": 2,
         "high": 5
-      },
-      "overdues": [
-
-      ]
+      }
     },
     "Ro-Ci": {
       "service_count": 17,
@@ -379,10 +367,7 @@
         "low": 7,
         "medium": 5,
         "high": 4
-      },
-      "overdues": [
-
-      ]
+      }
     }
   },
   "int": {
