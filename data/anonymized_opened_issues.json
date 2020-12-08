@@ -260,13 +260,13 @@
       }
     },
     "Ro-Ci": {
-      "service_count": 17,
-      "count": 18,
+      "service_count": 15,
+      "count": 16,
       "labels": {
         "1M": 1,
         "10S": 1,
         "2M": 2,
-        "2S": 2,
+        "2S": 1,
         "3M": 1,
         "3S": 1,
         "4M": 1,
@@ -275,18 +275,17 @@
         "5S": 1,
         "6M": 1,
         "6S": 1,
-        "7": 1,
-        "9S": 1
+        "7": 1
       },
       "issues_by_project": {
         "sa/bu": 1,
-        "se/su": 12,
+        "se/su": 10,
         "se/th": 5
       },
       "categories": {
-        "low": 8,
+        "low": 7,
         "medium": 4,
-        "high": 5
+        "high": 4
       },
       "no_due_dates": [
 
@@ -761,14 +760,14 @@
       }
     },
     "Ro-Ci": {
-      "count": 18,
+      "count": 16,
       "labels": {
         "Ne": 0,
-        "WA": 7,
+        "WA": 6,
         "On": 1,
         "Bl": 0,
         "1": 0,
-        "2": 3,
+        "2": 2,
         "3": 1,
         "4": 2,
         "5": 2,
@@ -853,9 +852,9 @@
       }
     },
     "Ig-Li": {
-      "count": 28,
+      "count": 27,
       "issues_by_project": {
-        "se/su": 28
+        "se/su": 27
       }
     },
     "Ir-Gr": {
@@ -870,9 +869,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 15,
+      "count": 14,
       "issues_by_project": {
-        "se/su": 14,
+        "se/su": 13,
         "se/th": 1
       }
     }
