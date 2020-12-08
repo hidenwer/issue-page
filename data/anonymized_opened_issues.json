@@ -260,8 +260,8 @@
       }
     },
     "Ro-Ci": {
-      "service_count": 16,
-      "count": 17,
+      "service_count": 17,
+      "count": 18,
       "labels": {
         "1M": 1,
         "10S": 1,
@@ -276,12 +276,12 @@
         "6M": 1,
         "6S": 1,
         "7": 1,
-        "M": 1
+        "M": 2
       },
       "issues_by_project": {
         "sa/bu": 1,
         "se/su": 10,
-        "se/th": 6
+        "se/th": 7
       },
       "categories": {
         "low": 7,
@@ -1029,7 +1029,7 @@
       }
     },
     "Ro-Ci": {
-      "count": 1,
+      "count": 2,
       "labels": {
         "On": 1,
         "Bl": 0,
