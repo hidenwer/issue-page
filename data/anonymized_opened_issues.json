@@ -175,8 +175,8 @@
       ]
     },
     "Ed-Ma": {
-      "service_count": 17,
-      "count": 17,
+      "service_count": 18,
+      "count": 18,
       "labels": {
         "1L": 2,
         "1M": 4,
@@ -192,7 +192,7 @@
       },
       "issues_by_project": {
         "se/gl": 1,
-        "se/kp": 2,
+        "se/kp": 3,
         "se/ro": 1,
         "se/su": 5,
         "se/th": 8
@@ -201,10 +201,7 @@
         "low": 7,
         "medium": 3,
         "high": 7
-      },
-      "no_due_dates": [
-
-      ]
+      }
     },
     "Eu-Mo": {
       "service_count": 29,
@@ -843,9 +840,10 @@
       }
     },
     "Cr-Bu": {
-      "count": 39,
+      "count": 40,
       "issues_by_project": {
         "sa/bu": 3,
+        "se/kp": 1,
         "se/su": 33,
         "se/th": 3
       }
