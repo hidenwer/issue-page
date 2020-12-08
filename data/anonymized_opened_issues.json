@@ -58,12 +58,12 @@
       }
     },
     "An-Mo": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 17,
+      "count": 17,
       "labels": {
         "1M": 2,
         "1S": 2,
-        "2S": 1,
+        "2S": 2,
         "3M": 1,
         "3S": 2,
         "4M": 1,
@@ -75,13 +75,13 @@
         "Beta": 1
       },
       "issues_by_project": {
-        "se/su": 11,
+        "se/su": 12,
         "se/th": 5
       },
       "categories": {
         "low": 6,
         "medium": 4,
-        "high": 6
+        "high": 7
       },
       "no_due_dates": [
 
@@ -175,12 +175,13 @@
       ]
     },
     "Ed-Ma": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 17,
+      "count": 17,
       "labels": {
         "1L": 2,
         "1M": 4,
         "10L": 1,
+        "2S": 1,
         "3M": 1,
         "3S": 1,
         "4M": 1,
@@ -191,7 +192,7 @@
       },
       "issues_by_project": {
         "se/gl": 1,
-        "se/kp": 1,
+        "se/kp": 2,
         "se/ro": 1,
         "se/su": 5,
         "se/th": 8
@@ -199,7 +200,7 @@
       "categories": {
         "low": 7,
         "medium": 3,
-        "high": 6
+        "high": 7
       },
       "no_due_dates": [
 
@@ -627,14 +628,14 @@
       }
     },
     "An-Mo": {
-      "count": 16,
+      "count": 17,
       "labels": {
         "Ne": 2,
         "WA": 4,
         "On": 1,
         "Bl": 0,
         "1": 1,
-        "2": 1,
+        "2": 2,
         "3": 2,
         "4": 3,
         "5": 0,
@@ -687,12 +688,12 @@
       "count": 21,
       "labels": {
         "Ne": 2,
-        "WA": 4,
+        "WA": 5,
         "On": 1,
         "Bl": 1,
         "1": 4,
         "2": 4,
-        "3": 1,
+        "3": 0,
         "4": 0,
         "5": 3,
         "6": 1,
@@ -703,14 +704,14 @@
       }
     },
     "Ed-Ma": {
-      "count": 19,
+      "count": 20,
       "labels": {
         "Ne": 1,
         "WA": 2,
         "On": 1,
         "Bl": 2,
         "1": 5,
-        "2": 0,
+        "2": 1,
         "3": 2,
         "4": 3,
         "5": 1,
