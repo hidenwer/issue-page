@@ -130,9 +130,6 @@
         }
 
         $.getJSON("https://hidenwer.github.io/issue-page/data/anonymized_opened_issues.json", function(json) {
-            delete json.lbl["An-Ma-Se"];
-            delete json.load["An-Ma-Se"];
-
             window.json = json
             draw("load")
             draw("int")
