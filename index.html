@@ -73,6 +73,43 @@
         $('a[data-toggle="pill"]').on('shown.bs.tab', event => localStorage.selectedTab = event.target.id)
 
         const randomColor = () => `#${Math.floor(Math.random() * 0xffffff).toString(16)}`
+        function pickColor(label) {
+            var color;
+            switch (label) {
+                case "1":
+                    color = "#e91414";
+                    break;
+                case "2":
+                    color = "#e96414";
+                    break;
+                case "3":
+                    color = "#e9bd14";
+                    break;
+                case "4":
+                    color = "#cddd14";
+                    break;
+                case "5":
+                    color = "#86c612";
+                    break;
+                case "6":
+                    color = "#2c9f40";
+                    break;
+                case "7":
+                    color = "#14a7dd";
+                    break;
+                case "8":
+                    color = "#1490be";
+                    break;
+                case "9":
+                    color = "#11799f";
+                    break;
+                case "10":
+                    color = "#0f6585";
+                    break;
+                default: color = randomColor();
+            }
+            return color;
+        }
 
         function draw(tab) {
             // console.log(tab)
@@ -82,9 +119,11 @@
                 dev.name  = name
                 return dev
             }).sort((a, b) => b.count - a.count)
+
             let labels = data
                 .map(dev => Object.keys(dev.issues_by_project || dev.labels))
                 .reduce((a, b) => a.concat(b))
+
             labels = [...new Set(labels)].sort((a,b)=>a-b)
 
             const barChartData = {
@@ -93,7 +132,7 @@
                     const values = data.map(dev => labelContainer(dev)[label] || 0)
                     return {
                         label: label,
-                        backgroundColor: randomColor(),
+                        backgroundColor: pickColor(label),
                         data: values
                     }
                 })
