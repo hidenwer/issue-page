@@ -20,10 +20,7 @@
         "low": 3,
         "medium": 2,
         "high": 8
-      },
-      "overdues": [
-
-      ]
+      }
     },
     "An-Mo": {
       "service_count": 4,
@@ -43,9 +40,6 @@
         "medium": 2,
         "high": 2
       },
-      "overdues": [
-
-      ],
       "no_due_dates": [
 
       ]
