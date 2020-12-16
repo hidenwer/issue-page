@@ -161,29 +161,30 @@
       ]
     },
     "Eu-Mo": {
-      "service_count": 28,
-      "count": 28,
+      "service_count": 30,
+      "count": 30,
       "labels": {
         "1M": 3,
-        "1S": 12,
+        "1S": 13,
         "10M": 1,
         "2M": 1,
         "2S": 1,
         "3M": 2,
-        "3S": 1,
+        "3S": 2,
         "4S": 3,
         "5M": 1,
         "5S": 3
       },
       "issues_by_project": {
+        "se/gl": 1,
         "se/st": 1,
         "se/su": 14,
-        "se/th": 13
+        "se/th": 14
       },
       "categories": {
-        "low": 7,
+        "low": 8,
         "medium": 4,
-        "high": 17
+        "high": 18
       }
     },
     "Ma-Gu": {
@@ -215,13 +216,13 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 21,
-      "count": 21,
+      "service_count": 20,
+      "count": 20,
       "labels": {
         "1M": 2,
         "1S": 1,
         "2M": 1,
-        "2S": 2,
+        "2S": 1,
         "3M": 2,
         "3S": 1,
         "4M": 1,
@@ -233,12 +234,12 @@
       },
       "issues_by_project": {
         "se/su": 13,
-        "se/th": 8
+        "se/th": 7
       },
       "categories": {
         "low": 10,
         "medium": 5,
-        "high": 6
+        "high": 5
       },
       "no_due_dates": [
 
@@ -297,11 +298,11 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 15,
+      "count": 15,
       "labels": {
         "1M": 5,
-        "1S": 1,
+        "1S": 2,
         "2S": 2,
         "3S": 1,
         "4M": 1,
@@ -312,12 +313,12 @@
       },
       "issues_by_project": {
         "se/su": 7,
-        "se/th": 7
+        "se/th": 8
       },
       "categories": {
         "low": 4,
         "medium": 2,
-        "high": 8
+        "high": 9
       },
       "no_due_dates": [
 
@@ -689,15 +690,15 @@
       }
     },
     "Eu-Mo": {
-      "count": 30,
+      "count": 32,
       "labels": {
         "Ne": 1,
         "WA": 16,
         "On": 2,
         "Bl": 0,
-        "1": 3,
+        "1": 4,
         "2": 1,
-        "3": 2,
+        "3": 3,
         "4": 2,
         "5": 2,
         "6": 0,
@@ -727,14 +728,14 @@
       }
     },
     "Ro-Ci": {
-      "count": 23,
+      "count": 22,
       "labels": {
         "Ne": 0,
         "WA": 11,
         "On": 2,
         "Bl": 0,
         "1": 1,
-        "2": 1,
+        "2": 0,
         "3": 1,
         "4": 5,
         "5": 1,
@@ -768,10 +769,10 @@
       "count": 12,
       "labels": {
         "Ne": 0,
-        "WA": 1,
+        "WA": 0,
         "On": 0,
         "Bl": 0,
-        "1": 2,
+        "1": 3,
         "2": 1,
         "3": 0,
         "4": 5,
@@ -784,9 +785,9 @@
       }
     },
     "Se-Tu": {
-      "count": 14,
+      "count": 15,
       "labels": {
-        "Ne": 0,
+        "Ne": 1,
         "WA": 8,
         "On": 0,
         "Bl": 0,
