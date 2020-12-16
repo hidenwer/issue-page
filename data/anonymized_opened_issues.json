@@ -826,11 +826,11 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 33,
+      "count": 32,
       "issues_by_project": {
         "sa/bu": 1,
         "se/st": 1,
-        "se/su": 31
+        "se/su": 30
       }
     },
     "Cr-Bu": {
