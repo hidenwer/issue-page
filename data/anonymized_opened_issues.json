@@ -96,10 +96,11 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 15,
-      "count": 19,
+      "service_count": 16,
+      "count": 20,
       "labels": {
         "1M": 4,
+        "1S": 1,
         "2M": 1,
         "2S": 1,
         "3M": 1,
@@ -114,12 +115,12 @@
         "sa/bu": 4,
         "se/gl": 1,
         "se/su": 6,
-        "se/th": 8
+        "se/th": 9
       },
       "categories": {
         "low": 4,
         "medium": 5,
-        "high": 6
+        "high": 7
       },
       "no_due_dates": [
 
@@ -728,13 +729,13 @@
       "count": 22,
       "labels": {
         "Ne": 0,
-        "WA": 12,
+        "WA": 13,
         "On": 2,
         "Bl": 0,
         "1": 0,
         "2": 0,
         "3": 1,
-        "4": 5,
+        "4": 4,
         "5": 1,
         "6": 0,
         "7": 1,
