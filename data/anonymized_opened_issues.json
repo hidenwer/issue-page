@@ -187,11 +187,10 @@
       }
     },
     "Ma-Gu": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1M": 3,
-        "1S": 1,
         "2S": 1,
         "3S": 1,
         "4S": 1,
@@ -202,13 +201,13 @@
         "7S": 1
       },
       "issues_by_project": {
-        "se/su": 11,
+        "se/su": 10,
         "se/th": 3
       },
       "categories": {
         "low": 6,
         "medium": 3,
-        "high": 5
+        "high": 4
       },
       "no_due_dates": [
 
@@ -707,10 +706,10 @@
       }
     },
     "Ma-Gu": {
-      "count": 15,
+      "count": 14,
       "labels": {
         "Ne": 0,
-        "WA": 7,
+        "WA": 6,
         "On": 1,
         "Bl": 0,
         "1": 1,
@@ -823,11 +822,11 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 33,
+      "count": 32,
       "issues_by_project": {
         "sa/bu": 1,
         "se/st": 1,
-        "se/su": 31
+        "se/su": 30
       }
     },
     "Cr-Bu": {
