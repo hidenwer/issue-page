@@ -127,12 +127,12 @@
       ]
     },
     "Ed-Ma": {
-      "service_count": 20,
-      "count": 20,
+      "service_count": 19,
+      "count": 19,
       "labels": {
         "1L": 1,
         "1M": 3,
-        "1S": 2,
+        "1S": 1,
         "10L": 1,
         "10S": 1,
         "2S": 1,
@@ -147,13 +147,13 @@
       "issues_by_project": {
         "se/gl": 1,
         "se/ro": 1,
-        "se/su": 11,
+        "se/su": 10,
         "se/th": 7
       },
       "categories": {
         "low": 9,
         "medium": 4,
-        "high": 7
+        "high": 6
       },
       "no_due_dates": [
 
@@ -323,8 +323,8 @@
       ]
     },
     "St-Da": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1M": 2,
         "1S": 2,
@@ -332,17 +332,16 @@
         "3S": 1,
         "4M": 3,
         "4S": 1,
-        "5S": 1,
         "6M": 1,
         "6S": 1,
         "7M": 1
       },
       "issues_by_project": {
-        "se/su": 8,
+        "se/su": 7,
         "se/th": 6
       },
       "categories": {
-        "low": 4,
+        "low": 3,
         "medium": 5,
         "high": 5
       }
@@ -668,10 +667,10 @@
       }
     },
     "Ed-Ma": {
-      "count": 24,
+      "count": 23,
       "labels": {
         "Ne": 4,
-        "WA": 8,
+        "WA": 7,
         "On": 2,
         "Bl": 2,
         "1": 0,
@@ -728,7 +727,7 @@
       "count": 22,
       "labels": {
         "Ne": 0,
-        "WA": 13,
+        "WA": 14,
         "On": 2,
         "Bl": 0,
         "1": 0,
@@ -737,7 +736,7 @@
         "4": 4,
         "5": 1,
         "6": 0,
-        "7": 1,
+        "7": 0,
         "8": 0,
         "9": 0,
         "10": 0
@@ -801,7 +800,7 @@
       }
     },
     "St-Da": {
-      "count": 15,
+      "count": 14,
       "labels": {
         "Ne": 0,
         "WA": 9,
@@ -811,7 +810,7 @@
         "2": 0,
         "3": 0,
         "4": 1,
-        "5": 1,
+        "5": 0,
         "6": 0,
         "7": 1,
         "8": 0,
@@ -830,11 +829,11 @@
       }
     },
     "Cr-Bu": {
-      "count": 33,
+      "count": 32,
       "issues_by_project": {
         "sa/bu": 4,
         "se/kp": 1,
-        "se/su": 26,
+        "se/su": 25,
         "se/th": 2
       }
     },
@@ -856,9 +855,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 14,
+      "count": 15,
       "issues_by_project": {
-        "se/su": 13,
+        "se/su": 14,
         "se/th": 1
       }
     }
