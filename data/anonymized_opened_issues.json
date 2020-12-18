@@ -45,52 +45,54 @@
       ]
     },
     "Co-Ci": {
-      "service_count": 7,
-      "count": 7,
+      "service_count": 9,
+      "count": 9,
       "labels": {
         "1M": 2,
+        "1S": 1,
+        "3S": 1,
         "5M": 1,
         "5S": 3,
         "7S": 1
       },
       "issues_by_project": {
-        "se/su": 3,
+        "se/su": 5,
         "se/th": 4
       },
       "categories": {
-        "low": 4,
+        "low": 5,
         "medium": 1,
-        "high": 2
+        "high": 3
       },
+      "overdues": [
+
+      ],
       "no_due_dates": [
 
       ]
     },
     "Da-Su": {
-      "service_count": 12,
-      "count": 13,
+      "service_count": 9,
+      "count": 10,
       "labels": {
         "1M": 2,
-        "1S": 1,
         "2M": 1,
         "2S": 1,
         "3M": 1,
-        "3S": 1,
         "4M": 1,
         "5S": 1,
-        "6S": 1,
         "7M": 1,
         "Beta": 1
       },
       "issues_by_project": {
-        "se/su": 6,
+        "se/su": 3,
         "se/th": 6,
         "sh/sa": 1
       },
       "categories": {
-        "low": 3,
+        "low": 1,
         "medium": 3,
-        "high": 6
+        "high": 5
       },
       "no_due_dates": [
 
@@ -247,8 +249,8 @@
       ]
     },
     "Se-Ra": {
-      "service_count": 9,
-      "count": 9,
+      "service_count": 10,
+      "count": 10,
       "labels": {
         "1M": 1,
         "10S": 1,
@@ -256,15 +258,15 @@
         "3S": 2,
         "5M": 1,
         "5S": 1,
-        "6S": 1,
+        "6S": 2,
         "Beta": 1
       },
       "issues_by_project": {
-        "se/su": 7,
+        "se/su": 8,
         "se/th": 2
       },
       "categories": {
-        "low": 5,
+        "low": 6,
         "medium": 1,
         "high": 3
       },
@@ -612,15 +614,15 @@
       }
     },
     "Co-Ci": {
-      "count": 8,
+      "count": 10,
       "labels": {
         "Ne": 0,
-        "WA": 1,
+        "WA": 0,
         "On": 0,
         "Bl": 1,
-        "1": 1,
+        "1": 3,
         "2": 0,
-        "3": 0,
+        "3": 1,
         "4": 0,
         "5": 4,
         "6": 0,
@@ -631,18 +633,18 @@
       }
     },
     "Da-Su": {
-      "count": 15,
+      "count": 12,
       "labels": {
         "Ne": 0,
         "WA": 2,
         "On": 2,
         "Bl": 2,
-        "1": 2,
+        "1": 1,
         "2": 2,
-        "3": 2,
+        "3": 1,
         "4": 1,
         "5": 1,
-        "6": 1,
+        "6": 0,
         "7": 0,
         "8": 0,
         "9": 0,
@@ -745,7 +747,7 @@
       }
     },
     "Se-Ra": {
-      "count": 8,
+      "count": 9,
       "labels": {
         "Ne": 0,
         "WA": 1,
@@ -756,7 +758,7 @@
         "3": 2,
         "4": 0,
         "5": 2,
-        "6": 1,
+        "6": 2,
         "7": 0,
         "8": 0,
         "9": 0,
