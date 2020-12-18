@@ -323,26 +323,26 @@
       ]
     },
     "St-Da": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 15,
+      "count": 15,
       "labels": {
         "1M": 2,
         "1S": 1,
         "2S": 4,
         "3S": 2,
-        "4M": 3,
+        "4M": 2,
         "4S": 1,
         "6M": 1,
         "6S": 1,
         "7M": 1
       },
       "issues_by_project": {
-        "se/su": 10,
+        "se/su": 9,
         "se/th": 6
       },
       "categories": {
         "low": 4,
-        "medium": 5,
+        "medium": 4,
         "high": 7
       }
     }
@@ -800,7 +800,7 @@
       }
     },
     "St-Da": {
-      "count": 17,
+      "count": 16,
       "labels": {
         "Ne": 0,
         "WA": 7,
@@ -809,7 +809,7 @@
         "1": 2,
         "2": 3,
         "3": 1,
-        "4": 2,
+        "4": 1,
         "5": 0,
         "6": 0,
         "7": 1,
@@ -838,9 +838,9 @@
       }
     },
     "Ig-Li": {
-      "count": 25,
+      "count": 24,
       "issues_by_project": {
-        "se/su": 25
+        "se/su": 24
       }
     },
     "Ir-Gr": {
