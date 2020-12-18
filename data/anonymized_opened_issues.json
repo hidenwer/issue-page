@@ -67,10 +67,10 @@
       ]
     },
     "Da-Su": {
-      "service_count": 13,
-      "count": 14,
+      "service_count": 12,
+      "count": 13,
       "labels": {
-        "1M": 3,
+        "1M": 2,
         "1S": 1,
         "2M": 1,
         "2S": 1,
@@ -84,23 +84,23 @@
       },
       "issues_by_project": {
         "se/su": 6,
-        "se/th": 7,
+        "se/th": 6,
         "sh/sa": 1
       },
       "categories": {
         "low": 3,
         "medium": 3,
-        "high": 7
+        "high": 6
       },
       "no_due_dates": [
 
       ]
     },
     "Da-Ni": {
-      "service_count": 16,
-      "count": 20,
+      "service_count": 15,
+      "count": 19,
       "labels": {
-        "1M": 3,
+        "1M": 2,
         "1S": 3,
         "2M": 1,
         "2S": 1,
@@ -115,28 +115,28 @@
         "sa/bu": 4,
         "se/gl": 1,
         "se/su": 7,
-        "se/th": 8
+        "se/th": 7
       },
       "categories": {
         "low": 4,
         "medium": 4,
-        "high": 8
+        "high": 7
       },
       "no_due_dates": [
 
       ]
     },
     "Ed-Ma": {
-      "service_count": 17,
-      "count": 17,
+      "service_count": 15,
+      "count": 15,
       "labels": {
         "1L": 1,
-        "1M": 3,
+        "1M": 2,
         "1S": 1,
         "10L": 1,
         "3M": 2,
         "3S": 2,
-        "4S": 4,
+        "4S": 3,
         "7M": 1,
         "7S": 1,
         "8S": 1
@@ -145,13 +145,16 @@
         "se/gl": 1,
         "se/ro": 1,
         "se/su": 8,
-        "se/th": 7
+        "se/th": 5
       },
       "categories": {
-        "low": 9,
+        "low": 8,
         "medium": 3,
-        "high": 5
+        "high": 4
       },
+      "overdues": [
+
+      ],
       "no_due_dates": [
 
       ]
@@ -185,10 +188,10 @@
       }
     },
     "Ma-Gu": {
-      "service_count": 11,
-      "count": 11,
+      "service_count": 12,
+      "count": 12,
       "labels": {
-        "1M": 3,
+        "1M": 4,
         "2S": 1,
         "3S": 1,
         "4S": 1,
@@ -199,12 +202,12 @@
       },
       "issues_by_project": {
         "se/su": 9,
-        "se/th": 2
+        "se/th": 3
       },
       "categories": {
         "low": 6,
         "medium": 1,
-        "high": 4
+        "high": 5
       },
       "no_due_dates": [
 
@@ -399,11 +402,11 @@
       }
     },
     "Da-Su": {
-      "count": 4,
+      "count": 3,
       "labels": {
         "On": 0,
         "Bl": 0,
-        "1": 1,
+        "1": 0,
         "2": 1,
         "3": 1,
         "4": 0,
@@ -418,9 +421,9 @@
     "Da-Ni": {
       "count": 4,
       "labels": {
-        "On": 0,
+        "On": 1,
         "Bl": 0,
-        "1": 2,
+        "1": 1,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -435,9 +438,9 @@
     "Ed-Ma": {
       "count": 6,
       "labels": {
-        "On": 1,
+        "On": 2,
         "Bl": 0,
-        "1": 3,
+        "1": 2,
         "2": 0,
         "3": 2,
         "4": 0,
@@ -467,11 +470,11 @@
       }
     },
     "Ma-Gu": {
-      "count": 4,
+      "count": 5,
       "labels": {
         "On": 2,
         "Bl": 0,
-        "1": 1,
+        "1": 2,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -628,13 +631,13 @@
       }
     },
     "Da-Su": {
-      "count": 16,
+      "count": 15,
       "labels": {
         "Ne": 0,
         "WA": 2,
         "On": 2,
         "Bl": 2,
-        "1": 3,
+        "1": 2,
         "2": 2,
         "3": 2,
         "4": 1,
@@ -650,8 +653,8 @@
       "count": 19,
       "labels": {
         "Ne": 2,
-        "WA": 7,
-        "On": 2,
+        "WA": 6,
+        "On": 3,
         "Bl": 0,
         "1": 2,
         "2": 1,
@@ -666,11 +669,11 @@
       }
     },
     "Ed-Ma": {
-      "count": 21,
+      "count": 20,
       "labels": {
         "Ne": 4,
-        "WA": 7,
-        "On": 2,
+        "WA": 5,
+        "On": 3,
         "Bl": 2,
         "1": 0,
         "2": 0,
@@ -704,13 +707,13 @@
       }
     },
     "Ma-Gu": {
-      "count": 13,
+      "count": 14,
       "labels": {
         "Ne": 0,
         "WA": 2,
         "On": 2,
         "Bl": 0,
-        "1": 3,
+        "1": 4,
         "2": 1,
         "3": 1,
         "4": 1,
