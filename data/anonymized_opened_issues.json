@@ -213,8 +213,8 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 19,
-      "count": 19,
+      "service_count": 18,
+      "count": 18,
       "labels": {
         "1M": 2,
         "1S": 2,
@@ -223,18 +223,18 @@
         "3M": 1,
         "3S": 1,
         "4M": 2,
-        "4S": 4,
+        "4S": 3,
         "5M": 2,
         "5S": 1,
         "6S": 1,
         "7S": 1
       },
       "issues_by_project": {
-        "se/su": 13,
+        "se/su": 12,
         "se/th": 6
       },
       "categories": {
-        "low": 8,
+        "low": 7,
         "medium": 5,
         "high": 6
       },
@@ -243,11 +243,10 @@
       ]
     },
     "Se-Ra": {
-      "service_count": 10,
-      "count": 10,
+      "service_count": 9,
+      "count": 9,
       "labels": {
         "1M": 1,
-        "1S": 1,
         "10S": 1,
         "2S": 1,
         "3S": 2,
@@ -257,13 +256,13 @@
         "Beta": 1
       },
       "issues_by_project": {
-        "se/su": 8,
+        "se/su": 7,
         "se/th": 2
       },
       "categories": {
         "low": 5,
         "medium": 1,
-        "high": 4
+        "high": 3
       },
       "no_due_dates": [
 
@@ -721,7 +720,7 @@
       }
     },
     "Ro-Ci": {
-      "count": 22,
+      "count": 21,
       "labels": {
         "Ne": 1,
         "WA": 10,
@@ -730,7 +729,7 @@
         "1": 1,
         "2": 0,
         "3": 0,
-        "4": 4,
+        "4": 3,
         "5": 2,
         "6": 0,
         "7": 1,
@@ -740,13 +739,13 @@
       }
     },
     "Se-Ra": {
-      "count": 9,
+      "count": 8,
       "labels": {
         "Ne": 0,
         "WA": 1,
         "On": 0,
         "Bl": 0,
-        "1": 2,
+        "1": 1,
         "2": 0,
         "3": 2,
         "4": 0,
@@ -818,11 +817,11 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 28,
+      "count": 26,
       "issues_by_project": {
         "sa/bu": 1,
         "se/st": 1,
-        "se/su": 26
+        "se/su": 24
       }
     },
     "Cr-Bu": {
