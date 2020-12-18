@@ -305,24 +305,24 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 15,
+      "count": 15,
       "labels": {
         "1M": 4,
         "1S": 2,
         "2M": 3,
         "2S": 1,
-        "3S": 1,
+        "3S": 2,
         "4M": 1,
         "5M": 1,
         "5S": 1
       },
       "issues_by_project": {
         "se/su": 3,
-        "se/th": 11
+        "se/th": 12
       },
       "categories": {
-        "low": 2,
+        "low": 3,
         "medium": 2,
         "high": 10
       },
@@ -792,7 +792,7 @@
       }
     },
     "Se-Tu": {
-      "count": 14,
+      "count": 15,
       "labels": {
         "Ne": 1,
         "WA": 6,
@@ -800,7 +800,7 @@
         "Bl": 0,
         "1": 2,
         "2": 3,
-        "3": 0,
+        "3": 1,
         "4": 1,
         "5": 1,
         "6": 0,
