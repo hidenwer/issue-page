@@ -322,24 +322,24 @@
       ]
     },
     "St-Da": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1M": 2,
         "1S": 1,
         "2S": 4,
-        "3S": 2,
+        "3S": 1,
         "4M": 2,
         "4S": 1,
         "6M": 1,
         "6S": 1
       },
       "issues_by_project": {
-        "se/su": 8,
+        "se/su": 7,
         "se/th": 6
       },
       "categories": {
-        "low": 4,
+        "low": 3,
         "medium": 3,
         "high": 7
       }
@@ -798,10 +798,10 @@
       }
     },
     "St-Da": {
-      "count": 15,
+      "count": 14,
       "labels": {
         "Ne": 0,
-        "WA": 7,
+        "WA": 6,
         "On": 1,
         "Bl": 0,
         "1": 2,
@@ -819,11 +819,11 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 31,
+      "count": 30,
       "issues_by_project": {
         "sa/bu": 1,
         "se/st": 1,
-        "se/su": 29
+        "se/su": 28
       }
     },
     "Cr-Bu": {
@@ -854,9 +854,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 16,
+      "count": 17,
       "issues_by_project": {
-        "se/su": 15,
+        "se/su": 16,
         "se/th": 1
       }
     }
