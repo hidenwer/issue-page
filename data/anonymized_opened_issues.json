@@ -825,12 +825,12 @@
       }
     },
     "Cr-Bu": {
-      "count": 38,
+      "count": 39,
       "issues_by_project": {
         "sa/bu": 4,
         "se/gl": 1,
         "se/kp": 1,
-        "se/su": 29,
+        "se/su": 30,
         "se/th": 3
       }
     },
