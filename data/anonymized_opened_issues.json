@@ -842,14 +842,14 @@
       }
     },
     "Ir-Gr": {
-      "count": 23,
+      "count": 24,
       "issues_by_project": {
         "ca/gl": 4,
         "ca/in": 11,
         "sa/bu": 3,
         "se/gl": 3,
         "se/kp": 1,
-        "se/su": 1
+        "se/su": 2
       }
     },
     "Vi-Sa": {
