@@ -1,23 +1,23 @@
 {
   "load": {
     "Al-Hi": {
-      "service_count": 15,
-      "count": 16,
+      "service_count": 19,
+      "count": 20,
       "labels": {
         "1M": 4,
         "1S": 4,
         "3M": 2,
-        "4S": 4,
+        "4S": 8,
         "7L": 1
       },
       "issues_by_project": {
         "sa/bu": 1,
         "se/gl": 2,
         "se/su": 2,
-        "se/th": 11
+        "se/th": 15
       },
       "categories": {
-        "low": 5,
+        "low": 9,
         "medium": 2,
         "high": 8
       }
@@ -69,25 +69,26 @@
       ]
     },
     "Da-Su": {
-      "service_count": 9,
-      "count": 10,
+      "service_count": 10,
+      "count": 11,
       "labels": {
         "1M": 2,
         "2M": 1,
         "2S": 1,
         "3M": 1,
         "4M": 1,
+        "4S": 1,
         "5S": 1,
         "7M": 1,
         "Beta": 1
       },
       "issues_by_project": {
         "se/su": 3,
-        "se/th": 6,
+        "se/th": 7,
         "sh/sa": 1
       },
       "categories": {
-        "low": 1,
+        "low": 2,
         "medium": 3,
         "high": 5
       },
@@ -185,13 +186,13 @@
       }
     },
     "Ma-Gu": {
-      "service_count": 12,
-      "count": 12,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1M": 4,
         "2S": 1,
         "3S": 1,
-        "4S": 1,
+        "4S": 2,
         "5M": 1,
         "5S": 1,
         "6S": 2,
@@ -199,10 +200,10 @@
       },
       "issues_by_project": {
         "se/su": 9,
-        "se/th": 3
+        "se/th": 4
       },
       "categories": {
-        "low": 6,
+        "low": 7,
         "medium": 1,
         "high": 5
       },
@@ -211,8 +212,8 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 19,
-      "count": 19,
+      "service_count": 20,
+      "count": 20,
       "labels": {
         "1M": 2,
         "1S": 2,
@@ -221,7 +222,7 @@
         "3M": 1,
         "3S": 1,
         "4M": 2,
-        "4S": 4,
+        "4S": 5,
         "5M": 2,
         "5S": 1,
         "6S": 1,
@@ -229,10 +230,10 @@
       },
       "issues_by_project": {
         "se/su": 12,
-        "se/th": 7
+        "se/th": 8
       },
       "categories": {
-        "low": 7,
+        "low": 8,
         "medium": 6,
         "high": 6
       },
@@ -267,24 +268,24 @@
       ]
     },
     "Se-Vo": {
-      "service_count": 12,
-      "count": 12,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1M": 3,
         "2S": 1,
         "3S": 1,
         "4M": 2,
-        "4S": 3,
+        "4S": 4,
         "5S": 1,
         "6S": 1
       },
       "issues_by_project": {
         "se/kp": 1,
         "se/su": 5,
-        "se/th": 6
+        "se/th": 7
       },
       "categories": {
-        "low": 6,
+        "low": 7,
         "medium": 2,
         "high": 4
       },
@@ -320,22 +321,22 @@
       ]
     },
     "St-Da": {
-      "service_count": 12,
-      "count": 12,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1M": 2,
         "1S": 2,
         "2S": 2,
         "3S": 3,
         "4M": 2,
-        "4S": 1
+        "4S": 2
       },
       "issues_by_project": {
         "se/su": 7,
-        "se/th": 5
+        "se/th": 6
       },
       "categories": {
-        "low": 4,
+        "low": 5,
         "medium": 2,
         "high": 6
       }
@@ -566,7 +567,7 @@
   },
   "lbl": {
     "Al-Hi": {
-      "count": 23,
+      "count": 27,
       "labels": {
         "Ne": 0,
         "WA": 5,
@@ -575,7 +576,7 @@
         "1": 6,
         "2": 0,
         "3": 2,
-        "4": 3,
+        "4": 7,
         "5": 0,
         "6": 0,
         "7": 1,
@@ -623,7 +624,7 @@
       }
     },
     "Da-Su": {
-      "count": 12,
+      "count": 13,
       "labels": {
         "Ne": 0,
         "WA": 2,
@@ -632,7 +633,7 @@
         "1": 1,
         "2": 2,
         "3": 1,
-        "4": 1,
+        "4": 2,
         "5": 1,
         "6": 0,
         "7": 0,
@@ -699,7 +700,7 @@
       }
     },
     "Ma-Gu": {
-      "count": 14,
+      "count": 15,
       "labels": {
         "Ne": 0,
         "WA": 4,
@@ -708,7 +709,7 @@
         "1": 3,
         "2": 1,
         "3": 0,
-        "4": 1,
+        "4": 2,
         "5": 1,
         "6": 1,
         "7": 1,
@@ -718,7 +719,7 @@
       }
     },
     "Ro-Ci": {
-      "count": 22,
+      "count": 23,
       "labels": {
         "Ne": 1,
         "WA": 9,
@@ -727,7 +728,7 @@
         "1": 2,
         "2": 1,
         "3": 0,
-        "4": 4,
+        "4": 5,
         "5": 1,
         "6": 0,
         "7": 1,
@@ -756,7 +757,7 @@
       }
     },
     "Se-Vo": {
-      "count": 12,
+      "count": 13,
       "labels": {
         "Ne": 0,
         "WA": 1,
@@ -765,7 +766,7 @@
         "1": 3,
         "2": 0,
         "3": 1,
-        "4": 5,
+        "4": 6,
         "5": 1,
         "6": 1,
         "7": 0,
@@ -794,7 +795,7 @@
       }
     },
     "St-Da": {
-      "count": 14,
+      "count": 15,
       "labels": {
         "Ne": 0,
         "WA": 4,
@@ -803,7 +804,7 @@
         "1": 3,
         "2": 1,
         "3": 3,
-        "4": 1,
+        "4": 2,
         "5": 0,
         "6": 0,
         "7": 0,
@@ -823,12 +824,12 @@
       }
     },
     "Cr-Bu": {
-      "count": 34,
+      "count": 35,
       "issues_by_project": {
         "sa/bu": 4,
         "se/gl": 1,
         "se/kp": 1,
-        "se/su": 26,
+        "se/su": 27,
         "se/th": 2
       }
     },
