@@ -320,26 +320,28 @@
       ]
     },
     "St-Da": {
-      "service_count": 15,
-      "count": 15,
+      "service_count": 14,
+      "count": 14,
       "labels": {
         "1M": 2,
         "1S": 2,
         "2S": 2,
         "3S": 3,
         "4M": 2,
-        "4S": 3,
-        "S": 1
+        "4S": 3
       },
       "issues_by_project": {
-        "se/su": 9,
+        "se/su": 8,
         "se/th": 6
       },
       "categories": {
         "low": 6,
         "medium": 2,
         "high": 6
-      }
+      },
+      "no_due_dates": [
+
+      ]
     }
   },
   "int": {
@@ -840,10 +842,10 @@
       }
     },
     "Ir-Gr": {
-      "count": 24,
+      "count": 23,
       "issues_by_project": {
         "ca/gl": 4,
-        "ca/in": 12,
+        "ca/in": 11,
         "sa/bu": 3,
         "se/gl": 3,
         "se/kp": 1,
