@@ -158,11 +158,11 @@
       ]
     },
     "Eu-Mo": {
-      "service_count": 30,
-      "count": 30,
+      "service_count": 29,
+      "count": 29,
       "labels": {
         "1M": 4,
-        "1S": 10,
+        "1S": 9,
         "10M": 1,
         "2M": 1,
         "2S": 1,
@@ -177,12 +177,12 @@
       "issues_by_project": {
         "se/st": 1,
         "se/su": 12,
-        "se/th": 17
+        "se/th": 16
       },
       "categories": {
         "low": 6,
         "medium": 8,
-        "high": 16
+        "high": 15
       }
     },
     "Ma-Gu": {
@@ -683,8 +683,8 @@
       "count": 33,
       "labels": {
         "Ne": 1,
-        "WA": 14,
-        "On": 3,
+        "WA": 13,
+        "On": 4,
         "Bl": 0,
         "1": 2,
         "2": 1,
@@ -823,9 +823,9 @@
       }
     },
     "Cr-Bu": {
-      "count": 35,
+      "count": 36,
       "issues_by_project": {
-        "sa/bu": 4,
+        "sa/bu": 5,
         "se/gl": 1,
         "se/kp": 1,
         "se/su": 27,
@@ -833,9 +833,9 @@
       }
     },
     "Ig-Li": {
-      "count": 23,
+      "count": 24,
       "issues_by_project": {
-        "se/su": 23
+        "se/su": 24
       }
     },
     "Ir-Gr": {
