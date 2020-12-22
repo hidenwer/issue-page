@@ -73,7 +73,7 @@
     },
     "Da-Su": {
       "service_count": 10,
-      "count": 11,
+      "count": 10,
       "labels": {
         "1M": 2,
         "2M": 1,
@@ -87,8 +87,7 @@
       },
       "issues_by_project": {
         "se/su": 3,
-        "se/th": 7,
-        "sh/sa": 1
+        "se/th": 7
       },
       "categories": {
         "low": 2,
@@ -653,10 +652,10 @@
       "count": 20,
       "labels": {
         "Ne": 2,
-        "WA": 8,
+        "WA": 9,
         "On": 2,
         "Bl": 0,
-        "1": 2,
+        "1": 1,
         "2": 0,
         "3": 2,
         "4": 1,
