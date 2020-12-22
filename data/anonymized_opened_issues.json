@@ -194,7 +194,7 @@
       "count": 14,
       "labels": {
         "1M": 4,
-        "2S": 1,
+        "2M": 1,
         "3S": 2,
         "4S": 2,
         "5M": 1,
@@ -859,9 +859,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 16,
+      "count": 17,
       "issues_by_project": {
-        "se/su": 15,
+        "se/su": 16,
         "se/th": 1
       }
     }
