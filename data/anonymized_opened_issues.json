@@ -833,12 +833,12 @@
       }
     },
     "Cr-Bu": {
-      "count": 42,
+      "count": 43,
       "issues_by_project": {
         "sa/bu": 4,
         "se/gl": 1,
         "se/kp": 1,
-        "se/su": 33,
+        "se/su": 34,
         "se/th": 3
       }
     },
@@ -860,9 +860,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 19,
+      "count": 20,
       "issues_by_project": {
-        "se/su": 18,
+        "se/su": 19,
         "se/th": 1
       }
     }
