@@ -129,13 +129,14 @@
       ]
     },
     "Ed-Ma": {
-      "service_count": 19,
-      "count": 19,
+      "service_count": 20,
+      "count": 20,
       "labels": {
         "1L": 1,
         "1M": 2,
         "1S": 2,
         "10L": 1,
+        "2S": 1,
         "3M": 1,
         "3S": 2,
         "4M": 2,
@@ -148,13 +149,13 @@
         "se/gl": 1,
         "se/kp": 1,
         "se/ro": 1,
-        "se/su": 9,
+        "se/su": 10,
         "se/th": 7
       },
       "categories": {
         "low": 10,
         "medium": 4,
-        "high": 5
+        "high": 6
       },
       "no_due_dates": [
 
@@ -671,14 +672,14 @@
       }
     },
     "Ed-Ma": {
-      "count": 23,
+      "count": 24,
       "labels": {
         "Ne": 3,
         "WA": 6,
         "On": 2,
         "Bl": 2,
         "1": 1,
-        "2": 0,
+        "2": 1,
         "3": 1,
         "4": 5,
         "5": 0,
