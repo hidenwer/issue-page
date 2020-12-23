@@ -75,12 +75,11 @@
       ]
     },
     "Da-Su": {
-      "service_count": 10,
-      "count": 10,
+      "service_count": 9,
+      "count": 9,
       "labels": {
         "1M": 2,
         "2M": 1,
-        "2S": 1,
         "3M": 1,
         "4S": 2,
         "5S": 1,
@@ -88,21 +87,21 @@
         "Beta": 1
       },
       "issues_by_project": {
-        "se/su": 4,
+        "se/su": 3,
         "se/th": 6
       },
       "categories": {
         "low": 3,
         "medium": 2,
-        "high": 5
+        "high": 4
       },
       "no_due_dates": [
 
       ]
     },
     "Da-Ni": {
-      "service_count": 20,
-      "count": 24,
+      "service_count": 19,
+      "count": 23,
       "labels": {
         "1M": 4,
         "1S": 4,
@@ -112,17 +111,17 @@
         "3S": 1,
         "4S": 2,
         "5M": 2,
-        "5S": 2,
+        "5S": 1,
         "6M": 1
       },
       "issues_by_project": {
         "sa/bu": 4,
         "se/gl": 1,
-        "se/su": 9,
+        "se/su": 8,
         "se/th": 10
       },
       "categories": {
-        "low": 5,
+        "low": 4,
         "medium": 4,
         "high": 11
       },
@@ -131,12 +130,12 @@
       ]
     },
     "Ed-Ma": {
-      "service_count": 18,
-      "count": 18,
+      "service_count": 19,
+      "count": 19,
       "labels": {
         "1L": 1,
         "1M": 2,
-        "1S": 2,
+        "1S": 3,
         "10L": 1,
         "2S": 1,
         "3M": 1,
@@ -149,13 +148,13 @@
       "issues_by_project": {
         "se/gl": 1,
         "se/ro": 1,
-        "se/su": 9,
+        "se/su": 10,
         "se/th": 7
       },
       "categories": {
         "low": 8,
         "medium": 4,
-        "high": 6
+        "high": 7
       },
       "no_due_dates": [
 
@@ -632,14 +631,14 @@
       }
     },
     "Da-Su": {
-      "count": 13,
+      "count": 12,
       "labels": {
         "Ne": 0,
         "WA": 2,
         "On": 2,
         "Bl": 2,
         "1": 1,
-        "2": 2,
+        "2": 1,
         "3": 1,
         "4": 2,
         "5": 1,
@@ -651,7 +650,7 @@
       }
     },
     "Da-Ni": {
-      "count": 23,
+      "count": 22,
       "labels": {
         "Ne": 2,
         "WA": 8,
@@ -661,7 +660,7 @@
         "2": 2,
         "3": 1,
         "4": 1,
-        "5": 3,
+        "5": 2,
         "6": 1,
         "7": 0,
         "8": 0,
@@ -670,13 +669,13 @@
       }
     },
     "Ed-Ma": {
-      "count": 22,
+      "count": 23,
       "labels": {
         "Ne": 3,
         "WA": 7,
         "On": 2,
         "Bl": 2,
-        "1": 0,
+        "1": 1,
         "2": 1,
         "3": 1,
         "4": 4,
@@ -692,10 +691,10 @@
       "count": 29,
       "labels": {
         "Ne": 1,
-        "WA": 12,
+        "WA": 11,
         "On": 4,
         "Bl": 0,
-        "1": 1,
+        "1": 2,
         "2": 1,
         "3": 3,
         "4": 3,
@@ -711,10 +710,10 @@
       "count": 15,
       "labels": {
         "Ne": 0,
-        "WA": 3,
+        "WA": 4,
         "On": 2,
         "Bl": 0,
-        "1": 3,
+        "1": 2,
         "2": 1,
         "3": 1,
         "4": 3,
@@ -749,12 +748,12 @@
       "count": 10,
       "labels": {
         "Ne": 0,
-        "WA": 3,
+        "WA": 4,
         "On": 0,
         "Bl": 0,
         "1": 1,
         "2": 0,
-        "3": 2,
+        "3": 1,
         "4": 0,
         "5": 2,
         "6": 1,
@@ -768,10 +767,10 @@
       "count": 14,
       "labels": {
         "Ne": 0,
-        "WA": 0,
+        "WA": 1,
         "On": 0,
         "Bl": 0,
-        "1": 4,
+        "1": 3,
         "2": 0,
         "3": 2,
         "4": 6,
@@ -832,12 +831,12 @@
       }
     },
     "Cr-Bu": {
-      "count": 42,
+      "count": 41,
       "issues_by_project": {
         "sa/bu": 5,
         "se/gl": 1,
         "se/kp": 1,
-        "se/su": 32,
+        "se/su": 31,
         "se/th": 3
       }
     },
