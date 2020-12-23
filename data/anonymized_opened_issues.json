@@ -129,8 +129,8 @@
       ]
     },
     "Ed-Ma": {
-      "service_count": 18,
-      "count": 18,
+      "service_count": 19,
+      "count": 19,
       "labels": {
         "1L": 1,
         "1M": 2,
@@ -138,7 +138,7 @@
         "10L": 1,
         "3M": 1,
         "3S": 2,
-        "4M": 1,
+        "4M": 2,
         "4S": 5,
         "7M": 1,
         "7S": 1,
@@ -149,11 +149,11 @@
         "se/kp": 1,
         "se/ro": 1,
         "se/su": 9,
-        "se/th": 6
+        "se/th": 7
       },
       "categories": {
         "low": 10,
-        "medium": 3,
+        "medium": 4,
         "high": 5
       },
       "no_due_dates": [
@@ -671,7 +671,7 @@
       }
     },
     "Ed-Ma": {
-      "count": 22,
+      "count": 23,
       "labels": {
         "Ne": 3,
         "WA": 6,
@@ -680,7 +680,7 @@
         "1": 1,
         "2": 0,
         "3": 1,
-        "4": 4,
+        "4": 5,
         "5": 0,
         "6": 0,
         "7": 1,
@@ -843,9 +843,9 @@
       }
     },
     "Ig-Li": {
-      "count": 25,
+      "count": 26,
       "issues_by_project": {
-        "se/su": 25
+        "se/su": 26
       }
     },
     "Ir-Gr": {
