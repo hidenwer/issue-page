@@ -99,15 +99,15 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 17,
-      "count": 21,
+      "service_count": 16,
+      "count": 20,
       "labels": {
         "1M": 3,
         "1S": 3,
         "2M": 1,
         "2S": 1,
         "3L": 1,
-        "3S": 2,
+        "3S": 1,
         "4S": 2,
         "5M": 2,
         "5S": 1,
@@ -116,11 +116,11 @@
       "issues_by_project": {
         "sa/bu": 4,
         "se/gl": 1,
-        "se/su": 7,
+        "se/su": 6,
         "se/th": 9
       },
       "categories": {
-        "low": 5,
+        "low": 4,
         "medium": 4,
         "high": 8
       },
@@ -652,10 +652,10 @@
       }
     },
     "Da-Ni": {
-      "count": 20,
+      "count": 19,
       "labels": {
         "Ne": 2,
-        "WA": 9,
+        "WA": 8,
         "On": 2,
         "Bl": 0,
         "1": 1,
@@ -833,19 +833,19 @@
       }
     },
     "Cr-Bu": {
-      "count": 41,
+      "count": 42,
       "issues_by_project": {
         "sa/bu": 4,
         "se/gl": 1,
         "se/kp": 1,
-        "se/su": 32,
+        "se/su": 33,
         "se/th": 3
       }
     },
     "Ig-Li": {
-      "count": 26,
+      "count": 25,
       "issues_by_project": {
-        "se/su": 26
+        "se/su": 25
       }
     },
     "Ir-Gr": {
