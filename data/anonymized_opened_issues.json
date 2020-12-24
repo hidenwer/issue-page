@@ -99,8 +99,8 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 19,
-      "count": 23,
+      "service_count": 18,
+      "count": 22,
       "labels": {
         "1M": 4,
         "1S": 3,
@@ -108,7 +108,7 @@
         "2S": 2,
         "3L": 1,
         "3S": 2,
-        "4S": 2,
+        "4S": 1,
         "5M": 2,
         "5S": 1,
         "6M": 1
@@ -116,14 +116,17 @@
       "issues_by_project": {
         "sa/bu": 4,
         "se/gl": 1,
-        "se/su": 7,
+        "se/su": 6,
         "se/th": 11
       },
       "categories": {
-        "low": 5,
+        "low": 4,
         "medium": 4,
         "high": 10
       },
+      "overdues": [
+
+      ],
       "no_due_dates": [
 
       ]
@@ -212,16 +215,16 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 24,
-      "count": 24,
+      "service_count": 22,
+      "count": 22,
       "labels": {
         "1M": 4,
         "1S": 1,
         "2M": 1,
-        "2S": 3,
+        "2S": 2,
         "3M": 1,
         "3S": 3,
-        "4M": 2,
+        "4M": 1,
         "4S": 5,
         "5M": 1,
         "6S": 1,
@@ -229,14 +232,17 @@
         "9S": 1
       },
       "issues_by_project": {
-        "se/su": 15,
-        "se/th": 9
+        "se/su": 14,
+        "se/th": 8
       },
       "categories": {
         "low": 10,
-        "medium": 5,
-        "high": 9
+        "medium": 4,
+        "high": 8
       },
+      "overdues": [
+
+      ],
       "no_due_dates": [
 
       ]
@@ -655,8 +661,8 @@
       "count": 22,
       "labels": {
         "Ne": 2,
-        "WA": 8,
-        "On": 2,
+        "WA": 7,
+        "On": 3,
         "Bl": 0,
         "1": 3,
         "2": 1,
@@ -731,8 +737,8 @@
       "count": 27,
       "labels": {
         "Ne": 0,
-        "WA": 12,
-        "On": 3,
+        "WA": 10,
+        "On": 5,
         "Bl": 0,
         "1": 2,
         "2": 3,
@@ -825,16 +831,17 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 21,
+      "count": 19,
       "issues_by_project": {
         "sa/bu": 1,
         "se/st": 1,
-        "se/su": 19
+        "se/su": 17
       }
     },
     "Cr-Bu": {
-      "count": 38,
+      "count": 39,
       "issues_by_project": {
+        "ps/pr": 1,
         "sa/bu": 5,
         "se/gl": 1,
         "se/kp": 1,
@@ -849,10 +856,11 @@
       }
     },
     "Ir-Gr": {
-      "count": 27,
+      "count": 28,
       "issues_by_project": {
         "ca/gl": 4,
         "ca/in": 12,
+        "ps/pr": 1,
         "sa/bu": 4,
         "se/gl": 3,
         "se/kp": 1,
