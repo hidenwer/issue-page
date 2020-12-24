@@ -34,10 +34,10 @@
             <a class="nav-link" id="int-tab" data-toggle="pill" href="#int" role="tab" aria-controls="int" aria-selected="false">int</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" id="s-tab" data-toggle="pill" href="#s" role="tab" aria-controls="s" aria-selected="false">S</a>
+            <a class="nav-link" id="pisp-tab" data-toggle="pill" href="#pisp" role="tab" aria-controls="pisp" aria-selected="false">PISP</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" id="pisp-tab" data-toggle="pill" href="#pisp" role="tab" aria-controls="pisp" aria-selected="false">PISP</a>
+            <a class="nav-link" id="s-tab" data-toggle="pill" href="#s" role="tab" aria-controls="s" aria-selected="false">S</a>
         </li>
     </ul>
     <div class="tab-content" id="pills-tabContent">
@@ -56,12 +56,12 @@
               <canvas></canvas>
           </div>
         </div>
-        <div class="tab-pane fade" id="s" role="tabpanel" aria-labelledby="pills-contact-tab">
+        <div class="tab-pane fade" id="pisp" role="tabpanel" aria-labelledby="pills-contact-tab">
           <div class="chart-container center">
               <canvas></canvas>
           </div>
         </div>
-        <div class="tab-pane fade" id="pisp" role="tabpanel" aria-labelledby="pills-contact-tab">
+        <div class="tab-pane fade" id="s" role="tabpanel" aria-labelledby="pills-contact-tab">
           <div class="chart-container center">
               <canvas></canvas>
           </div>
@@ -185,8 +185,8 @@
             draw("load")
             draw("int")
             draw("lbl")
-            draw("s")
             draw("pisp")
+            draw("s")
         });
     </script>
 </body>
