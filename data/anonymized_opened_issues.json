@@ -156,14 +156,13 @@
       ]
     },
     "Eu-Mo": {
-      "service_count": 26,
-      "count": 27,
+      "service_count": 24,
+      "count": 25,
       "labels": {
         "1M": 4,
-        "1S": 9,
+        "1S": 8,
         "10M": 1,
         "2M": 1,
-        "2S": 1,
         "3M": 3,
         "4M": 2,
         "4S": 2,
@@ -174,35 +173,38 @@
       "issues_by_project": {
         "sa/bu": 1,
         "se/st": 1,
-        "se/su": 9,
-        "se/th": 16
+        "se/su": 8,
+        "se/th": 15
       },
       "categories": {
         "low": 3,
         "medium": 8,
-        "high": 15
+        "high": 13
       }
     },
     "Ma-Gu": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "1M": 4,
         "2M": 1,
-        "3S": 2,
+        "3S": 1,
         "4S": 3,
         "5M": 1,
         "5S": 2
       },
       "issues_by_project": {
-        "se/su": 8,
+        "se/su": 7,
         "se/th": 5
       },
       "categories": {
-        "low": 7,
+        "low": 6,
         "medium": 1,
         "high": 5
       },
+      "overdues": [
+
+      ],
       "no_due_dates": [
 
       ]
@@ -322,25 +324,25 @@
       ]
     },
     "St-Da": {
-      "service_count": 17,
-      "count": 17,
+      "service_count": 15,
+      "count": 15,
       "labels": {
         "1M": 2,
         "1S": 1,
         "2S": 4,
         "3S": 2,
-        "4M": 2,
-        "4S": 4,
+        "4M": 1,
+        "4S": 3,
         "5S": 1,
         "6M": 1
       },
       "issues_by_project": {
         "se/su": 8,
-        "se/th": 9
+        "se/th": 7
       },
       "categories": {
-        "low": 7,
-        "medium": 3,
+        "low": 6,
+        "medium": 2,
         "high": 7
       },
       "no_due_dates": [
@@ -556,12 +558,12 @@
     "St-Da": {
       "count": 5,
       "labels": {
-        "On": 0,
+        "On": 1,
         "Bl": 0,
         "1": 2,
         "2": 1,
         "3": 0,
-        "4": 1,
+        "4": 0,
         "5": 0,
         "6": 1,
         "7": 0,
@@ -687,10 +689,10 @@
       }
     },
     "Eu-Mo": {
-      "count": 30,
+      "count": 28,
       "labels": {
         "Ne": 1,
-        "WA": 14,
+        "WA": 12,
         "On": 4,
         "Bl": 0,
         "1": 2,
@@ -709,8 +711,8 @@
       "count": 15,
       "labels": {
         "Ne": 0,
-        "WA": 5,
-        "On": 2,
+        "WA": 4,
+        "On": 3,
         "Bl": 0,
         "1": 1,
         "2": 1,
@@ -785,10 +787,10 @@
       "count": 16,
       "labels": {
         "Ne": 1,
-        "WA": 4,
+        "WA": 3,
         "On": 1,
         "Bl": 0,
-        "1": 1,
+        "1": 2,
         "2": 3,
         "3": 1,
         "4": 2,
@@ -804,8 +806,8 @@
       "count": 18,
       "labels": {
         "Ne": 0,
-        "WA": 6,
-        "On": 1,
+        "WA": 4,
+        "On": 3,
         "Bl": 0,
         "1": 3,
         "2": 3,
