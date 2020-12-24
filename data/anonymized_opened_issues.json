@@ -831,16 +831,18 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 19,
+      "count": 21,
       "issues_by_project": {
+        "bu/su": 2,
         "sa/bu": 1,
         "se/st": 1,
         "se/su": 17
       }
     },
     "Cr-Bu": {
-      "count": 39,
+      "count": 45,
       "issues_by_project": {
+        "bu/su": 6,
         "ps/pr": 1,
         "sa/bu": 5,
         "se/gl": 1,
