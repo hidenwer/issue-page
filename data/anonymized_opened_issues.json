@@ -97,11 +97,11 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 20,
-      "count": 24,
+      "service_count": 19,
+      "count": 23,
       "labels": {
         "1M": 4,
-        "1S": 4,
+        "1S": 3,
         "2M": 1,
         "2S": 2,
         "3L": 1,
@@ -114,13 +114,13 @@
       "issues_by_project": {
         "sa/bu": 4,
         "se/gl": 1,
-        "se/su": 8,
+        "se/su": 7,
         "se/th": 11
       },
       "categories": {
         "low": 5,
         "medium": 4,
-        "high": 11
+        "high": 10
       },
       "no_due_dates": [
 
@@ -323,26 +323,26 @@
       ]
     },
     "St-Da": {
-      "service_count": 21,
-      "count": 21,
+      "service_count": 18,
+      "count": 18,
       "labels": {
         "1M": 2,
-        "1S": 3,
+        "1S": 1,
         "2S": 5,
-        "3S": 3,
+        "3S": 2,
         "4M": 2,
         "4S": 4,
         "5S": 1,
         "6M": 1
       },
       "issues_by_project": {
-        "se/su": 11,
+        "se/su": 8,
         "se/th": 10
       },
       "categories": {
-        "low": 8,
+        "low": 7,
         "medium": 3,
-        "high": 10
+        "high": 8
       },
       "no_due_dates": [
 
@@ -650,10 +650,10 @@
       }
     },
     "Da-Ni": {
-      "count": 23,
+      "count": 22,
       "labels": {
         "Ne": 2,
-        "WA": 9,
+        "WA": 8,
         "On": 2,
         "Bl": 0,
         "1": 3,
@@ -802,13 +802,13 @@
       }
     },
     "St-Da": {
-      "count": 22,
+      "count": 19,
       "labels": {
         "Ne": 0,
-        "WA": 8,
+        "WA": 6,
         "On": 1,
         "Bl": 0,
-        "1": 4,
+        "1": 3,
         "2": 3,
         "3": 2,
         "4": 3,
@@ -841,9 +841,9 @@
       }
     },
     "Ig-Li": {
-      "count": 26,
+      "count": 25,
       "issues_by_project": {
-        "se/su": 26
+        "se/su": 25
       }
     },
     "Ir-Gr": {
@@ -858,9 +858,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 20,
+      "count": 16,
       "issues_by_project": {
-        "se/su": 19,
+        "se/su": 15,
         "se/th": 1
       }
     }
