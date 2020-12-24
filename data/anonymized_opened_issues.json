@@ -295,26 +295,26 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 17,
-      "count": 17,
+      "service_count": 16,
+      "count": 16,
       "labels": {
         "1M": 4,
         "1S": 2,
         "10S": 1,
         "2M": 3,
         "2S": 1,
-        "3S": 2,
+        "3S": 1,
         "4M": 1,
         "4S": 1,
         "5S": 1,
         "8S": 1
       },
       "issues_by_project": {
-        "se/su": 5,
+        "se/su": 4,
         "se/th": 12
       },
       "categories": {
-        "low": 6,
+        "low": 5,
         "medium": 1,
         "high": 10
       },
@@ -783,10 +783,10 @@
       }
     },
     "Se-Tu": {
-      "count": 18,
+      "count": 17,
       "labels": {
         "Ne": 1,
-        "WA": 5,
+        "WA": 4,
         "On": 1,
         "Bl": 0,
         "1": 2,
@@ -858,9 +858,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 16,
+      "count": 15,
       "issues_by_project": {
-        "se/su": 15,
+        "se/su": 14,
         "se/th": 1
       }
     }
