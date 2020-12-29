@@ -188,22 +188,22 @@
       }
     },
     "Ma-Gu": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 14,
+      "count": 14,
       "labels": {
         "1M": 4,
         "2M": 1,
         "2S": 2,
-        "4S": 3,
+        "4S": 4,
         "5M": 1,
         "5S": 2
       },
       "issues_by_project": {
-        "service/support": 8,
+        "service/support": 9,
         "service/thief": 5
       },
       "categories": {
-        "low": 5,
+        "low": 6,
         "medium": 1,
         "high": 7
       },
@@ -322,24 +322,24 @@
       ]
     },
     "St-Da": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 15,
+      "count": 15,
       "labels": {
         "1M": 2,
         "1S": 1,
         "2S": 3,
         "3S": 2,
         "4M": 1,
-        "4S": 3,
+        "4S": 4,
         "5S": 1,
         "6M": 1
       },
       "issues_by_project": {
-        "service/support": 8,
+        "service/support": 9,
         "service/thief": 6
       },
       "categories": {
-        "low": 6,
+        "low": 7,
         "medium": 2,
         "high": 6
       },
@@ -706,7 +706,7 @@
       }
     },
     "Ma-Gu": {
-      "count": 16,
+      "count": 17,
       "labels": {
         "NC_Onb": 0,
         "WFF": 5,
@@ -715,7 +715,7 @@
         "1": 2,
         "2": 2,
         "3": 0,
-        "4": 3,
+        "4": 4,
         "5": 1,
         "6": 0,
         "7": 0,
@@ -801,7 +801,7 @@
       }
     },
     "St-Da": {
-      "count": 17,
+      "count": 18,
       "labels": {
         "NC_Onb": 0,
         "WFF": 6,
@@ -810,7 +810,7 @@
         "1": 2,
         "2": 2,
         "3": 2,
-        "4": 2,
+        "4": 3,
         "5": 0,
         "6": 0,
         "7": 0,
