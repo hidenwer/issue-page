@@ -826,10 +826,10 @@
     "Co-Ur": {
       "count": 27,
       "issues_by_project": {
-        "bucket/support": 2,
+        "bucket/support": 1,
         "SE/bucket": 1,
         "service/stealer": 1,
-        "service/support": 23
+        "service/support": 24
       }
     },
     "Cr-Bu": {
