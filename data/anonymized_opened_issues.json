@@ -165,8 +165,8 @@
       ]
     },
     "Eu-Mo": {
-      "service_count": 24,
-      "count": 25,
+      "service_count": 25,
+      "count": 26,
       "labels": {
         "1M": 5,
         "1S": 7,
@@ -177,6 +177,7 @@
         "4M": 2,
         "4S": 2,
         "5S": 1,
+        "7M": 1,
         "9M": 1
       },
       "issues_by_project": {
@@ -184,11 +185,11 @@
         "service/global": 1,
         "service/stealer": 1,
         "service/support": 7,
-        "service/thief": 15
+        "service/thief": 16
       },
       "categories": {
         "low": 4,
-        "medium": 7,
+        "medium": 8,
         "high": 13
       }
     },
@@ -296,10 +297,10 @@
       }
     },
     "Se-Tu": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 15,
+      "count": 15,
       "labels": {
-        "1M": 6,
+        "1M": 5,
         "10S": 1,
         "2M": 3,
         "4M": 3,
@@ -309,12 +310,12 @@
       },
       "issues_by_project": {
         "service/support": 2,
-        "service/thief": 14
+        "service/thief": 13
       },
       "categories": {
         "low": 3,
         "medium": 4,
-        "high": 9
+        "high": 8
       },
       "no_due_dates": [
 
@@ -690,7 +691,7 @@
       "labels": {
         "NC_Onb": 1,
         "WFF": 9,
-        "On Hold": 5,
+        "On Hold": 4,
         "Blocked": 0,
         "1": 3,
         "2": 1,
@@ -698,7 +699,7 @@
         "4": 3,
         "5": 1,
         "6": 0,
-        "7": 0,
+        "7": 1,
         "8": 0,
         "9": 1,
         "10": 1
@@ -781,10 +782,10 @@
       }
     },
     "Se-Tu": {
-      "count": 17,
+      "count": 16,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 3,
+        "WFF": 2,
         "On Hold": 1,
         "Blocked": 0,
         "1": 4,
@@ -973,7 +974,7 @@
     "Eu-Mo": {
       "count": 1,
       "labels": {
-        "On Hold": 1,
+        "On Hold": 0,
         "Blocked": 0,
         "1": 0,
         "2": 0,
@@ -981,7 +982,7 @@
         "4": 0,
         "5": 0,
         "6": 0,
-        "7": 0,
+        "7": 1,
         "8": 0,
         "9": 0,
         "10": 0
