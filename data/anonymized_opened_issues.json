@@ -841,9 +841,9 @@
       }
     },
     "Ig-Li": {
-      "count": 29,
+      "count": 30,
       "issues_by_project": {
-        "service/support": 29
+        "service/support": 30
       }
     },
     "Ir-Gr": {
@@ -860,9 +860,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 21,
+      "count": 22,
       "issues_by_project": {
-        "service/support": 20,
+        "service/support": 21,
         "service/thief": 1
       }
     }
