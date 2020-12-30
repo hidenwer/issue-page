@@ -25,11 +25,11 @@
       }
     },
     "An-Mo": {
-      "service_count": 15,
-      "count": 15,
+      "service_count": 14,
+      "count": 14,
       "labels": {
         "1M": 2,
-        "1S": 2,
+        "1S": 1,
         "2S": 1,
         "3S": 1,
         "4M": 1,
@@ -41,13 +41,13 @@
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 10,
+        "service/support": 9,
         "service/thief": 5
       },
       "categories": {
         "low": 5,
         "medium": 4,
-        "high": 6
+        "high": 5
       },
       "no_due_dates": [
 
@@ -193,22 +193,22 @@
       }
     },
     "Ma-Gu": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1M": 4,
         "2M": 1,
         "2S": 2,
-        "4S": 4,
+        "4S": 3,
         "5M": 1,
         "5S": 2
       },
       "issues_by_project": {
-        "service/support": 9,
+        "service/support": 8,
         "service/thief": 5
       },
       "categories": {
-        "low": 6,
+        "low": 5,
         "medium": 1,
         "high": 7
       },
@@ -595,10 +595,10 @@
       }
     },
     "An-Mo": {
-      "count": 14,
+      "count": 13,
       "labels": {
         "NC_Onb": 1,
-        "WFF": 2,
+        "WFF": 1,
         "On Hold": 0,
         "Blocked": 0,
         "1": 1,
@@ -709,7 +709,7 @@
       }
     },
     "Ma-Gu": {
-      "count": 17,
+      "count": 16,
       "labels": {
         "NC_Onb": 0,
         "WFF": 5,
@@ -718,7 +718,7 @@
         "1": 2,
         "2": 2,
         "3": 0,
-        "4": 4,
+        "4": 3,
         "5": 1,
         "6": 0,
         "7": 0,
@@ -769,10 +769,10 @@
       "count": 15,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 8,
+        "WFF": 7,
         "On Hold": 1,
         "Blocked": 0,
-        "1": 1,
+        "1": 2,
         "2": 0,
         "3": 1,
         "4": 3,
@@ -845,9 +845,9 @@
       }
     },
     "Ig-Li": {
-      "count": 30,
+      "count": 28,
       "issues_by_project": {
-        "service/support": 30
+        "service/support": 28
       }
     },
     "Ir-Gr": {
