@@ -215,29 +215,30 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 20,
-      "count": 20,
+      "service_count": 22,
+      "count": 22,
       "labels": {
         "1M": 3,
         "1S": 1,
         "2M": 1,
         "2S": 3,
-        "3M": 1,
+        "3M": 2,
         "3S": 1,
         "4M": 1,
         "4S": 4,
         "5M": 1,
+        "6M": 1,
         "6S": 2,
         "7M": 1,
         "9S": 1
       },
       "issues_by_project": {
         "service/support": 14,
-        "service/thief": 6
+        "service/thief": 8
       },
       "categories": {
         "low": 8,
-        "medium": 4,
+        "medium": 6,
         "high": 8
       },
       "no_due_dates": [
@@ -272,10 +273,10 @@
       ]
     },
     "Se-Vo": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 13,
+      "count": 13,
       "labels": {
-        "1M": 3,
+        "1M": 2,
         "1S": 1,
         "3S": 3,
         "4M": 2,
@@ -285,12 +286,12 @@
       },
       "issues_by_project": {
         "service/support": 8,
-        "service/thief": 6
+        "service/thief": 5
       },
       "categories": {
         "low": 8,
         "medium": 2,
-        "high": 4
+        "high": 3
       },
       "no_due_dates": [
 
@@ -490,14 +491,14 @@
     "Ro-Ci": {
       "count": 4,
       "labels": {
-        "On Hold": 2,
+        "On Hold": 0,
         "Blocked": 0,
         "1": 2,
         "2": 0,
-        "3": 0,
+        "3": 1,
         "4": 0,
         "5": 0,
-        "6": 0,
+        "6": 1,
         "7": 0,
         "8": 0,
         "9": 0,
@@ -730,12 +731,12 @@
       "count": 25,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 12,
-        "On Hold": 5,
+        "WFF": 13,
+        "On Hold": 3,
         "Blocked": 0,
         "1": 1,
         "2": 3,
-        "3": 0,
+        "3": 1,
         "4": 2,
         "5": 0,
         "6": 1,
@@ -769,9 +770,9 @@
       "labels": {
         "NC_Onb": 0,
         "WFF": 7,
-        "On Hold": 0,
+        "On Hold": 1,
         "Blocked": 0,
-        "1": 1,
+        "1": 0,
         "2": 0,
         "3": 1,
         "4": 4,
@@ -806,12 +807,12 @@
       "count": 18,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 6,
+        "WFF": 7,
         "On Hold": 3,
         "Blocked": 0,
         "1": 2,
         "2": 3,
-        "3": 2,
+        "3": 1,
         "4": 2,
         "5": 0,
         "6": 0,
@@ -1043,9 +1044,9 @@
     "Se-Vo": {
       "count": 1,
       "labels": {
-        "On Hold": 0,
+        "On Hold": 1,
         "Blocked": 0,
-        "1": 1,
+        "1": 0,
         "2": 0,
         "3": 0,
         "4": 0,
