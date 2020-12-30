@@ -217,8 +217,8 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 22,
-      "count": 22,
+      "service_count": 23,
+      "count": 23,
       "labels": {
         "1M": 3,
         "1S": 1,
@@ -227,7 +227,7 @@
         "3M": 2,
         "3S": 1,
         "4M": 1,
-        "4S": 4,
+        "4S": 5,
         "5M": 1,
         "6M": 1,
         "6S": 2,
@@ -235,11 +235,11 @@
         "9S": 1
       },
       "issues_by_project": {
-        "service/support": 14,
+        "service/support": 15,
         "service/thief": 8
       },
       "categories": {
-        "low": 8,
+        "low": 9,
         "medium": 6,
         "high": 8
       },
@@ -274,8 +274,8 @@
       ]
     },
     "Se-Vo": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 14,
+      "count": 14,
       "labels": {
         "1M": 2,
         "1S": 1,
@@ -283,20 +283,18 @@
         "4M": 1,
         "4S": 4,
         "5S": 1,
-        "6S": 1
+        "6S": 1,
+        "S": 1
       },
       "issues_by_project": {
-        "service/support": 9,
+        "service/support": 10,
         "service/thief": 4
       },
       "categories": {
         "low": 9,
         "medium": 1,
         "high": 3
-      },
-      "no_due_dates": [
-
-      ]
+      }
     },
     "Se-Tu": {
       "service_count": 16,
@@ -724,7 +722,7 @@
       }
     },
     "Ro-Ci": {
-      "count": 25,
+      "count": 26,
       "labels": {
         "NC_Onb": 0,
         "WFF": 15,
@@ -733,7 +731,7 @@
         "1": 1,
         "2": 3,
         "3": 0,
-        "4": 1,
+        "4": 2,
         "5": 0,
         "6": 1,
         "7": 0,
