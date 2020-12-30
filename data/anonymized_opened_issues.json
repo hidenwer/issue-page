@@ -324,12 +324,12 @@
       ]
     },
     "St-Da": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 15,
+      "count": 15,
       "labels": {
         "1M": 2,
         "1S": 1,
-        "2S": 3,
+        "2S": 4,
         "3S": 2,
         "4M": 1,
         "4S": 3,
@@ -337,13 +337,13 @@
         "6M": 1
       },
       "issues_by_project": {
-        "service/support": 8,
+        "service/support": 9,
         "service/thief": 6
       },
       "categories": {
         "low": 6,
         "medium": 2,
-        "high": 6
+        "high": 7
       },
       "no_due_dates": [
 
@@ -803,14 +803,14 @@
       }
     },
     "St-Da": {
-      "count": 17,
+      "count": 18,
       "labels": {
         "NC_Onb": 0,
         "WFF": 6,
         "On Hold": 3,
         "Blocked": 0,
         "1": 2,
-        "2": 2,
+        "2": 3,
         "3": 2,
         "4": 2,
         "5": 0,
@@ -850,12 +850,12 @@
       }
     },
     "Ir-Gr": {
-      "count": 29,
+      "count": 28,
       "issues_by_project": {
         "care/global": 4,
         "care/internal": 12,
         "psd2/PRR": 1,
-        "SE/bucket": 5,
+        "SE/bucket": 4,
         "service/global": 3,
         "service/kpi": 1,
         "service/support": 3
