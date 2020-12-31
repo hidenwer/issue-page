@@ -822,9 +822,10 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 27,
+      "count": 28,
       "issues_by_project": {
         "bucket/support": 1,
+        "psd2/PRR": 1,
         "SE/bucket": 1,
         "service/stealer": 1,
         "service/support": 24
