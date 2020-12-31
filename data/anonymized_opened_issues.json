@@ -106,12 +106,12 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 16,
-      "count": 20,
+      "service_count": 15,
+      "count": 19,
       "labels": {
         "1M": 5,
         "2M": 1,
-        "2S": 2,
+        "2S": 1,
         "3L": 1,
         "3S": 2,
         "4S": 1,
@@ -122,13 +122,13 @@
       "issues_by_project": {
         "SE/bucket": 4,
         "service/global": 1,
-        "service/support": 6,
+        "service/support": 5,
         "service/thief": 9
       },
       "categories": {
         "low": 4,
         "medium": 4,
-        "high": 8
+        "high": 7
       },
       "no_due_dates": [
 
@@ -275,23 +275,23 @@
       ]
     },
     "Se-Vo": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "1M": 2,
         "1S": 2,
-        "3S": 2,
+        "3S": 1,
         "4M": 1,
         "4S": 4,
         "5S": 1,
         "S": 1
       },
       "issues_by_project": {
-        "service/support": 10,
+        "service/support": 9,
         "service/thief": 3
       },
       "categories": {
-        "low": 7,
+        "low": 6,
         "medium": 1,
         "high": 4
       }
@@ -614,11 +614,11 @@
       "count": 16,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 5,
+        "WFF": 6,
         "On Hold": 0,
         "Blocked": 1,
         "1": 2,
-        "2": 3,
+        "2": 2,
         "3": 2,
         "4": 0,
         "5": 3,
@@ -649,10 +649,10 @@
       }
     },
     "Da-Ni": {
-      "count": 20,
+      "count": 19,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 7,
+        "WFF": 6,
         "On Hold": 3,
         "Blocked": 1,
         "1": 2,
@@ -671,10 +671,10 @@
       "count": 21,
       "labels": {
         "NC_Onb": 3,
-        "WFF": 6,
+        "WFF": 5,
         "On Hold": 2,
         "Blocked": 1,
-        "1": 2,
+        "1": 3,
         "2": 0,
         "3": 2,
         "4": 3,
@@ -763,7 +763,7 @@
       }
     },
     "Se-Vo": {
-      "count": 13,
+      "count": 12,
       "labels": {
         "NC_Onb": 0,
         "WFF": 5,
@@ -771,7 +771,7 @@
         "Blocked": 0,
         "1": 2,
         "2": 0,
-        "3": 2,
+        "3": 1,
         "4": 3,
         "5": 0,
         "6": 0,
@@ -843,9 +843,9 @@
       }
     },
     "Ig-Li": {
-      "count": 27,
+      "count": 25,
       "issues_by_project": {
-        "service/support": 27
+        "service/support": 25
       }
     },
     "Ir-Gr": {
