@@ -135,10 +135,9 @@
       ]
     },
     "Ed-Ma": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 15,
+      "count": 15,
       "labels": {
-        "1L": 1,
         "1M": 4,
         "1S": 1,
         "10L": 1,
@@ -152,13 +151,13 @@
       "issues_by_project": {
         "service/global": 2,
         "service/robber": 1,
-        "service/support": 5,
+        "service/support": 4,
         "service/thief": 8
       },
       "categories": {
         "low": 7,
         "medium": 3,
-        "high": 6
+        "high": 5
       }
     },
     "Eu-Mo": {
@@ -676,9 +675,9 @@
       }
     },
     "Ed-Ma": {
-      "count": 20,
+      "count": 19,
       "labels": {
-        "NC_Onb": 3,
+        "NC_Onb": 2,
         "WFF": 4,
         "On Hold": 3,
         "Blocked": 1,
@@ -830,13 +829,13 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 28,
+      "count": 27,
       "issues_by_project": {
         "bucket/support": 1,
         "psd2/PRR": 1,
         "SE/bucket": 1,
         "service/stealer": 1,
-        "service/support": 24
+        "service/support": 23
       }
     },
     "Cr-Bu": {
