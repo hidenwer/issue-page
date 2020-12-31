@@ -746,10 +746,10 @@
       }
     },
     "Se-Ra": {
-      "count": 8,
+      "count": 7,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 1,
+        "WFF": 0,
         "On Hold": 0,
         "Blocked": 0,
         "1": 1,
