@@ -249,24 +249,23 @@
       ]
     },
     "Se-Ra": {
-      "service_count": 10,
-      "count": 10,
+      "service_count": 9,
+      "count": 9,
       "labels": {
         "1M": 1,
         "1S": 1,
         "10S": 1,
         "2S": 1,
-        "3S": 1,
         "4S": 3,
         "5M": 1,
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 8,
+        "service/support": 7,
         "service/thief": 2
       },
       "categories": {
-        "low": 5,
+        "low": 4,
         "medium": 1,
         "high": 4
       },
@@ -294,6 +293,9 @@
         "medium": 1,
         "high": 4
       },
+      "overdues": [
+
+      ],
       "no_due_dates": [
 
       ]
@@ -746,10 +748,10 @@
       }
     },
     "Se-Ra": {
-      "count": 10,
+      "count": 9,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 2,
+        "WFF": 1,
         "On Hold": 0,
         "Blocked": 0,
         "1": 2,
@@ -768,13 +770,13 @@
       "count": 11,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 3,
+        "WFF": 2,
         "On Hold": 1,
         "Blocked": 0,
         "1": 2,
         "2": 0,
         "3": 1,
-        "4": 3,
+        "4": 4,
         "5": 1,
         "6": 0,
         "7": 0,
@@ -845,9 +847,9 @@
       }
     },
     "Ig-Li": {
-      "count": 21,
+      "count": 20,
       "issues_by_project": {
-        "service/support": 21
+        "service/support": 20
       }
     },
     "Ir-Gr": {
