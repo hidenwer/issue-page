@@ -867,7 +867,7 @@
       }
     },
     "Ir-Gr": {
-      "count": 30,
+      "count": 31,
       "issues_by_project": {
         "bucket/support": 1,
         "care/global": 4,
@@ -876,7 +876,7 @@
         "SE/bucket": 4,
         "service/global": 3,
         "service/kpi": 1,
-        "service/support": 4
+        "service/support": 5
       }
     },
     "Vi-Sa": {
