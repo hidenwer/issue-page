@@ -880,9 +880,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 23,
+      "count": 22,
       "issues_by_project": {
-        "service/support": 22,
+        "service/support": 21,
         "service/thief": 1
       }
     }
