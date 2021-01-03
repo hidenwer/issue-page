@@ -47,9 +47,6 @@
         "medium": 4,
         "high": 4
       },
-      "overdues": [
-
-      ],
       "no_due_dates": [
 
       ]
@@ -75,9 +72,6 @@
         "medium": 1,
         "high": 6
       },
-      "overdues": [
-
-      ],
       "no_due_dates": [
 
       ]
@@ -215,9 +209,6 @@
         "medium": 1,
         "high": 8
       },
-      "overdues": [
-
-      ],
       "no_due_dates": [
 
       ]
@@ -247,9 +238,6 @@
         "medium": 4,
         "high": 7
       },
-      "overdues": [
-
-      ],
       "no_due_dates": [
 
       ]
@@ -329,9 +317,6 @@
         "medium": 3,
         "high": 8
       },
-      "overdues": [
-
-      ],
       "no_due_dates": [
 
       ]
@@ -358,9 +343,6 @@
         "medium": 2,
         "high": 7
       },
-      "overdues": [
-
-      ],
       "no_due_dates": [
 
       ]
