@@ -755,10 +755,10 @@
       }
     },
     "Se-Ra": {
-      "count": 10,
+      "count": 11,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 1,
+        "WFF": 2,
         "On Hold": 0,
         "Blocked": 0,
         "1": 1,
@@ -843,13 +843,13 @@
       }
     },
     "Cr-Bu": {
-      "count": 41,
+      "count": 42,
       "issues_by_project": {
         "bucket/support": 6,
         "psd2/PRR": 1,
         "SE/bucket": 5,
         "service/global": 1,
-        "service/support": 26,
+        "service/support": 27,
         "service/thief": 2
       }
     },
