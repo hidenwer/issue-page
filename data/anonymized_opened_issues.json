@@ -1,8 +1,8 @@
 {
   "load": {
     "Al-Hi": {
-      "service_count": 24,
-      "count": 25,
+      "service_count": 25,
+      "count": 26,
       "labels": {
         "1L": 1,
         "1M": 4,
@@ -16,7 +16,7 @@
       "issues_by_project": {
         "SE/bucket": 1,
         "service/global": 2,
-        "service/support": 2,
+        "service/support": 3,
         "service/thief": 20
       },
       "categories": {
@@ -845,13 +845,13 @@
       }
     },
     "Cr-Bu": {
-      "count": 38,
+      "count": 39,
       "issues_by_project": {
         "bucket/support": 6,
         "psd2/PRR": 1,
         "SE/bucket": 5,
         "service/global": 1,
-        "service/support": 23,
+        "service/support": 24,
         "service/thief": 2
       }
     },
@@ -875,9 +875,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 24,
+      "count": 25,
       "issues_by_project": {
-        "service/support": 23,
+        "service/support": 24,
         "service/thief": 1
       }
     }
