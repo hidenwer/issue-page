@@ -1,12 +1,12 @@
 {
   "load": {
     "Al-Hi": {
-      "service_count": 23,
-      "count": 24,
+      "service_count": 24,
+      "count": 25,
       "labels": {
         "1L": 1,
         "1M": 4,
-        "1S": 6,
+        "1S": 7,
         "3M": 2,
         "3S": 3,
         "4S": 5,
@@ -17,12 +17,12 @@
         "SE/bucket": 1,
         "service/global": 2,
         "service/support": 2,
-        "service/thief": 19
+        "service/thief": 20
       },
       "categories": {
         "low": 9,
         "medium": 2,
-        "high": 11
+        "high": 12
       }
     },
     "An-Mo": {
@@ -111,15 +111,14 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 14,
-      "count": 18,
+      "service_count": 13,
+      "count": 17,
       "labels": {
         "1M": 5,
         "2M": 1,
         "2S": 1,
         "3M": 1,
         "3S": 1,
-        "4S": 1,
         "5M": 2,
         "5S": 1,
         "6M": 1
@@ -127,11 +126,11 @@
       "issues_by_project": {
         "SE/bucket": 4,
         "service/global": 1,
-        "service/support": 3,
+        "service/support": 2,
         "service/thief": 10
       },
       "categories": {
-        "low": 3,
+        "low": 2,
         "medium": 4,
         "high": 7
       },
@@ -585,13 +584,13 @@
   },
   "lbl": {
     "Al-Hi": {
-      "count": 30,
+      "count": 31,
       "labels": {
         "NC_Onb": 0,
         "WFF": 7,
         "On Hold": 4,
         "Blocked": 3,
-        "1": 7,
+        "1": 8,
         "2": 0,
         "3": 4,
         "4": 4,
@@ -664,8 +663,8 @@
       "count": 17,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 7,
-        "On Hold": 2,
+        "WFF": 6,
+        "On Hold": 3,
         "Blocked": 1,
         "1": 2,
         "2": 0,
@@ -683,11 +682,11 @@
       "count": 19,
       "labels": {
         "NC_Onb": 1,
-        "WFF": 4,
+        "WFF": 5,
         "On Hold": 3,
         "Blocked": 1,
         "1": 1,
-        "2": 1,
+        "2": 0,
         "3": 4,
         "4": 2,
         "5": 0,
@@ -844,13 +843,13 @@
       }
     },
     "Cr-Bu": {
-      "count": 42,
+      "count": 41,
       "issues_by_project": {
         "bucket/support": 6,
         "psd2/PRR": 1,
         "SE/bucket": 5,
         "service/global": 1,
-        "service/support": 27,
+        "service/support": 26,
         "service/thief": 2
       }
     },
