@@ -277,11 +277,11 @@
       ]
     },
     "Se-Vo": {
-      "service_count": 12,
-      "count": 12,
+      "service_count": 11,
+      "count": 11,
       "labels": {
         "1M": 2,
-        "1S": 2,
+        "1S": 1,
         "2S": 1,
         "3M": 1,
         "3S": 2,
@@ -290,13 +290,13 @@
         "5S": 1
       },
       "issues_by_project": {
-        "service/support": 8,
+        "service/support": 7,
         "service/thief": 4
       },
       "categories": {
         "low": 5,
         "medium": 2,
-        "high": 5
+        "high": 4
       },
       "overdues": [
 
@@ -774,13 +774,13 @@
       }
     },
     "Se-Vo": {
-      "count": 13,
+      "count": 12,
       "labels": {
         "NC_Onb": 0,
         "WFF": 4,
         "On Hold": 1,
         "Blocked": 0,
-        "1": 2,
+        "1": 1,
         "2": 0,
         "3": 3,
         "4": 2,
@@ -854,9 +854,9 @@
       }
     },
     "Ig-Li": {
-      "count": 24,
+      "count": 23,
       "issues_by_project": {
-        "service/support": 24
+        "service/support": 23
       }
     },
     "Ir-Gr": {
@@ -873,9 +873,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 23,
+      "count": 24,
       "issues_by_project": {
-        "service/support": 22,
+        "service/support": 23,
         "service/thief": 1
       }
     }
