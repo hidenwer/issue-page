@@ -142,10 +142,11 @@
       "count": 16,
       "labels": {
         "1M": 4,
+        "1S": 1,
         "10L": 1,
         "2S": 1,
         "3M": 2,
-        "3S": 3,
+        "3S": 2,
         "4M": 1,
         "4S": 1,
         "7M": 1,
@@ -159,9 +160,9 @@
         "service/thief": 8
       },
       "categories": {
-        "low": 7,
+        "low": 6,
         "medium": 4,
-        "high": 5
+        "high": 6
       }
     },
     "Eu-Mo": {
@@ -753,13 +754,13 @@
     "Ed-Ma": {
       "count": 20,
       "labels": {
-        "NC_Onb": 1,
+        "NC_Onb": 2,
         "WFF": 5,
         "On Hold": 3,
         "Blocked": 1,
         "1": 1,
         "2": 0,
-        "3": 4,
+        "3": 3,
         "4": 2,
         "5": 0,
         "6": 0,
@@ -964,9 +965,9 @@
       }
     },
     "Ig-Li": {
-      "count": 23,
+      "count": 24,
       "issues_by_project": {
-        "service/support": 23
+        "service/support": 24
       }
     },
     "Ir-Gr": {
