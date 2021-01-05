@@ -888,13 +888,13 @@
       "count": 20,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 3,
+        "WFF": 4,
         "On Hold": 4,
         "Blocked": 0,
         "1": 3,
         "2": 3,
         "3": 3,
-        "4": 4,
+        "4": 3,
         "5": 0,
         "6": 0,
         "7": 0,
@@ -984,9 +984,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 25,
+      "count": 26,
       "issues_by_project": {
-        "service/support": 24,
+        "service/support": 25,
         "service/thief": 1
       }
     }
