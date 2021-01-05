@@ -138,8 +138,8 @@
       ]
     },
     "Ed-Ma": {
-      "service_count": 15,
-      "count": 15,
+      "service_count": 16,
+      "count": 16,
       "labels": {
         "1M": 4,
         "10L": 1,
@@ -149,16 +149,17 @@
         "4M": 1,
         "4S": 1,
         "7M": 1,
-        "7S": 1
+        "7S": 1,
+        "8S": 1
       },
       "issues_by_project": {
         "service/global": 2,
         "service/robber": 1,
-        "service/support": 4,
+        "service/support": 5,
         "service/thief": 8
       },
       "categories": {
-        "low": 6,
+        "low": 7,
         "medium": 4,
         "high": 5
       }
@@ -750,7 +751,7 @@
       }
     },
     "Ed-Ma": {
-      "count": 19,
+      "count": 20,
       "labels": {
         "NC_Onb": 1,
         "WFF": 5,
@@ -763,7 +764,7 @@
         "5": 0,
         "6": 0,
         "7": 1,
-        "8": 0,
+        "8": 1,
         "9": 0,
         "10": 1
       }
