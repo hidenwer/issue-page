@@ -218,13 +218,13 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 22,
-      "count": 22,
+      "service_count": 21,
+      "count": 21,
       "labels": {
         "1M": 2,
         "1S": 1,
         "2M": 2,
-        "2S": 3,
+        "2S": 2,
         "3M": 2,
         "3S": 2,
         "4M": 1,
@@ -235,13 +235,13 @@
         "9S": 1
       },
       "issues_by_project": {
-        "service/support": 15,
+        "service/support": 14,
         "service/thief": 7
       },
       "categories": {
         "low": 9,
         "medium": 5,
-        "high": 8
+        "high": 7
       },
       "no_due_dates": [
 
@@ -368,6 +368,9 @@
         "medium": 1,
         "high": 0
       },
+      "overdues": [
+
+      ],
       "no_due_dates": [
 
       ]
@@ -807,10 +810,10 @@
       }
     },
     "Ro-Ci": {
-      "count": 30,
+      "count": 29,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 11,
+        "WFF": 10,
         "On Hold": 8,
         "Blocked": 0,
         "1": 1,
@@ -952,9 +955,9 @@
       }
     },
     "Cr-Bu": {
-      "count": 43,
+      "count": 44,
       "issues_by_project": {
-        "bucket/support": 7,
+        "bucket/support": 8,
         "psd2/PRR": 1,
         "SE/bucket": 5,
         "service/global": 1,
@@ -963,9 +966,9 @@
       }
     },
     "Ig-Li": {
-      "count": 23,
+      "count": 21,
       "issues_by_project": {
-        "service/support": 23
+        "service/support": 21
       }
     },
     "Ir-Gr": {
