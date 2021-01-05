@@ -220,13 +220,13 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 23,
-      "count": 23,
+      "service_count": 21,
+      "count": 21,
       "labels": {
         "1M": 2,
         "1S": 1,
         "2M": 2,
-        "2S": 5,
+        "2S": 3,
         "3M": 2,
         "3S": 1,
         "4M": 1,
@@ -237,13 +237,13 @@
         "9S": 1
       },
       "issues_by_project": {
-        "service/support": 16,
+        "service/support": 14,
         "service/thief": 7
       },
       "categories": {
         "low": 8,
         "medium": 5,
-        "high": 10
+        "high": 8
       },
       "no_due_dates": [
 
@@ -809,14 +809,14 @@
       }
     },
     "Ro-Ci": {
-      "count": 31,
+      "count": 29,
       "labels": {
         "NC_Onb": 0,
         "WFF": 10,
         "On Hold": 8,
         "Blocked": 0,
         "1": 1,
-        "2": 4,
+        "2": 2,
         "3": 2,
         "4": 3,
         "5": 1,
