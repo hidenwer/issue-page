@@ -771,11 +771,11 @@
       }
     },
     "Eu-Mo": {
-      "count": 26,
+      "count": 25,
       "labels": {
         "NC_Onb": 1,
         "WFF": 6,
-        "On Hold": 7,
+        "On Hold": 6,
         "Blocked": 0,
         "1": 4,
         "2": 1,
@@ -946,11 +946,10 @@
     "Co-Ur": {
       "count": 26,
       "issues_by_project": {
-        "bucket/support": 1,
         "psd2/PRR": 1,
         "SE/bucket": 1,
         "service/stealer": 1,
-        "service/support": 22
+        "service/support": 23
       }
     },
     "Cr-Bu": {
