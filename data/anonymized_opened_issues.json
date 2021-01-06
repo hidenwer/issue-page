@@ -55,25 +55,25 @@
       ]
     },
     "Co-Ci": {
-      "service_count": 18,
-      "count": 18,
+      "service_count": 17,
+      "count": 17,
       "labels": {
         "1M": 2,
         "1S": 3,
         "2S": 4,
         "3M": 1,
-        "3S": 3,
+        "3S": 2,
         "4S": 2,
         "5M": 1,
         "5S": 1,
         "7S": 1
       },
       "issues_by_project": {
-        "service/support": 14,
+        "service/support": 13,
         "service/thief": 4
       },
       "categories": {
-        "low": 7,
+        "low": 6,
         "medium": 2,
         "high": 9
       },
@@ -375,21 +375,20 @@
       ]
     },
     "Al-Je": {
-      "service_count": 7,
-      "count": 7,
+      "service_count": 6,
+      "count": 6,
       "labels": {
         "10S": 1,
         "2S": 1,
         "4S": 1,
         "5S": 2,
-        "6S": 1,
-        "9S": 1
+        "6S": 1
       },
       "issues_by_project": {
-        "service/support": 7
+        "service/support": 6
       },
       "categories": {
-        "low": 6,
+        "low": 5,
         "medium": 0,
         "high": 1
       },
@@ -698,8 +697,8 @@
       "count": 20,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 5,
-        "On Hold": 1,
+        "WFF": 4,
+        "On Hold": 2,
         "Blocked": 1,
         "1": 3,
         "2": 3,
@@ -923,10 +922,10 @@
       }
     },
     "Al-Je": {
-      "count": 7,
+      "count": 6,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 4,
+        "WFF": 3,
         "On Hold": 0,
         "Blocked": 0,
         "1": 0,
@@ -964,9 +963,9 @@
       }
     },
     "Ig-Li": {
-      "count": 25,
+      "count": 24,
       "issues_by_project": {
-        "service/support": 25
+        "service/support": 24
       }
     },
     "Ir-Gr": {
@@ -984,9 +983,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 29,
+      "count": 28,
       "issues_by_project": {
-        "service/support": 28,
+        "service/support": 27,
         "service/thief": 1
       }
     }
