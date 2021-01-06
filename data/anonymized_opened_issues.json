@@ -348,19 +348,18 @@
       ]
     },
     "Al-Je": {
-      "service_count": 4,
-      "count": 4,
+      "service_count": 3,
+      "count": 3,
       "labels": {
         "2S": 1,
-        "3S": 1,
         "4S": 1,
         "5S": 1
       },
       "issues_by_project": {
-        "service/support": 4
+        "service/support": 3
       },
       "categories": {
-        "low": 3,
+        "low": 2,
         "medium": 0,
         "high": 1
       },
@@ -861,10 +860,10 @@
       }
     },
     "Al-Je": {
-      "count": 4,
+      "count": 3,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 1,
+        "WFF": 0,
         "On Hold": 0,
         "Blocked": 0,
         "1": 0,
