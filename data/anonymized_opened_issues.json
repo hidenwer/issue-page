@@ -944,12 +944,12 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 26,
+      "count": 27,
       "issues_by_project": {
         "psd2/PRR": 1,
         "SE/bucket": 1,
         "service/stealer": 1,
-        "service/support": 23
+        "service/support": 24
       }
     },
     "Cr-Bu": {
