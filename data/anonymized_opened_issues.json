@@ -458,9 +458,9 @@
       }
     },
     "Ed-Ma": {
-      "count": 4,
+      "count": 3,
       "labels": {
-        "On Hold": 2,
+        "On Hold": 1,
         "Blocked": 0,
         "1": 1,
         "2": 0,
@@ -708,11 +708,11 @@
       }
     },
     "Ed-Ma": {
-      "count": 19,
+      "count": 18,
       "labels": {
         "NC_Onb": 2,
         "WFF": 3,
-        "On Hold": 3,
+        "On Hold": 2,
         "Blocked": 1,
         "1": 3,
         "2": 0,
@@ -806,14 +806,14 @@
       "count": 13,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 4,
+        "WFF": 5,
         "On Hold": 1,
         "Blocked": 0,
         "1": 1,
         "2": 0,
         "3": 3,
         "4": 2,
-        "5": 2,
+        "5": 1,
         "6": 0,
         "7": 0,
         "8": 0,
