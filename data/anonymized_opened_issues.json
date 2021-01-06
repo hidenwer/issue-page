@@ -614,10 +614,10 @@
       "count": 31,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 10,
+        "WFF": 11,
         "On Hold": 4,
         "Blocked": 3,
-        "1": 6,
+        "1": 5,
         "2": 0,
         "3": 4,
         "4": 3,
@@ -905,24 +905,23 @@
       }
     },
     "Ir-Gr": {
-      "count": 34,
+      "count": 33,
       "issues_by_project": {
         "bucket/support": 1,
         "care/global": 4,
         "care/internal": 13,
         "psd2/PRR": 1,
         "SE/bucket": 6,
-        "SE/docs": 1,
         "service/global": 3,
         "service/kpi": 1,
         "service/support": 4
       }
     },
     "Vi-Sa": {
-      "count": 25,
+      "count": 24,
       "issues_by_project": {
         "bucket/support": 1,
-        "service/support": 23,
+        "service/support": 22,
         "service/thief": 1
       }
     }
