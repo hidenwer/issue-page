@@ -185,25 +185,25 @@
       }
     },
     "Ma-Gu": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1M": 4,
         "2M": 1,
-        "2S": 4,
+        "2S": 3,
         "3M": 1,
         "4S": 2,
         "5M": 1,
         "5S": 1
       },
       "issues_by_project": {
-        "service/support": 9,
+        "service/support": 8,
         "service/thief": 5
       },
       "categories": {
         "low": 3,
         "medium": 2,
-        "high": 9
+        "high": 8
       },
       "no_due_dates": [
 
@@ -291,23 +291,23 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1M": 5,
-        "2M": 2,
+        "2M": 1,
         "3M": 3,
         "4M": 2,
         "4S": 1,
         "5S": 1
       },
       "issues_by_project": {
-        "service/thief": 14
+        "service/thief": 13
       },
       "categories": {
         "low": 2,
         "medium": 5,
-        "high": 7
+        "high": 6
       },
       "no_due_dates": [
 
@@ -665,7 +665,7 @@
       "count": 16,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 1,
+        "WFF": 2,
         "On Hold": 1,
         "Blocked": 2,
         "1": 2,
@@ -674,7 +674,7 @@
         "4": 2,
         "5": 2,
         "6": 0,
-        "7": 1,
+        "7": 0,
         "8": 0,
         "9": 0,
         "10": 0
@@ -738,14 +738,14 @@
       }
     },
     "Ma-Gu": {
-      "count": 17,
+      "count": 16,
       "labels": {
         "NC_Onb": 0,
         "WFF": 4,
         "On Hold": 3,
         "Blocked": 0,
         "1": 3,
-        "2": 4,
+        "2": 3,
         "3": 1,
         "4": 2,
         "5": 0,
@@ -798,10 +798,10 @@
       "count": 15,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 7,
+        "WFF": 6,
         "On Hold": 1,
         "Blocked": 0,
-        "1": 0,
+        "1": 1,
         "2": 1,
         "3": 2,
         "4": 2,
@@ -814,14 +814,14 @@
       }
     },
     "Se-Tu": {
-      "count": 16,
+      "count": 15,
       "labels": {
         "NC_Onb": 0,
         "WFF": 2,
         "On Hold": 2,
         "Blocked": 0,
         "1": 4,
-        "2": 2,
+        "2": 1,
         "3": 3,
         "4": 2,
         "5": 1,
@@ -882,13 +882,13 @@
       }
     },
     "Cr-Bu": {
-      "count": 43,
+      "count": 44,
       "issues_by_project": {
         "bucket/support": 8,
         "psd2/PRR": 1,
         "SE/bucket": 5,
         "service/global": 1,
-        "service/support": 26,
+        "service/support": 27,
         "service/thief": 2
       }
     },
@@ -912,10 +912,10 @@
       }
     },
     "Vi-Sa": {
-      "count": 24,
+      "count": 25,
       "issues_by_project": {
         "bucket/support": 1,
-        "service/support": 22,
+        "service/support": 23,
         "service/thief": 1
       }
     }
@@ -1109,12 +1109,12 @@
       }
     },
     "Se-Tu": {
-      "count": 5,
+      "count": 4,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
         "1": 1,
-        "2": 2,
+        "2": 1,
         "3": 1,
         "4": 1,
         "5": 0,
