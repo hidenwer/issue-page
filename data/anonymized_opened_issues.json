@@ -881,13 +881,13 @@
       }
     },
     "Cr-Bu": {
-      "count": 47,
+      "count": 48,
       "issues_by_project": {
         "bucket/support": 8,
         "psd2/PRR": 1,
         "SE/bucket": 6,
         "service/global": 1,
-        "service/support": 29,
+        "service/support": 30,
         "service/thief": 2
       }
     },
@@ -911,10 +911,10 @@
       }
     },
     "Vi-Sa": {
-      "count": 26,
+      "count": 27,
       "issues_by_project": {
         "bucket/support": 1,
-        "service/support": 24,
+        "service/support": 25,
         "service/thief": 1
       }
     }
