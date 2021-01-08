@@ -6,13 +6,12 @@
       "labels": {
         "1L": 1,
         "1M": 4,
-        "1S": 5,
+        "1S": 6,
         "2S": 1,
         "3M": 3,
         "3S": 4,
         "4S": 4,
-        "7L": 1,
-        "S": 1
+        "7L": 1
       },
       "issues_by_project": {
         "SE/bucket": 1,
@@ -23,7 +22,7 @@
       "categories": {
         "low": 9,
         "medium": 3,
-        "high": 11
+        "high": 12
       }
     },
     "An-Mo": {
@@ -614,10 +613,10 @@
   },
   "lbl": {
     "Al-Hi": {
-      "count": 31,
+      "count": 32,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 7,
+        "WFF": 8,
         "On Hold": 4,
         "Blocked": 3,
         "1": 8,
