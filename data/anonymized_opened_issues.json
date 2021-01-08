@@ -183,24 +183,25 @@
       }
     },
     "Ma-Gu": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 15,
+      "count": 15,
       "labels": {
         "1M": 4,
         "2M": 1,
         "2S": 2,
         "3M": 1,
         "3S": 1,
-        "4S": 3,
+        "4S": 4,
         "5M": 1,
         "5S": 1
       },
       "issues_by_project": {
+        "service/stealer": 1,
         "service/support": 9,
         "service/thief": 5
       },
       "categories": {
-        "low": 5,
+        "low": 6,
         "medium": 2,
         "high": 7
       },
@@ -626,12 +627,12 @@
       "count": 14,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 5,
+        "WFF": 6,
         "On Hold": 0,
         "Blocked": 0,
         "1": 2,
         "2": 0,
-        "3": 5,
+        "3": 4,
         "4": 2,
         "5": 0,
         "6": 0,
@@ -737,7 +738,7 @@
       }
     },
     "Ma-Gu": {
-      "count": 17,
+      "count": 18,
       "labels": {
         "NC_Onb": 0,
         "WFF": 3,
@@ -746,7 +747,7 @@
         "1": 3,
         "2": 3,
         "3": 2,
-        "4": 3,
+        "4": 4,
         "5": 0,
         "6": 0,
         "7": 0,
@@ -759,13 +760,13 @@
       "count": 22,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 8,
+        "WFF": 9,
         "On Hold": 7,
         "Blocked": 0,
         "1": 0,
         "2": 1,
         "3": 3,
-        "4": 2,
+        "4": 1,
         "5": 0,
         "6": 0,
         "7": 0,
@@ -816,12 +817,12 @@
       "count": 15,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 3,
+        "WFF": 4,
         "On Hold": 1,
         "Blocked": 0,
         "1": 3,
         "2": 1,
-        "3": 3,
+        "3": 2,
         "4": 2,
         "5": 1,
         "6": 0,
@@ -835,11 +836,11 @@
       "count": 20,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 5,
+        "WFF": 4,
         "On Hold": 4,
         "Blocked": 0,
         "1": 4,
-        "2": 2,
+        "2": 3,
         "3": 3,
         "4": 2,
         "5": 0,
@@ -872,12 +873,12 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 32,
+      "count": 33,
       "issues_by_project": {
         "psd2/PRR": 1,
         "SE/bucket": 1,
         "service/stealer": 1,
-        "service/support": 29
+        "service/support": 30
       }
     },
     "Cr-Bu": {
