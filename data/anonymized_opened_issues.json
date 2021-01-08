@@ -645,11 +645,11 @@
       "count": 18,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 4,
+        "WFF": 6,
         "On Hold": 2,
         "Blocked": 1,
-        "1": 1,
-        "2": 3,
+        "1": 0,
+        "2": 2,
         "3": 3,
         "4": 2,
         "5": 2,
@@ -872,12 +872,12 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 31,
+      "count": 32,
       "issues_by_project": {
         "psd2/PRR": 1,
         "SE/bucket": 1,
         "service/stealer": 1,
-        "service/support": 28
+        "service/support": 29
       }
     },
     "Cr-Bu": {
