@@ -872,12 +872,12 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 32,
+      "count": 33,
       "issues_by_project": {
         "psd2/PRR": 1,
         "SE/bucket": 1,
         "service/stealer": 1,
-        "service/support": 29
+        "service/support": 30
       }
     },
     "Cr-Bu": {
@@ -898,9 +898,8 @@
       }
     },
     "Ir-Gr": {
-      "count": 32,
+      "count": 31,
       "issues_by_project": {
-        "bucket/support": 1,
         "care/global": 4,
         "care/internal": 13,
         "psd2/PRR": 1,
