@@ -779,10 +779,10 @@
       }
     },
     "Se-Ra": {
-      "count": 10,
+      "count": 9,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 3,
+        "WFF": 2,
         "On Hold": 0,
         "Blocked": 0,
         "1": 0,
@@ -876,12 +876,12 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 35,
+      "count": 36,
       "issues_by_project": {
         "psd2/PRR": 1,
         "SE/bucket": 1,
         "service/stealer": 1,
-        "service/support": 32
+        "service/support": 33
       }
     },
     "Cr-Bu": {
