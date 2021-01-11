@@ -49,9 +49,6 @@
         "medium": 4,
         "high": 6
       },
-      "overdues": [
-
-      ],
       "no_due_dates": [
 
       ]
@@ -231,9 +228,6 @@
         "medium": 3,
         "high": 1
       },
-      "overdues": [
-
-      ],
       "no_due_dates": [
 
       ]
@@ -290,9 +284,6 @@
         "medium": 2,
         "high": 4
       },
-      "overdues": [
-
-      ],
       "no_due_dates": [
 
       ]
