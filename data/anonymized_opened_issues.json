@@ -286,6 +286,9 @@
         "medium": 2,
         "high": 3
       },
+      "overdues": [
+
+      ],
       "no_due_dates": [
 
       ]
@@ -776,10 +779,10 @@
       "count": 9,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 1,
+        "WFF": 2,
         "On Hold": 0,
         "Blocked": 0,
-        "1": 1,
+        "1": 0,
         "2": 0,
         "3": 2,
         "4": 2,
@@ -908,9 +911,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 23,
+      "count": 24,
       "issues_by_project": {
-        "service/support": 22,
+        "service/support": 23,
         "service/thief": 1
       }
     }
