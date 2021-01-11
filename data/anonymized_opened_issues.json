@@ -267,10 +267,10 @@
       ]
     },
     "Se-Vo": {
-      "service_count": 15,
-      "count": 15,
+      "service_count": 16,
+      "count": 16,
       "labels": {
-        "1M": 1,
+        "1M": 2,
         "1S": 1,
         "2S": 1,
         "3M": 1,
@@ -283,12 +283,12 @@
       },
       "issues_by_project": {
         "service/support": 12,
-        "service/thief": 3
+        "service/thief": 4
       },
       "categories": {
         "low": 10,
         "medium": 2,
-        "high": 3
+        "high": 4
       },
       "overdues": [
 
@@ -805,9 +805,9 @@
       "labels": {
         "NC_Onb": 0,
         "WFF": 7,
-        "On Hold": 2,
+        "On Hold": 1,
         "Blocked": 0,
-        "1": 0,
+        "1": 1,
         "2": 1,
         "3": 2,
         "4": 1,
@@ -1098,9 +1098,9 @@
     "Se-Vo": {
       "count": 2,
       "labels": {
-        "On Hold": 1,
+        "On Hold": 0,
         "Blocked": 0,
-        "1": 0,
+        "1": 1,
         "2": 0,
         "3": 1,
         "4": 0,
