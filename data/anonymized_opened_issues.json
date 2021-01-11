@@ -905,7 +905,7 @@
       }
     },
     "Ir-Gr": {
-      "count": 32,
+      "count": 31,
       "issues_by_project": {
         "care/global": 4,
         "care/internal": 14,
@@ -913,7 +913,7 @@
         "SE/bucket": 5,
         "service/global": 3,
         "service/kpi": 1,
-        "service/support": 4
+        "service/support": 3
       }
     },
     "Vi-Sa": {
