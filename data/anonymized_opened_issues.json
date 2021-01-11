@@ -29,7 +29,6 @@
       "service_count": 16,
       "count": 16,
       "labels": {
-        "1M": 1,
         "1S": 1,
         "2S": 2,
         "3M": 1,
@@ -38,7 +37,8 @@
         "4S": 2,
         "5M": 1,
         "6M": 1,
-        "Beta": 1
+        "Beta": 1,
+        "M": 1
       },
       "issues_by_project": {
         "service/support": 11,
@@ -47,7 +47,7 @@
       "categories": {
         "low": 7,
         "medium": 4,
-        "high": 5
+        "high": 4
       },
       "overdues": [
 
@@ -349,7 +349,7 @@
       "service_count": 3,
       "count": 3,
       "labels": {
-        "2S": 1,
+        "2M": 1,
         "4S": 1,
         "5S": 1
       },
@@ -389,7 +389,7 @@
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
-        "1": 1,
+        "1": 0,
         "2": 0,
         "3": 0,
         "4": 1,
@@ -611,10 +611,10 @@
       "count": 32,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 8,
+        "WFF": 9,
         "On Hold": 4,
         "Blocked": 2,
-        "1": 9,
+        "1": 8,
         "2": 0,
         "3": 5,
         "4": 3,
@@ -627,13 +627,13 @@
       }
     },
     "An-Mo": {
-      "count": 16,
+      "count": 15,
       "labels": {
         "NC_Onb": 0,
         "WFF": 6,
         "On Hold": 0,
         "Blocked": 0,
-        "1": 1,
+        "1": 0,
         "2": 2,
         "3": 5,
         "4": 2,
