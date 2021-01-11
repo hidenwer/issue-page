@@ -213,18 +213,20 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 4,
-      "count": 4,
+      "service_count": 5,
+      "count": 5,
       "labels": {
         "1M": 1,
         "3M": 2,
+        "4S": 1,
         "6M": 1
       },
       "issues_by_project": {
+        "service/support": 1,
         "service/thief": 4
       },
       "categories": {
-        "low": 0,
+        "low": 1,
         "medium": 3,
         "high": 1
       },
@@ -761,12 +763,12 @@
       "labels": {
         "NC_Onb": 0,
         "WFF": 3,
-        "On Hold": 6,
+        "On Hold": 5,
         "Blocked": 0,
         "1": 0,
         "2": 0,
         "3": 1,
-        "4": 0,
+        "4": 1,
         "5": 0,
         "6": 0,
         "7": 0,
@@ -893,9 +895,9 @@
       }
     },
     "Ig-Li": {
-      "count": 24,
+      "count": 25,
       "issues_by_project": {
-        "service/support": 24
+        "service/support": 25
       }
     },
     "Ir-Gr": {
