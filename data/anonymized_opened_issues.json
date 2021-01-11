@@ -346,18 +346,17 @@
       ]
     },
     "Al-Je": {
-      "service_count": 3,
-      "count": 3,
+      "service_count": 2,
+      "count": 2,
       "labels": {
         "2M": 1,
-        "4S": 1,
         "5S": 1
       },
       "issues_by_project": {
-        "service/support": 3
+        "service/support": 2
       },
       "categories": {
-        "low": 2,
+        "low": 1,
         "medium": 0,
         "high": 1
       },
@@ -855,10 +854,10 @@
       }
     },
     "Al-Je": {
-      "count": 3,
+      "count": 2,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 1,
+        "WFF": 0,
         "On Hold": 0,
         "Blocked": 0,
         "1": 0,
@@ -896,9 +895,9 @@
       }
     },
     "Ig-Li": {
-      "count": 27,
+      "count": 26,
       "issues_by_project": {
-        "service/support": 27
+        "service/support": 26
       }
     },
     "Ir-Gr": {
