@@ -888,9 +888,9 @@
       }
     },
     "Cr-Bu": {
-      "count": 41,
+      "count": 40,
       "issues_by_project": {
-        "bucket/support": 6,
+        "bucket/support": 5,
         "psd2/PRR": 1,
         "SE/bucket": 5,
         "service/global": 1,
