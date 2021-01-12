@@ -870,9 +870,8 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 36,
+      "count": 35,
       "issues_by_project": {
-        "psd2/PRR": 1,
         "SE/bucket": 1,
         "service/stealer": 1,
         "service/support": 33
