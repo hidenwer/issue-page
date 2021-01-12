@@ -872,11 +872,11 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 37,
+      "count": 38,
       "issues_by_project": {
         "SE/bucket": 1,
         "service/stealer": 1,
-        "service/support": 35
+        "service/support": 36
       }
     },
     "Cr-Bu": {
