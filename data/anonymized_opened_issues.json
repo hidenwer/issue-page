@@ -683,10 +683,10 @@
       "count": 22,
       "labels": {
         "NC_Onb": 1,
-        "WFF": 5,
+        "WFF": 4,
         "On Hold": 3,
         "Blocked": 2,
-        "1": 1,
+        "1": 2,
         "2": 1,
         "3": 2,
         "4": 2,
@@ -880,13 +880,13 @@
       }
     },
     "Cr-Bu": {
-      "count": 42,
+      "count": 43,
       "issues_by_project": {
         "bucket/support": 5,
         "psd2/PRR": 1,
         "SE/bucket": 5,
         "service/global": 1,
-        "service/support": 29,
+        "service/support": 30,
         "service/thief": 1
       }
     },
