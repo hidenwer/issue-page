@@ -132,11 +132,11 @@
       ]
     },
     "Ed-Ma": {
-      "service_count": 17,
-      "count": 17,
+      "service_count": 18,
+      "count": 18,
       "labels": {
         "1M": 3,
-        "1S": 4,
+        "1S": 5,
         "10L": 1,
         "2S": 2,
         "3M": 2,
@@ -147,13 +147,13 @@
       },
       "issues_by_project": {
         "service/robber": 1,
-        "service/support": 10,
+        "service/support": 11,
         "service/thief": 6
       },
       "categories": {
         "low": 5,
         "medium": 3,
-        "high": 9
+        "high": 10
       }
     },
     "Eu-Mo": {
@@ -694,10 +694,10 @@
       }
     },
     "Ed-Ma": {
-      "count": 21,
+      "count": 22,
       "labels": {
         "NC_Onb": 2,
-        "WFF": 6,
+        "WFF": 7,
         "On Hold": 3,
         "Blocked": 1,
         "1": 3,
