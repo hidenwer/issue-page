@@ -1,12 +1,12 @@
 {
   "load": {
     "Al-Hi": {
-      "service_count": 30,
-      "count": 31,
+      "service_count": 31,
+      "count": 32,
       "labels": {
         "1L": 2,
         "1M": 4,
-        "1S": 7,
+        "1S": 8,
         "2S": 2,
         "3M": 4,
         "3S": 6,
@@ -17,12 +17,12 @@
         "SE/bucket": 1,
         "service/global": 3,
         "service/support": 4,
-        "service/thief": 23
+        "service/thief": 24
       },
       "categories": {
         "low": 11,
         "medium": 4,
-        "high": 15
+        "high": 16
       }
     },
     "An-Mo": {
@@ -602,13 +602,13 @@
   },
   "lbl": {
     "Al-Hi": {
-      "count": 37,
+      "count": 38,
       "labels": {
         "NC_Onb": 0,
         "WFF": 12,
         "On Hold": 4,
         "Blocked": 2,
-        "1": 8,
+        "1": 9,
         "2": 1,
         "3": 6,
         "4": 3,
