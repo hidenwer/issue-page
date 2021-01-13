@@ -894,10 +894,10 @@
       }
     },
     "Ir-Gr": {
-      "count": 31,
+      "count": 30,
       "issues_by_project": {
         "care/global": 4,
-        "care/internal": 14,
+        "care/internal": 13,
         "psd2/PRR": 1,
         "SE/bucket": 5,
         "service/global": 3,
@@ -906,9 +906,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 30,
+      "count": 31,
       "issues_by_project": {
-        "service/support": 29,
+        "service/support": 30,
         "service/thief": 1
       }
     }
