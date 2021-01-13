@@ -52,10 +52,10 @@
       ]
     },
     "Co-Ci": {
-      "service_count": 17,
-      "count": 17,
+      "service_count": 16,
+      "count": 16,
       "labels": {
-        "1M": 3,
+        "1M": 2,
         "1S": 2,
         "2S": 4,
         "3M": 1,
@@ -65,13 +65,13 @@
         "5S": 1
       },
       "issues_by_project": {
-        "service/support": 13,
+        "service/support": 12,
         "service/thief": 4
       },
       "categories": {
         "low": 6,
         "medium": 2,
-        "high": 9
+        "high": 8
       },
       "no_due_dates": [
 
@@ -289,8 +289,8 @@
       "labels": {
         "1M": 5,
         "1S": 1,
-        "2M": 3,
-        "2S": 2,
+        "2M": 4,
+        "2S": 1,
         "3M": 2,
         "4M": 2,
         "4S": 3,
@@ -637,10 +637,10 @@
       }
     },
     "Co-Ci": {
-      "count": 18,
+      "count": 17,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 3,
+        "WFF": 2,
         "On Hold": 0,
         "Blocked": 1,
         "1": 2,
@@ -904,9 +904,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 31,
+      "count": 30,
       "issues_by_project": {
-        "service/support": 30,
+        "service/support": 29,
         "service/thief": 1
       }
     }
