@@ -678,11 +678,11 @@
       "count": 22,
       "labels": {
         "NC_Onb": 2,
-        "WFF": 4,
+        "WFF": 5,
         "On Hold": 3,
         "Blocked": 2,
         "1": 1,
-        "2": 1,
+        "2": 0,
         "3": 2,
         "4": 2,
         "5": 4,
@@ -811,14 +811,14 @@
       "count": 21,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 7,
+        "WFF": 8,
         "On Hold": 1,
         "Blocked": 0,
         "1": 3,
         "2": 3,
         "3": 1,
         "4": 4,
-        "5": 2,
+        "5": 1,
         "6": 0,
         "7": 0,
         "8": 0,
@@ -875,13 +875,13 @@
       }
     },
     "Cr-Bu": {
-      "count": 45,
+      "count": 46,
       "issues_by_project": {
         "bucket/support": 5,
         "psd2/PRR": 1,
         "SE/bucket": 5,
         "service/global": 1,
-        "service/support": 32,
+        "service/support": 33,
         "service/thief": 1
       }
     },
