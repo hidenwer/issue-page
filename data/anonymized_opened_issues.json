@@ -25,13 +25,13 @@
       }
     },
     "An-Mo": {
-      "service_count": 18,
-      "count": 18,
+      "service_count": 17,
+      "count": 17,
       "labels": {
         "1M": 1,
         "1S": 2,
         "2S": 4,
-        "3S": 3,
+        "3S": 2,
         "4M": 1,
         "4S": 4,
         "5M": 1,
@@ -39,11 +39,11 @@
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 14,
+        "service/support": 13,
         "service/thief": 4
       },
       "categories": {
-        "low": 7,
+        "low": 6,
         "medium": 3,
         "high": 8
       },
@@ -282,11 +282,11 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 18,
-      "count": 18,
+      "service_count": 16,
+      "count": 16,
       "labels": {
-        "1M": 5,
-        "2M": 3,
+        "1M": 4,
+        "2M": 2,
         "2S": 1,
         "3M": 2,
         "4M": 3,
@@ -296,12 +296,12 @@
       "issues_by_project": {
         "service/global": 1,
         "service/support": 7,
-        "service/thief": 10
+        "service/thief": 8
       },
       "categories": {
         "low": 4,
         "medium": 5,
-        "high": 9
+        "high": 7
       },
       "no_due_dates": [
 
@@ -550,11 +550,11 @@
       }
     },
     "Se-Tu": {
-      "count": 8,
+      "count": 7,
       "labels": {
         "On Hold": 1,
         "Blocked": 0,
-        "1": 4,
+        "1": 3,
         "2": 0,
         "3": 2,
         "4": 1,
@@ -622,10 +622,10 @@
       }
     },
     "An-Mo": {
-      "count": 18,
+      "count": 17,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 8,
+        "WFF": 7,
         "On Hold": 0,
         "Blocked": 0,
         "1": 2,
@@ -812,14 +812,14 @@
       }
     },
     "Se-Tu": {
-      "count": 20,
+      "count": 18,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 8,
+        "WFF": 6,
         "On Hold": 2,
         "Blocked": 0,
-        "1": 2,
-        "2": 2,
+        "1": 3,
+        "2": 1,
         "3": 1,
         "4": 4,
         "5": 1,
@@ -907,9 +907,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 28,
+      "count": 27,
       "issues_by_project": {
-        "service/support": 27,
+        "service/support": 26,
         "service/thief": 1
       }
     }
@@ -1103,12 +1103,12 @@
       }
     },
     "Se-Tu": {
-      "count": 4,
+      "count": 3,
       "labels": {
         "On Hold": 1,
         "Blocked": 0,
         "1": 1,
-        "2": 1,
+        "2": 0,
         "3": 0,
         "4": 1,
         "5": 0,
