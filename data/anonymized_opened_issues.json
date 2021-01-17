@@ -265,25 +265,24 @@
       ]
     },
     "Se-Vo": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "1M": 1,
         "2S": 2,
         "3M": 1,
-        "3S": 3,
+        "3S": 2,
         "4M": 1,
         "4S": 3,
         "5S": 1,
-        "6S": 1,
-        "7S": 1
+        "6S": 1
       },
       "issues_by_project": {
-        "service/support": 11,
+        "service/support": 9,
         "service/thief": 3
       },
       "categories": {
-        "low": 9,
+        "low": 7,
         "medium": 2,
         "high": 3
       },
@@ -346,18 +345,19 @@
       ]
     },
     "Al-Je": {
-      "service_count": 5,
-      "count": 5,
+      "service_count": 7,
+      "count": 7,
       "labels": {
         "1S": 1,
-        "3S": 2,
-        "5S": 2
+        "3S": 3,
+        "5S": 2,
+        "7S": 1
       },
       "issues_by_project": {
-        "service/support": 5
+        "service/support": 7
       },
       "categories": {
-        "low": 4,
+        "low": 6,
         "medium": 0,
         "high": 1
       },
@@ -801,7 +801,7 @@
       }
     },
     "Se-Vo": {
-      "count": 15,
+      "count": 13,
       "labels": {
         "NC_Onb": 0,
         "WFF": 2,
@@ -809,11 +809,11 @@
         "Blocked": 0,
         "1": 1,
         "2": 2,
-        "3": 4,
+        "3": 3,
         "4": 3,
         "5": 0,
         "6": 1,
-        "7": 1,
+        "7": 0,
         "8": 0,
         "9": 0,
         "10": 0
@@ -858,7 +858,7 @@
       }
     },
     "Al-Je": {
-      "count": 5,
+      "count": 7,
       "labels": {
         "NC_Onb": 0,
         "WFF": 2,
@@ -866,11 +866,11 @@
         "Blocked": 0,
         "1": 1,
         "2": 0,
-        "3": 2,
+        "3": 3,
         "4": 0,
         "5": 0,
         "6": 0,
-        "7": 0,
+        "7": 1,
         "8": 0,
         "9": 0,
         "10": 0
