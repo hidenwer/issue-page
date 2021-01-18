@@ -910,9 +910,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 27,
+      "count": 28,
       "issues_by_project": {
-        "service/support": 26,
+        "service/support": 27,
         "service/thief": 1
       }
     }
