@@ -872,21 +872,21 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 32,
+      "count": 33,
       "issues_by_project": {
         "service/stealer": 1,
-        "service/support": 30,
+        "service/support": 31,
         "service/thief": 1
       }
     },
     "Cr-Bu": {
-      "count": 45,
+      "count": 46,
       "issues_by_project": {
         "bucket/support": 5,
         "psd2/PRR": 1,
         "SE/bucket": 6,
         "service/global": 1,
-        "service/support": 31,
+        "service/support": 32,
         "service/thief": 1
       }
     },
