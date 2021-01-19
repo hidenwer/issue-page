@@ -24,14 +24,14 @@
       }
     },
     "An-Mo": {
-      "service_count": 18,
-      "count": 18,
+      "service_count": 19,
+      "count": 19,
       "labels": {
         "1M": 1,
         "1S": 2,
         "2S": 4,
         "3M": 1,
-        "3S": 2,
+        "3S": 3,
         "4M": 1,
         "4S": 4,
         "5M": 1,
@@ -39,11 +39,11 @@
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 14,
+        "service/support": 15,
         "service/thief": 4
       },
       "categories": {
-        "low": 7,
+        "low": 8,
         "medium": 3,
         "high": 8
       },
@@ -630,7 +630,7 @@
       }
     },
     "An-Mo": {
-      "count": 19,
+      "count": 20,
       "labels": {
         "NC_Onb": 0,
         "WFF": 9,
@@ -638,7 +638,7 @@
         "Blocked": 0,
         "1": 1,
         "2": 2,
-        "3": 2,
+        "3": 3,
         "4": 2,
         "5": 2,
         "6": 0,
