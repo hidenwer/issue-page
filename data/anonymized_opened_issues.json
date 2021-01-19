@@ -256,30 +256,27 @@
       ]
     },
     "Se-Vo": {
-      "service_count": 12,
-      "count": 12,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1M": 1,
         "2S": 2,
         "3M": 1,
         "3S": 2,
         "4M": 1,
-        "4S": 3,
+        "4S": 4,
         "5S": 1,
         "6S": 1
       },
       "issues_by_project": {
-        "service/support": 9,
+        "service/support": 10,
         "service/thief": 3
       },
       "categories": {
-        "low": 7,
+        "low": 8,
         "medium": 2,
         "high": 3
-      },
-      "no_due_dates": [
-
-      ]
+      }
     },
     "Se-Tu": {
       "service_count": 18,
@@ -793,7 +790,7 @@
       }
     },
     "Se-Vo": {
-      "count": 13,
+      "count": 14,
       "labels": {
         "NC_Onb": 0,
         "WFF": 2,
@@ -802,7 +799,7 @@
         "1": 1,
         "2": 2,
         "3": 3,
-        "4": 3,
+        "4": 4,
         "5": 0,
         "6": 1,
         "7": 0,
@@ -890,9 +887,9 @@
       }
     },
     "Ig-Li": {
-      "count": 25,
+      "count": 26,
       "issues_by_project": {
-        "service/support": 25
+        "service/support": 26
       }
     },
     "Ir-Gr": {
