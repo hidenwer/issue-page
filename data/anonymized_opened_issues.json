@@ -879,20 +879,20 @@
       }
     },
     "Cr-Bu": {
-      "count": 47,
+      "count": 48,
       "issues_by_project": {
         "bucket/support": 5,
         "psd2/PRR": 1,
         "SE/bucket": 6,
         "service/global": 1,
-        "service/support": 33,
+        "service/support": 34,
         "service/thief": 1
       }
     },
     "Ig-Li": {
-      "count": 23,
+      "count": 25,
       "issues_by_project": {
-        "service/support": 23
+        "service/support": 25
       }
     },
     "Ir-Gr": {
