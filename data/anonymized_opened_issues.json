@@ -24,14 +24,14 @@
       }
     },
     "An-Mo": {
-      "service_count": 19,
-      "count": 19,
+      "service_count": 18,
+      "count": 18,
       "labels": {
         "1M": 1,
         "1S": 2,
         "2S": 4,
         "3M": 1,
-        "3S": 3,
+        "3S": 2,
         "4M": 1,
         "4S": 4,
         "5M": 1,
@@ -39,11 +39,11 @@
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 15,
+        "service/support": 14,
         "service/thief": 4
       },
       "categories": {
-        "low": 8,
+        "low": 7,
         "medium": 3,
         "high": 8
       },
@@ -627,10 +627,10 @@
       }
     },
     "An-Mo": {
-      "count": 20,
+      "count": 19,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 7,
+        "WFF": 6,
         "On Hold": 1,
         "Blocked": 0,
         "1": 3,
@@ -913,9 +913,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 29,
+      "count": 28,
       "issues_by_project": {
-        "service/support": 28,
+        "service/support": 27,
         "service/thief": 1
       }
     }
