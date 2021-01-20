@@ -237,13 +237,13 @@
       ]
     },
     "Se-Ra": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1M": 1,
         "1S": 2,
         "3M": 1,
-        "3S": 3,
+        "3S": 2,
         "4S": 2,
         "5M": 1,
         "5S": 2,
@@ -251,11 +251,11 @@
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 11,
+        "service/support": 10,
         "service/thief": 3
       },
       "categories": {
-        "low": 8,
+        "low": 7,
         "medium": 2,
         "high": 4
       },
@@ -779,7 +779,7 @@
       }
     },
     "Se-Ra": {
-      "count": 13,
+      "count": 12,
       "labels": {
         "NC_Onb": 0,
         "WFF": 2,
@@ -787,7 +787,7 @@
         "Blocked": 0,
         "1": 2,
         "2": 0,
-        "3": 4,
+        "3": 3,
         "4": 2,
         "5": 2,
         "6": 0,
@@ -913,9 +913,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 28,
+      "count": 27,
       "issues_by_project": {
-        "service/support": 27,
+        "service/support": 26,
         "service/thief": 1
       }
     }
