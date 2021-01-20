@@ -343,19 +343,19 @@
       ]
     },
     "Al-Je": {
-      "service_count": 9,
-      "count": 9,
+      "service_count": 8,
+      "count": 8,
       "labels": {
         "1M": 2,
         "3S": 5,
-        "5S": 2
+        "5S": 1
       },
       "issues_by_project": {
-        "service/support": 7,
+        "service/support": 6,
         "service/thief": 2
       },
       "categories": {
-        "low": 7,
+        "low": 6,
         "medium": 0,
         "high": 2
       },
@@ -853,7 +853,7 @@
       }
     },
     "Al-Je": {
-      "count": 9,
+      "count": 8,
       "labels": {
         "NC_Onb": 0,
         "WFF": 0,
@@ -863,7 +863,7 @@
         "2": 0,
         "3": 5,
         "4": 0,
-        "5": 2,
+        "5": 1,
         "6": 0,
         "7": 0,
         "8": 0,
@@ -911,9 +911,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 27,
+      "count": 26,
       "issues_by_project": {
-        "service/support": 26,
+        "service/support": 25,
         "service/thief": 1
       }
     }
