@@ -2,7 +2,7 @@
   "load": {
     "Al-Hi": {
       "service_count": 23,
-      "count": 23,
+      "count": 24,
       "labels": {
         "1L": 1,
         "1M": 5,
@@ -13,6 +13,7 @@
         "7L": 1
       },
       "issues_by_project": {
+        "SE/bucket": 1,
         "service/global": 2,
         "service/support": 3,
         "service/thief": 18
@@ -922,11 +923,11 @@
   },
   "pisp": {
     "Al-Hi": {
-      "count": 1,
+      "count": 2,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
-        "1": 0,
+        "1": 1,
         "2": 0,
         "3": 1,
         "4": 0,
