@@ -1,12 +1,12 @@
 {
   "load": {
     "Al-Hi": {
-      "service_count": 23,
-      "count": 23,
+      "service_count": 24,
+      "count": 24,
       "labels": {
         "1L": 1,
         "1M": 5,
-        "1S": 8,
+        "1S": 9,
         "2M": 2,
         "3M": 3,
         "3S": 3,
@@ -15,12 +15,12 @@
       "issues_by_project": {
         "service/global": 2,
         "service/support": 3,
-        "service/thief": 18
+        "service/thief": 19
       },
       "categories": {
         "low": 4,
         "medium": 3,
-        "high": 16
+        "high": 17
       }
     },
     "An-Mo": {
@@ -161,11 +161,11 @@
       ]
     },
     "Eu-Mo": {
-      "service_count": 20,
-      "count": 21,
+      "service_count": 19,
+      "count": 20,
       "labels": {
         "1M": 3,
-        "1S": 5,
+        "1S": 4,
         "10M": 1,
         "2M": 1,
         "3M": 6,
@@ -178,12 +178,12 @@
         "service/global": 1,
         "service/stealer": 1,
         "service/support": 6,
-        "service/thief": 12
+        "service/thief": 11
       },
       "categories": {
         "low": 1,
         "medium": 10,
-        "high": 9
+        "high": 8
       }
     },
     "Ma-Gu": {
@@ -607,13 +607,13 @@
   },
   "lbl": {
     "Al-Hi": {
-      "count": 29,
+      "count": 30,
       "labels": {
         "NC_Onb": 0,
         "WFF": 13,
         "On Hold": 4,
         "Blocked": 1,
-        "1": 5,
+        "1": 6,
         "2": 2,
         "3": 3,
         "4": 0,
@@ -721,13 +721,13 @@
       }
     },
     "Eu-Mo": {
-      "count": 25,
+      "count": 23,
       "labels": {
         "NC_Onb": 0,
         "WFF": 6,
-        "On Hold": 5,
+        "On Hold": 4,
         "Blocked": 0,
-        "1": 4,
+        "1": 3,
         "2": 1,
         "3": 6,
         "4": 0,
