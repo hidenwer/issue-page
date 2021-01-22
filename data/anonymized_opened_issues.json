@@ -25,8 +25,8 @@
       }
     },
     "An-Mo": {
-      "service_count": 17,
-      "count": 17,
+      "service_count": 16,
+      "count": 16,
       "labels": {
         "1M": 1,
         "1S": 3,
@@ -34,16 +34,16 @@
         "3M": 1,
         "3S": 2,
         "4M": 1,
-        "4S": 3,
+        "4S": 2,
         "5M": 1,
         "5S": 1
       },
       "issues_by_project": {
-        "service/support": 13,
+        "service/support": 12,
         "service/thief": 4
       },
       "categories": {
-        "low": 6,
+        "low": 5,
         "medium": 3,
         "high": 8
       },
@@ -630,10 +630,10 @@
       }
     },
     "An-Mo": {
-      "count": 19,
+      "count": 18,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 8,
+        "WFF": 7,
         "On Hold": 2,
         "Blocked": 0,
         "1": 2,
@@ -879,10 +879,10 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 36,
+      "count": 35,
       "issues_by_project": {
         "service/stealer": 1,
-        "service/support": 34,
+        "service/support": 33,
         "service/thief": 1
       }
     },
