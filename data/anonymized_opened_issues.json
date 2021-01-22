@@ -162,15 +162,15 @@
       ]
     },
     "Eu-Mo": {
-      "service_count": 19,
-      "count": 20,
+      "service_count": 18,
+      "count": 19,
       "labels": {
         "1M": 2,
         "1S": 5,
         "10M": 1,
         "2M": 1,
         "3M": 6,
-        "4M": 2,
+        "4M": 1,
         "6S": 1,
         "9M": 1
       },
@@ -178,12 +178,12 @@
         "SE/bucket": 1,
         "service/global": 1,
         "service/stealer": 1,
-        "service/support": 6,
+        "service/support": 5,
         "service/thief": 11
       },
       "categories": {
         "low": 1,
-        "medium": 10,
+        "medium": 9,
         "high": 8
       }
     },
@@ -709,10 +709,10 @@
       "count": 22,
       "labels": {
         "NC_Onb": 2,
-        "WFF": 5,
+        "WFF": 7,
         "On Hold": 3,
         "Blocked": 1,
-        "1": 4,
+        "1": 2,
         "2": 0,
         "3": 4,
         "4": 2,
@@ -728,8 +728,8 @@
       "count": 23,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 10,
-        "On Hold": 4,
+        "WFF": 9,
+        "On Hold": 5,
         "Blocked": 0,
         "1": 1,
         "2": 1,
@@ -898,9 +898,9 @@
       }
     },
     "Ig-Li": {
-      "count": 33,
+      "count": 34,
       "issues_by_project": {
-        "service/support": 33
+        "service/support": 34
       }
     },
     "Ir-Gr": {
