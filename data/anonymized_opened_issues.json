@@ -106,8 +106,8 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 13,
-      "count": 17,
+      "service_count": 12,
+      "count": 16,
       "labels": {
         "1M": 2,
         "1S": 1,
@@ -117,15 +117,15 @@
         "3S": 3,
         "4S": 1,
         "5M": 1,
-        "5S": 2
+        "5S": 1
       },
       "issues_by_project": {
         "SE/bucket": 4,
-        "service/support": 8,
+        "service/support": 7,
         "service/thief": 5
       },
       "categories": {
-        "low": 6,
+        "low": 5,
         "medium": 1,
         "high": 6
       },
@@ -687,7 +687,7 @@
       }
     },
     "Da-Ni": {
-      "count": 19,
+      "count": 18,
       "labels": {
         "NC_Onb": 2,
         "WFF": 4,
@@ -697,7 +697,7 @@
         "2": 3,
         "3": 3,
         "4": 0,
-        "5": 3,
+        "5": 2,
         "6": 0,
         "7": 0,
         "8": 0,
@@ -898,9 +898,9 @@
       }
     },
     "Ig-Li": {
-      "count": 34,
+      "count": 33,
       "issues_by_project": {
-        "service/support": 34
+        "service/support": 33
       }
     },
     "Ir-Gr": {
