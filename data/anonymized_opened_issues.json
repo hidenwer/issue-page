@@ -107,24 +107,24 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 10,
-      "count": 14,
+      "service_count": 11,
+      "count": 15,
       "labels": {
         "1M": 2,
         "1S": 1,
         "2L": 1,
         "2S": 1,
-        "3S": 3,
+        "3S": 4,
         "4S": 1,
         "5M": 1
       },
       "issues_by_project": {
         "SE/bucket": 4,
-        "service/support": 7,
+        "service/support": 8,
         "service/thief": 3
       },
       "categories": {
-        "low": 4,
+        "low": 5,
         "medium": 1,
         "high": 5
       },
@@ -239,25 +239,25 @@
       ]
     },
     "Se-Ra": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1M": 1,
         "1S": 2,
         "3M": 1,
         "3S": 2,
-        "4S": 2,
+        "4S": 1,
         "5M": 1,
         "5S": 3,
         "7S": 1,
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 11,
+        "service/support": 10,
         "service/thief": 3
       },
       "categories": {
-        "low": 8,
+        "low": 7,
         "medium": 2,
         "high": 4
       },
@@ -266,24 +266,24 @@
       ]
     },
     "Se-Vo": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "1M": 2,
         "2M": 1,
         "2S": 1,
         "3M": 1,
-        "3S": 3,
+        "3S": 2,
         "4M": 1,
         "4S": 3,
         "6S": 1
       },
       "issues_by_project": {
-        "service/support": 9,
+        "service/support": 8,
         "service/thief": 4
       },
       "categories": {
-        "low": 7,
+        "low": 6,
         "medium": 2,
         "high": 4
       },
@@ -685,7 +685,7 @@
       }
     },
     "Da-Ni": {
-      "count": 16,
+      "count": 17,
       "labels": {
         "NC_Onb": 2,
         "WFF": 4,
@@ -693,7 +693,7 @@
         "Blocked": 1,
         "1": 0,
         "2": 2,
-        "3": 3,
+        "3": 4,
         "4": 0,
         "5": 1,
         "6": 0,
@@ -780,16 +780,16 @@
       }
     },
     "Se-Ra": {
-      "count": 13,
+      "count": 12,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 2,
+        "WFF": 1,
         "On Hold": 0,
         "Blocked": 0,
-        "1": 2,
+        "1": 3,
         "2": 0,
         "3": 3,
-        "4": 2,
+        "4": 1,
         "5": 3,
         "6": 0,
         "7": 1,
@@ -799,7 +799,7 @@
       }
     },
     "Se-Vo": {
-      "count": 13,
+      "count": 12,
       "labels": {
         "NC_Onb": 0,
         "WFF": 2,
@@ -807,7 +807,7 @@
         "Blocked": 0,
         "1": 2,
         "2": 1,
-        "3": 4,
+        "3": 3,
         "4": 3,
         "5": 0,
         "6": 1,
