@@ -188,8 +188,8 @@
       }
     },
     "Ma-Gu": {
-      "service_count": 12,
-      "count": 12,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1M": 1,
         "1S": 1,
@@ -197,20 +197,18 @@
         "3M": 1,
         "3S": 5,
         "4S": 1,
-        "5S": 2
+        "5S": 2,
+        "M": 1
       },
       "issues_by_project": {
         "service/support": 9,
-        "service/thief": 3
+        "service/thief": 4
       },
       "categories": {
         "low": 8,
         "medium": 1,
         "high": 3
-      },
-      "no_due_dates": [
-
-      ]
+      }
     },
     "Ro-Ci": {
       "service_count": 13,
@@ -489,7 +487,7 @@
       }
     },
     "Ma-Gu": {
-      "count": 5,
+      "count": 6,
       "labels": {
         "On Hold": 4,
         "Blocked": 0,
