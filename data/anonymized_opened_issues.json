@@ -106,13 +106,12 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 11,
-      "count": 15,
+      "service_count": 10,
+      "count": 14,
       "labels": {
         "1M": 2,
         "1S": 1,
         "2L": 1,
-        "2M": 1,
         "2S": 1,
         "3S": 3,
         "4S": 1,
@@ -121,12 +120,12 @@
       "issues_by_project": {
         "SE/bucket": 4,
         "service/support": 7,
-        "service/thief": 4
+        "service/thief": 3
       },
       "categories": {
         "low": 4,
         "medium": 1,
-        "high": 6
+        "high": 5
       },
       "no_due_dates": [
 
@@ -292,14 +291,14 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 17,
-      "count": 17,
+      "service_count": 16,
+      "count": 16,
       "labels": {
         "1M": 4,
         "1S": 1,
         "2M": 2,
         "2S": 2,
-        "3M": 2,
+        "3M": 1,
         "4M": 3,
         "4S": 1,
         "5S": 2
@@ -307,11 +306,11 @@
       "issues_by_project": {
         "service/global": 1,
         "service/support": 8,
-        "service/thief": 8
+        "service/thief": 7
       },
       "categories": {
         "low": 3,
-        "medium": 5,
+        "medium": 4,
         "high": 9
       },
       "no_due_dates": [
@@ -612,10 +611,10 @@
       "count": 28,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 15,
+        "WFF": 14,
         "On Hold": 4,
         "Blocked": 1,
-        "1": 4,
+        "1": 5,
         "2": 1,
         "3": 2,
         "4": 0,
@@ -631,14 +630,14 @@
       "count": 18,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 7,
+        "WFF": 8,
         "On Hold": 2,
         "Blocked": 0,
         "1": 2,
         "2": 2,
         "3": 3,
         "4": 0,
-        "5": 2,
+        "5": 1,
         "6": 0,
         "7": 0,
         "8": 0,
@@ -685,14 +684,14 @@
       }
     },
     "Da-Ni": {
-      "count": 17,
+      "count": 16,
       "labels": {
         "NC_Onb": 2,
         "WFF": 4,
         "On Hold": 3,
         "Blocked": 1,
         "1": 0,
-        "2": 3,
+        "2": 2,
         "3": 3,
         "4": 0,
         "5": 1,
@@ -818,7 +817,7 @@
       }
     },
     "Se-Tu": {
-      "count": 20,
+      "count": 19,
       "labels": {
         "NC_Onb": 1,
         "WFF": 7,
@@ -826,7 +825,7 @@
         "Blocked": 0,
         "1": 2,
         "2": 3,
-        "3": 2,
+        "3": 1,
         "4": 2,
         "5": 0,
         "6": 0,
