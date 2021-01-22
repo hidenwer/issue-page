@@ -879,10 +879,10 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 37,
+      "count": 36,
       "issues_by_project": {
         "service/stealer": 1,
-        "service/support": 35,
+        "service/support": 34,
         "service/thief": 1
       }
     },
