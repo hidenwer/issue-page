@@ -48,9 +48,6 @@
         "medium": 3,
         "high": 7
       },
-      "overdues": [
-
-      ],
       "no_due_dates": [
 
       ]
@@ -187,10 +184,7 @@
         "low": 1,
         "medium": 8,
         "high": 8
-      },
-      "overdues": [
-
-      ]
+      }
     },
     "Ma-Gu": {
       "service_count": 11,
@@ -213,9 +207,6 @@
         "medium": 1,
         "high": 4
       },
-      "overdues": [
-
-      ],
       "no_due_dates": [
 
       ]
@@ -323,9 +314,6 @@
         "medium": 3,
         "high": 8
       },
-      "overdues": [
-
-      ],
       "no_due_dates": [
 
       ]
