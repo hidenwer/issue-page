@@ -1,12 +1,13 @@
 {
   "load": {
     "Al-Hi": {
-      "service_count": 20,
-      "count": 20,
+      "service_count": 21,
+      "count": 21,
       "labels": {
         "1M": 5,
         "1S": 7,
         "2M": 1,
+        "2S": 1,
         "3M": 3,
         "3S": 3,
         "7L": 1
@@ -14,12 +15,12 @@
       "issues_by_project": {
         "service/global": 2,
         "service/support": 4,
-        "service/thief": 14
+        "service/thief": 15
       },
       "categories": {
         "low": 4,
         "medium": 3,
-        "high": 13
+        "high": 14
       },
       "overdues": [
 
@@ -610,14 +611,14 @@
   },
   "lbl": {
     "Al-Hi": {
-      "count": 29,
+      "count": 30,
       "labels": {
         "NC_Onb": 0,
         "WFF": 9,
         "On Hold": 7,
         "Blocked": 1,
         "1": 7,
-        "2": 1,
+        "2": 2,
         "3": 3,
         "4": 0,
         "5": 0,
