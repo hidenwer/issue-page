@@ -110,13 +110,13 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 13,
-      "count": 17,
+      "service_count": 14,
+      "count": 18,
       "labels": {
         "1M": 2,
         "1S": 1,
         "2L": 1,
-        "2S": 1,
+        "2S": 2,
         "3S": 3,
         "4S": 4,
         "5M": 1
@@ -124,23 +124,23 @@
       "issues_by_project": {
         "SE/bucket": 4,
         "service/support": 10,
-        "service/thief": 3
+        "service/thief": 4
       },
       "categories": {
         "low": 7,
         "medium": 1,
-        "high": 5
+        "high": 6
       },
       "no_due_dates": [
 
       ]
     },
     "Ed-Ma": {
-      "service_count": 18,
-      "count": 18,
+      "service_count": 17,
+      "count": 17,
       "labels": {
         "1M": 4,
-        "1S": 5,
+        "1S": 4,
         "10L": 1,
         "3M": 3,
         "3S": 3,
@@ -151,12 +151,12 @@
         "service/kpi": 1,
         "service/robber": 1,
         "service/support": 5,
-        "service/thief": 11
+        "service/thief": 10
       },
       "categories": {
         "low": 5,
         "medium": 4,
-        "high": 9
+        "high": 8
       },
       "no_due_dates": [
 
@@ -216,12 +216,12 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 12,
+      "count": 12,
       "labels": {
-        "1M": 2,
+        "1M": 1,
         "1S": 1,
-        "3M": 3,
+        "3M": 2,
         "3S": 1,
         "4M": 1,
         "4S": 3,
@@ -231,12 +231,12 @@
       },
       "issues_by_project": {
         "service/support": 8,
-        "service/thief": 6
+        "service/thief": 4
       },
       "categories": {
         "low": 7,
-        "medium": 4,
-        "high": 3
+        "medium": 3,
+        "high": 2
       },
       "no_due_dates": [
 
@@ -507,11 +507,11 @@
       }
     },
     "Ro-Ci": {
-      "count": 4,
+      "count": 3,
       "labels": {
         "On Hold": 2,
         "Blocked": 0,
-        "1": 1,
+        "1": 0,
         "2": 0,
         "3": 1,
         "4": 0,
@@ -687,14 +687,14 @@
       }
     },
     "Da-Ni": {
-      "count": 18,
+      "count": 19,
       "labels": {
         "NC_Onb": 2,
         "WFF": 6,
         "On Hold": 2,
         "Blocked": 1,
         "1": 0,
-        "2": 1,
+        "2": 2,
         "3": 2,
         "4": 3,
         "5": 1,
@@ -706,10 +706,10 @@
       }
     },
     "Ed-Ma": {
-      "count": 22,
+      "count": 21,
       "labels": {
         "NC_Onb": 3,
-        "WFF": 9,
+        "WFF": 8,
         "On Hold": 3,
         "Blocked": 1,
         "1": 0,
@@ -763,15 +763,15 @@
       }
     },
     "Ro-Ci": {
-      "count": 18,
+      "count": 16,
       "labels": {
         "NC_Onb": 0,
         "WFF": 3,
         "On Hold": 4,
         "Blocked": 0,
-        "1": 2,
+        "1": 1,
         "2": 0,
-        "3": 3,
+        "3": 2,
         "4": 3,
         "5": 1,
         "6": 1,
