@@ -242,24 +242,23 @@
       ]
     },
     "Se-Ra": {
-      "service_count": 10,
-      "count": 10,
+      "service_count": 9,
+      "count": 9,
       "labels": {
         "1M": 1,
         "1S": 2,
         "3M": 1,
-        "4S": 1,
         "5M": 1,
         "5S": 2,
         "7S": 1,
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 7,
+        "service/support": 6,
         "service/thief": 3
       },
       "categories": {
-        "low": 4,
+        "low": 3,
         "medium": 2,
         "high": 4
       },
@@ -782,7 +781,7 @@
       }
     },
     "Se-Ra": {
-      "count": 9,
+      "count": 8,
       "labels": {
         "NC_Onb": 0,
         "WFF": 3,
@@ -791,7 +790,7 @@
         "1": 1,
         "2": 0,
         "3": 1,
-        "4": 1,
+        "4": 0,
         "5": 2,
         "6": 0,
         "7": 1,
@@ -898,9 +897,9 @@
       }
     },
     "Ig-Li": {
-      "count": 33,
+      "count": 32,
       "issues_by_project": {
-        "service/support": 33
+        "service/support": 32
       }
     },
     "Ir-Gr": {
