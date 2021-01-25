@@ -108,11 +108,11 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 13,
-      "count": 17,
+      "service_count": 14,
+      "count": 18,
       "labels": {
         "1M": 2,
-        "1S": 1,
+        "1S": 2,
         "2L": 1,
         "2S": 1,
         "3S": 3,
@@ -122,12 +122,12 @@
       "issues_by_project": {
         "SE/bucket": 4,
         "service/support": 10,
-        "service/thief": 3
+        "service/thief": 4
       },
       "categories": {
         "low": 7,
         "medium": 1,
-        "high": 5
+        "high": 6
       },
       "no_due_dates": [
 
@@ -688,13 +688,13 @@
       }
     },
     "Da-Ni": {
-      "count": 18,
+      "count": 19,
       "labels": {
         "NC_Onb": 2,
         "WFF": 4,
         "On Hold": 2,
         "Blocked": 1,
-        "1": 0,
+        "1": 1,
         "2": 2,
         "3": 3,
         "4": 3,
@@ -767,13 +767,13 @@
       "count": 18,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 3,
+        "WFF": 4,
         "On Hold": 4,
         "Blocked": 0,
         "1": 1,
         "2": 0,
         "3": 3,
-        "4": 4,
+        "4": 3,
         "5": 1,
         "6": 1,
         "7": 0,
