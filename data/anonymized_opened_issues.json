@@ -109,11 +109,11 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 14,
-      "count": 18,
+      "service_count": 13,
+      "count": 17,
       "labels": {
         "1M": 2,
-        "1S": 2,
+        "1S": 1,
         "2L": 1,
         "2S": 1,
         "3S": 3,
@@ -123,23 +123,23 @@
       "issues_by_project": {
         "SE/bucket": 4,
         "service/support": 10,
-        "service/thief": 4
+        "service/thief": 3
       },
       "categories": {
         "low": 7,
         "medium": 1,
-        "high": 6
+        "high": 5
       },
       "no_due_dates": [
 
       ]
     },
     "Ed-Ma": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 17,
+      "count": 17,
       "labels": {
         "1M": 4,
-        "1S": 4,
+        "1S": 5,
         "10L": 1,
         "3M": 2,
         "3S": 3,
@@ -150,12 +150,12 @@
         "service/kpi": 1,
         "service/robber": 1,
         "service/support": 5,
-        "service/thief": 9
+        "service/thief": 10
       },
       "categories": {
         "low": 5,
         "medium": 3,
-        "high": 8
+        "high": 9
       },
       "no_due_dates": [
 
@@ -686,10 +686,10 @@
       }
     },
     "Da-Ni": {
-      "count": 19,
+      "count": 18,
       "labels": {
         "NC_Onb": 2,
-        "WFF": 6,
+        "WFF": 5,
         "On Hold": 2,
         "Blocked": 1,
         "1": 0,
@@ -705,13 +705,13 @@
       }
     },
     "Ed-Ma": {
-      "count": 20,
+      "count": 21,
       "labels": {
         "NC_Onb": 2,
         "WFF": 7,
         "On Hold": 3,
         "Blocked": 1,
-        "1": 0,
+        "1": 1,
         "2": 0,
         "3": 4,
         "4": 2,
