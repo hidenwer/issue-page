@@ -162,10 +162,10 @@
       ]
     },
     "Eu-Mo": {
-      "service_count": 17,
-      "count": 18,
+      "service_count": 16,
+      "count": 17,
       "labels": {
-        "1M": 2,
+        "1M": 1,
         "1S": 5,
         "10M": 1,
         "2M": 1,
@@ -178,12 +178,12 @@
         "service/global": 1,
         "service/stealer": 1,
         "service/support": 4,
-        "service/thief": 11
+        "service/thief": 10
       },
       "categories": {
         "low": 1,
         "medium": 8,
-        "high": 8
+        "high": 7
       }
     },
     "Ma-Gu": {
@@ -473,9 +473,9 @@
     "Eu-Mo": {
       "count": 5,
       "labels": {
-        "On Hold": 1,
+        "On Hold": 2,
         "Blocked": 0,
-        "1": 1,
+        "1": 0,
         "2": 0,
         "3": 2,
         "4": 0,
@@ -726,8 +726,8 @@
       "count": 22,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 9,
-        "On Hold": 5,
+        "WFF": 8,
+        "On Hold": 6,
         "Blocked": 0,
         "1": 1,
         "2": 0,
