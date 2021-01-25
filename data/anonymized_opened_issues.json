@@ -26,25 +26,25 @@
       ]
     },
     "An-Mo": {
-      "service_count": 17,
-      "count": 17,
+      "service_count": 18,
+      "count": 18,
       "labels": {
         "1M": 1,
         "1S": 2,
         "2S": 4,
         "3M": 1,
-        "3S": 2,
+        "3S": 3,
         "4M": 1,
         "4S": 4,
         "5M": 1,
         "5S": 1
       },
       "issues_by_project": {
-        "service/support": 13,
+        "service/support": 14,
         "service/thief": 4
       },
       "categories": {
-        "low": 7,
+        "low": 8,
         "medium": 3,
         "high": 7
       },
@@ -214,13 +214,14 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 14,
+      "count": 14,
       "labels": {
         "1M": 1,
         "1S": 1,
         "3M": 3,
         "3S": 1,
+        "4M": 1,
         "4S": 3,
         "5S": 1,
         "6M": 1,
@@ -229,11 +230,11 @@
       },
       "issues_by_project": {
         "service/support": 8,
-        "service/thief": 5
+        "service/thief": 6
       },
       "categories": {
         "low": 7,
-        "medium": 4,
+        "medium": 5,
         "high": 2
       },
       "no_due_dates": [
@@ -241,25 +242,24 @@
       ]
     },
     "Se-Ra": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 10,
+      "count": 10,
       "labels": {
         "1M": 1,
         "1S": 2,
         "3M": 1,
-        "3S": 2,
         "4S": 1,
         "5M": 1,
-        "5S": 3,
+        "5S": 2,
         "7S": 1,
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 10,
+        "service/support": 7,
         "service/thief": 3
       },
       "categories": {
-        "low": 7,
+        "low": 4,
         "medium": 2,
         "high": 4
       },
@@ -294,27 +294,27 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 18,
+      "count": 18,
       "labels": {
-        "1M": 4,
+        "1M": 5,
         "1S": 1,
         "2M": 2,
         "2S": 3,
         "3M": 1,
         "4M": 2,
         "4S": 1,
-        "5S": 2
+        "5S": 3
       },
       "issues_by_project": {
         "service/global": 1,
-        "service/support": 9,
-        "service/thief": 6
+        "service/support": 10,
+        "service/thief": 7
       },
       "categories": {
-        "low": 3,
+        "low": 4,
         "medium": 3,
-        "high": 10
+        "high": 11
       },
       "no_due_dates": [
 
@@ -348,20 +348,20 @@
       ]
     },
     "Al-Je": {
-      "service_count": 7,
-      "count": 7,
+      "service_count": 8,
+      "count": 8,
       "labels": {
         "1M": 2,
-        "3S": 3,
+        "3S": 4,
         "4S": 1,
         "5S": 1
       },
       "issues_by_project": {
-        "service/support": 5,
+        "service/support": 6,
         "service/thief": 2
       },
       "categories": {
-        "low": 5,
+        "low": 6,
         "medium": 0,
         "high": 2
       },
@@ -559,11 +559,11 @@
       }
     },
     "Se-Tu": {
-      "count": 7,
+      "count": 8,
       "labels": {
         "On Hold": 3,
         "Blocked": 0,
-        "1": 3,
+        "1": 4,
         "2": 0,
         "3": 1,
         "4": 0,
@@ -631,7 +631,7 @@
       }
     },
     "An-Mo": {
-      "count": 19,
+      "count": 20,
       "labels": {
         "NC_Onb": 0,
         "WFF": 9,
@@ -639,7 +639,7 @@
         "Blocked": 0,
         "1": 1,
         "2": 1,
-        "3": 3,
+        "3": 4,
         "4": 2,
         "5": 1,
         "6": 0,
@@ -767,15 +767,15 @@
       "count": 18,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 2,
-        "On Hold": 5,
+        "WFF": 3,
+        "On Hold": 4,
         "Blocked": 0,
         "1": 1,
         "2": 0,
         "3": 3,
-        "4": 3,
+        "4": 4,
         "5": 1,
-        "6": 2,
+        "6": 1,
         "7": 0,
         "8": 0,
         "9": 1,
@@ -783,7 +783,7 @@
       }
     },
     "Se-Ra": {
-      "count": 12,
+      "count": 9,
       "labels": {
         "NC_Onb": 0,
         "WFF": 3,
@@ -791,9 +791,9 @@
         "Blocked": 0,
         "1": 1,
         "2": 0,
-        "3": 3,
+        "3": 1,
         "4": 1,
-        "5": 3,
+        "5": 2,
         "6": 0,
         "7": 1,
         "8": 0,
@@ -821,17 +821,17 @@
       }
     },
     "Se-Tu": {
-      "count": 20,
+      "count": 22,
       "labels": {
         "NC_Onb": 1,
         "WFF": 7,
         "On Hold": 4,
         "Blocked": 0,
-        "1": 2,
+        "1": 3,
         "2": 4,
         "3": 1,
         "4": 1,
-        "5": 0,
+        "5": 1,
         "6": 0,
         "7": 0,
         "8": 0,
@@ -859,7 +859,7 @@
       }
     },
     "Al-Je": {
-      "count": 7,
+      "count": 8,
       "labels": {
         "NC_Onb": 0,
         "WFF": 4,
@@ -867,7 +867,7 @@
         "Blocked": 0,
         "1": 1,
         "2": 0,
-        "3": 1,
+        "3": 2,
         "4": 1,
         "5": 0,
         "6": 0,
