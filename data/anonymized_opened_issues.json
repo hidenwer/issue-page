@@ -898,8 +898,9 @@
       }
     },
     "Ig-Li": {
-      "count": 34,
+      "count": 35,
       "issues_by_project": {
+        "bucket/support": 1,
         "service/support": 34
       }
     },
@@ -916,9 +917,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 21,
+      "count": 22,
       "issues_by_project": {
-        "service/support": 21
+        "service/support": 22
       }
     }
   },
