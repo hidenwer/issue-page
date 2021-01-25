@@ -708,12 +708,12 @@
       "count": 21,
       "labels": {
         "NC_Onb": 2,
-        "WFF": 7,
+        "WFF": 8,
         "On Hold": 3,
         "Blocked": 1,
         "1": 1,
         "2": 0,
-        "3": 4,
+        "3": 3,
         "4": 2,
         "5": 0,
         "6": 0,
@@ -915,9 +915,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 18,
+      "count": 19,
       "issues_by_project": {
-        "service/support": 18
+        "service/support": 19
       }
     }
   },
