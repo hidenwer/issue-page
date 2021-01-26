@@ -633,10 +633,10 @@
       }
     },
     "An-Mo": {
-      "count": 21,
+      "count": 20,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 8,
+        "WFF": 7,
         "On Hold": 1,
         "Blocked": 0,
         "1": 1,
@@ -674,7 +674,7 @@
       "count": 18,
       "labels": {
         "NC_Onb": 1,
-        "WFF": 2,
+        "WFF": 3,
         "On Hold": 1,
         "Blocked": 2,
         "1": 2,
@@ -683,7 +683,7 @@
         "4": 3,
         "5": 2,
         "6": 0,
-        "7": 1,
+        "7": 0,
         "8": 0,
         "9": 0,
         "10": 0
@@ -693,12 +693,12 @@
       "count": 20,
       "labels": {
         "NC_Onb": 2,
-        "WFF": 5,
+        "WFF": 6,
         "On Hold": 2,
         "Blocked": 1,
         "1": 0,
         "2": 3,
-        "3": 2,
+        "3": 1,
         "4": 3,
         "5": 2,
         "6": 0,
@@ -882,10 +882,10 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 36,
+      "count": 37,
       "issues_by_project": {
         "service/stealer": 1,
-        "service/support": 34,
+        "service/support": 35,
         "service/thief": 1
       }
     },
