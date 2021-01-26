@@ -881,13 +881,13 @@
       }
     },
     "Cr-Bu": {
-      "count": 47,
+      "count": 48,
       "issues_by_project": {
         "bucket/support": 8,
         "psd2/PRR": 1,
         "SE/bucket": 6,
         "service/global": 1,
-        "service/support": 30,
+        "service/support": 31,
         "service/thief": 1
       }
     },
