@@ -299,8 +299,8 @@
       "labels": {
         "1M": 5,
         "1S": 1,
-        "2M": 2,
-        "2S": 3,
+        "2M": 3,
+        "2S": 2,
         "3M": 1,
         "4M": 2,
         "4S": 1,
@@ -321,11 +321,10 @@
       ]
     },
     "St-Da": {
-      "service_count": 17,
-      "count": 17,
+      "service_count": 16,
+      "count": 16,
       "labels": {
         "1M": 1,
-        "1S": 1,
         "2M": 1,
         "2S": 1,
         "3M": 2,
@@ -336,13 +335,13 @@
         "7S": 1
       },
       "issues_by_project": {
-        "service/support": 12,
+        "service/support": 11,
         "service/thief": 5
       },
       "categories": {
         "low": 10,
         "medium": 3,
-        "high": 4
+        "high": 3
       },
       "no_due_dates": [
 
@@ -842,13 +841,13 @@
       }
     },
     "St-Da": {
-      "count": 19,
+      "count": 18,
       "labels": {
         "NC_Onb": 0,
         "WFF": 8,
         "On Hold": 2,
         "Blocked": 0,
-        "1": 2,
+        "1": 1,
         "2": 2,
         "3": 3,
         "4": 2,
@@ -920,9 +919,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 24,
+      "count": 23,
       "issues_by_project": {
-        "service/support": 24
+        "service/support": 23
       }
     }
   },
