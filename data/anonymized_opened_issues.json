@@ -1,8 +1,8 @@
 {
   "load": {
     "Al-Hi": {
-      "service_count": 23,
-      "count": 23,
+      "service_count": 24,
+      "count": 24,
       "labels": {
         "1M": 6,
         "1S": 8,
@@ -15,7 +15,7 @@
       "issues_by_project": {
         "service/global": 3,
         "service/support": 5,
-        "service/thief": 15
+        "service/thief": 16
       },
       "categories": {
         "low": 5,
