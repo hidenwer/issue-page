@@ -769,13 +769,13 @@
       "count": 21,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 4,
+        "WFF": 3,
         "On Hold": 5,
         "Blocked": 0,
         "1": 2,
         "2": 2,
         "3": 1,
-        "4": 3,
+        "4": 4,
         "5": 0,
         "6": 1,
         "7": 1,
@@ -901,10 +901,10 @@
       }
     },
     "Ig-Li": {
-      "count": 40,
+      "count": 41,
       "issues_by_project": {
         "bucket/support": 1,
-        "service/support": 39
+        "service/support": 40
       }
     },
     "Ir-Gr": {
