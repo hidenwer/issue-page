@@ -711,10 +711,10 @@
       "count": 23,
       "labels": {
         "NC_Onb": 3,
-        "WFF": 7,
+        "WFF": 6,
         "On Hold": 3,
         "Blocked": 1,
-        "1": 1,
+        "1": 2,
         "2": 2,
         "3": 3,
         "4": 2,
@@ -907,10 +907,10 @@
       }
     },
     "Ir-Gr": {
-      "count": 31,
+      "count": 32,
       "issues_by_project": {
         "care/global": 4,
-        "care/internal": 13,
+        "care/internal": 14,
         "psd2/PRR": 1,
         "SE/bucket": 5,
         "service/global": 3,
