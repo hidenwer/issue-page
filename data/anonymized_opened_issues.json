@@ -132,15 +132,15 @@
       ]
     },
     "Ed-Ma": {
-      "service_count": 18,
-      "count": 18,
+      "service_count": 19,
+      "count": 19,
       "labels": {
         "1M": 5,
         "1S": 3,
         "10L": 1,
         "2S": 1,
         "3M": 3,
-        "3S": 3,
+        "3S": 4,
         "4M": 1,
         "4S": 1
       },
@@ -149,10 +149,10 @@
         "service/kpi": 2,
         "service/robber": 1,
         "service/support": 5,
-        "service/thief": 9
+        "service/thief": 10
       },
       "categories": {
-        "low": 5,
+        "low": 6,
         "medium": 4,
         "high": 9
       },
@@ -215,11 +215,11 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 15,
-      "count": 15,
+      "service_count": 16,
+      "count": 16,
       "labels": {
         "1M": 1,
-        "1S": 2,
+        "1S": 3,
         "2S": 2,
         "3M": 1,
         "3S": 1,
@@ -230,13 +230,13 @@
         "9S": 2
       },
       "issues_by_project": {
-        "service/support": 12,
+        "service/support": 13,
         "service/thief": 3
       },
       "categories": {
         "low": 8,
         "medium": 2,
-        "high": 5
+        "high": 6
       },
       "no_due_dates": [
 
@@ -269,25 +269,26 @@
       ]
     },
     "Se-Vo": {
-      "service_count": 11,
-      "count": 11,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1M": 2,
-        "2S": 1,
+        "2S": 2,
         "3M": 2,
         "3S": 1,
         "4M": 1,
         "4S": 3,
+        "5S": 1,
         "6S": 1
       },
       "issues_by_project": {
-        "service/support": 7,
+        "service/support": 9,
         "service/thief": 4
       },
       "categories": {
-        "low": 5,
+        "low": 6,
         "medium": 3,
-        "high": 3
+        "high": 4
       },
       "no_due_dates": [
 
@@ -321,8 +322,8 @@
       ]
     },
     "St-Da": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 18,
+      "count": 18,
       "labels": {
         "1M": 1,
         "2M": 1,
@@ -330,16 +331,16 @@
         "3M": 2,
         "3S": 1,
         "4M": 1,
-        "4S": 5,
+        "4S": 6,
         "5S": 3,
-        "7S": 1
+        "7S": 2
       },
       "issues_by_project": {
-        "service/support": 11,
+        "service/support": 13,
         "service/thief": 5
       },
       "categories": {
-        "low": 10,
+        "low": 12,
         "medium": 3,
         "high": 3
       },
@@ -708,7 +709,7 @@
       }
     },
     "Ed-Ma": {
-      "count": 22,
+      "count": 23,
       "labels": {
         "NC_Onb": 3,
         "WFF": 7,
@@ -716,7 +717,7 @@
         "Blocked": 1,
         "1": 1,
         "2": 1,
-        "3": 3,
+        "3": 4,
         "4": 2,
         "5": 0,
         "6": 0,
@@ -730,11 +731,11 @@
       "count": 28,
       "labels": {
         "NC_Onb": 1,
-        "WFF": 14,
+        "WFF": 13,
         "On Hold": 4,
         "Blocked": 0,
         "1": 0,
-        "2": 1,
+        "2": 2,
         "3": 4,
         "4": 0,
         "5": 2,
@@ -765,9 +766,9 @@
       }
     },
     "Ro-Ci": {
-      "count": 20,
+      "count": 21,
       "labels": {
-        "NC_Onb": 0,
+        "NC_Onb": 1,
         "WFF": 4,
         "On Hold": 5,
         "Blocked": 0,
@@ -803,17 +804,17 @@
       }
     },
     "Se-Vo": {
-      "count": 11,
+      "count": 13,
       "labels": {
         "NC_Onb": 0,
         "WFF": 2,
         "On Hold": 0,
         "Blocked": 0,
         "1": 2,
-        "2": 1,
+        "2": 2,
         "3": 3,
         "4": 2,
-        "5": 0,
+        "5": 1,
         "6": 1,
         "7": 0,
         "8": 0,
@@ -841,7 +842,7 @@
       }
     },
     "St-Da": {
-      "count": 18,
+      "count": 20,
       "labels": {
         "NC_Onb": 0,
         "WFF": 6,
@@ -850,10 +851,10 @@
         "1": 1,
         "2": 2,
         "3": 3,
-        "4": 3,
+        "4": 4,
         "5": 1,
         "6": 0,
-        "7": 0,
+        "7": 1,
         "8": 0,
         "9": 0,
         "10": 0
