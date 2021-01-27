@@ -806,7 +806,7 @@
       "count": 12,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 2,
+        "WFF": 3,
         "On Hold": 0,
         "Blocked": 0,
         "1": 2,
@@ -814,7 +814,7 @@
         "3": 2,
         "4": 2,
         "5": 1,
-        "6": 1,
+        "6": 0,
         "7": 0,
         "8": 0,
         "9": 0,
@@ -881,10 +881,10 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 37,
+      "count": 38,
       "issues_by_project": {
         "service/stealer": 1,
-        "service/support": 35,
+        "service/support": 36,
         "service/thief": 1
       }
     },
