@@ -25,10 +25,9 @@
       }
     },
     "An-Mo": {
-      "service_count": 19,
-      "count": 19,
+      "service_count": 18,
+      "count": 18,
       "labels": {
-        "1M": 1,
         "1S": 2,
         "2S": 5,
         "3S": 3,
@@ -40,12 +39,12 @@
       },
       "issues_by_project": {
         "service/support": 16,
-        "service/thief": 3
+        "service/thief": 2
       },
       "categories": {
         "low": 8,
         "medium": 2,
-        "high": 9
+        "high": 8
       },
       "no_due_dates": [
 
@@ -392,9 +391,9 @@
     "An-Mo": {
       "count": 3,
       "labels": {
-        "On Hold": 0,
+        "On Hold": 1,
         "Blocked": 0,
-        "1": 1,
+        "1": 0,
         "2": 0,
         "3": 0,
         "4": 1,
@@ -635,8 +634,8 @@
       "count": 20,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 6,
-        "On Hold": 1,
+        "WFF": 5,
+        "On Hold": 2,
         "Blocked": 0,
         "1": 2,
         "2": 4,
@@ -881,10 +880,10 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 37,
+      "count": 38,
       "issues_by_project": {
         "service/stealer": 1,
-        "service/support": 35,
+        "service/support": 36,
         "service/thief": 1
       }
     },
