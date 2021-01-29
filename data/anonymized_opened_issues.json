@@ -106,7 +106,7 @@
     },
     "Da-Ni": {
       "service_count": 16,
-      "count": 21,
+      "count": 22,
       "labels": {
         "1M": 2,
         "1S": 1,
@@ -120,7 +120,7 @@
         "6M": 1
       },
       "issues_by_project": {
-        "SE/bucket": 5,
+        "SE/bucket": 6,
         "service/global": 2,
         "service/support": 11,
         "service/thief": 3
@@ -129,10 +129,7 @@
         "low": 7,
         "medium": 3,
         "high": 6
-      },
-      "no_due_dates": [
-
-      ]
+      }
     },
     "Ed-Ma": {
       "service_count": 19,
