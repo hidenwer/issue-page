@@ -354,7 +354,8 @@
       "labels": {
         "1M": 3,
         "2S": 2,
-        "3S": 2,
+        "3M": 1,
+        "3S": 1,
         "4S": 1,
         "5S": 1
       },
@@ -363,8 +364,8 @@
         "service/thief": 3
       },
       "categories": {
-        "low": 4,
-        "medium": 0,
+        "low": 3,
+        "medium": 1,
         "high": 5
       },
       "overdues": [
