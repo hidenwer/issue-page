@@ -134,8 +134,8 @@
       ]
     },
     "Ed-Ma": {
-      "service_count": 20,
-      "count": 20,
+      "service_count": 19,
+      "count": 19,
       "labels": {
         "1M": 5,
         "1S": 4,
@@ -143,7 +143,6 @@
         "2S": 1,
         "3M": 3,
         "3S": 3,
-        "4M": 1,
         "4S": 1,
         "5S": 1
       },
@@ -152,11 +151,11 @@
         "service/kpi": 2,
         "service/robber": 1,
         "service/support": 5,
-        "service/thief": 11
+        "service/thief": 10
       },
       "categories": {
         "low": 6,
-        "medium": 4,
+        "medium": 3,
         "high": 10
       },
       "no_due_dates": [
@@ -711,13 +710,13 @@
       }
     },
     "Ed-Ma": {
-      "count": 24,
+      "count": 23,
       "labels": {
         "NC_Onb": 3,
-        "WFF": 8,
+        "WFF": 6,
         "On Hold": 3,
         "Blocked": 1,
-        "1": 1,
+        "1": 2,
         "2": 1,
         "3": 4,
         "4": 1,
@@ -847,13 +846,13 @@
       "count": 17,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 7,
+        "WFF": 6,
         "On Hold": 2,
         "Blocked": 0,
         "1": 1,
         "2": 1,
         "3": 3,
-        "4": 2,
+        "4": 3,
         "5": 0,
         "6": 0,
         "7": 1,
@@ -892,12 +891,12 @@
       }
     },
     "Cr-Bu": {
-      "count": 44,
+      "count": 45,
       "issues_by_project": {
         "bucket/support": 10,
         "psd2/PRR": 1,
         "SE/bucket": 6,
-        "service/support": 26,
+        "service/support": 27,
         "service/thief": 1
       }
     },
