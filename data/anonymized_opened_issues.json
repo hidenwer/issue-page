@@ -788,10 +788,10 @@
       }
     },
     "Se-Ra": {
-      "count": 9,
+      "count": 10,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 3,
+        "WFF": 5,
         "On Hold": 0,
         "Blocked": 0,
         "1": 2,
@@ -800,7 +800,7 @@
         "4": 1,
         "5": 1,
         "6": 0,
-        "7": 1,
+        "7": 0,
         "8": 0,
         "9": 0,
         "10": 0
@@ -922,9 +922,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 18,
+      "count": 19,
       "issues_by_project": {
-        "service/support": 18
+        "service/support": 19
       }
     }
   },
