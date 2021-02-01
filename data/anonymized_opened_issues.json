@@ -25,12 +25,13 @@
       }
     },
     "An-Mo": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 17,
+      "count": 17,
       "labels": {
         "1S": 2,
         "2S": 5,
         "3S": 2,
+        "4M": 1,
         "4S": 4,
         "5M": 1,
         "5S": 1,
@@ -38,11 +39,11 @@
       },
       "issues_by_project": {
         "service/support": 15,
-        "service/thief": 1
+        "service/thief": 2
       },
       "categories": {
         "low": 7,
-        "medium": 1,
+        "medium": 2,
         "high": 8
       },
       "no_due_dates": [
@@ -266,27 +267,6 @@
 
       ]
     },
-    "Ni-Tr": {
-      "service_count": 1,
-      "count": 1,
-      "labels": {
-        "3S": 1
-      },
-      "issues_by_project": {
-        "service/robber": 1
-      },
-      "categories": {
-        "low": 1,
-        "medium": 0,
-        "high": 0
-      },
-      "overdues": [
-
-      ],
-      "no_due_dates": [
-
-      ]
-    },
     "Se-Vo": {
       "service_count": 12,
       "count": 12,
@@ -413,12 +393,12 @@
     "An-Mo": {
       "count": 3,
       "labels": {
-        "On Hold": 2,
+        "On Hold": 1,
         "Blocked": 0,
         "1": 0,
         "2": 0,
         "3": 0,
-        "4": 0,
+        "4": 1,
         "5": 1,
         "6": 0,
         "7": 0,
@@ -563,23 +543,6 @@
         "10": 0
       }
     },
-    "Ni-Tr": {
-      "count": 0,
-      "labels": {
-        "On Hold": 0,
-        "Blocked": 0,
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0,
-        "10": 0
-      }
-    },
     "Se-Vo": {
       "count": 2,
       "labels": {
@@ -674,12 +637,12 @@
       "labels": {
         "NC_Onb": 0,
         "WFF": 6,
-        "On Hold": 3,
+        "On Hold": 2,
         "Blocked": 0,
         "1": 1,
         "2": 3,
         "3": 1,
-        "4": 3,
+        "4": 4,
         "5": 1,
         "6": 0,
         "7": 0,
@@ -730,12 +693,12 @@
       "count": 20,
       "labels": {
         "NC_Onb": 1,
-        "WFF": 7,
+        "WFF": 8,
         "On Hold": 1,
         "Blocked": 0,
         "1": 0,
         "2": 2,
-        "3": 2,
+        "3": 1,
         "4": 3,
         "5": 2,
         "6": 1,
@@ -840,25 +803,6 @@
         "10": 0
       }
     },
-    "Ni-Tr": {
-      "count": 1,
-      "labels": {
-        "NC_Onb": 0,
-        "WFF": 0,
-        "On Hold": 0,
-        "Blocked": 0,
-        "1": 0,
-        "2": 0,
-        "3": 1,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0,
-        "10": 0
-      }
-    },
     "Se-Vo": {
       "count": 13,
       "labels": {
@@ -938,8 +882,9 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 37,
+      "count": 38,
       "issues_by_project": {
+        "bucket/support": 1,
         "service/stealer": 1,
         "service/support": 35,
         "service/thief": 1
@@ -1136,23 +1081,6 @@
       }
     },
     "Se-Ra": {
-      "count": 0,
-      "labels": {
-        "On Hold": 0,
-        "Blocked": 0,
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0,
-        "10": 0
-      }
-    },
-    "Ni-Tr": {
       "count": 0,
       "labels": {
         "On Hold": 0,
