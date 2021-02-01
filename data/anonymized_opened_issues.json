@@ -1,10 +1,10 @@
 {
   "load": {
     "Al-Hi": {
-      "service_count": 23,
-      "count": 23,
+      "service_count": 24,
+      "count": 24,
       "labels": {
-        "1M": 6,
+        "1M": 7,
         "1S": 9,
         "2M": 1,
         "3M": 1,
@@ -16,12 +16,12 @@
       "issues_by_project": {
         "service/global": 3,
         "service/support": 6,
-        "service/thief": 14
+        "service/thief": 15
       },
       "categories": {
         "low": 5,
         "medium": 2,
-        "high": 16
+        "high": 17
       }
     },
     "An-Mo": {
@@ -293,10 +293,10 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 18,
-      "count": 18,
+      "service_count": 17,
+      "count": 17,
       "labels": {
-        "1M": 4,
+        "1M": 3,
         "1S": 2,
         "2S": 2,
         "3M": 3,
@@ -308,12 +308,12 @@
       "issues_by_project": {
         "service/global": 1,
         "service/support": 9,
-        "service/thief": 8
+        "service/thief": 7
       },
       "categories": {
         "low": 5,
         "medium": 5,
-        "high": 8
+        "high": 7
       },
       "no_due_dates": [
 
@@ -560,11 +560,11 @@
       }
     },
     "Se-Tu": {
-      "count": 8,
+      "count": 7,
       "labels": {
         "On Hold": 2,
         "Blocked": 0,
-        "1": 3,
+        "1": 2,
         "2": 0,
         "3": 3,
         "4": 0,
@@ -613,13 +613,13 @@
   },
   "lbl": {
     "Al-Hi": {
-      "count": 35,
+      "count": 36,
       "labels": {
         "NC_Onb": 0,
         "WFF": 12,
         "On Hold": 9,
         "Blocked": 1,
-        "1": 7,
+        "1": 8,
         "2": 1,
         "3": 3,
         "4": 1,
@@ -673,11 +673,11 @@
       "count": 17,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 2,
+        "WFF": 3,
         "On Hold": 3,
         "Blocked": 2,
         "1": 1,
-        "2": 3,
+        "2": 2,
         "3": 0,
         "4": 4,
         "5": 2,
@@ -768,7 +768,7 @@
       "count": 17,
       "labels": {
         "NC_Onb": 1,
-        "WFF": 3,
+        "WFF": 4,
         "On Hold": 5,
         "Blocked": 0,
         "1": 0,
@@ -779,7 +779,7 @@
         "6": 0,
         "7": 1,
         "8": 0,
-        "9": 2,
+        "9": 1,
         "10": 0
       }
     },
@@ -806,7 +806,7 @@
       "count": 13,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 4,
+        "WFF": 3,
         "On Hold": 1,
         "Blocked": 0,
         "1": 1,
@@ -814,7 +814,7 @@
         "3": 2,
         "4": 2,
         "5": 0,
-        "6": 0,
+        "6": 1,
         "7": 0,
         "8": 1,
         "9": 0,
@@ -822,13 +822,13 @@
       }
     },
     "Se-Tu": {
-      "count": 21,
+      "count": 20,
       "labels": {
         "NC_Onb": 1,
         "WFF": 10,
         "On Hold": 3,
         "Blocked": 0,
-        "1": 3,
+        "1": 2,
         "2": 0,
         "3": 1,
         "4": 2,
