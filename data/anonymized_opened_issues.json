@@ -78,13 +78,12 @@
       ]
     },
     "Da-Su": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "1M": 1,
         "2M": 3,
         "2S": 1,
-        "3S": 1,
         "4M": 1,
         "4S": 3,
         "5S": 2,
@@ -92,11 +91,11 @@
       },
       "issues_by_project": {
         "service/global": 1,
-        "service/support": 10,
+        "service/support": 9,
         "service/thief": 2
       },
       "categories": {
-        "low": 6,
+        "low": 5,
         "medium": 2,
         "high": 5
       },
@@ -139,13 +138,12 @@
       ]
     },
     "Ed-Ma": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "1M": 1,
         "1S": 3,
         "10L": 1,
-        "2S": 1,
         "3M": 3,
         "3S": 2,
         "4S": 1,
@@ -155,13 +153,13 @@
         "service/global": 1,
         "service/kpi": 1,
         "service/robber": 1,
-        "service/support": 4,
+        "service/support": 3,
         "service/thief": 6
       },
       "categories": {
         "low": 5,
         "medium": 3,
-        "high": 5
+        "high": 4
       },
       "no_due_dates": [
 
@@ -264,6 +262,27 @@
         "medium": 1,
         "high": 3
       },
+      "no_due_dates": [
+
+      ]
+    },
+    "Ni-Tr": {
+      "service_count": 1,
+      "count": 1,
+      "labels": {
+        "S": 1
+      },
+      "issues_by_project": {
+        "service/robber": 1
+      },
+      "categories": {
+        "low": 0,
+        "medium": 0,
+        "high": 0
+      },
+      "overdues": [
+
+      ],
       "no_due_dates": [
 
       ]
@@ -544,6 +563,23 @@
         "10": 0
       }
     },
+    "Ni-Tr": {
+      "count": 0,
+      "labels": {
+        "On Hold": 0,
+        "Blocked": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      }
+    },
     "Se-Vo": {
       "count": 2,
       "labels": {
@@ -672,15 +708,15 @@
       }
     },
     "Da-Su": {
-      "count": 18,
+      "count": 17,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 3,
+        "WFF": 2,
         "On Hold": 3,
         "Blocked": 2,
         "1": 1,
-        "2": 2,
-        "3": 1,
+        "2": 3,
+        "3": 0,
         "4": 4,
         "5": 2,
         "6": 0,
@@ -710,10 +746,10 @@
       }
     },
     "Ed-Ma": {
-      "count": 20,
+      "count": 19,
       "labels": {
         "NC_Onb": 2,
-        "WFF": 5,
+        "WFF": 4,
         "On Hold": 6,
         "Blocked": 1,
         "1": 1,
@@ -799,6 +835,25 @@
         "5": 2,
         "6": 0,
         "7": 1,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      }
+    },
+    "Ni-Tr": {
+      "count": 0,
+      "labels": {
+        "NC_Onb": 0,
+        "WFF": 0,
+        "On Hold": 0,
+        "Blocked": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
         "8": 0,
         "9": 0,
         "10": 0
@@ -1081,6 +1136,23 @@
       }
     },
     "Se-Ra": {
+      "count": 0,
+      "labels": {
+        "On Hold": 0,
+        "Blocked": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      }
+    },
+    "Ni-Tr": {
       "count": 0,
       "labels": {
         "On Hold": 0,
