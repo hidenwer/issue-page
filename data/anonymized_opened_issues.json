@@ -25,9 +25,10 @@
       }
     },
     "An-Mo": {
-      "service_count": 17,
-      "count": 17,
+      "service_count": 18,
+      "count": 18,
       "labels": {
+        "1M": 1,
         "1S": 2,
         "2S": 5,
         "3S": 3,
@@ -38,12 +39,12 @@
       },
       "issues_by_project": {
         "service/support": 16,
-        "service/thief": 1
+        "service/thief": 2
       },
       "categories": {
         "low": 8,
         "medium": 1,
-        "high": 8
+        "high": 9
       },
       "no_due_dates": [
 
@@ -138,10 +139,10 @@
       ]
     },
     "Ed-Ma": {
-      "service_count": 12,
-      "count": 12,
+      "service_count": 13,
+      "count": 13,
       "labels": {
-        "1M": 1,
+        "1M": 2,
         "1S": 3,
         "10L": 1,
         "3M": 3,
@@ -154,12 +155,12 @@
         "service/kpi": 1,
         "service/robber": 1,
         "service/support": 3,
-        "service/thief": 6
+        "service/thief": 7
       },
       "categories": {
         "low": 5,
         "medium": 3,
-        "high": 4
+        "high": 5
       },
       "no_due_dates": [
 
@@ -392,9 +393,9 @@
     "An-Mo": {
       "count": 2,
       "labels": {
-        "On Hold": 1,
+        "On Hold": 0,
         "Blocked": 0,
-        "1": 0,
+        "1": 1,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -460,9 +461,9 @@
     "Ed-Ma": {
       "count": 4,
       "labels": {
-        "On Hold": 2,
+        "On Hold": 1,
         "Blocked": 0,
-        "1": 0,
+        "1": 1,
         "2": 0,
         "3": 2,
         "4": 0,
@@ -636,9 +637,9 @@
       "labels": {
         "NC_Onb": 0,
         "WFF": 7,
-        "On Hold": 2,
+        "On Hold": 1,
         "Blocked": 0,
-        "1": 1,
+        "1": 2,
         "2": 2,
         "3": 2,
         "4": 3,
@@ -673,14 +674,14 @@
       "count": 16,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 3,
+        "WFF": 4,
         "On Hold": 3,
         "Blocked": 2,
         "1": 1,
         "2": 2,
         "3": 0,
         "4": 3,
-        "5": 2,
+        "5": 1,
         "6": 0,
         "7": 0,
         "8": 0,
@@ -711,12 +712,12 @@
       "count": 19,
       "labels": {
         "NC_Onb": 2,
-        "WFF": 4,
-        "On Hold": 6,
+        "WFF": 3,
+        "On Hold": 5,
         "Blocked": 1,
-        "1": 1,
+        "1": 2,
         "2": 0,
-        "3": 2,
+        "3": 3,
         "4": 1,
         "5": 1,
         "6": 0,
