@@ -164,8 +164,8 @@
       ]
     },
     "Eu-Mo": {
-      "service_count": 25,
-      "count": 26,
+      "service_count": 24,
+      "count": 25,
       "labels": {
         "1M": 1,
         "1S": 9,
@@ -173,7 +173,7 @@
         "2M": 3,
         "2S": 1,
         "3M": 4,
-        "3S": 2,
+        "3S": 1,
         "5M": 1,
         "5S": 1,
         "6S": 1,
@@ -181,13 +181,13 @@
       },
       "issues_by_project": {
         "SE/bucket": 1,
-        "service/global": 2,
+        "service/global": 1,
         "service/stealer": 1,
         "service/support": 9,
         "service/thief": 13
       },
       "categories": {
-        "low": 4,
+        "low": 3,
         "medium": 7,
         "high": 14
       }
@@ -729,7 +729,7 @@
       }
     },
     "Eu-Mo": {
-      "count": 29,
+      "count": 28,
       "labels": {
         "NC_Onb": 1,
         "WFF": 15,
@@ -737,7 +737,7 @@
         "Blocked": 0,
         "1": 0,
         "2": 2,
-        "3": 3,
+        "3": 2,
         "4": 0,
         "5": 2,
         "6": 0,
@@ -789,7 +789,7 @@
       "count": 9,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 4,
+        "WFF": 3,
         "On Hold": 0,
         "Blocked": 0,
         "1": 2,
@@ -798,7 +798,7 @@
         "4": 1,
         "5": 1,
         "6": 0,
-        "7": 0,
+        "7": 1,
         "8": 0,
         "9": 0,
         "10": 0
@@ -846,13 +846,13 @@
       "count": 16,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 6,
+        "WFF": 5,
         "On Hold": 3,
         "Blocked": 0,
         "1": 0,
         "2": 1,
         "3": 3,
-        "4": 2,
+        "4": 3,
         "5": 0,
         "6": 0,
         "7": 1,
