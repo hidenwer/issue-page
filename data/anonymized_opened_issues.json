@@ -270,13 +270,13 @@
       "service_count": 1,
       "count": 1,
       "labels": {
-        "S": 1
+        "3S": 1
       },
       "issues_by_project": {
         "service/robber": 1
       },
       "categories": {
-        "low": 0,
+        "low": 1,
         "medium": 0,
         "high": 0
       },
@@ -841,7 +841,7 @@
       }
     },
     "Ni-Tr": {
-      "count": 0,
+      "count": 1,
       "labels": {
         "NC_Onb": 0,
         "WFF": 0,
@@ -849,7 +849,7 @@
         "Blocked": 0,
         "1": 0,
         "2": 0,
-        "3": 0,
+        "3": 1,
         "4": 0,
         "5": 0,
         "6": 0,
