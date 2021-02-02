@@ -1,11 +1,11 @@
 {
   "load": {
     "Al-Hi": {
-      "service_count": 22,
-      "count": 22,
+      "service_count": 21,
+      "count": 21,
       "labels": {
         "1M": 7,
-        "1S": 9,
+        "1S": 8,
         "3S": 3,
         "4M": 1,
         "6S": 1,
@@ -14,12 +14,12 @@
       "issues_by_project": {
         "service/global": 1,
         "service/support": 6,
-        "service/thief": 15
+        "service/thief": 14
       },
       "categories": {
         "low": 5,
         "medium": 1,
-        "high": 16
+        "high": 15
       }
     },
     "An-Mo": {
@@ -648,13 +648,13 @@
   },
   "lbl": {
     "Al-Hi": {
-      "count": 34,
+      "count": 33,
       "labels": {
         "NC_Onb": 0,
         "WFF": 11,
         "On Hold": 9,
         "Blocked": 1,
-        "1": 9,
+        "1": 8,
         "2": 0,
         "3": 2,
         "4": 1,
@@ -960,7 +960,7 @@
       }
     },
     "Ir-Gr": {
-      "count": 34,
+      "count": 33,
       "issues_by_project": {
         "care/global": 4,
         "care/internal": 14,
@@ -969,7 +969,7 @@
         "SE/docs": 3,
         "service/global": 3,
         "service/kpi": 1,
-        "service/support": 4
+        "service/support": 3
       }
     },
     "Vi-Sa": {
