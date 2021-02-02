@@ -193,21 +193,21 @@
       }
     },
     "Ma-Gu": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "1M": 2,
         "1S": 1,
         "2M": 1,
-        "3S": 8,
+        "3S": 7,
         "5M": 1
       },
       "issues_by_project": {
-        "service/support": 10,
+        "service/support": 9,
         "service/thief": 3
       },
       "categories": {
-        "low": 8,
+        "low": 7,
         "medium": 1,
         "high": 4
       },
@@ -780,7 +780,7 @@
       }
     },
     "Ma-Gu": {
-      "count": 16,
+      "count": 15,
       "labels": {
         "NC_Onb": 0,
         "WFF": 5,
@@ -788,7 +788,7 @@
         "Blocked": 0,
         "1": 1,
         "2": 1,
-        "3": 5,
+        "3": 4,
         "4": 0,
         "5": 1,
         "6": 0,
