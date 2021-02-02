@@ -106,8 +106,8 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 18,
-      "count": 23,
+      "service_count": 17,
+      "count": 22,
       "labels": {
         "1M": 2,
         "1S": 1,
@@ -118,19 +118,18 @@
         "4S": 4,
         "5M": 1,
         "5S": 1,
-        "6M": 1,
         "7S": 1,
         "S": 1
       },
       "issues_by_project": {
         "SE/bucket": 5,
-        "service/global": 2,
+        "service/global": 1,
         "service/support": 12,
         "service/thief": 4
       },
       "categories": {
         "low": 7,
-        "medium": 4,
+        "medium": 3,
         "high": 6
       }
     },
@@ -260,17 +259,17 @@
       ]
     },
     "Ni-Tr": {
-      "service_count": 2,
-      "count": 2,
+      "service_count": 3,
+      "count": 3,
       "labels": {
         "3S": 1,
-        "4S": 1
+        "4S": 2
       },
       "issues_by_project": {
-        "service/support": 2
+        "service/support": 3
       },
       "categories": {
-        "low": 2,
+        "low": 3,
         "medium": 0,
         "high": 0
       },
@@ -721,7 +720,7 @@
       }
     },
     "Da-Ni": {
-      "count": 20,
+      "count": 19,
       "labels": {
         "NC_Onb": 1,
         "WFF": 9,
@@ -732,7 +731,7 @@
         "3": 1,
         "4": 3,
         "5": 2,
-        "6": 1,
+        "6": 0,
         "7": 1,
         "8": 0,
         "9": 0,
@@ -835,7 +834,7 @@
       }
     },
     "Ni-Tr": {
-      "count": 2,
+      "count": 3,
       "labels": {
         "NC_Onb": 0,
         "WFF": 0,
@@ -844,7 +843,7 @@
         "1": 0,
         "2": 0,
         "3": 1,
-        "4": 1,
+        "4": 2,
         "5": 0,
         "6": 0,
         "7": 0,
