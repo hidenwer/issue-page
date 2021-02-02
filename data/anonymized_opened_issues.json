@@ -217,24 +217,23 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "1S": 2,
         "2S": 3,
         "3M": 1,
         "4M": 2,
-        "4S": 1,
         "5S": 1,
         "7S": 1,
         "9S": 2
       },
       "issues_by_project": {
         "service/support": 10,
-        "service/thief": 3
+        "service/thief": 2
       },
       "categories": {
-        "low": 5,
+        "low": 4,
         "medium": 3,
         "high": 5
       },
@@ -805,8 +804,8 @@
       "count": 18,
       "labels": {
         "NC_Onb": 1,
-        "WFF": 7,
-        "On Hold": 5,
+        "WFF": 6,
+        "On Hold": 6,
         "Blocked": 0,
         "1": 0,
         "2": 1,
@@ -946,11 +945,12 @@
       }
     },
     "Cr-Bu": {
-      "count": 46,
+      "count": 47,
       "issues_by_project": {
         "bucket/support": 9,
         "psd2/PRR": 1,
         "SE/bucket": 6,
+        "SE/docs": 1,
         "service/support": 30
       }
     },
