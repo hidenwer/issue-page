@@ -213,10 +213,10 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 11,
-      "count": 11,
+      "service_count": 10,
+      "count": 10,
       "labels": {
-        "1S": 2,
+        "1S": 1,
         "2S": 3,
         "4M": 2,
         "5S": 1,
@@ -224,13 +224,13 @@
         "9S": 2
       },
       "issues_by_project": {
-        "service/support": 10,
+        "service/support": 9,
         "service/thief": 1
       },
       "categories": {
         "low": 4,
         "medium": 2,
-        "high": 5
+        "high": 4
       },
       "no_due_dates": [
 
@@ -796,10 +796,10 @@
       }
     },
     "Ro-Ci": {
-      "count": 18,
+      "count": 17,
       "labels": {
         "NC_Onb": 1,
-        "WFF": 10,
+        "WFF": 9,
         "On Hold": 7,
         "Blocked": 0,
         "1": 0,
@@ -969,9 +969,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 23,
+      "count": 22,
       "issues_by_project": {
-        "service/support": 23
+        "service/support": 22
       }
     }
   },
