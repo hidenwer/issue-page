@@ -78,10 +78,11 @@
       ]
     },
     "Da-Su": {
-      "service_count": 12,
-      "count": 12,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1M": 1,
+        "1S": 1,
         "2M": 2,
         "2S": 1,
         "3S": 1,
@@ -92,13 +93,13 @@
       },
       "issues_by_project": {
         "service/global": 1,
-        "service/support": 9,
+        "service/support": 10,
         "service/thief": 2
       },
       "categories": {
         "low": 6,
         "medium": 2,
-        "high": 4
+        "high": 5
       },
       "no_due_dates": [
 
@@ -216,10 +217,9 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 15,
-      "count": 15,
+      "service_count": 14,
+      "count": 14,
       "labels": {
-        "1M": 1,
         "1S": 2,
         "2S": 3,
         "3M": 1,
@@ -231,12 +231,12 @@
       },
       "issues_by_project": {
         "service/support": 11,
-        "service/thief": 4
+        "service/thief": 3
       },
       "categories": {
         "low": 6,
         "medium": 3,
-        "high": 6
+        "high": 5
       },
       "no_due_dates": [
 
@@ -297,7 +297,7 @@
         "4M": 1,
         "4S": 1,
         "5S": 1,
-        "6S": 1,
+        "6M": 1,
         "8S": 1
       },
       "issues_by_project": {
@@ -305,8 +305,8 @@
         "service/thief": 3
       },
       "categories": {
-        "low": 5,
-        "medium": 3,
+        "low": 4,
+        "medium": 4,
         "high": 5
       },
       "no_due_dates": [
@@ -654,10 +654,10 @@
       "count": 34,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 12,
+        "WFF": 11,
         "On Hold": 9,
         "Blocked": 1,
-        "1": 8,
+        "1": 9,
         "2": 0,
         "3": 2,
         "4": 1,
@@ -708,13 +708,13 @@
       }
     },
     "Da-Su": {
-      "count": 17,
+      "count": 18,
       "labels": {
         "NC_Onb": 0,
         "WFF": 3,
         "On Hold": 3,
         "Blocked": 2,
-        "1": 1,
+        "1": 2,
         "2": 2,
         "3": 1,
         "4": 4,
@@ -803,10 +803,10 @@
       }
     },
     "Ro-Ci": {
-      "count": 20,
+      "count": 19,
       "labels": {
         "NC_Onb": 1,
-        "WFF": 6,
+        "WFF": 5,
         "On Hold": 5,
         "Blocked": 0,
         "1": 1,
@@ -947,12 +947,12 @@
       }
     },
     "Cr-Bu": {
-      "count": 46,
+      "count": 47,
       "issues_by_project": {
         "bucket/support": 9,
         "psd2/PRR": 1,
         "SE/bucket": 6,
-        "service/support": 30
+        "service/support": 31
       }
     },
     "Ig-Li": {
@@ -1119,11 +1119,11 @@
       }
     },
     "Ro-Ci": {
-      "count": 4,
+      "count": 3,
       "labels": {
         "On Hold": 2,
         "Blocked": 0,
-        "1": 1,
+        "1": 0,
         "2": 0,
         "3": 1,
         "4": 0,
