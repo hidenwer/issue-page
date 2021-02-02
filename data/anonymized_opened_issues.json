@@ -136,11 +136,11 @@
       ]
     },
     "Ed-Ma": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "1M": 2,
-        "1S": 3,
+        "1S": 2,
         "10L": 1,
         "3M": 3,
         "3S": 2,
@@ -152,12 +152,12 @@
         "service/kpi": 1,
         "service/robber": 1,
         "service/support": 3,
-        "service/thief": 7
+        "service/thief": 6
       },
       "categories": {
         "low": 5,
         "medium": 3,
-        "high": 5
+        "high": 4
       },
       "no_due_dates": [
 
@@ -287,12 +287,13 @@
       ]
     },
     "Se-Vo": {
-      "service_count": 12,
-      "count": 12,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1M": 2,
         "2S": 3,
         "3M": 2,
+        "3S": 1,
         "4M": 1,
         "4S": 1,
         "5S": 1,
@@ -300,11 +301,11 @@
         "8S": 1
       },
       "issues_by_project": {
-        "service/support": 9,
+        "service/support": 10,
         "service/thief": 3
       },
       "categories": {
-        "low": 4,
+        "low": 5,
         "medium": 3,
         "high": 5
       },
@@ -745,10 +746,10 @@
       }
     },
     "Ed-Ma": {
-      "count": 19,
+      "count": 18,
       "labels": {
         "NC_Onb": 2,
-        "WFF": 3,
+        "WFF": 2,
         "On Hold": 5,
         "Blocked": 1,
         "1": 2,
@@ -859,18 +860,18 @@
       }
     },
     "Se-Vo": {
-      "count": 13,
+      "count": 14,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 3,
+        "WFF": 4,
         "On Hold": 1,
         "Blocked": 0,
         "1": 1,
         "2": 2,
-        "3": 2,
+        "3": 3,
         "4": 2,
         "5": 0,
-        "6": 1,
+        "6": 0,
         "7": 0,
         "8": 1,
         "9": 0,
