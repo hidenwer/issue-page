@@ -941,11 +941,11 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 37,
+      "count": 38,
       "issues_by_project": {
         "bucket/support": 1,
         "service/stealer": 1,
-        "service/support": 34,
+        "service/support": 35,
         "service/thief": 1
       }
     },
