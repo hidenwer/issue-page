@@ -291,24 +291,23 @@
       ]
     },
     "Se-Vo": {
-      "service_count": 12,
-      "count": 12,
+      "service_count": 11,
+      "count": 11,
       "labels": {
         "1M": 3,
         "2S": 2,
         "3M": 2,
-        "3S": 1,
         "4M": 1,
         "4S": 1,
         "6M": 1,
         "8S": 1
       },
       "issues_by_project": {
-        "service/support": 8,
+        "service/support": 7,
         "service/thief": 4
       },
       "categories": {
-        "low": 3,
+        "low": 2,
         "medium": 4,
         "high": 5
       },
@@ -828,7 +827,7 @@
       "count": 9,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 2,
+        "WFF": 3,
         "On Hold": 2,
         "Blocked": 0,
         "1": 2,
@@ -837,7 +836,7 @@
         "4": 1,
         "5": 1,
         "6": 0,
-        "7": 1,
+        "7": 0,
         "8": 0,
         "9": 0,
         "10": 0
@@ -863,7 +862,7 @@
       }
     },
     "Se-Vo": {
-      "count": 13,
+      "count": 12,
       "labels": {
         "NC_Onb": 0,
         "WFF": 2,
@@ -871,7 +870,7 @@
         "Blocked": 0,
         "1": 2,
         "2": 2,
-        "3": 3,
+        "3": 2,
         "4": 2,
         "5": 0,
         "6": 0,
