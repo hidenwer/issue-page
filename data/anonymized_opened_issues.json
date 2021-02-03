@@ -292,10 +292,10 @@
       ]
     },
     "Se-Vo": {
-      "service_count": 11,
-      "count": 11,
+      "service_count": 12,
+      "count": 12,
       "labels": {
-        "1M": 2,
+        "1M": 3,
         "2S": 2,
         "3M": 2,
         "3S": 1,
@@ -306,12 +306,12 @@
       },
       "issues_by_project": {
         "service/support": 8,
-        "service/thief": 3
+        "service/thief": 4
       },
       "categories": {
         "low": 3,
         "medium": 4,
-        "high": 4
+        "high": 5
       },
       "no_due_dates": [
 
@@ -345,10 +345,10 @@
       ]
     },
     "St-Da": {
-      "service_count": 11,
-      "count": 11,
+      "service_count": 12,
+      "count": 12,
       "labels": {
-        "1M": 1,
+        "1M": 2,
         "1S": 1,
         "2M": 1,
         "2S": 1,
@@ -360,12 +360,12 @@
       },
       "issues_by_project": {
         "service/support": 8,
-        "service/thief": 3
+        "service/thief": 4
       },
       "categories": {
         "low": 4,
         "medium": 3,
-        "high": 4
+        "high": 5
       },
       "no_due_dates": [
 
@@ -864,13 +864,13 @@
       }
     },
     "Se-Vo": {
-      "count": 12,
+      "count": 13,
       "labels": {
         "NC_Onb": 0,
         "WFF": 2,
         "On Hold": 1,
         "Blocked": 0,
-        "1": 1,
+        "1": 2,
         "2": 2,
         "3": 3,
         "4": 2,
@@ -902,13 +902,13 @@
       }
     },
     "St-Da": {
-      "count": 14,
+      "count": 15,
       "labels": {
         "NC_Onb": 0,
         "WFF": 2,
         "On Hold": 3,
         "Blocked": 0,
-        "1": 1,
+        "1": 2,
         "2": 2,
         "3": 3,
         "4": 2,
