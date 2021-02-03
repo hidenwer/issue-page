@@ -865,7 +865,7 @@
       "count": 12,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 2,
+        "WFF": 1,
         "On Hold": 1,
         "Blocked": 0,
         "1": 2,
@@ -873,7 +873,7 @@
         "3": 2,
         "4": 2,
         "5": 0,
-        "6": 0,
+        "6": 1,
         "7": 0,
         "8": 1,
         "9": 0,
@@ -977,9 +977,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 22,
+      "count": 23,
       "issues_by_project": {
-        "service/support": 21,
+        "service/support": 22,
         "service/thief": 1
       }
     }
