@@ -14,8 +14,8 @@
       },
       "issues_by_project": {
         "service/global": 1,
-        "service/support": 7,
-        "service/thief": 16
+        "service/support": 6,
+        "service/thief": 17
       },
       "categories": {
         "low": 5,
@@ -107,7 +107,7 @@
     },
     "Da-Ni": {
       "service_count": 16,
-      "count": 21,
+      "count": 20,
       "labels": {
         "1M": 3,
         "1S": 1,
@@ -120,7 +120,7 @@
         "7S": 1
       },
       "issues_by_project": {
-        "SE/bucket": 5,
+        "SE/bucket": 4,
         "service/global": 1,
         "service/support": 11,
         "service/thief": 4
@@ -949,9 +949,9 @@
       }
     },
     "Cr-Bu": {
-      "count": 52,
+      "count": 53,
       "issues_by_project": {
-        "bucket/support": 9,
+        "bucket/support": 10,
         "psd2/PRR": 1,
         "SE/bucket": 6,
         "service/support": 36
@@ -979,7 +979,8 @@
     "Vi-Sa": {
       "count": 22,
       "issues_by_project": {
-        "service/support": 22
+        "service/support": 21,
+        "service/thief": 1
       }
     }
   },
