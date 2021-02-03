@@ -316,12 +316,11 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 22,
-      "count": 22,
+      "service_count": 21,
+      "count": 21,
       "labels": {
         "1M": 5,
         "1S": 3,
-        "2M": 1,
         "2S": 1,
         "3M": 3,
         "3S": 2,
@@ -331,13 +330,13 @@
       },
       "issues_by_project": {
         "service/global": 1,
-        "service/support": 12,
+        "service/support": 11,
         "service/thief": 9
       },
       "categories": {
         "low": 7,
         "medium": 5,
-        "high": 10
+        "high": 9
       },
       "no_due_dates": [
 
@@ -733,11 +732,11 @@
       "count": 20,
       "labels": {
         "NC_Onb": 1,
-        "WFF": 10,
+        "WFF": 9,
         "On Hold": 2,
         "Blocked": 0,
         "1": 1,
-        "2": 0,
+        "2": 1,
         "3": 3,
         "4": 1,
         "5": 1,
@@ -882,14 +881,14 @@
       }
     },
     "Se-Tu": {
-      "count": 25,
+      "count": 24,
       "labels": {
         "NC_Onb": 1,
         "WFF": 14,
         "On Hold": 3,
         "Blocked": 0,
         "1": 2,
-        "2": 1,
+        "2": 0,
         "3": 2,
         "4": 1,
         "5": 1,
@@ -959,9 +958,9 @@
       }
     },
     "Ig-Li": {
-      "count": 33,
+      "count": 32,
       "issues_by_project": {
-        "service/support": 33
+        "service/support": 32
       }
     },
     "Ir-Gr": {
