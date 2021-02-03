@@ -321,7 +321,8 @@
       "labels": {
         "1M": 5,
         "1S": 3,
-        "2S": 2,
+        "2M": 1,
+        "2S": 1,
         "3M": 3,
         "3S": 2,
         "4M": 2,
@@ -940,21 +941,21 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 38,
+      "count": 39,
       "issues_by_project": {
         "bucket/support": 1,
         "service/stealer": 1,
-        "service/support": 35,
+        "service/support": 36,
         "service/thief": 1
       }
     },
     "Cr-Bu": {
-      "count": 53,
+      "count": 55,
       "issues_by_project": {
         "bucket/support": 10,
         "psd2/PRR": 1,
         "SE/bucket": 6,
-        "service/support": 36
+        "service/support": 38
       }
     },
     "Ig-Li": {
