@@ -23,8 +23,8 @@
       }
     },
     "An-Mo": {
-      "service_count": 21,
-      "count": 21,
+      "service_count": 20,
+      "count": 20,
       "labels": {
         "1M": 2,
         "1S": 2,
@@ -34,16 +34,15 @@
         "5M": 1,
         "5S": 1,
         "6S": 1,
-        "8M": 1,
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 18,
+        "service/support": 17,
         "service/thief": 3
       },
       "categories": {
         "low": 9,
-        "medium": 2,
+        "medium": 1,
         "high": 10
       },
       "no_due_dates": [
@@ -653,10 +652,10 @@
       "count": 34,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 13,
+        "WFF": 14,
         "On Hold": 9,
         "Blocked": 1,
-        "1": 8,
+        "1": 7,
         "2": 0,
         "3": 1,
         "4": 1,
@@ -669,7 +668,7 @@
       }
     },
     "An-Mo": {
-      "count": 22,
+      "count": 21,
       "labels": {
         "NC_Onb": 0,
         "WFF": 8,
@@ -682,7 +681,7 @@
         "5": 1,
         "6": 1,
         "7": 0,
-        "8": 1,
+        "8": 0,
         "9": 0,
         "10": 0
       }
@@ -974,8 +973,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 25,
+      "count": 26,
       "issues_by_project": {
+        "bucket/support": 1,
         "service/support": 25
       }
     }
