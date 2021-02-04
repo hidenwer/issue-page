@@ -337,25 +337,25 @@
       ]
     },
     "St-Da": {
-      "service_count": 11,
-      "count": 11,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "1M": 1,
         "1S": 1,
         "2M": 1,
         "2S": 1,
         "3M": 2,
-        "3S": 2,
+        "3S": 3,
         "4M": 1,
         "4S": 1,
         "7S": 1
       },
       "issues_by_project": {
-        "service/support": 8,
+        "service/support": 9,
         "service/thief": 3
       },
       "categories": {
-        "low": 4,
+        "low": 5,
         "medium": 3,
         "high": 4
       },
@@ -897,7 +897,7 @@
       }
     },
     "St-Da": {
-      "count": 13,
+      "count": 14,
       "labels": {
         "NC_Onb": 0,
         "WFF": 4,
@@ -905,7 +905,7 @@
         "Blocked": 0,
         "1": 0,
         "2": 2,
-        "3": 2,
+        "3": 3,
         "4": 2,
         "5": 0,
         "6": 0,
