@@ -163,11 +163,12 @@
       ]
     },
     "Eu-Mo": {
-      "service_count": 24,
-      "count": 25,
+      "service_count": 25,
+      "count": 26,
       "labels": {
         "1M": 1,
         "1S": 7,
+        "10M": 1,
         "2M": 2,
         "2S": 3,
         "3M": 4,
@@ -181,11 +182,11 @@
         "SE/bucket": 1,
         "service/global": 1,
         "service/support": 11,
-        "service/thief": 12
+        "service/thief": 13
       },
       "categories": {
         "low": 5,
-        "medium": 6,
+        "medium": 7,
         "high": 13
       }
     },
@@ -767,8 +768,8 @@
       "count": 30,
       "labels": {
         "NC_Onb": 1,
-        "WFF": 15,
-        "On Hold": 6,
+        "WFF": 14,
+        "On Hold": 5,
         "Blocked": 0,
         "1": 0,
         "2": 4,
@@ -778,8 +779,8 @@
         "6": 0,
         "7": 0,
         "8": 0,
-        "9": 0,
-        "10": 0
+        "9": 1,
+        "10": 1
       }
     },
     "Ma-Gu": {
