@@ -1,23 +1,23 @@
 {
   "load": {
     "Al-Hi": {
-      "service_count": 23,
-      "count": 23,
+      "service_count": 22,
+      "count": 22,
       "labels": {
         "1M": 8,
         "1S": 9,
-        "3S": 3,
+        "3S": 2,
         "4M": 1,
         "4S": 1,
         "7L": 1
       },
       "issues_by_project": {
         "service/global": 1,
-        "service/support": 6,
+        "service/support": 5,
         "service/thief": 16
       },
       "categories": {
-        "low": 5,
+        "low": 4,
         "medium": 1,
         "high": 17
       }
@@ -164,11 +164,11 @@
       ]
     },
     "Eu-Mo": {
-      "service_count": 25,
-      "count": 26,
+      "service_count": 24,
+      "count": 25,
       "labels": {
         "1M": 2,
-        "1S": 7,
+        "1S": 6,
         "10M": 1,
         "2M": 2,
         "2S": 2,
@@ -182,13 +182,13 @@
       "issues_by_project": {
         "SE/bucket": 1,
         "service/global": 1,
-        "service/support": 11,
+        "service/support": 10,
         "service/thief": 13
       },
       "categories": {
         "low": 5,
         "medium": 7,
-        "high": 13
+        "high": 12
       }
     },
     "Ma-Gu": {
@@ -265,17 +265,17 @@
       }
     },
     "Ni-Tr": {
-      "service_count": 4,
-      "count": 4,
+      "service_count": 3,
+      "count": 3,
       "labels": {
         "1S": 1,
-        "4S": 3
+        "4S": 2
       },
       "issues_by_project": {
-        "service/support": 4
+        "service/support": 3
       },
       "categories": {
-        "low": 3,
+        "low": 2,
         "medium": 0,
         "high": 1
       },
@@ -369,22 +369,21 @@
       ]
     },
     "Al-Je": {
-      "service_count": 12,
-      "count": 12,
+      "service_count": 10,
+      "count": 10,
       "labels": {
         "1M": 4,
         "2S": 2,
         "3M": 1,
-        "3S": 3,
-        "4S": 1,
-        "5S": 1
+        "3S": 2,
+        "4S": 1
       },
       "issues_by_project": {
-        "service/support": 8,
+        "service/support": 6,
         "service/thief": 4
       },
       "categories": {
-        "low": 5,
+        "low": 3,
         "medium": 1,
         "high": 6
       },
@@ -652,7 +651,7 @@
   },
   "lbl": {
     "Al-Hi": {
-      "count": 34,
+      "count": 33,
       "labels": {
         "NC_Onb": 0,
         "WFF": 14,
@@ -660,7 +659,7 @@
         "Blocked": 1,
         "1": 7,
         "2": 0,
-        "3": 1,
+        "3": 0,
         "4": 1,
         "5": 0,
         "6": 0,
@@ -674,14 +673,14 @@
       "count": 22,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 8,
+        "WFF": 7,
         "On Hold": 1,
         "Blocked": 0,
         "1": 3,
         "2": 3,
         "3": 3,
         "4": 2,
-        "5": 1,
+        "5": 2,
         "6": 1,
         "7": 0,
         "8": 0,
@@ -731,11 +730,11 @@
       "count": 23,
       "labels": {
         "NC_Onb": 1,
-        "WFF": 11,
+        "WFF": 10,
         "On Hold": 2,
         "Blocked": 0,
         "1": 1,
-        "2": 2,
+        "2": 3,
         "3": 4,
         "4": 1,
         "5": 0,
@@ -747,11 +746,11 @@
       }
     },
     "Ed-Ma": {
-      "count": 22,
+      "count": 21,
       "labels": {
         "NC_Onb": 2,
         "WFF": 2,
-        "On Hold": 5,
+        "On Hold": 4,
         "Blocked": 1,
         "1": 3,
         "2": 1,
@@ -766,11 +765,11 @@
       }
     },
     "Eu-Mo": {
-      "count": 29,
+      "count": 27,
       "labels": {
         "NC_Onb": 1,
-        "WFF": 14,
-        "On Hold": 4,
+        "WFF": 13,
+        "On Hold": 3,
         "Blocked": 0,
         "1": 1,
         "2": 3,
@@ -807,11 +806,11 @@
       "count": 21,
       "labels": {
         "NC_Onb": 1,
-        "WFF": 11,
+        "WFF": 9,
         "On Hold": 6,
         "Blocked": 0,
         "1": 0,
-        "2": 0,
+        "2": 2,
         "3": 2,
         "4": 1,
         "5": 0,
@@ -842,7 +841,7 @@
       }
     },
     "Ni-Tr": {
-      "count": 4,
+      "count": 3,
       "labels": {
         "NC_Onb": 0,
         "WFF": 0,
@@ -851,7 +850,7 @@
         "1": 1,
         "2": 0,
         "3": 0,
-        "4": 3,
+        "4": 2,
         "5": 0,
         "6": 0,
         "7": 0,
@@ -918,10 +917,10 @@
       }
     },
     "Al-Je": {
-      "count": 12,
+      "count": 10,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 5,
+        "WFF": 3,
         "On Hold": 0,
         "Blocked": 0,
         "1": 2,
@@ -957,9 +956,9 @@
       }
     },
     "Ig-Li": {
-      "count": 31,
+      "count": 30,
       "issues_by_project": {
-        "service/support": 31
+        "service/support": 30
       }
     },
     "Ir-Gr": {
