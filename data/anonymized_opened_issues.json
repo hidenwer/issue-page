@@ -163,8 +163,8 @@
       ]
     },
     "Eu-Mo": {
-      "service_count": 23,
-      "count": 24,
+      "service_count": 24,
+      "count": 25,
       "labels": {
         "1M": 1,
         "1S": 7,
@@ -172,7 +172,7 @@
         "2M": 2,
         "2S": 2,
         "3M": 4,
-        "3S": 1,
+        "3S": 2,
         "5M": 1,
         "5S": 2,
         "6S": 1,
@@ -182,10 +182,10 @@
         "SE/bucket": 1,
         "service/global": 1,
         "service/support": 10,
-        "service/thief": 12
+        "service/thief": 13
       },
       "categories": {
-        "low": 4,
+        "low": 5,
         "medium": 7,
         "high": 12
       }
@@ -287,25 +287,24 @@
       ]
     },
     "Se-Vo": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "1M": 3,
         "10S": 1,
         "2S": 2,
         "3M": 2,
-        "3S": 1,
         "4M": 1,
         "4S": 1,
         "6M": 1,
         "8S": 1
       },
       "issues_by_project": {
-        "service/support": 9,
+        "service/support": 8,
         "service/thief": 4
       },
       "categories": {
-        "low": 4,
+        "low": 3,
         "medium": 4,
         "high": 5
       },
@@ -765,7 +764,7 @@
       }
     },
     "Eu-Mo": {
-      "count": 28,
+      "count": 29,
       "labels": {
         "NC_Onb": 1,
         "WFF": 13,
@@ -773,7 +772,7 @@
         "Blocked": 0,
         "1": 0,
         "2": 3,
-        "3": 2,
+        "3": 3,
         "4": 0,
         "5": 2,
         "6": 0,
@@ -860,10 +859,10 @@
       }
     },
     "Se-Vo": {
-      "count": 14,
+      "count": 13,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 3,
+        "WFF": 2,
         "On Hold": 1,
         "Blocked": 0,
         "1": 2,
@@ -975,9 +974,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 25,
+      "count": 24,
       "issues_by_project": {
-        "service/support": 24,
+        "service/support": 23,
         "service/thief": 1
       }
     }
