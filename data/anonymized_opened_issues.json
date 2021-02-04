@@ -266,18 +266,17 @@
       }
     },
     "Ni-Tr": {
-      "service_count": 5,
-      "count": 5,
+      "service_count": 4,
+      "count": 4,
       "labels": {
         "1S": 1,
-        "3S": 1,
         "4S": 3
       },
       "issues_by_project": {
-        "service/support": 5
+        "service/support": 4
       },
       "categories": {
-        "low": 4,
+        "low": 3,
         "medium": 0,
         "high": 1
       },
@@ -843,7 +842,7 @@
       }
     },
     "Ni-Tr": {
-      "count": 5,
+      "count": 4,
       "labels": {
         "NC_Onb": 0,
         "WFF": 0,
@@ -851,7 +850,7 @@
         "Blocked": 0,
         "1": 1,
         "2": 0,
-        "3": 1,
+        "3": 0,
         "4": 3,
         "5": 0,
         "6": 0,
@@ -949,12 +948,12 @@
       }
     },
     "Cr-Bu": {
-      "count": 56,
+      "count": 57,
       "issues_by_project": {
         "bucket/support": 10,
         "psd2/PRR": 1,
         "SE/bucket": 6,
-        "service/support": 39
+        "service/support": 40
       }
     },
     "Ig-Li": {
