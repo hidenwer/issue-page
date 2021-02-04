@@ -376,15 +376,15 @@
         "2S": 2,
         "3M": 1,
         "3S": 2,
-        "4S": 1
+        "4M": 1
       },
       "issues_by_project": {
         "service/support": 6,
         "service/thief": 4
       },
       "categories": {
-        "low": 3,
-        "medium": 1,
+        "low": 2,
+        "medium": 2,
         "high": 6
       },
       "no_due_dates": [
@@ -920,13 +920,13 @@
       "count": 10,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 3,
+        "WFF": 4,
         "On Hold": 0,
         "Blocked": 0,
         "1": 2,
         "2": 2,
         "3": 2,
-        "4": 1,
+        "4": 0,
         "5": 0,
         "6": 0,
         "7": 0,
