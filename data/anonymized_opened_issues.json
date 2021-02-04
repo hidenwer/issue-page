@@ -79,11 +79,11 @@
       ]
     },
     "Da-Su": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 15,
+      "count": 15,
       "labels": {
         "1M": 4,
-        "1S": 2,
+        "1S": 1,
         "2M": 2,
         "3S": 1,
         "4M": 1,
@@ -93,13 +93,13 @@
       },
       "issues_by_project": {
         "service/global": 1,
-        "service/support": 10,
+        "service/support": 9,
         "service/thief": 5
       },
       "categories": {
         "low": 6,
         "medium": 2,
-        "high": 8
+        "high": 7
       },
       "no_due_dates": [
 
@@ -168,9 +168,8 @@
       "labels": {
         "1M": 1,
         "1S": 7,
-        "10M": 1,
         "2M": 2,
-        "2S": 2,
+        "2S": 3,
         "3M": 4,
         "3S": 2,
         "5M": 1,
@@ -181,13 +180,13 @@
       "issues_by_project": {
         "SE/bucket": 1,
         "service/global": 1,
-        "service/support": 10,
-        "service/thief": 13
+        "service/support": 11,
+        "service/thief": 12
       },
       "categories": {
         "low": 5,
-        "medium": 7,
-        "high": 12
+        "medium": 6,
+        "high": 13
       }
     },
     "Ma-Gu": {
@@ -708,9 +707,9 @@
       }
     },
     "Da-Su": {
-      "count": 19,
+      "count": 18,
       "labels": {
-        "NC_Onb": 1,
+        "NC_Onb": 0,
         "WFF": 5,
         "On Hold": 1,
         "Blocked": 2,
@@ -765,22 +764,22 @@
       }
     },
     "Eu-Mo": {
-      "count": 29,
+      "count": 30,
       "labels": {
         "NC_Onb": 1,
-        "WFF": 14,
-        "On Hold": 5,
+        "WFF": 15,
+        "On Hold": 6,
         "Blocked": 0,
         "1": 0,
-        "2": 3,
+        "2": 4,
         "3": 3,
         "4": 0,
         "5": 1,
         "6": 0,
         "7": 0,
         "8": 0,
-        "9": 1,
-        "10": 1
+        "9": 0,
+        "10": 0
       }
     },
     "Ma-Gu": {
@@ -938,11 +937,11 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 40,
+      "count": 41,
       "issues_by_project": {
         "bucket/support": 1,
         "service/stealer": 1,
-        "service/support": 37,
+        "service/support": 38,
         "service/thief": 1
       }
     },
@@ -975,9 +974,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 25,
+      "count": 24,
       "issues_by_project": {
-        "service/support": 25
+        "service/support": 24
       }
     }
   },
@@ -1085,12 +1084,12 @@
       }
     },
     "Eu-Mo": {
-      "count": 0,
+      "count": 1,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
         "1": 0,
-        "2": 0,
+        "2": 1,
         "3": 0,
         "4": 0,
         "5": 0,
