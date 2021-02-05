@@ -105,11 +105,11 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 19,
-      "count": 23,
+      "service_count": 18,
+      "count": 22,
       "labels": {
         "1M": 3,
-        "1S": 2,
+        "1S": 1,
         "2M": 1,
         "2S": 1,
         "3M": 3,
@@ -124,21 +124,21 @@
         "SE/bucket": 4,
         "service/fencer": 1,
         "service/global": 2,
-        "service/support": 11,
+        "service/support": 10,
         "service/thief": 3
       },
       "categories": {
         "low": 7,
         "medium": 5,
-        "high": 7
+        "high": 6
       },
       "no_due_dates": [
 
       ]
     },
     "Ed-Ma": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 15,
+      "count": 15,
       "labels": {
         "1L": 1,
         "1M": 2,
@@ -146,19 +146,19 @@
         "10L": 1,
         "2M": 1,
         "3M": 3,
-        "3S": 4,
+        "3S": 3,
         "5S": 1
       },
       "issues_by_project": {
         "DemoJ": 2,
         "service/global": 1,
-        "service/kpi": 3,
+        "service/kpi": 2,
         "service/robber": 2,
         "service/support": 3,
         "service/thief": 5
       },
       "categories": {
-        "low": 6,
+        "low": 5,
         "medium": 3,
         "high": 7
       },
@@ -726,9 +726,9 @@
       }
     },
     "Da-Ni": {
-      "count": 23,
+      "count": 22,
       "labels": {
-        "NC_Onb": 1,
+        "NC_Onb": 0,
         "WFF": 9,
         "On Hold": 3,
         "Blocked": 0,
@@ -745,7 +745,7 @@
       }
     },
     "Ed-Ma": {
-      "count": 21,
+      "count": 20,
       "labels": {
         "NC_Onb": 1,
         "WFF": 1,
@@ -753,7 +753,7 @@
         "Blocked": 1,
         "1": 5,
         "2": 1,
-        "3": 6,
+        "3": 5,
         "4": 0,
         "5": 1,
         "6": 0,
@@ -946,12 +946,12 @@
       }
     },
     "Cr-Bu": {
-      "count": 49,
+      "count": 48,
       "issues_by_project": {
         "bucket/support": 8,
         "psd2/PRR": 1,
         "SE/bucket": 6,
-        "service/support": 34
+        "service/support": 33
       }
     },
     "Ig-Li": {
