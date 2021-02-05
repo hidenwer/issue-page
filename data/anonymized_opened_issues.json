@@ -193,10 +193,10 @@
       }
     },
     "Ma-Gu": {
-      "service_count": 15,
-      "count": 15,
+      "service_count": 14,
+      "count": 14,
       "labels": {
-        "1M": 2,
+        "1M": 1,
         "1S": 1,
         "2M": 1,
         "3S": 7,
@@ -207,12 +207,12 @@
       },
       "issues_by_project": {
         "service/support": 12,
-        "service/thief": 3
+        "service/thief": 2
       },
       "categories": {
         "low": 10,
         "medium": 1,
-        "high": 4
+        "high": 3
       },
       "no_due_dates": [
 
@@ -313,14 +313,14 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 23,
-      "count": 23,
+      "service_count": 22,
+      "count": 22,
       "labels": {
         "1M": 4,
         "1S": 3,
         "2S": 1,
         "3M": 3,
-        "3S": 3,
+        "3S": 2,
         "4M": 2,
         "4S": 2,
         "5S": 4,
@@ -328,11 +328,11 @@
       },
       "issues_by_project": {
         "service/global": 1,
-        "service/support": 14,
+        "service/support": 13,
         "service/thief": 8
       },
       "categories": {
-        "low": 10,
+        "low": 9,
         "medium": 5,
         "high": 8
       },
@@ -790,9 +790,9 @@
       "labels": {
         "NC_Onb": 0,
         "WFF": 6,
-        "On Hold": 3,
+        "On Hold": 4,
         "Blocked": 0,
-        "1": 1,
+        "1": 0,
         "2": 0,
         "3": 5,
         "4": 1,
@@ -881,10 +881,10 @@
       }
     },
     "Se-Tu": {
-      "count": 27,
+      "count": 26,
       "labels": {
         "NC_Onb": 1,
-        "WFF": 17,
+        "WFF": 16,
         "On Hold": 4,
         "Blocked": 0,
         "1": 2,
@@ -977,10 +977,10 @@
       }
     },
     "Vi-Sa": {
-      "count": 25,
+      "count": 24,
       "issues_by_project": {
         "bucket/support": 1,
-        "service/support": 24
+        "service/support": 23
       }
     }
   },
@@ -1107,9 +1107,9 @@
     "Ma-Gu": {
       "count": 1,
       "labels": {
-        "On Hold": 0,
+        "On Hold": 1,
         "Blocked": 0,
-        "1": 1,
+        "1": 0,
         "2": 0,
         "3": 0,
         "4": 0,
