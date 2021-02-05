@@ -1,10 +1,10 @@
 {
   "load": {
     "Al-Hi": {
-      "service_count": 22,
-      "count": 22,
+      "service_count": 23,
+      "count": 23,
       "labels": {
-        "1M": 7,
+        "1M": 8,
         "1S": 9,
         "2M": 1,
         "3S": 2,
@@ -13,13 +13,14 @@
         "7L": 1
       },
       "issues_by_project": {
+        "DemoJ": 1,
         "service/support": 5,
         "service/thief": 17
       },
       "categories": {
         "low": 4,
         "medium": 1,
-        "high": 17
+        "high": 18
       }
     },
     "An-Mo": {
@@ -77,10 +78,10 @@
       ]
     },
     "Da-Su": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 15,
+      "count": 15,
       "labels": {
-        "1M": 3,
+        "1M": 4,
         "1S": 1,
         "2M": 2,
         "3S": 2,
@@ -90,6 +91,7 @@
         "7M": 1
       },
       "issues_by_project": {
+        "DemoJ": 1,
         "service/global": 1,
         "service/support": 9,
         "service/thief": 4
@@ -97,21 +99,21 @@
       "categories": {
         "low": 6,
         "medium": 2,
-        "high": 6
+        "high": 7
       },
       "no_due_dates": [
 
       ]
     },
     "Da-Ni": {
-      "service_count": 17,
-      "count": 21,
+      "service_count": 19,
+      "count": 23,
       "labels": {
-        "1M": 2,
+        "1M": 3,
         "1S": 2,
         "2M": 1,
         "2S": 1,
-        "3M": 2,
+        "3M": 3,
         "3S": 3,
         "4S": 2,
         "5M": 2,
@@ -119,6 +121,7 @@
         "7S": 1
       },
       "issues_by_project": {
+        "DemoJ": 2,
         "SE/bucket": 4,
         "service/fencer": 1,
         "service/global": 2,
@@ -127,18 +130,19 @@
       },
       "categories": {
         "low": 7,
-        "medium": 4,
-        "high": 6
+        "medium": 5,
+        "high": 7
       },
       "no_due_dates": [
 
       ]
     },
     "Ed-Ma": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 16,
+      "count": 16,
       "labels": {
-        "1M": 1,
+        "1L": 1,
+        "1M": 2,
         "1S": 3,
         "10L": 1,
         "2M": 1,
@@ -147,6 +151,7 @@
         "5S": 1
       },
       "issues_by_project": {
+        "DemoJ": 2,
         "service/global": 1,
         "service/kpi": 3,
         "service/robber": 2,
@@ -156,7 +161,7 @@
       "categories": {
         "low": 6,
         "medium": 3,
-        "high": 5
+        "high": 7
       },
       "no_due_dates": [
 
@@ -647,13 +652,13 @@
   },
   "lbl": {
     "Al-Hi": {
-      "count": 33,
+      "count": 34,
       "labels": {
         "NC_Onb": 0,
         "WFF": 13,
         "On Hold": 9,
         "Blocked": 1,
-        "1": 7,
+        "1": 8,
         "2": 1,
         "3": 0,
         "4": 1,
@@ -704,13 +709,13 @@
       }
     },
     "Da-Su": {
-      "count": 17,
+      "count": 18,
       "labels": {
         "NC_Onb": 1,
         "WFF": 6,
         "On Hold": 1,
         "Blocked": 2,
-        "1": 3,
+        "1": 4,
         "2": 1,
         "3": 2,
         "4": 1,
@@ -723,15 +728,15 @@
       }
     },
     "Da-Ni": {
-      "count": 20,
+      "count": 23,
       "labels": {
         "NC_Onb": 1,
         "WFF": 9,
-        "On Hold": 2,
+        "On Hold": 3,
         "Blocked": 0,
-        "1": 0,
+        "1": 1,
         "2": 1,
-        "3": 4,
+        "3": 5,
         "4": 1,
         "5": 1,
         "6": 0,
@@ -742,13 +747,13 @@
       }
     },
     "Ed-Ma": {
-      "count": 19,
+      "count": 21,
       "labels": {
         "NC_Onb": 1,
         "WFF": 1,
         "On Hold": 4,
         "Blocked": 1,
-        "1": 3,
+        "1": 5,
         "2": 1,
         "3": 6,
         "4": 0,
