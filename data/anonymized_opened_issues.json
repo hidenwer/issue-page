@@ -23,10 +23,9 @@
       }
     },
     "An-Mo": {
-      "service_count": 18,
-      "count": 18,
+      "service_count": 17,
+      "count": 17,
       "labels": {
-        "1M": 1,
         "1S": 1,
         "2S": 5,
         "3M": 1,
@@ -38,12 +37,12 @@
       },
       "issues_by_project": {
         "service/support": 15,
-        "service/thief": 3
+        "service/thief": 2
       },
       "categories": {
         "low": 8,
         "medium": 2,
-        "high": 8
+        "high": 7
       },
       "no_due_dates": [
 
@@ -408,11 +407,11 @@
       }
     },
     "An-Mo": {
-      "count": 2,
+      "count": 1,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
-        "1": 1,
+        "1": 0,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -667,13 +666,13 @@
       }
     },
     "An-Mo": {
-      "count": 19,
+      "count": 18,
       "labels": {
         "NC_Onb": 0,
         "WFF": 11,
         "On Hold": 1,
         "Blocked": 0,
-        "1": 1,
+        "1": 0,
         "2": 2,
         "3": 2,
         "4": 0,
