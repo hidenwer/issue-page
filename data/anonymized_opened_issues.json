@@ -1,10 +1,10 @@
 {
   "load": {
     "Al-Hi": {
-      "service_count": 23,
-      "count": 23,
+      "service_count": 22,
+      "count": 22,
       "labels": {
-        "1M": 8,
+        "1M": 7,
         "1S": 9,
         "2M": 1,
         "3S": 2,
@@ -13,14 +13,13 @@
         "7L": 1
       },
       "issues_by_project": {
-        "DemoJ": 1,
         "service/support": 5,
         "service/thief": 17
       },
       "categories": {
         "low": 4,
         "medium": 1,
-        "high": 18
+        "high": 17
       }
     },
     "An-Mo": {
@@ -313,8 +312,8 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 19,
-      "count": 19,
+      "service_count": 18,
+      "count": 18,
       "labels": {
         "1M": 3,
         "1S": 2,
@@ -323,16 +322,15 @@
         "3S": 2,
         "4M": 2,
         "4S": 2,
-        "5S": 3,
-        "6S": 1
+        "5S": 3
       },
       "issues_by_project": {
         "service/global": 1,
-        "service/support": 11,
+        "service/support": 10,
         "service/thief": 7
       },
       "categories": {
-        "low": 8,
+        "low": 7,
         "medium": 5,
         "high": 6
       },
@@ -652,13 +650,13 @@
   },
   "lbl": {
     "Al-Hi": {
-      "count": 34,
+      "count": 33,
       "labels": {
         "NC_Onb": 0,
         "WFF": 13,
         "On Hold": 9,
         "Blocked": 1,
-        "1": 8,
+        "1": 7,
         "2": 1,
         "3": 0,
         "4": 1,
@@ -880,10 +878,10 @@
       }
     },
     "Se-Tu": {
-      "count": 23,
+      "count": 22,
       "labels": {
         "NC_Onb": 1,
-        "WFF": 13,
+        "WFF": 12,
         "On Hold": 4,
         "Blocked": 0,
         "1": 2,
@@ -976,10 +974,10 @@
       }
     },
     "Vi-Sa": {
-      "count": 24,
+      "count": 23,
       "issues_by_project": {
         "bucket/support": 1,
-        "service/support": 23
+        "service/support": 22
       }
     }
   },
