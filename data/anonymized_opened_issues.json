@@ -172,13 +172,13 @@
       ]
     },
     "Eu-Mo": {
-      "service_count": 17,
-      "count": 18,
+      "service_count": 16,
+      "count": 17,
       "labels": {
         "1M": 2,
         "1S": 3,
         "10M": 1,
-        "2M": 2,
+        "2M": 1,
         "2S": 1,
         "3M": 3,
         "3S": 1,
@@ -190,13 +190,13 @@
       "issues_by_project": {
         "SE/bucket": 1,
         "service/global": 1,
-        "service/support": 7,
+        "service/support": 6,
         "service/thief": 9
       },
       "categories": {
         "low": 3,
         "medium": 6,
-        "high": 8
+        "high": 7
       }
     },
     "Ma-Gu": {
@@ -775,10 +775,10 @@
       }
     },
     "Eu-Mo": {
-      "count": 20,
+      "count": 19,
       "labels": {
         "NC_Onb": 1,
-        "WFF": 8,
+        "WFF": 7,
         "On Hold": 3,
         "Blocked": 0,
         "1": 2,
@@ -985,10 +985,10 @@
       }
     },
     "Vi-Sa": {
-      "count": 28,
+      "count": 27,
       "issues_by_project": {
         "bucket/support": 1,
-        "service/support": 27
+        "service/support": 26
       }
     }
   },
