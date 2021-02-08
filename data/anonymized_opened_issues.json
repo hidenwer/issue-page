@@ -319,8 +319,8 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 15,
+      "count": 15,
       "labels": {
         "1M": 2,
         "1S": 2,
@@ -329,15 +329,15 @@
         "3S": 3,
         "4M": 1,
         "4S": 2,
-        "5S": 3
+        "5S": 2
       },
       "issues_by_project": {
         "service/global": 1,
-        "service/support": 11,
+        "service/support": 10,
         "service/thief": 4
       },
       "categories": {
-        "low": 8,
+        "low": 7,
         "medium": 3,
         "high": 5
       },
@@ -349,24 +349,24 @@
       ]
     },
     "St-Da": {
-      "service_count": 11,
-      "count": 11,
+      "service_count": 10,
+      "count": 10,
       "labels": {
         "1M": 1,
         "2M": 1,
         "2S": 1,
-        "3M": 2,
+        "3M": 1,
         "3S": 3,
         "5S": 2,
         "7S": 1
       },
       "issues_by_project": {
-        "service/support": 9,
+        "service/support": 8,
         "service/thief": 2
       },
       "categories": {
         "low": 6,
-        "medium": 2,
+        "medium": 1,
         "high": 3
       },
       "no_due_dates": [
@@ -886,10 +886,10 @@
       }
     },
     "Se-Tu": {
-      "count": 22,
+      "count": 21,
       "labels": {
         "NC_Onb": 1,
-        "WFF": 9,
+        "WFF": 8,
         "On Hold": 6,
         "Blocked": 0,
         "1": 2,
@@ -905,7 +905,7 @@
       }
     },
     "St-Da": {
-      "count": 14,
+      "count": 13,
       "labels": {
         "NC_Onb": 0,
         "WFF": 4,
@@ -913,7 +913,7 @@
         "Blocked": 0,
         "1": 1,
         "2": 1,
-        "3": 3,
+        "3": 2,
         "4": 0,
         "5": 2,
         "6": 0,
@@ -954,12 +954,12 @@
       }
     },
     "Cr-Bu": {
-      "count": 47,
+      "count": 46,
       "issues_by_project": {
         "bucket/support": 8,
         "psd2/PRR": 1,
         "SE/bucket": 6,
-        "service/support": 32
+        "service/support": 31
       }
     },
     "Ig-Li": {
