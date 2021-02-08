@@ -1,23 +1,23 @@
 {
   "load": {
     "Al-Hi": {
-      "service_count": 18,
-      "count": 18,
+      "service_count": 17,
+      "count": 17,
       "labels": {
         "1M": 5,
         "1S": 7,
         "3M": 1,
-        "3S": 2,
+        "3S": 1,
         "4M": 1,
         "4S": 1,
         "7L": 1
       },
       "issues_by_project": {
-        "service/support": 5,
+        "service/support": 4,
         "service/thief": 13
       },
       "categories": {
-        "low": 4,
+        "low": 3,
         "medium": 2,
         "high": 12
       },
@@ -657,10 +657,10 @@
   },
   "lbl": {
     "Al-Hi": {
-      "count": 30,
+      "count": 29,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 10,
+        "WFF": 9,
         "On Hold": 10,
         "Blocked": 1,
         "1": 6,
@@ -953,12 +953,12 @@
       }
     },
     "Cr-Bu": {
-      "count": 48,
+      "count": 47,
       "issues_by_project": {
         "bucket/support": 8,
         "psd2/PRR": 1,
         "SE/bucket": 6,
-        "service/support": 33
+        "service/support": 32
       }
     },
     "Ig-Li": {
