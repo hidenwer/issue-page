@@ -1,11 +1,11 @@
 {
   "load": {
     "Al-Hi": {
-      "service_count": 19,
-      "count": 19,
+      "service_count": 18,
+      "count": 18,
       "labels": {
         "1M": 6,
-        "1S": 7,
+        "1S": 6,
         "3M": 2,
         "3S": 1,
         "4M": 1,
@@ -14,12 +14,12 @@
       },
       "issues_by_project": {
         "service/support": 4,
-        "service/thief": 15
+        "service/thief": 14
       },
       "categories": {
         "low": 3,
         "medium": 3,
-        "high": 13
+        "high": 12
       },
       "overdues": [
 
@@ -658,13 +658,13 @@
   },
   "lbl": {
     "Al-Hi": {
-      "count": 31,
+      "count": 30,
       "labels": {
         "NC_Onb": 0,
         "WFF": 9,
         "On Hold": 10,
         "Blocked": 1,
-        "1": 7,
+        "1": 6,
         "2": 0,
         "3": 2,
         "4": 1,
@@ -983,10 +983,10 @@
       }
     },
     "Vi-Sa": {
-      "count": 25,
+      "count": 26,
       "issues_by_project": {
         "bucket/support": 1,
-        "service/support": 24
+        "service/support": 25
       }
     }
   },
