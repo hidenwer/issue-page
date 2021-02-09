@@ -251,23 +251,22 @@
       ]
     },
     "Se-Ra": {
-      "service_count": 11,
-      "count": 11,
+      "service_count": 10,
+      "count": 10,
       "labels": {
         "1S": 2,
         "2S": 1,
         "3S": 1,
         "4S": 2,
         "5S": 3,
-        "7M": 1,
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 11
+        "service/support": 10
       },
       "categories": {
         "low": 6,
-        "medium": 1,
+        "medium": 0,
         "high": 4
       }
     },
@@ -828,7 +827,7 @@
       }
     },
     "Se-Ra": {
-      "count": 13,
+      "count": 12,
       "labels": {
         "NC_Onb": 0,
         "WFF": 3,
@@ -840,7 +839,7 @@
         "4": 2,
         "5": 2,
         "6": 0,
-        "7": 1,
+        "7": 0,
         "8": 0,
         "9": 0,
         "10": 0
@@ -953,12 +952,12 @@
       }
     },
     "Cr-Bu": {
-      "count": 44,
+      "count": 43,
       "issues_by_project": {
         "bucket/support": 6,
         "psd2/PRR": 1,
         "SE/bucket": 6,
-        "service/support": 31
+        "service/support": 30
       }
     },
     "Ig-Li": {
