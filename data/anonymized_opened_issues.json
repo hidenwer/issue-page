@@ -321,13 +321,13 @@
       "count": 16,
       "labels": {
         "1M": 2,
-        "1S": 2,
+        "1S": 3,
         "2S": 1,
         "3M": 3,
         "3S": 3,
         "4M": 1,
         "4S": 2,
-        "5S": 2
+        "5S": 1
       },
       "issues_by_project": {
         "service/global": 1,
@@ -335,9 +335,9 @@
         "service/thief": 5
       },
       "categories": {
-        "low": 7,
+        "low": 6,
         "medium": 4,
-        "high": 5
+        "high": 6
       },
       "no_due_dates": [
 
@@ -885,7 +885,7 @@
     "Se-Tu": {
       "count": 21,
       "labels": {
-        "NC_Onb": 1,
+        "NC_Onb": 2,
         "WFF": 7,
         "On Hold": 5,
         "Blocked": 0,
@@ -893,7 +893,7 @@
         "2": 1,
         "3": 3,
         "4": 1,
-        "5": 1,
+        "5": 0,
         "6": 0,
         "7": 0,
         "8": 0,
