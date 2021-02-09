@@ -81,11 +81,10 @@
       ]
     },
     "Da-Su": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1M": 4,
-        "1S": 1,
         "2M": 1,
         "2S": 1,
         "3S": 2,
@@ -96,13 +95,13 @@
       "issues_by_project": {
         "DemoJ": 1,
         "service/global": 1,
-        "service/support": 9,
+        "service/support": 8,
         "service/thief": 3
       },
       "categories": {
         "low": 6,
         "medium": 1,
-        "high": 7
+        "high": 6
       },
       "no_due_dates": [
 
@@ -713,9 +712,9 @@
       }
     },
     "Da-Su": {
-      "count": 19,
+      "count": 18,
       "labels": {
-        "NC_Onb": 1,
+        "NC_Onb": 0,
         "WFF": 3,
         "On Hold": 3,
         "Blocked": 2,
@@ -981,10 +980,10 @@
       }
     },
     "Vi-Sa": {
-      "count": 27,
+      "count": 26,
       "issues_by_project": {
         "bucket/support": 1,
-        "service/support": 26
+        "service/support": 25
       }
     }
   },
