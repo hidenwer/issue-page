@@ -28,13 +28,12 @@
       "count": 20,
       "labels": {
         "1S": 2,
-        "2S": 5,
+        "2S": 6,
         "3M": 1,
         "3S": 3,
         "4M": 1,
         "4S": 4,
         "5M": 1,
-        "6S": 1,
         "8M": 1,
         "Beta": 1
       },
@@ -43,9 +42,9 @@
         "service/thief": 3
       },
       "categories": {
-        "low": 8,
+        "low": 7,
         "medium": 4,
-        "high": 8
+        "high": 9
       },
       "no_due_dates": [
 
@@ -681,11 +680,11 @@
         "On Hold": 1,
         "Blocked": 0,
         "1": 1,
-        "2": 1,
+        "2": 2,
         "3": 2,
         "4": 2,
         "5": 1,
-        "6": 1,
+        "6": 0,
         "7": 0,
         "8": 1,
         "9": 0,
@@ -960,9 +959,9 @@
       }
     },
     "Ig-Li": {
-      "count": 23,
+      "count": 24,
       "issues_by_project": {
-        "service/support": 23
+        "service/support": 24
       }
     },
     "Ir-Gr": {
