@@ -198,9 +198,10 @@
       }
     },
     "Ma-Gu": {
-      "service_count": 12,
-      "count": 12,
+      "service_count": 13,
+      "count": 13,
       "labels": {
+        "1M": 1,
         "2M": 1,
         "2S": 1,
         "3M": 1,
@@ -211,12 +212,12 @@
       },
       "issues_by_project": {
         "service/support": 11,
-        "service/thief": 1
+        "service/thief": 2
       },
       "categories": {
         "low": 8,
         "medium": 2,
-        "high": 2
+        "high": 3
       },
       "no_due_dates": [
 
@@ -791,9 +792,9 @@
       "labels": {
         "NC_Onb": 0,
         "WFF": 4,
-        "On Hold": 5,
+        "On Hold": 4,
         "Blocked": 0,
-        "1": 0,
+        "1": 1,
         "2": 2,
         "3": 3,
         "4": 1,
