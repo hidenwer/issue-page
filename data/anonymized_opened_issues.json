@@ -948,12 +948,12 @@
       }
     },
     "Cr-Bu": {
-      "count": 42,
+      "count": 43,
       "issues_by_project": {
         "bucket/support": 5,
         "psd2/PRR": 1,
         "SE/bucket": 6,
-        "service/support": 30
+        "service/support": 31
       }
     },
     "Ig-Li": {
