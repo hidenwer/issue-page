@@ -81,11 +81,11 @@
       ]
     },
     "Da-Su": {
-      "service_count": 12,
-      "count": 12,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1M": 3,
-        "2M": 1,
+        "2M": 2,
         "2S": 1,
         "3S": 2,
         "4M": 1,
@@ -96,12 +96,12 @@
         "DemoJ": 1,
         "service/global": 1,
         "service/support": 8,
-        "service/thief": 2
+        "service/thief": 3
       },
       "categories": {
         "low": 6,
         "medium": 1,
-        "high": 5
+        "high": 6
       },
       "no_due_dates": [
 
@@ -223,10 +223,10 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 11,
-      "count": 11,
+      "service_count": 12,
+      "count": 12,
       "labels": {
-        "1S": 3,
+        "1S": 4,
         "2S": 2,
         "3M": 1,
         "3S": 1,
@@ -235,13 +235,13 @@
         "9S": 1
       },
       "issues_by_project": {
-        "service/support": 9,
+        "service/support": 10,
         "service/thief": 2
       },
       "categories": {
         "low": 3,
         "medium": 3,
-        "high": 5
+        "high": 6
       },
       "no_due_dates": [
 
@@ -445,12 +445,12 @@
       }
     },
     "Da-Su": {
-      "count": 4,
+      "count": 5,
       "labels": {
         "On Hold": 3,
         "Blocked": 0,
         "1": 1,
-        "2": 0,
+        "2": 1,
         "3": 0,
         "4": 0,
         "5": 0,
@@ -708,14 +708,14 @@
       }
     },
     "Da-Su": {
-      "count": 18,
+      "count": 19,
       "labels": {
         "NC_Onb": 0,
         "WFF": 3,
         "On Hold": 4,
         "Blocked": 2,
         "1": 3,
-        "2": 2,
+        "2": 3,
         "3": 2,
         "4": 1,
         "5": 1,
@@ -803,13 +803,13 @@
       }
     },
     "Ro-Ci": {
-      "count": 17,
+      "count": 18,
       "labels": {
         "NC_Onb": 0,
         "WFF": 8,
         "On Hold": 6,
         "Blocked": 0,
-        "1": 1,
+        "1": 2,
         "2": 1,
         "3": 1,
         "4": 0,
