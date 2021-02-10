@@ -963,11 +963,11 @@
       }
     },
     "Ir-Gr": {
-      "count": 38,
+      "count": 37,
       "issues_by_project": {
         "bucket/support": 1,
         "care/global": 4,
-        "care/internal": 14,
+        "care/internal": 13,
         "psd2/PRR": 1,
         "SE/bucket": 5,
         "SE/docs": 4,
