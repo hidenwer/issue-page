@@ -948,11 +948,11 @@
       }
     },
     "Cr-Bu": {
-      "count": 42,
+      "count": 41,
       "issues_by_project": {
         "bucket/support": 5,
         "psd2/PRR": 1,
-        "SE/bucket": 6,
+        "SE/bucket": 5,
         "service/support": 30
       }
     },
