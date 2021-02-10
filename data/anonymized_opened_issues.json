@@ -902,10 +902,10 @@
       "count": 18,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 8,
+        "WFF": 9,
         "On Hold": 3,
         "Blocked": 0,
-        "1": 3,
+        "1": 2,
         "2": 1,
         "3": 1,
         "4": 1,
@@ -948,9 +948,9 @@
       }
     },
     "Cr-Bu": {
-      "count": 43,
+      "count": 42,
       "issues_by_project": {
-        "bucket/support": 6,
+        "bucket/support": 5,
         "psd2/PRR": 1,
         "SE/bucket": 6,
         "service/support": 30
