@@ -965,14 +965,14 @@
       }
     },
     "Ir-Gr": {
-      "count": 35,
+      "count": 36,
       "issues_by_project": {
         "bucket/support": 1,
         "care/global": 5,
         "care/internal": 12,
         "psd2/PRR": 1,
         "SE/bucket": 5,
-        "SE/docs": 3,
+        "SE/docs": 4,
         "service/global": 3,
         "service/kpi": 2,
         "service/support": 3
