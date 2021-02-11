@@ -224,12 +224,11 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 12,
-      "count": 12,
+      "service_count": 11,
+      "count": 11,
       "labels": {
         "1S": 4,
         "2S": 2,
-        "3M": 1,
         "3S": 1,
         "4M": 2,
         "7S": 1,
@@ -237,11 +236,11 @@
       },
       "issues_by_project": {
         "service/support": 10,
-        "service/thief": 2
+        "service/thief": 1
       },
       "categories": {
         "low": 3,
-        "medium": 3,
+        "medium": 2,
         "high": 6
       },
       "no_due_dates": [
@@ -372,24 +371,23 @@
       ]
     },
     "Al-Je": {
-      "service_count": 7,
-      "count": 7,
+      "service_count": 6,
+      "count": 6,
       "labels": {
         "1M": 2,
-        "2S": 1,
         "3M": 1,
         "5S": 1,
         "6S": 1,
         "7S": 1
       },
       "issues_by_project": {
-        "service/support": 5,
+        "service/support": 4,
         "service/thief": 2
       },
       "categories": {
         "low": 3,
         "medium": 1,
-        "high": 3
+        "high": 2
       },
       "no_due_dates": [
 
@@ -715,13 +713,13 @@
       "count": 19,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 5,
+        "WFF": 4,
         "On Hold": 4,
         "Blocked": 2,
         "1": 3,
         "2": 3,
         "3": 1,
-        "4": 1,
+        "4": 2,
         "5": 0,
         "6": 0,
         "7": 0,
@@ -807,15 +805,15 @@
       }
     },
     "Ro-Ci": {
-      "count": 18,
+      "count": 17,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 4,
+        "WFF": 5,
         "On Hold": 6,
         "Blocked": 0,
-        "1": 3,
+        "1": 2,
         "2": 2,
-        "3": 2,
+        "3": 1,
         "4": 1,
         "5": 0,
         "6": 0,
@@ -921,14 +919,14 @@
       }
     },
     "Al-Je": {
-      "count": 8,
+      "count": 7,
       "labels": {
         "NC_Onb": 0,
         "WFF": 1,
         "On Hold": 1,
         "Blocked": 0,
         "1": 2,
-        "2": 1,
+        "2": 0,
         "3": 1,
         "4": 0,
         "5": 0,
