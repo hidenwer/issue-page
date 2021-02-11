@@ -79,12 +79,11 @@
       ]
     },
     "Da-Su": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "1M": 3,
         "2M": 2,
-        "2S": 1,
         "3S": 2,
         "4M": 1,
         "4S": 3,
@@ -94,12 +93,12 @@
         "DemoJ": 1,
         "service/global": 1,
         "service/support": 8,
-        "service/thief": 3
+        "service/thief": 2
       },
       "categories": {
         "low": 6,
         "medium": 1,
-        "high": 6
+        "high": 5
       },
       "no_due_dates": [
 
@@ -711,14 +710,14 @@
       }
     },
     "Da-Su": {
-      "count": 19,
+      "count": 18,
       "labels": {
         "NC_Onb": 0,
         "WFF": 4,
         "On Hold": 4,
         "Blocked": 2,
         "1": 3,
-        "2": 3,
+        "2": 2,
         "3": 1,
         "4": 2,
         "5": 0,
@@ -809,10 +808,10 @@
       "count": 19,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 9,
+        "WFF": 8,
         "On Hold": 6,
         "Blocked": 0,
-        "1": 0,
+        "1": 1,
         "2": 2,
         "3": 0,
         "4": 0,
