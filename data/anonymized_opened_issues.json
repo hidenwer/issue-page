@@ -375,7 +375,7 @@
         "3S": 1,
         "4S": 1,
         "5S": 1,
-        "6S": 1,
+        "6M": 1,
         "7S": 1
       },
       "issues_by_project": {
@@ -383,8 +383,8 @@
         "service/thief": 1
       },
       "categories": {
-        "low": 5,
-        "medium": 0,
+        "low": 4,
+        "medium": 1,
         "high": 2
       },
       "overdues": [
@@ -924,7 +924,7 @@
       "count": 8,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 1,
+        "WFF": 2,
         "On Hold": 1,
         "Blocked": 0,
         "1": 1,
@@ -932,7 +932,7 @@
         "3": 1,
         "4": 1,
         "5": 0,
-        "6": 1,
+        "6": 0,
         "7": 1,
         "8": 0,
         "9": 0,
