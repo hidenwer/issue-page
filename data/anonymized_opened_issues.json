@@ -675,12 +675,12 @@
       "count": 19,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 8,
+        "WFF": 9,
         "On Hold": 1,
         "Blocked": 0,
         "1": 2,
         "2": 2,
-        "3": 3,
+        "3": 2,
         "4": 2,
         "5": 1,
         "6": 0,
@@ -965,12 +965,12 @@
       }
     },
     "Ir-Gr": {
-      "count": 35,
+      "count": 34,
       "issues_by_project": {
         "care/global": 5,
         "care/internal": 12,
         "psd2/PRR": 1,
-        "SE/bucket": 5,
+        "SE/bucket": 4,
         "SE/docs": 4,
         "service/global": 3,
         "service/kpi": 2,
