@@ -54,10 +54,7 @@
         "low": 3,
         "medium": 3,
         "high": 8
-      },
-      "overdues": [
-
-      ]
+      }
     },
     "Co-Ci": {
       "service_count": 12,
@@ -110,10 +107,7 @@
         "low": 2,
         "medium": 4,
         "high": 4
-      },
-      "overdues": [
-
-      ]
+      }
     },
     "Da-Su": {
       "service_count": 12,
@@ -139,9 +133,6 @@
         "medium": 2,
         "high": 6
       },
-      "overdues": [
-
-      ],
       "no_due_dates": [
 
       ]
@@ -194,9 +185,6 @@
         "medium": 0,
         "high": 2
       },
-      "overdues": [
-
-      ],
       "no_due_dates": [
 
       ]
@@ -226,9 +214,6 @@
         "medium": 5,
         "high": 3
       },
-      "overdues": [
-
-      ],
       "no_due_dates": [
 
       ]
@@ -255,9 +240,6 @@
         "medium": 4,
         "high": 5
       },
-      "overdues": [
-
-      ],
       "no_due_dates": [
 
       ]
@@ -285,9 +267,6 @@
         "medium": 5,
         "high": 4
       },
-      "overdues": [
-
-      ],
       "no_due_dates": [
 
       ]
@@ -313,9 +292,6 @@
         "medium": 1,
         "high": 7
       },
-      "overdues": [
-
-      ],
       "no_due_dates": [
 
       ]
@@ -361,10 +337,7 @@
         "low": 7,
         "medium": 1,
         "high": 2
-      },
-      "overdues": [
-
-      ]
+      }
     },
     "Al-Je": {
       "service_count": 7,
