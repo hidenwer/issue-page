@@ -34,7 +34,7 @@
     },
     "Al-Hi": {
       "service_count": 15,
-      "count": 16,
+      "count": 17,
       "labels": {
         "1M": 2,
         "1S": 6,
@@ -46,6 +46,7 @@
       },
       "issues_by_project": {
         "bucket/support": 1,
+        "SE/bucket": 1,
         "service/global": 2,
         "service/support": 3,
         "service/thief": 10
@@ -1002,11 +1003,11 @@
       }
     },
     "Al-Hi": {
-      "count": 0,
+      "count": 1,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
-        "1": 0,
+        "1": 1,
         "2": 0,
         "3": 0,
         "4": 0,
