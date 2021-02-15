@@ -956,10 +956,10 @@
       }
     },
     "Ig-Li": {
-      "count": 25,
+      "count": 26,
       "issues_by_project": {
         "bucket/support": 1,
-        "service/support": 24
+        "service/support": 25
       }
     },
     "Ir-Gr": {
