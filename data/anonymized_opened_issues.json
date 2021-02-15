@@ -166,27 +166,25 @@
       ]
     },
     "St-Da": {
-      "service_count": 11,
-      "count": 11,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "1M": 1,
+        "1S": 1,
         "2L": 1,
         "3S": 3,
         "4S": 3,
         "5S": 3
       },
       "issues_by_project": {
-        "service/support": 10,
+        "service/support": 11,
         "service/thief": 1
       },
       "categories": {
         "low": 9,
         "medium": 0,
-        "high": 2
-      },
-      "no_due_dates": [
-
-      ]
+        "high": 3
+      }
     },
     "Da-Ni": {
       "service_count": 12,
@@ -764,13 +762,13 @@
       }
     },
     "St-Da": {
-      "count": 14,
+      "count": 15,
       "labels": {
         "NC_Onb": 0,
         "WFF": 4,
         "On Hold": 3,
         "Blocked": 0,
-        "1": 1,
+        "1": 2,
         "2": 1,
         "3": 1,
         "4": 3,
@@ -955,9 +953,9 @@
       }
     },
     "Ig-Li": {
-      "count": 28,
+      "count": 29,
       "issues_by_project": {
-        "service/support": 28
+        "service/support": 29
       }
     },
     "Ir-Gr": {
