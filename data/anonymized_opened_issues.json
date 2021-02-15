@@ -947,12 +947,12 @@
       }
     },
     "Cr-Bu": {
-      "count": 43,
+      "count": 44,
       "issues_by_project": {
         "bucket/support": 4,
         "psd2/PRR": 1,
         "SE/bucket": 6,
-        "service/support": 32
+        "service/support": 33
       }
     },
     "Ig-Li": {
@@ -962,13 +962,13 @@
       }
     },
     "Ir-Gr": {
-      "count": 33,
+      "count": 32,
       "issues_by_project": {
         "care/global": 5,
         "care/internal": 11,
         "psd2/PRR": 1,
         "SE/bucket": 4,
-        "SE/docs": 4,
+        "SE/docs": 3,
         "service/global": 3,
         "service/kpi": 2,
         "service/support": 3
