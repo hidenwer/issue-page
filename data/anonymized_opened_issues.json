@@ -279,12 +279,12 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 15,
+      "count": 15,
       "labels": {
         "1S": 5,
         "2S": 3,
-        "3M": 2,
+        "3M": 1,
         "3S": 2,
         "5S": 1,
         "7S": 1,
@@ -292,11 +292,11 @@
         "9S": 1
       },
       "issues_by_project": {
-        "service/support": 16
+        "service/support": 15
       },
       "categories": {
         "low": 6,
-        "medium": 2,
+        "medium": 1,
         "high": 8
       },
       "no_due_dates": [
@@ -846,7 +846,7 @@
       }
     },
     "Ro-Ci": {
-      "count": 23,
+      "count": 22,
       "labels": {
         "NC_Onb": 0,
         "WFF": 5,
@@ -854,7 +854,7 @@
         "Blocked": 0,
         "1": 2,
         "2": 3,
-        "3": 4,
+        "3": 3,
         "4": 0,
         "5": 1,
         "6": 0,
@@ -980,10 +980,10 @@
       }
     },
     "Vi-Sa": {
-      "count": 23,
+      "count": 22,
       "issues_by_project": {
         "bucket/support": 1,
-        "service/support": 22
+        "service/support": 21
       }
     }
   },
