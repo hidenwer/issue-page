@@ -33,11 +33,11 @@
       ]
     },
     "Al-Hi": {
-      "service_count": 16,
-      "count": 18,
+      "service_count": 17,
+      "count": 19,
       "labels": {
         "1M": 3,
-        "1S": 7,
+        "1S": 8,
         "3M": 2,
         "3S": 2,
         "4M": 1,
@@ -48,12 +48,12 @@
         "SE/bucket": 1,
         "service/global": 1,
         "service/support": 3,
-        "service/thief": 12
+        "service/thief": 13
       },
       "categories": {
         "low": 3,
         "medium": 3,
-        "high": 10
+        "high": 11
       },
       "overdues": [
 
@@ -674,13 +674,13 @@
       }
     },
     "Al-Hi": {
-      "count": 26,
+      "count": 27,
       "labels": {
         "NC_Onb": 0,
         "WFF": 6,
         "On Hold": 8,
         "Blocked": 1,
-        "1": 7,
+        "1": 8,
         "2": 0,
         "3": 3,
         "4": 0,
