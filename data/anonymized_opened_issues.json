@@ -905,13 +905,13 @@
       "count": 11,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 4,
+        "WFF": 5,
         "On Hold": 1,
         "Blocked": 0,
         "1": 1,
         "2": 0,
         "3": 3,
-        "4": 1,
+        "4": 0,
         "5": 0,
         "6": 0,
         "7": 1,
@@ -979,10 +979,10 @@
       }
     },
     "Vi-Sa": {
-      "count": 23,
+      "count": 24,
       "issues_by_project": {
         "bucket/support": 1,
-        "service/support": 22
+        "service/support": 23
       }
     }
   },
