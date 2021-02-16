@@ -273,6 +273,9 @@
       },
       "no_due_dates": [
 
+      ],
+      "no_spend_time": [
+
       ]
     },
     "Ro-Ci": {
@@ -947,12 +950,12 @@
       }
     },
     "Cr-Bu": {
-      "count": 46,
+      "count": 47,
       "issues_by_project": {
         "bucket/support": 4,
         "psd2/PRR": 1,
         "SE/bucket": 6,
-        "service/support": 35
+        "service/support": 36
       }
     },
     "Ig-Li": {
