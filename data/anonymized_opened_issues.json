@@ -1,8 +1,8 @@
 {
   "load": {
     "Ed-Ma": {
-      "service_count": 18,
-      "count": 18,
+      "service_count": 19,
+      "count": 19,
       "labels": {
         "1L": 1,
         "1M": 2,
@@ -10,7 +10,7 @@
         "10L": 1,
         "2M": 1,
         "2S": 1,
-        "3M": 2,
+        "3M": 3,
         "3S": 3,
         "4S": 2,
         "5S": 2
@@ -21,11 +21,11 @@
         "service/kpi": 3,
         "service/robber": 2,
         "service/support": 5,
-        "service/thief": 3
+        "service/thief": 4
       },
       "categories": {
         "low": 8,
-        "medium": 2,
+        "medium": 3,
         "high": 8
       },
       "no_due_dates": [
@@ -33,12 +33,12 @@
       ]
     },
     "Al-Hi": {
-      "service_count": 16,
-      "count": 18,
+      "service_count": 17,
+      "count": 19,
       "labels": {
         "1M": 3,
         "1S": 7,
-        "3M": 2,
+        "3M": 3,
         "3S": 2,
         "4M": 1,
         "7L": 1
@@ -48,11 +48,11 @@
         "SE/bucket": 1,
         "service/global": 1,
         "service/support": 3,
-        "service/thief": 12
+        "service/thief": 13
       },
       "categories": {
         "low": 3,
-        "medium": 3,
+        "medium": 4,
         "high": 10
       },
       "overdues": [
@@ -113,14 +113,15 @@
       }
     },
     "Da-Su": {
-      "service_count": 12,
-      "count": 12,
+      "service_count": 14,
+      "count": 14,
       "labels": {
         "1M": 2,
         "1S": 1,
         "2L": 1,
         "2M": 2,
         "2S": 1,
+        "3M": 2,
         "4L": 1,
         "4S": 2,
         "5S": 1,
@@ -129,11 +130,11 @@
       "issues_by_project": {
         "DemoJ": 1,
         "service/support": 6,
-        "service/thief": 5
+        "service/thief": 7
       },
       "categories": {
         "low": 3,
-        "medium": 2,
+        "medium": 4,
         "high": 7
       },
       "no_due_dates": [
@@ -344,11 +345,12 @@
       }
     },
     "Al-Je": {
-      "service_count": 9,
-      "count": 9,
+      "service_count": 10,
+      "count": 10,
       "labels": {
         "1M": 1,
         "2S": 1,
+        "3M": 1,
         "3S": 3,
         "4S": 1,
         "5S": 1,
@@ -357,11 +359,11 @@
       },
       "issues_by_project": {
         "service/support": 8,
-        "service/thief": 1
+        "service/thief": 2
       },
       "categories": {
         "low": 6,
-        "medium": 1,
+        "medium": 2,
         "high": 2
       },
       "overdues": [
@@ -652,7 +654,7 @@
   },
   "lbl": {
     "Ed-Ma": {
-      "count": 23,
+      "count": 24,
       "labels": {
         "NC_Onb": 0,
         "WFF": 4,
@@ -660,7 +662,7 @@
         "Blocked": 1,
         "1": 3,
         "2": 1,
-        "3": 5,
+        "3": 6,
         "4": 2,
         "5": 2,
         "6": 0,
@@ -671,7 +673,7 @@
       }
     },
     "Al-Hi": {
-      "count": 26,
+      "count": 27,
       "labels": {
         "NC_Onb": 0,
         "WFF": 5,
@@ -679,7 +681,7 @@
         "Blocked": 1,
         "1": 7,
         "2": 0,
-        "3": 4,
+        "3": 5,
         "4": 0,
         "5": 0,
         "6": 0,
@@ -728,7 +730,7 @@
       }
     },
     "Da-Su": {
-      "count": 17,
+      "count": 19,
       "labels": {
         "NC_Onb": 0,
         "WFF": 3,
@@ -736,7 +738,7 @@
         "Blocked": 2,
         "1": 3,
         "2": 3,
-        "3": 0,
+        "3": 2,
         "4": 2,
         "5": 0,
         "6": 0,
@@ -899,7 +901,7 @@
       }
     },
     "Al-Je": {
-      "count": 10,
+      "count": 11,
       "labels": {
         "NC_Onb": 0,
         "WFF": 4,
@@ -907,7 +909,7 @@
         "Blocked": 0,
         "1": 1,
         "2": 0,
-        "3": 2,
+        "3": 3,
         "4": 1,
         "5": 0,
         "6": 0,
@@ -976,22 +978,22 @@
       }
     },
     "Vi-Sa": {
-      "count": 23,
+      "count": 24,
       "issues_by_project": {
         "bucket/support": 1,
-        "service/support": 22
+        "service/support": 23
       }
     }
   },
   "pisp": {
     "Ed-Ma": {
-      "count": 2,
+      "count": 3,
       "labels": {
         "On Hold": 1,
         "Blocked": 1,
         "1": 0,
         "2": 0,
-        "3": 0,
+        "3": 1,
         "4": 0,
         "5": 0,
         "6": 0,
@@ -1002,13 +1004,13 @@
       }
     },
     "Al-Hi": {
-      "count": 1,
+      "count": 2,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
         "1": 1,
         "2": 0,
-        "3": 0,
+        "3": 1,
         "4": 0,
         "5": 0,
         "6": 0,
@@ -1053,13 +1055,13 @@
       }
     },
     "Da-Su": {
-      "count": 0,
+      "count": 2,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
         "1": 0,
         "2": 0,
-        "3": 0,
+        "3": 2,
         "4": 0,
         "5": 0,
         "6": 0,
@@ -1206,13 +1208,13 @@
       }
     },
     "Al-Je": {
-      "count": 0,
+      "count": 1,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
         "1": 0,
         "2": 0,
-        "3": 0,
+        "3": 1,
         "4": 0,
         "5": 0,
         "6": 0,
