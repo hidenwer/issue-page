@@ -943,18 +943,18 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 31,
+      "count": 32,
       "issues_by_project": {
         "bucket/support": 1,
         "service/stealer": 1,
-        "service/support": 28,
+        "service/support": 29,
         "service/thief": 1
       }
     },
     "Cr-Bu": {
-      "count": 47,
+      "count": 46,
       "issues_by_project": {
-        "bucket/support": 4,
+        "bucket/support": 3,
         "psd2/PRR": 1,
         "SE/bucket": 6,
         "service/support": 36
