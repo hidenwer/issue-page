@@ -305,9 +305,10 @@
       ]
     },
     "Se-Ra": {
-      "service_count": 10,
-      "count": 10,
+      "service_count": 11,
+      "count": 11,
       "labels": {
+        "1M": 1,
         "1S": 2,
         "2S": 1,
         "3S": 1,
@@ -316,12 +317,13 @@
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 10
+        "service/support": 10,
+        "service/thief": 1
       },
       "categories": {
         "low": 6,
         "medium": 0,
-        "high": 4
+        "high": 5
       }
     },
     "Ma-Gu": {
@@ -848,12 +850,12 @@
       "count": 23,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 6,
+        "WFF": 5,
         "On Hold": 7,
         "Blocked": 0,
         "1": 2,
         "2": 3,
-        "3": 3,
+        "3": 4,
         "4": 0,
         "5": 1,
         "6": 0,
@@ -868,9 +870,9 @@
       "labels": {
         "NC_Onb": 0,
         "WFF": 0,
-        "On Hold": 2,
+        "On Hold": 1,
         "Blocked": 0,
-        "1": 2,
+        "1": 3,
         "2": 1,
         "3": 1,
         "4": 2,
