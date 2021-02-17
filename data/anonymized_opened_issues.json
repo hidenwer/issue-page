@@ -106,11 +106,11 @@
       }
     },
     "Da-Su": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 14,
+      "count": 14,
       "labels": {
         "1M": 2,
-        "1S": 1,
+        "1S": 2,
         "2L": 1,
         "2M": 2,
         "2S": 1,
@@ -123,12 +123,12 @@
       "issues_by_project": {
         "DemoJ": 1,
         "service/support": 5,
-        "service/thief": 7
+        "service/thief": 8
       },
       "categories": {
         "low": 2,
         "medium": 4,
-        "high": 7
+        "high": 8
       },
       "no_due_dates": [
 
@@ -242,12 +242,11 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "1M": 2,
-        "1S": 1,
-        "2S": 2,
+        "2S": 1,
         "3M": 3,
         "3S": 1,
         "4M": 2,
@@ -255,13 +254,13 @@
       },
       "issues_by_project": {
         "service/global": 1,
-        "service/support": 8,
+        "service/support": 6,
         "service/thief": 5
       },
       "categories": {
         "low": 4,
         "medium": 5,
-        "high": 5
+        "high": 3
       },
       "no_due_dates": [
 
@@ -729,9 +728,9 @@
       "labels": {
         "NC_Onb": 0,
         "WFF": 3,
-        "On Hold": 3,
+        "On Hold": 2,
         "Blocked": 0,
-        "1": 3,
+        "1": 4,
         "2": 3,
         "3": 2,
         "4": 1,
@@ -785,10 +784,10 @@
       "count": 21,
       "labels": {
         "NC_Onb": 2,
-        "WFF": 3,
+        "WFF": 2,
         "On Hold": 6,
         "Blocked": 1,
-        "1": 0,
+        "1": 1,
         "2": 1,
         "3": 5,
         "4": 1,
@@ -820,14 +819,14 @@
       }
     },
     "Se-Tu": {
-      "count": 18,
+      "count": 16,
       "labels": {
         "NC_Onb": 0,
         "WFF": 5,
         "On Hold": 4,
         "Blocked": 0,
-        "1": 3,
-        "2": 2,
+        "1": 2,
+        "2": 1,
         "3": 2,
         "4": 2,
         "5": 0,
@@ -954,9 +953,9 @@
       }
     },
     "Ig-Li": {
-      "count": 28,
+      "count": 27,
       "issues_by_project": {
-        "service/support": 28
+        "service/support": 27
       }
     },
     "Ir-Gr": {
@@ -973,10 +972,10 @@
       }
     },
     "Vi-Sa": {
-      "count": 25,
+      "count": 24,
       "issues_by_project": {
         "bucket/support": 1,
-        "service/support": 24
+        "service/support": 23
       }
     }
   },
