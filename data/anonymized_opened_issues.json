@@ -56,12 +56,11 @@
       }
     },
     "Co-Ci": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1M": 2,
         "1S": 1,
-        "10S": 1,
         "2M": 1,
         "2S": 1,
         "3M": 1,
@@ -71,11 +70,11 @@
         "7M": 1
       },
       "issues_by_project": {
-        "service/support": 9,
+        "service/support": 8,
         "service/thief": 5
       },
       "categories": {
-        "low": 5,
+        "low": 4,
         "medium": 4,
         "high": 5
       },
@@ -274,11 +273,12 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 15,
+      "count": 15,
       "labels": {
         "1S": 5,
         "2S": 3,
+        "4S": 1,
         "5S": 1,
         "7S": 2,
         "8S": 1,
@@ -286,10 +286,11 @@
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 14
+        "service/support": 14,
+        "service/thief": 1
       },
       "categories": {
-        "low": 5,
+        "low": 6,
         "medium": 0,
         "high": 9
       },
@@ -324,7 +325,7 @@
       "count": 10,
       "labels": {
         "1M": 1,
-        "10S": 1,
+        "1S": 1,
         "2S": 1,
         "3S": 3,
         "4S": 1,
@@ -337,10 +338,13 @@
         "service/thief": 2
       },
       "categories": {
-        "low": 7,
+        "low": 6,
         "medium": 1,
-        "high": 2
-      }
+        "high": 3
+      },
+      "no_due_dates": [
+
+      ]
     },
     "Al-Je": {
       "service_count": 11,
@@ -674,10 +678,10 @@
       "count": 28,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 5,
+        "WFF": 6,
         "On Hold": 8,
         "Blocked": 1,
-        "1": 8,
+        "1": 7,
         "2": 0,
         "3": 5,
         "4": 0,
@@ -690,10 +694,10 @@
       }
     },
     "Co-Ci": {
-      "count": 14,
+      "count": 13,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 5,
+        "WFF": 4,
         "On Hold": 0,
         "Blocked": 0,
         "1": 2,
@@ -845,8 +849,8 @@
       "count": 20,
       "labels": {
         "NC_Onb": 0,
-        "WFF": 7,
-        "On Hold": 7,
+        "WFF": 8,
+        "On Hold": 6,
         "Blocked": 0,
         "1": 0,
         "2": 3,
@@ -882,7 +886,7 @@
     "Ma-Gu": {
       "count": 14,
       "labels": {
-        "NC_Onb": 0,
+        "NC_Onb": 1,
         "WFF": 3,
         "On Hold": 4,
         "Blocked": 0,
@@ -895,7 +899,7 @@
         "7": 1,
         "8": 0,
         "9": 0,
-        "10": 1
+        "10": 0
       }
     },
     "Al-Je": {
@@ -948,12 +952,12 @@
       }
     },
     "Cr-Bu": {
-      "count": 44,
+      "count": 43,
       "issues_by_project": {
         "bucket/support": 2,
         "psd2/PRR": 1,
         "SE/bucket": 6,
-        "service/support": 35
+        "service/support": 34
       }
     },
     "Ig-Li": {
