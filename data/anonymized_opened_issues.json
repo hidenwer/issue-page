@@ -726,12 +726,12 @@
       }
     },
     "Eu-Mo": {
-      "count": 17,
+      "count": 16,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
         "WFF": 3,
-        "On Hold": 5,
+        "On Hold": 4,
         "Blocked": 0,
         "1": 1,
         "2": 1,
@@ -968,11 +968,11 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 32,
+      "count": 33,
       "issues_by_project": {
         "bucket/support": 1,
         "service/stealer": 1,
-        "service/support": 29,
+        "service/support": 30,
         "service/thief": 1
       }
     },
