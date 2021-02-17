@@ -668,7 +668,6 @@
       "count": 25,
       "labels": {
         "NC_Onb": 0,
-        "Beta": 0,
         "WFF": 4,
         "On Hold": 4,
         "Blocked": 1,
@@ -688,7 +687,6 @@
       "count": 29,
       "labels": {
         "NC_Onb": 0,
-        "Beta": 0,
         "WFF": 6,
         "On Hold": 8,
         "Blocked": 1,
@@ -708,7 +706,6 @@
       "count": 12,
       "labels": {
         "NC_Onb": 0,
-        "Beta": 0,
         "WFF": 3,
         "On Hold": 0,
         "Blocked": 0,
@@ -728,7 +725,6 @@
       "count": 16,
       "labels": {
         "NC_Onb": 1,
-        "Beta": 0,
         "WFF": 3,
         "On Hold": 4,
         "Blocked": 0,
@@ -748,7 +744,6 @@
       "count": 18,
       "labels": {
         "NC_Onb": 0,
-        "Beta": 0,
         "WFF": 4,
         "On Hold": 2,
         "Blocked": 0,
@@ -768,7 +763,6 @@
       "count": 13,
       "labels": {
         "NC_Onb": 1,
-        "Beta": 0,
         "WFF": 6,
         "On Hold": 0,
         "Blocked": 0,
@@ -785,10 +779,9 @@
       }
     },
     "St-Da": {
-      "count": 15,
+      "count": 14,
       "labels": {
         "NC_Onb": 0,
-        "Beta": 1,
         "WFF": 4,
         "On Hold": 2,
         "Blocked": 0,
@@ -808,7 +801,6 @@
       "count": 22,
       "labels": {
         "NC_Onb": 2,
-        "Beta": 0,
         "WFF": 3,
         "On Hold": 6,
         "Blocked": 1,
@@ -828,9 +820,8 @@
       "count": 21,
       "labels": {
         "NC_Onb": 0,
-        "Beta": 1,
         "WFF": 11,
-        "On Hold": 1,
+        "On Hold": 2,
         "Blocked": 0,
         "1": 1,
         "2": 1,
@@ -845,10 +836,9 @@
       }
     },
     "Se-Tu": {
-      "count": 17,
+      "count": 16,
       "labels": {
         "NC_Onb": 0,
-        "Beta": 1,
         "WFF": 3,
         "On Hold": 4,
         "Blocked": 0,
@@ -865,10 +855,9 @@
       }
     },
     "Ro-Ci": {
-      "count": 21,
+      "count": 20,
       "labels": {
         "NC_Onb": 0,
-        "Beta": 1,
         "WFF": 10,
         "On Hold": 6,
         "Blocked": 0,
@@ -885,10 +874,9 @@
       }
     },
     "Se-Ra": {
-      "count": 12,
+      "count": 11,
       "labels": {
         "NC_Onb": 0,
-        "Beta": 1,
         "WFF": 1,
         "On Hold": 1,
         "Blocked": 0,
@@ -908,7 +896,6 @@
       "count": 14,
       "labels": {
         "NC_Onb": 1,
-        "Beta": 0,
         "WFF": 4,
         "On Hold": 4,
         "Blocked": 0,
@@ -925,10 +912,9 @@
       }
     },
     "Al-Je": {
-      "count": 13,
+      "count": 11,
       "labels": {
         "NC_Onb": 0,
-        "Beta": 2,
         "WFF": 5,
         "On Hold": 1,
         "Blocked": 0,
@@ -948,7 +934,6 @@
       "count": 7,
       "labels": {
         "NC_Onb": 0,
-        "Beta": 0,
         "WFF": 3,
         "On Hold": 0,
         "Blocked": 0,
