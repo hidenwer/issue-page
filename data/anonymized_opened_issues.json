@@ -1,15 +1,14 @@
 {
   "load": {
     "Ed-Ma": {
-      "service_count": 18,
-      "count": 18,
+      "service_count": 17,
+      "count": 17,
       "labels": {
         "1L": 1,
         "1M": 2,
         "1S": 3,
         "10L": 1,
         "2M": 1,
-        "2S": 1,
         "3M": 3,
         "3S": 3,
         "4S": 1,
@@ -18,7 +17,7 @@
       "issues_by_project": {
         "DemoJ": 2,
         "service/global": 2,
-        "service/kpi": 3,
+        "service/kpi": 2,
         "service/robber": 2,
         "service/support": 5,
         "service/thief": 4
@@ -26,7 +25,7 @@
       "categories": {
         "low": 7,
         "medium": 3,
-        "high": 8
+        "high": 7
       },
       "no_due_dates": [
 
@@ -301,11 +300,11 @@
       ]
     },
     "Se-Ra": {
-      "service_count": 11,
-      "count": 11,
+      "service_count": 10,
+      "count": 10,
       "labels": {
         "1M": 1,
-        "1S": 2,
+        "1S": 1,
         "2S": 1,
         "3S": 1,
         "4S": 2,
@@ -313,13 +312,13 @@
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 10,
+        "service/support": 9,
         "service/thief": 1
       },
       "categories": {
         "low": 6,
         "medium": 0,
-        "high": 5
+        "high": 4
       },
       "no_due_dates": [
 
@@ -665,7 +664,7 @@
   },
   "lbl": {
     "Ed-Ma": {
-      "count": 23,
+      "count": 22,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
@@ -673,7 +672,7 @@
         "On Hold": 4,
         "Blocked": 1,
         "1": 3,
-        "2": 2,
+        "2": 1,
         "3": 6,
         "4": 1,
         "5": 1,
@@ -885,14 +884,14 @@
       }
     },
     "Se-Ra": {
-      "count": 12,
+      "count": 11,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
         "WFF": 1,
         "On Hold": 1,
         "Blocked": 0,
-        "1": 3,
+        "1": 2,
         "2": 1,
         "3": 0,
         "4": 2,
@@ -909,7 +908,7 @@
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 4,
+        "WFF": 5,
         "On Hold": 4,
         "Blocked": 0,
         "1": 1,
@@ -918,7 +917,7 @@
         "4": 1,
         "5": 1,
         "6": 0,
-        "7": 1,
+        "7": 0,
         "8": 0,
         "9": 0,
         "10": 0
@@ -949,13 +948,13 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 5,
+        "WFF": 4,
         "On Hold": 0,
         "Blocked": 0,
         "1": 0,
         "2": 0,
         "3": 0,
-        "4": 1,
+        "4": 2,
         "5": 1,
         "6": 0,
         "7": 0,
@@ -985,9 +984,9 @@
       }
     },
     "Ig-Li": {
-      "count": 29,
+      "count": 28,
       "issues_by_project": {
-        "service/support": 29
+        "service/support": 28
       }
     },
     "Ir-Gr": {
