@@ -167,23 +167,24 @@
       ]
     },
     "St-Da": {
-      "service_count": 12,
-      "count": 12,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1M": 2,
         "2L": 1,
         "3S": 3,
         "4S": 2,
-        "5S": 4
+        "5S": 4,
+        "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 10,
+        "service/support": 11,
         "service/thief": 2
       },
       "categories": {
         "low": 9,
         "medium": 0,
-        "high": 3
+        "high": 4
       },
       "no_due_dates": [
 
@@ -246,8 +247,8 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 14,
+      "count": 14,
       "labels": {
         "1M": 1,
         "1S": 2,
@@ -255,40 +256,42 @@
         "3M": 3,
         "3S": 1,
         "4M": 2,
-        "4S": 3
+        "4S": 3,
+        "Beta": 1
       },
       "issues_by_project": {
         "service/global": 1,
-        "service/support": 8,
+        "service/support": 9,
         "service/thief": 4
       },
       "categories": {
         "low": 4,
         "medium": 5,
-        "high": 4
+        "high": 5
       },
       "no_due_dates": [
 
       ]
     },
     "Ro-Ci": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 14,
+      "count": 14,
       "labels": {
         "1S": 5,
         "2S": 3,
         "5S": 1,
         "7S": 2,
         "8S": 1,
-        "9S": 1
+        "9S": 1,
+        "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 13
+        "service/support": 14
       },
       "categories": {
         "low": 5,
         "medium": 0,
-        "high": 8
+        "high": 9
       },
       "no_due_dates": [
 
@@ -340,8 +343,8 @@
       }
     },
     "Al-Je": {
-      "service_count": 9,
-      "count": 9,
+      "service_count": 11,
+      "count": 11,
       "labels": {
         "1M": 1,
         "2S": 1,
@@ -349,16 +352,17 @@
         "3S": 3,
         "4S": 1,
         "6M": 1,
-        "7S": 1
+        "7S": 1,
+        "Beta": 2
       },
       "issues_by_project": {
-        "service/support": 7,
+        "service/support": 9,
         "service/thief": 2
       },
       "categories": {
         "low": 5,
         "medium": 2,
-        "high": 2
+        "high": 4
       },
       "overdues": [
 
