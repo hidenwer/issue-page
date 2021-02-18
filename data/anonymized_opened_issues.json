@@ -33,7 +33,7 @@
     },
     "Al-Hi": {
       "service_count": 19,
-      "count": 20,
+      "count": 21,
       "labels": {
         "1M": 3,
         "1S": 8,
@@ -45,6 +45,7 @@
       },
       "issues_by_project": {
         "bucket/support": 1,
+        "SE/bucket": 1,
         "service/global": 1,
         "service/support": 3,
         "service/thief": 15
@@ -707,14 +708,14 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 3,
+        "WFF": 4,
         "On Hold": 0,
         "Blocked": 0,
         "1": 2,
         "2": 1,
         "3": 1,
         "4": 1,
-        "5": 4,
+        "5": 3,
         "6": 0,
         "7": 0,
         "8": 0,
@@ -1027,11 +1028,11 @@
       }
     },
     "Al-Hi": {
-      "count": 1,
+      "count": 2,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
-        "1": 0,
+        "1": 1,
         "2": 0,
         "3": 1,
         "4": 0,
