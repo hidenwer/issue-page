@@ -33,27 +33,26 @@
     },
     "Al-Hi": {
       "service_count": 19,
-      "count": 21,
+      "count": 22,
       "labels": {
         "1M": 3,
         "1S": 8,
-        "2M": 1,
         "3M": 3,
-        "3S": 2,
+        "3S": 3,
         "4M": 1,
         "7L": 1
       },
       "issues_by_project": {
         "bucket/support": 1,
-        "SE/bucket": 1,
+        "SE/bucket": 2,
         "service/global": 1,
-        "service/support": 3,
-        "service/thief": 15
+        "service/support": 4,
+        "service/thief": 14
       },
       "categories": {
-        "low": 3,
+        "low": 4,
         "medium": 4,
-        "high": 12
+        "high": 11
       }
     },
     "Co-Ci": {
@@ -692,8 +691,8 @@
         "On Hold": 8,
         "Blocked": 1,
         "1": 5,
-        "2": 1,
-        "3": 5,
+        "2": 0,
+        "3": 6,
         "4": 0,
         "5": 0,
         "6": 0,
@@ -1003,9 +1002,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 24,
+      "count": 25,
       "issues_by_project": {
-        "service/support": 24
+        "service/support": 25
       }
     }
   },
@@ -1028,14 +1027,14 @@
       }
     },
     "Al-Hi": {
-      "count": 2,
+      "count": 3,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
         "1": 1,
         "2": 0,
         "3": 1,
-        "4": 0,
+        "4": 1,
         "5": 0,
         "6": 0,
         "7": 0,
