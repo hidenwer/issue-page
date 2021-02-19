@@ -133,8 +133,8 @@
       ]
     },
     "Se-Vo": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 15,
+      "count": 15,
       "labels": {
         "1M": 2,
         "1S": 1,
@@ -144,16 +144,16 @@
         "3S": 1,
         "4M": 2,
         "4S": 1,
-        "5S": 1,
+        "5S": 2,
         "6M": 1,
         "8S": 1
       },
       "issues_by_project": {
         "service/support": 10,
-        "service/thief": 4
+        "service/thief": 5
       },
       "categories": {
-        "low": 5,
+        "low": 6,
         "medium": 5,
         "high": 4
       },
@@ -346,27 +346,30 @@
       ]
     },
     "Al-Je": {
-      "service_count": 11,
-      "count": 11,
+      "service_count": 10,
+      "count": 10,
       "labels": {
         "1M": 2,
         "2S": 1,
         "3M": 1,
-        "3S": 2,
+        "3S": 1,
         "5S": 1,
         "6S": 1,
         "7S": 1,
         "Beta": 2
       },
       "issues_by_project": {
-        "service/support": 7,
+        "service/support": 6,
         "service/thief": 4
       },
       "categories": {
-        "low": 5,
+        "low": 4,
         "medium": 1,
         "high": 5
       },
+      "overdues": [
+
+      ],
       "no_due_dates": [
 
       ]
@@ -751,7 +754,7 @@
       }
     },
     "Se-Vo": {
-      "count": 14,
+      "count": 15,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
@@ -762,7 +765,7 @@
         "2": 0,
         "3": 2,
         "4": 1,
-        "5": 0,
+        "5": 1,
         "6": 1,
         "7": 0,
         "8": 1,
@@ -815,11 +818,11 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 11,
+        "WFF": 10,
         "On Hold": 1,
         "Blocked": 0,
         "1": 1,
-        "2": 1,
+        "2": 2,
         "3": 1,
         "4": 3,
         "5": 0,
@@ -911,7 +914,7 @@
       }
     },
     "Al-Je": {
-      "count": 12,
+      "count": 11,
       "labels": {
         "NC_Onb": 0,
         "Beta": 2,
@@ -920,7 +923,7 @@
         "Blocked": 0,
         "1": 2,
         "2": 0,
-        "3": 3,
+        "3": 2,
         "4": 0,
         "5": 1,
         "6": 0,
@@ -962,18 +965,18 @@
       }
     },
     "Cr-Bu": {
-      "count": 31,
+      "count": 32,
       "issues_by_project": {
         "bucket/support": 1,
         "psd2/PRR": 1,
         "SE/bucket": 4,
-        "service/support": 25
+        "service/support": 26
       }
     },
     "Ig-Li": {
-      "count": 25,
+      "count": 24,
       "issues_by_project": {
-        "service/support": 25
+        "service/support": 24
       }
     },
     "Ir-Gr": {
