@@ -90,7 +90,7 @@
         "1M": 1,
         "1S": 1,
         "10M": 1,
-        "2M": 1,
+        "2L": 1,
         "3M": 3,
         "4S": 1,
         "9M": 1
@@ -107,14 +107,13 @@
       }
     },
     "Da-Su": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "1M": 2,
         "1S": 1,
         "2L": 1,
         "2M": 3,
-        "2S": 1,
         "3M": 3,
         "4S": 1,
         "5S": 1
@@ -122,13 +121,13 @@
       "issues_by_project": {
         "DemoJ": 1,
         "service/global": 2,
-        "service/support": 4,
+        "service/support": 3,
         "service/thief": 6
       },
       "categories": {
         "low": 2,
         "medium": 3,
-        "high": 8
+        "high": 7
       },
       "no_due_dates": [
 
@@ -325,8 +324,8 @@
       ]
     },
     "Ma-Gu": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 15,
+      "count": 15,
       "labels": {
         "1M": 5,
         "1S": 1,
@@ -334,15 +333,14 @@
         "3S": 4,
         "4S": 2,
         "5M": 1,
-        "5S": 1,
         "7S": 1
       },
       "issues_by_project": {
-        "service/support": 10,
+        "service/support": 9,
         "service/thief": 6
       },
       "categories": {
-        "low": 8,
+        "low": 7,
         "medium": 1,
         "high": 7
       },
@@ -737,11 +735,11 @@
       }
     },
     "Da-Su": {
-      "count": 16,
+      "count": 15,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 5,
+        "WFF": 4,
         "On Hold": 3,
         "Blocked": 0,
         "1": 2,
@@ -897,11 +895,11 @@
       }
     },
     "Ma-Gu": {
-      "count": 19,
+      "count": 18,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 5,
+        "WFF": 4,
         "On Hold": 3,
         "Blocked": 0,
         "1": 5,
@@ -968,12 +966,12 @@
       }
     },
     "Cr-Bu": {
-      "count": 32,
+      "count": 30,
       "issues_by_project": {
         "bucket/support": 1,
         "psd2/PRR": 1,
         "SE/bucket": 4,
-        "service/support": 26
+        "service/support": 24
       }
     },
     "Ig-Li": {
