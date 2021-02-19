@@ -5,8 +5,8 @@
       "count": 17,
       "labels": {
         "1L": 1,
-        "1M": 2,
-        "1S": 3,
+        "1M": 3,
+        "1S": 2,
         "10L": 1,
         "2M": 1,
         "3M": 3,
@@ -217,10 +217,10 @@
       ]
     },
     "An-Mo": {
-      "service_count": 20,
-      "count": 20,
+      "service_count": 19,
+      "count": 19,
       "labels": {
-        "1M": 3,
+        "1M": 2,
         "2M": 1,
         "2S": 3,
         "3M": 2,
@@ -231,13 +231,13 @@
         "7S": 1
       },
       "issues_by_project": {
-        "service/support": 16,
+        "service/support": 15,
         "service/thief": 4
       },
       "categories": {
         "low": 9,
         "medium": 4,
-        "high": 7
+        "high": 6
       },
       "no_due_dates": [
 
@@ -275,11 +275,11 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 15,
-      "count": 15,
+      "service_count": 16,
+      "count": 16,
       "labels": {
         "1M": 2,
-        "1S": 4,
+        "1S": 5,
         "2S": 3,
         "4S": 2,
         "5S": 1,
@@ -287,13 +287,13 @@
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 12,
+        "service/support": 13,
         "service/thief": 3
       },
       "categories": {
         "low": 5,
         "medium": 0,
-        "high": 10
+        "high": 11
       },
       "no_due_dates": [
 
@@ -817,11 +817,11 @@
       }
     },
     "An-Mo": {
-      "count": 22,
+      "count": 21,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 11,
+        "WFF": 10,
         "On Hold": 1,
         "Blocked": 0,
         "1": 2,
@@ -861,8 +861,8 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 10,
-        "On Hold": 6,
+        "WFF": 11,
+        "On Hold": 5,
         "Blocked": 0,
         "1": 2,
         "2": 0,
