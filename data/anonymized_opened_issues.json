@@ -196,27 +196,27 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 15,
-      "count": 19,
+      "service_count": 14,
+      "count": 18,
       "labels": {
         "1M": 2,
         "1S": 2,
         "3M": 3,
         "3S": 3,
         "4S": 2,
-        "5M": 2,
+        "5M": 1,
         "5S": 1
       },
       "issues_by_project": {
         "DemoJ": 1,
         "SE/bucket": 4,
-        "service/global": 2,
+        "service/global": 1,
         "service/support": 8,
         "service/thief": 4
       },
       "categories": {
         "low": 6,
-        "medium": 5,
+        "medium": 4,
         "high": 4
       },
       "overdues": [
@@ -391,14 +391,15 @@
       "labels": {
         "3S": 3,
         "4S": 1,
-        "5S": 2
+        "5M": 1,
+        "5S": 1
       },
       "issues_by_project": {
         "service/support": 6
       },
       "categories": {
-        "low": 6,
-        "medium": 0,
+        "low": 5,
+        "medium": 1,
         "high": 0
       },
       "no_due_dates": [
@@ -805,7 +806,7 @@
       }
     },
     "Da-Ni": {
-      "count": 23,
+      "count": 22,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
@@ -816,7 +817,7 @@
         "2": 0,
         "3": 4,
         "4": 1,
-        "5": 2,
+        "5": 1,
         "6": 0,
         "7": 0,
         "8": 0,
@@ -849,12 +850,12 @@
       "labels": {
         "NC_Onb": 1,
         "Beta": 1,
-        "WFF": 6,
+        "WFF": 7,
         "On Hold": 4,
         "Blocked": 0,
         "1": 1,
         "2": 2,
-        "3": 4,
+        "3": 3,
         "4": 2,
         "5": 0,
         "6": 0,
@@ -869,10 +870,10 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 11,
+        "WFF": 10,
         "On Hold": 5,
         "Blocked": 0,
-        "1": 2,
+        "1": 3,
         "2": 0,
         "3": 2,
         "4": 2,
@@ -949,14 +950,14 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 1,
+        "WFF": 2,
         "On Hold": 0,
         "Blocked": 0,
         "1": 0,
         "2": 0,
         "3": 2,
         "4": 1,
-        "5": 2,
+        "5": 1,
         "6": 0,
         "7": 0,
         "8": 0,
