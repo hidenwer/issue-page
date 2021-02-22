@@ -342,8 +342,7 @@
         "2S": 1,
         "3S": 3,
         "4S": 1,
-        "5M": 1,
-        "5S": 1,
+        "5M": 2,
         "7S": 1
       },
       "issues_by_project": {
@@ -351,8 +350,8 @@
         "service/thief": 6
       },
       "categories": {
-        "low": 6,
-        "medium": 1,
+        "low": 5,
+        "medium": 2,
         "high": 7
       },
       "no_due_dates": [
