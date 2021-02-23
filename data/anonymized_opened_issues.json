@@ -357,23 +357,23 @@
       ]
     },
     "Al-Je": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "1M": 2,
         "2S": 1,
         "3M": 1,
         "3S": 2,
-        "5S": 3,
+        "5S": 2,
         "6S": 2,
         "Beta": 2
       },
       "issues_by_project": {
         "service/support": 9,
-        "service/thief": 4
+        "service/thief": 3
       },
       "categories": {
-        "low": 7,
+        "low": 6,
         "medium": 1,
         "high": 5
       },
@@ -921,7 +921,7 @@
       }
     },
     "Al-Je": {
-      "count": 14,
+      "count": 13,
       "labels": {
         "NC_Onb": 0,
         "Beta": 2,
@@ -932,7 +932,7 @@
         "2": 1,
         "3": 3,
         "4": 0,
-        "5": 3,
+        "5": 2,
         "6": 1,
         "7": 0,
         "8": 0,
