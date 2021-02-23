@@ -1,12 +1,12 @@
 {
   "load": {
     "Ed-Ma": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 17,
+      "count": 17,
       "labels": {
         "1L": 1,
         "1M": 3,
-        "1S": 2,
+        "1S": 3,
         "10L": 1,
         "2M": 1,
         "3M": 4,
@@ -16,14 +16,14 @@
       "issues_by_project": {
         "DemoJ": 2,
         "service/global": 3,
-        "service/robber": 1,
+        "service/robber": 2,
         "service/support": 5,
         "service/thief": 5
       },
       "categories": {
         "low": 5,
         "medium": 4,
-        "high": 7
+        "high": 8
       },
       "no_due_dates": [
 
@@ -661,14 +661,14 @@
   },
   "lbl": {
     "Ed-Ma": {
-      "count": 20,
+      "count": 21,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
         "WFF": 2,
         "On Hold": 3,
         "Blocked": 1,
-        "1": 4,
+        "1": 5,
         "2": 1,
         "3": 5,
         "4": 0,
@@ -865,10 +865,10 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 10,
+        "WFF": 11,
         "On Hold": 5,
         "Blocked": 0,
-        "1": 3,
+        "1": 2,
         "2": 1,
         "3": 2,
         "4": 0,
