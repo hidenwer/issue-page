@@ -1,8 +1,8 @@
 {
   "load": {
     "Ed-Ma": {
-      "service_count": 17,
-      "count": 17,
+      "service_count": 16,
+      "count": 16,
       "labels": {
         "1L": 1,
         "1M": 3,
@@ -10,19 +10,18 @@
         "10L": 1,
         "2M": 1,
         "3M": 4,
-        "3S": 2,
+        "3S": 1,
         "5S": 3
       },
       "issues_by_project": {
         "DemoJ": 2,
         "service/global": 3,
-        "service/kpi": 1,
         "service/robber": 1,
         "service/support": 5,
         "service/thief": 5
       },
       "categories": {
-        "low": 6,
+        "low": 5,
         "medium": 4,
         "high": 7
       },
@@ -31,14 +30,15 @@
       ]
     },
     "Al-Hi": {
-      "service_count": 16,
-      "count": 18,
+      "service_count": 18,
+      "count": 20,
       "labels": {
         "1M": 3,
         "1S": 6,
         "2M": 1,
         "3M": 3,
-        "3S": 2,
+        "3S": 3,
+        "4M": 1,
         "7L": 1
       },
       "issues_by_project": {
@@ -47,11 +47,11 @@
         "SE/bucket": 1,
         "service/global": 1,
         "service/support": 3,
-        "service/thief": 11
+        "service/thief": 13
       },
       "categories": {
-        "low": 3,
-        "medium": 3,
+        "low": 4,
+        "medium": 4,
         "high": 10
       }
     },
@@ -423,12 +423,12 @@
     "Al-Hi": {
       "count": 5,
       "labels": {
-        "On Hold": 4,
+        "On Hold": 3,
         "Blocked": 0,
         "1": 1,
         "2": 0,
         "3": 0,
-        "4": 0,
+        "4": 1,
         "5": 0,
         "6": 0,
         "7": 0,
@@ -661,11 +661,11 @@
   },
   "lbl": {
     "Ed-Ma": {
-      "count": 21,
+      "count": 20,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 3,
+        "WFF": 2,
         "On Hold": 3,
         "Blocked": 1,
         "1": 4,
@@ -681,16 +681,16 @@
       }
     },
     "Al-Hi": {
-      "count": 29,
+      "count": 30,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 8,
-        "On Hold": 11,
+        "WFF": 9,
+        "On Hold": 10,
         "Blocked": 1,
         "1": 3,
         "2": 1,
-        "3": 4,
+        "3": 5,
         "4": 0,
         "5": 0,
         "6": 0,
@@ -765,12 +765,12 @@
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 7,
+        "WFF": 8,
         "On Hold": 0,
         "Blocked": 0,
         "1": 1,
         "2": 1,
-        "3": 2,
+        "3": 1,
         "4": 1,
         "5": 2,
         "6": 1,
@@ -987,7 +987,7 @@
       }
     },
     "Ir-Gr": {
-      "count": 32,
+      "count": 31,
       "issues_by_project": {
         "care/global": 4,
         "care/internal": 10,
@@ -995,7 +995,7 @@
         "SE/bucket": 5,
         "SE/docs": 5,
         "service/global": 3,
-        "service/kpi": 2,
+        "service/kpi": 1,
         "service/support": 2
       }
     },
