@@ -83,11 +83,11 @@
       ]
     },
     "Eu-Mo": {
-      "service_count": 15,
-      "count": 16,
+      "service_count": 16,
+      "count": 17,
       "labels": {
         "1M": 1,
-        "1S": 2,
+        "1S": 3,
         "10M": 1,
         "2L": 1,
         "3L": 2,
@@ -100,12 +100,12 @@
       "issues_by_project": {
         "SE/bucket": 1,
         "service/support": 8,
-        "service/thief": 7
+        "service/thief": 8
       },
       "categories": {
         "low": 4,
         "medium": 7,
-        "high": 4
+        "high": 5
       }
     },
     "Da-Su": {
@@ -720,11 +720,11 @@
       }
     },
     "Eu-Mo": {
-      "count": 18,
+      "count": 19,
       "labels": {
         "NC_Onb": 2,
         "Beta": 0,
-        "WFF": 8,
+        "WFF": 9,
         "On Hold": 3,
         "Blocked": 0,
         "1": 1,
