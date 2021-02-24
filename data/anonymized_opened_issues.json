@@ -722,12 +722,12 @@
       "labels": {
         "NC_Onb": 2,
         "Beta": 0,
-        "WFF": 8,
+        "WFF": 9,
         "On Hold": 3,
         "Blocked": 0,
         "1": 1,
         "2": 1,
-        "3": 3,
+        "3": 2,
         "4": 0,
         "5": 0,
         "6": 0,
@@ -782,14 +782,14 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 6,
+        "WFF": 7,
         "On Hold": 1,
         "Blocked": 0,
         "1": 4,
         "2": 0,
         "3": 0,
         "4": 1,
-        "5": 1,
+        "5": 0,
         "6": 0,
         "7": 1,
         "8": 0,
@@ -960,11 +960,11 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 31,
+      "count": 32,
       "issues_by_project": {
         "bucket/support": 2,
         "service/stealer": 1,
-        "service/support": 27,
+        "service/support": 28,
         "service/thief": 1
       }
     },
