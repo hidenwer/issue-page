@@ -142,7 +142,7 @@
       "labels": {
         "1M": 2,
         "1S": 1,
-        "10S": 1,
+        "10M": 1,
         "2S": 2,
         "3M": 2,
         "3S": 1,
@@ -157,8 +157,8 @@
         "service/thief": 5
       },
       "categories": {
-        "low": 7,
-        "medium": 5,
+        "low": 6,
+        "medium": 6,
         "high": 5
       },
       "no_due_dates": [
