@@ -969,12 +969,12 @@
       }
     },
     "Cr-Bu": {
-      "count": 35,
+      "count": 36,
       "issues_by_project": {
         "bucket/support": 1,
         "psd2/PRR": 1,
         "SE/bucket": 4,
-        "service/support": 29
+        "service/support": 30
       }
     },
     "Ig-Li": {
@@ -997,9 +997,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 25,
+      "count": 26,
       "issues_by_project": {
-        "service/support": 25
+        "service/support": 26
       }
     }
   },
