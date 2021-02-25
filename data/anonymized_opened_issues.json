@@ -140,7 +140,7 @@
     },
     "Se-Vo": {
       "service_count": 17,
-      "count": 17,
+      "count": 18,
       "labels": {
         "1M": 2,
         "1S": 1,
@@ -156,16 +156,14 @@
       },
       "issues_by_project": {
         "service/support": 12,
-        "service/thief": 5
+        "service/thief": 5,
+        "shared/salt-common": 1
       },
       "categories": {
         "low": 6,
         "medium": 6,
         "high": 5
-      },
-      "no_due_dates": [
-
-      ]
+      }
     },
     "St-Da": {
       "service_count": 15,
@@ -784,7 +782,7 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 5,
+        "WFF": 6,
         "On Hold": 1,
         "Blocked": 0,
         "1": 3,
@@ -793,7 +791,7 @@
         "4": 2,
         "5": 0,
         "6": 0,
-        "7": 1,
+        "7": 0,
         "8": 0,
         "9": 0,
         "10": 0
