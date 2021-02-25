@@ -139,8 +139,8 @@
       ]
     },
     "Se-Vo": {
-      "service_count": 17,
-      "count": 18,
+      "service_count": 16,
+      "count": 17,
       "labels": {
         "1M": 2,
         "1S": 1,
@@ -148,20 +148,20 @@
         "2S": 2,
         "3M": 2,
         "3S": 1,
-        "4M": 2,
+        "4M": 1,
         "4S": 1,
         "5S": 3,
         "6M": 1,
         "8S": 1
       },
       "issues_by_project": {
-        "service/support": 12,
+        "service/support": 11,
         "service/thief": 5,
         "shared/salt-common": 1
       },
       "categories": {
         "low": 6,
-        "medium": 6,
+        "medium": 5,
         "high": 5
       },
       "no_due_dates": [
@@ -661,10 +661,10 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 4,
+        "WFF": 5,
         "On Hold": 3,
         "Blocked": 1,
-        "1": 4,
+        "1": 3,
         "2": 1,
         "3": 6,
         "4": 0,
@@ -757,11 +757,11 @@
       }
     },
     "Se-Vo": {
-      "count": 17,
+      "count": 16,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 8,
+        "WFF": 7,
         "On Hold": 0,
         "Blocked": 0,
         "1": 1,
@@ -959,11 +959,11 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 35,
+      "count": 34,
       "issues_by_project": {
         "bucket/support": 3,
         "service/stealer": 1,
-        "service/support": 30,
+        "service/support": 29,
         "service/thief": 1
       }
     },
