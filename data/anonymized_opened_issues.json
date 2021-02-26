@@ -54,7 +54,10 @@
         "low": 5,
         "medium": 5,
         "high": 8
-      }
+      },
+      "overdues": [
+
+      ]
     },
     "Co-Ci": {
       "service_count": 16,
@@ -280,6 +283,9 @@
         "medium": 5,
         "high": 4
       },
+      "overdues": [
+
+      ],
       "no_due_dates": [
 
       ]
@@ -313,10 +319,10 @@
       ]
     },
     "Se-Ra": {
-      "service_count": 8,
-      "count": 8,
+      "service_count": 7,
+      "count": 7,
       "labels": {
-        "1M": 2,
+        "1M": 1,
         "1S": 1,
         "4S": 2,
         "5S": 2,
@@ -324,13 +330,16 @@
       },
       "issues_by_project": {
         "service/support": 6,
-        "service/thief": 2
+        "service/thief": 1
       },
       "categories": {
         "low": 4,
         "medium": 0,
-        "high": 4
+        "high": 3
       },
+      "overdues": [
+
+      ],
       "no_due_dates": [
 
       ]
@@ -355,6 +364,9 @@
         "medium": 2,
         "high": 7
       },
+      "overdues": [
+
+      ],
       "no_due_dates": [
 
       ]
@@ -604,9 +616,9 @@
     "Se-Ra": {
       "count": 2,
       "labels": {
-        "On Hold": 1,
+        "On Hold": 2,
         "Blocked": 0,
-        "1": 1,
+        "1": 0,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -796,13 +808,13 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 8,
+        "WFF": 7,
         "On Hold": 1,
         "Blocked": 0,
         "1": 2,
         "2": 1,
         "3": 0,
-        "4": 1,
+        "4": 2,
         "5": 0,
         "6": 0,
         "7": 0,
@@ -896,8 +908,8 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 2,
-        "On Hold": 1,
+        "WFF": 1,
+        "On Hold": 2,
         "Blocked": 0,
         "1": 1,
         "2": 0,
@@ -1011,9 +1023,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 20,
+      "count": 21,
       "issues_by_project": {
-        "service/support": 20
+        "service/support": 21
       }
     }
   },
