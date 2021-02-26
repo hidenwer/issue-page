@@ -270,24 +270,23 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 15,
-      "count": 15,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1M": 2,
         "1S": 1,
         "2S": 2,
-        "3S": 5,
-        "4S": 1,
+        "3S": 4,
         "5S": 1,
         "7S": 2,
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 12,
-        "service/thief": 3
+        "service/support": 11,
+        "service/thief": 2
       },
       "categories": {
-        "low": 9,
+        "low": 7,
         "medium": 0,
         "high": 6
       },
@@ -853,12 +852,12 @@
       }
     },
     "Ro-Ci": {
-      "count": 20,
+      "count": 19,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 8,
-        "On Hold": 5,
+        "WFF": 6,
+        "On Hold": 6,
         "Blocked": 0,
         "1": 2,
         "2": 1,
