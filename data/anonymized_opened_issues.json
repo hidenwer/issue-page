@@ -86,8 +86,8 @@
       ]
     },
     "Eu-Mo": {
-      "service_count": 16,
-      "count": 17,
+      "service_count": 15,
+      "count": 16,
       "labels": {
         "1M": 1,
         "1S": 1,
@@ -97,16 +97,15 @@
         "3M": 3,
         "3S": 4,
         "4S": 1,
-        "5S": 1,
         "9M": 1
       },
       "issues_by_project": {
         "SE/bucket": 1,
-        "service/support": 8,
+        "service/support": 7,
         "service/thief": 8
       },
       "categories": {
-        "low": 6,
+        "low": 5,
         "medium": 7,
         "high": 3
       }
@@ -716,7 +715,7 @@
       }
     },
     "Eu-Mo": {
-      "count": 19,
+      "count": 18,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
@@ -727,7 +726,7 @@
         "2": 1,
         "3": 6,
         "4": 0,
-        "5": 1,
+        "5": 0,
         "6": 0,
         "7": 0,
         "8": 0,
@@ -967,12 +966,12 @@
       }
     },
     "Cr-Bu": {
-      "count": 33,
+      "count": 32,
       "issues_by_project": {
         "bucket/support": 2,
         "psd2/PRR": 1,
         "SE/bucket": 4,
-        "service/support": 26
+        "service/support": 25
       }
     },
     "Ig-Li": {
