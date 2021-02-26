@@ -222,23 +222,23 @@
       ]
     },
     "An-Mo": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "1M": 2,
         "2S": 3,
         "3M": 1,
         "3S": 2,
-        "4S": 3,
+        "4S": 2,
         "5M": 1,
         "7S": 1
       },
       "issues_by_project": {
-        "service/support": 10,
+        "service/support": 9,
         "service/thief": 3
       },
       "categories": {
-        "low": 6,
+        "low": 5,
         "medium": 2,
         "high": 5
       },
@@ -815,11 +815,11 @@
       }
     },
     "An-Mo": {
-      "count": 15,
+      "count": 14,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 9,
+        "WFF": 8,
         "On Hold": 1,
         "Blocked": 0,
         "1": 2,
@@ -975,9 +975,9 @@
       }
     },
     "Ig-Li": {
-      "count": 25,
+      "count": 24,
       "issues_by_project": {
-        "service/support": 25
+        "service/support": 24
       }
     },
     "Ir-Gr": {
