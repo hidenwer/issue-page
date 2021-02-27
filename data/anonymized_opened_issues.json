@@ -113,10 +113,7 @@
         "low": 2,
         "medium": 7,
         "high": 2
-      },
-      "overdues": [
-
-      ]
+      }
     },
     "Da-Su": {
       "service_count": 13,
@@ -226,9 +223,6 @@
         "medium": 4,
         "high": 4
       },
-      "overdues": [
-
-      ],
       "no_due_dates": [
 
       ]
