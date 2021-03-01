@@ -961,9 +961,9 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 29,
+      "count": 30,
       "issues_by_project": {
-        "bucket/support": 2,
+        "bucket/support": 3,
         "service/stealer": 1,
         "service/support": 25,
         "service/thief": 1
