@@ -165,23 +165,23 @@
       ]
     },
     "St-Da": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 14,
+      "count": 14,
       "labels": {
         "1M": 3,
         "2S": 1,
         "3S": 2,
         "4M": 1,
-        "4S": 3,
+        "4S": 4,
         "5S": 2,
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 8,
+        "service/support": 9,
         "service/thief": 5
       },
       "categories": {
-        "low": 7,
+        "low": 8,
         "medium": 1,
         "high": 5
       },
@@ -346,22 +346,21 @@
       ]
     },
     "Al-Je": {
-      "service_count": 11,
-      "count": 11,
+      "service_count": 10,
+      "count": 10,
       "labels": {
         "1M": 3,
         "2S": 1,
-        "3S": 1,
         "5S": 2,
         "6S": 2,
         "Beta": 2
       },
       "issues_by_project": {
-        "service/support": 8,
+        "service/support": 7,
         "service/thief": 3
       },
       "categories": {
-        "low": 5,
+        "low": 4,
         "medium": 0,
         "high": 6
       },
@@ -775,7 +774,7 @@
       }
     },
     "St-Da": {
-      "count": 14,
+      "count": 15,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
@@ -785,7 +784,7 @@
         "1": 2,
         "2": 1,
         "3": 0,
-        "4": 1,
+        "4": 2,
         "5": 0,
         "6": 0,
         "7": 0,
@@ -915,11 +914,11 @@
       }
     },
     "Al-Je": {
-      "count": 12,
+      "count": 11,
       "labels": {
         "NC_Onb": 1,
         "Beta": 2,
-        "WFF": 4,
+        "WFF": 3,
         "On Hold": 1,
         "Blocked": 0,
         "1": 2,
@@ -966,18 +965,18 @@
       }
     },
     "Cr-Bu": {
-      "count": 29,
+      "count": 30,
       "issues_by_project": {
         "bucket/support": 2,
         "psd2/PRR": 1,
         "SE/bucket": 4,
-        "service/support": 22
+        "service/support": 23
       }
     },
     "Ig-Li": {
-      "count": 18,
+      "count": 17,
       "issues_by_project": {
-        "service/support": 18
+        "service/support": 17
       }
     },
     "Ir-Gr": {
