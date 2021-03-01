@@ -8,8 +8,9 @@
         "1M": 1,
         "1S": 1,
         "2M": 2,
+        "2S": 1,
         "3M": 3,
-        "3S": 3,
+        "3S": 2,
         "4M": 1
       },
       "issues_by_project": {
@@ -19,9 +20,9 @@
         "service/thief": 3
       },
       "categories": {
-        "low": 3,
+        "low": 2,
         "medium": 4,
-        "high": 5
+        "high": 6
       },
       "no_due_dates": [
 
@@ -863,10 +864,10 @@
       "labels": {
         "NC_Onb": 1,
         "Beta": 1,
-        "WFF": 7,
+        "WFF": 8,
         "On Hold": 6,
         "Blocked": 0,
-        "1": 2,
+        "1": 1,
         "2": 0,
         "3": 3,
         "4": 0,
