@@ -113,8 +113,8 @@
       }
     },
     "Da-Su": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 14,
+      "count": 14,
       "labels": {
         "1M": 3,
         "1S": 1,
@@ -122,21 +122,19 @@
         "2S": 1,
         "3M": 3,
         "4S": 2,
-        "5S": 1
+        "5S": 1,
+        "S": 1
       },
       "issues_by_project": {
         "service/global": 3,
-        "service/support": 2,
+        "service/support": 3,
         "service/thief": 8
       },
       "categories": {
         "low": 3,
         "medium": 3,
         "high": 7
-      },
-      "no_due_dates": [
-
-      ]
+      }
     },
     "Se-Vo": {
       "service_count": 15,
@@ -959,11 +957,11 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 27,
+      "count": 28,
       "issues_by_project": {
         "bucket/support": 3,
         "service/stealer": 1,
-        "service/support": 22,
+        "service/support": 23,
         "service/thief": 1
       }
     },
