@@ -763,12 +763,12 @@
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 7,
+        "WFF": 8,
         "On Hold": 1,
         "Blocked": 0,
         "1": 1,
         "2": 0,
-        "3": 3,
+        "3": 2,
         "4": 1,
         "5": 1,
         "6": 1,
@@ -979,9 +979,9 @@
       }
     },
     "Ig-Li": {
-      "count": 19,
+      "count": 20,
       "issues_by_project": {
-        "service/support": 19
+        "service/support": 20
       }
     },
     "Ir-Gr": {
