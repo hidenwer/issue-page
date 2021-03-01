@@ -1,11 +1,11 @@
 {
   "load": {
     "Ed-Ma": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "1L": 1,
-        "1M": 2,
+        "1M": 1,
         "1S": 1,
         "2M": 2,
         "3M": 3,
@@ -13,7 +13,7 @@
         "4M": 1
       },
       "issues_by_project": {
-        "DemoJ": 3,
+        "DemoJ": 2,
         "service/global": 3,
         "service/support": 4,
         "service/thief": 3
@@ -21,7 +21,7 @@
       "categories": {
         "low": 3,
         "medium": 4,
-        "high": 6
+        "high": 5
       },
       "no_due_dates": [
 
@@ -194,10 +194,10 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 12,
-      "count": 17,
+      "service_count": 13,
+      "count": 18,
       "labels": {
-        "1M": 3,
+        "1M": 4,
         "1S": 1,
         "3M": 3,
         "3S": 1,
@@ -210,12 +210,12 @@
         "SE/bucket": 5,
         "service/global": 1,
         "service/support": 5,
-        "service/thief": 5
+        "service/thief": 6
       },
       "categories": {
         "low": 4,
         "medium": 4,
-        "high": 4
+        "high": 5
       },
       "no_due_dates": [
 
@@ -521,11 +521,11 @@
       }
     },
     "Da-Ni": {
-      "count": 2,
+      "count": 3,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
-        "1": 1,
+        "1": 2,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -664,9 +664,9 @@
         "NC_Onb": 0,
         "Beta": 0,
         "WFF": 5,
-        "On Hold": 3,
+        "On Hold": 4,
         "Blocked": 1,
-        "1": 2,
+        "1": 1,
         "2": 2,
         "3": 4,
         "4": 0,
@@ -763,14 +763,14 @@
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 8,
+        "WFF": 7,
         "On Hold": 1,
         "Blocked": 0,
         "1": 1,
         "2": 0,
         "3": 2,
         "4": 1,
-        "5": 1,
+        "5": 2,
         "6": 1,
         "7": 0,
         "8": 0,
@@ -799,14 +799,14 @@
       }
     },
     "Da-Ni": {
-      "count": 19,
+      "count": 20,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
         "WFF": 3,
         "On Hold": 6,
         "Blocked": 1,
-        "1": 4,
+        "1": 5,
         "2": 0,
         "3": 3,
         "4": 0,
