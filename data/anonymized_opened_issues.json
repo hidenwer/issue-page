@@ -113,13 +113,13 @@
       }
     },
     "Da-Su": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1M": 3,
         "2M": 2,
         "2S": 1,
-        "3M": 3,
+        "3M": 2,
         "4S": 2,
         "5S": 2,
         "7M": 1
@@ -127,11 +127,11 @@
       "issues_by_project": {
         "service/global": 3,
         "service/support": 3,
-        "service/thief": 8
+        "service/thief": 7
       },
       "categories": {
         "low": 4,
-        "medium": 4,
+        "medium": 3,
         "high": 6
       },
       "no_due_dates": [
@@ -168,24 +168,24 @@
       ]
     },
     "St-Da": {
-      "service_count": 20,
-      "count": 20,
+      "service_count": 19,
+      "count": 19,
       "labels": {
         "1M": 3,
         "1S": 1,
         "2S": 3,
-        "3S": 4,
+        "3S": 3,
         "4M": 1,
         "4S": 5,
         "5S": 2,
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 14,
+        "service/support": 13,
         "service/thief": 6
       },
       "categories": {
-        "low": 11,
+        "low": 10,
         "medium": 1,
         "high": 8
       },
@@ -194,10 +194,10 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 14,
-      "count": 19,
+      "service_count": 13,
+      "count": 18,
       "labels": {
-        "1M": 4,
+        "1M": 3,
         "1S": 1,
         "3M": 2,
         "3S": 3,
@@ -211,12 +211,12 @@
         "SE/bucket": 5,
         "service/global": 1,
         "service/support": 5,
-        "service/thief": 7
+        "service/thief": 6
       },
       "categories": {
         "low": 5,
         "medium": 4,
-        "high": 5
+        "high": 4
       },
       "no_due_dates": [
 
@@ -250,12 +250,12 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 19,
-      "count": 19,
+      "service_count": 18,
+      "count": 18,
       "labels": {
         "1M": 3,
         "2M": 1,
-        "2S": 2,
+        "2S": 1,
         "3M": 3,
         "3S": 2,
         "4M": 3,
@@ -264,13 +264,13 @@
       },
       "issues_by_project": {
         "service/global": 2,
-        "service/support": 9,
+        "service/support": 8,
         "service/thief": 8
       },
       "categories": {
         "low": 5,
         "medium": 6,
-        "high": 8
+        "high": 7
       },
       "no_due_dates": [
 
@@ -519,11 +519,11 @@
       }
     },
     "Da-Ni": {
-      "count": 3,
+      "count": 2,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
-        "1": 2,
+        "1": 1,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -661,10 +661,10 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 4,
+        "WFF": 5,
         "On Hold": 1,
         "Blocked": 1,
-        "1": 4,
+        "1": 3,
         "2": 5,
         "3": 4,
         "4": 0,
@@ -742,11 +742,11 @@
         "NC_Onb": 0,
         "Beta": 0,
         "WFF": 2,
-        "On Hold": 2,
+        "On Hold": 3,
         "Blocked": 0,
         "1": 2,
         "2": 3,
-        "3": 3,
+        "3": 2,
         "4": 1,
         "5": 2,
         "6": 0,
@@ -777,7 +777,7 @@
       }
     },
     "St-Da": {
-      "count": 21,
+      "count": 20,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
@@ -786,7 +786,7 @@
         "Blocked": 0,
         "1": 2,
         "2": 3,
-        "3": 2,
+        "3": 1,
         "4": 4,
         "5": 0,
         "6": 0,
@@ -797,14 +797,14 @@
       }
     },
     "Da-Ni": {
-      "count": 22,
+      "count": 21,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 2,
+        "WFF": 3,
         "On Hold": 7,
         "Blocked": 1,
-        "1": 4,
+        "1": 2,
         "2": 0,
         "3": 5,
         "4": 1,
@@ -821,12 +821,12 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 4,
+        "WFF": 5,
         "On Hold": 2,
         "Blocked": 0,
         "1": 2,
         "2": 3,
-        "3": 2,
+        "3": 1,
         "4": 0,
         "5": 1,
         "6": 1,
@@ -837,7 +837,7 @@
       }
     },
     "Se-Tu": {
-      "count": 21,
+      "count": 20,
       "labels": {
         "NC_Onb": 0,
         "Beta": 2,
@@ -845,7 +845,7 @@
         "On Hold": 2,
         "Blocked": 0,
         "1": 3,
-        "2": 2,
+        "2": 1,
         "3": 2,
         "4": 5,
         "5": 0,
@@ -968,13 +968,13 @@
       }
     },
     "Cr-Bu": {
-      "count": 35,
+      "count": 34,
       "issues_by_project": {
         "bucket/support": 1,
         "psd2/PRR": 1,
         "SE/bucket": 4,
         "SE/docs": 1,
-        "service/support": 27,
+        "service/support": 26,
         "service/thief": 1
       }
     },
@@ -1076,11 +1076,11 @@
     "Da-Su": {
       "count": 2,
       "labels": {
-        "On Hold": 0,
+        "On Hold": 1,
         "Blocked": 0,
         "1": 0,
         "2": 0,
-        "3": 2,
+        "3": 1,
         "4": 0,
         "5": 0,
         "6": 0,
