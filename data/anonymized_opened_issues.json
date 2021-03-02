@@ -353,22 +353,22 @@
       ]
     },
     "Al-Je": {
-      "service_count": 12,
-      "count": 12,
+      "service_count": 11,
+      "count": 11,
       "labels": {
         "1M": 3,
         "2S": 2,
         "4S": 1,
         "5S": 2,
-        "6S": 2,
+        "6S": 1,
         "Beta": 2
       },
       "issues_by_project": {
-        "service/support": 9,
+        "service/support": 8,
         "service/thief": 3
       },
       "categories": {
-        "low": 5,
+        "low": 4,
         "medium": 0,
         "high": 7
       },
@@ -919,11 +919,11 @@
       }
     },
     "Al-Je": {
-      "count": 13,
+      "count": 12,
       "labels": {
         "NC_Onb": 1,
         "Beta": 2,
-        "WFF": 4,
+        "WFF": 3,
         "On Hold": 1,
         "Blocked": 0,
         "1": 2,
@@ -943,12 +943,12 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 1,
+        "WFF": 0,
         "On Hold": 0,
         "Blocked": 0,
         "1": 1,
         "2": 0,
-        "3": 2,
+        "3": 3,
         "4": 1,
         "5": 1,
         "6": 0,
@@ -961,11 +961,11 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 31,
+      "count": 32,
       "issues_by_project": {
         "bucket/support": 3,
         "service/stealer": 1,
-        "service/support": 26,
+        "service/support": 27,
         "service/thief": 1
       }
     },
@@ -981,9 +981,9 @@
       }
     },
     "Ig-Li": {
-      "count": 19,
+      "count": 18,
       "issues_by_project": {
-        "service/support": 19
+        "service/support": 18
       }
     },
     "Ir-Gr": {
