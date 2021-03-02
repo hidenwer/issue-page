@@ -959,11 +959,11 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 32,
+      "count": 33,
       "issues_by_project": {
         "bucket/support": 4,
         "service/stealer": 1,
-        "service/support": 26,
+        "service/support": 27,
         "service/thief": 1
       }
     },
@@ -998,9 +998,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 25,
+      "count": 26,
       "issues_by_project": {
-        "service/support": 25
+        "service/support": 26
       }
     }
   },
