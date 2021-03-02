@@ -29,15 +29,15 @@
       ]
     },
     "Al-Hi": {
-      "service_count": 19,
-      "count": 21,
+      "service_count": 20,
+      "count": 22,
       "labels": {
         "1L": 1,
         "1M": 2,
         "1S": 3,
         "2M": 2,
         "2S": 1,
-        "3M": 2,
+        "3M": 3,
         "3S": 3,
         "4M": 1,
         "4S": 1,
@@ -51,11 +51,11 @@
         "SE/bucket": 1,
         "service/global": 2,
         "service/support": 7,
-        "service/thief": 9
+        "service/thief": 10
       },
       "categories": {
         "low": 5,
-        "medium": 4,
+        "medium": 5,
         "high": 10
       }
     },
@@ -113,24 +113,25 @@
       }
     },
     "Da-Su": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 14,
+      "count": 14,
       "labels": {
         "1M": 3,
         "2M": 2,
         "2S": 1,
         "3M": 3,
         "4S": 2,
-        "5S": 2
+        "5S": 2,
+        "7M": 1
       },
       "issues_by_project": {
         "service/global": 3,
         "service/support": 3,
-        "service/thief": 7
+        "service/thief": 8
       },
       "categories": {
         "low": 4,
-        "medium": 3,
+        "medium": 4,
         "high": 6
       },
       "no_due_dates": [
@@ -276,10 +277,10 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 17,
-      "count": 17,
+      "service_count": 18,
+      "count": 18,
       "labels": {
-        "1M": 2,
+        "1M": 3,
         "1S": 2,
         "2S": 3,
         "3M": 1,
@@ -290,12 +291,12 @@
       },
       "issues_by_project": {
         "service/support": 14,
-        "service/thief": 3
+        "service/thief": 4
       },
       "categories": {
         "low": 8,
         "medium": 1,
-        "high": 8
+        "high": 9
       },
       "no_due_dates": [
 
@@ -420,11 +421,11 @@
     "Al-Hi": {
       "count": 6,
       "labels": {
-        "On Hold": 3,
+        "On Hold": 2,
         "Blocked": 0,
         "1": 1,
         "2": 1,
-        "3": 0,
+        "3": 1,
         "4": 1,
         "5": 0,
         "6": 0,
@@ -471,7 +472,7 @@
     "Da-Su": {
       "count": 5,
       "labels": {
-        "On Hold": 2,
+        "On Hold": 1,
         "Blocked": 0,
         "1": 2,
         "2": 1,
@@ -479,7 +480,7 @@
         "4": 0,
         "5": 0,
         "6": 0,
-        "7": 0,
+        "7": 1,
         "8": 0,
         "9": 0,
         "10": 0
@@ -573,9 +574,9 @@
     "Ro-Ci": {
       "count": 5,
       "labels": {
-        "On Hold": 3,
+        "On Hold": 2,
         "Blocked": 0,
-        "1": 1,
+        "1": 2,
         "2": 0,
         "3": 1,
         "4": 0,
@@ -588,9 +589,9 @@
       }
     },
     "Se-Ra": {
-      "count": 4,
+      "count": 3,
       "labels": {
-        "On Hold": 2,
+        "On Hold": 1,
         "Blocked": 0,
         "1": 0,
         "2": 0,
@@ -682,8 +683,8 @@
       "labels": {
         "NC_Onb": 2,
         "Beta": 1,
-        "WFF": 7,
-        "On Hold": 11,
+        "WFF": 8,
+        "On Hold": 10,
         "Blocked": 1,
         "1": 3,
         "2": 1,
@@ -743,7 +744,7 @@
         "NC_Onb": 0,
         "Beta": 0,
         "WFF": 2,
-        "On Hold": 3,
+        "On Hold": 2,
         "Blocked": 0,
         "1": 2,
         "2": 3,
@@ -751,7 +752,7 @@
         "4": 1,
         "5": 2,
         "6": 0,
-        "7": 0,
+        "7": 1,
         "8": 0,
         "9": 0,
         "10": 0
@@ -863,9 +864,9 @@
         "NC_Onb": 1,
         "Beta": 1,
         "WFF": 8,
-        "On Hold": 6,
+        "On Hold": 5,
         "Blocked": 0,
-        "1": 1,
+        "1": 2,
         "2": 2,
         "3": 4,
         "4": 0,
@@ -878,12 +879,12 @@
       }
     },
     "Se-Ra": {
-      "count": 16,
+      "count": 15,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
         "WFF": 2,
-        "On Hold": 2,
+        "On Hold": 1,
         "Blocked": 0,
         "1": 1,
         "2": 2,
@@ -969,12 +970,13 @@
       }
     },
     "Cr-Bu": {
-      "count": 31,
+      "count": 33,
       "issues_by_project": {
-        "bucket/support": 1,
+        "bucket/support": 2,
         "psd2/PRR": 1,
         "SE/bucket": 4,
-        "service/support": 25
+        "service/support": 25,
+        "service/thief": 1
       }
     },
     "Ig-Li": {
