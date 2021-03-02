@@ -306,8 +306,7 @@
       "service_count": 14,
       "count": 14,
       "labels": {
-        "1M": 1,
-        "1S": 1,
+        "1M": 2,
         "2S": 2,
         "3M": 2,
         "4S": 4,
@@ -377,21 +376,20 @@
       ]
     },
     "Ni-Tr": {
-      "service_count": 6,
-      "count": 6,
+      "service_count": 5,
+      "count": 5,
       "labels": {
         "1M": 1,
         "3M": 1,
         "3S": 2,
-        "4S": 1,
-        "5S": 1
+        "4S": 1
       },
       "issues_by_project": {
-        "service/support": 4,
+        "service/support": 3,
         "service/thief": 2
       },
       "categories": {
-        "low": 4,
+        "low": 3,
         "medium": 1,
         "high": 1
       },
@@ -783,12 +781,12 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 9,
+        "WFF": 8,
         "On Hold": 1,
         "Blocked": 0,
         "1": 2,
         "2": 2,
-        "3": 0,
+        "3": 1,
         "4": 4,
         "5": 0,
         "6": 0,
@@ -843,12 +841,12 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 2,
-        "WFF": 5,
+        "WFF": 6,
         "On Hold": 3,
         "Blocked": 0,
         "1": 2,
         "2": 2,
-        "3": 3,
+        "3": 2,
         "4": 5,
         "5": 0,
         "6": 0,
@@ -883,10 +881,10 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 2,
+        "WFF": 1,
         "On Hold": 1,
         "Blocked": 0,
-        "1": 1,
+        "1": 2,
         "2": 2,
         "3": 2,
         "4": 3,
@@ -939,7 +937,7 @@
       }
     },
     "Ni-Tr": {
-      "count": 6,
+      "count": 5,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
@@ -950,7 +948,7 @@
         "2": 0,
         "3": 3,
         "4": 1,
-        "5": 1,
+        "5": 0,
         "6": 0,
         "7": 0,
         "8": 0,
@@ -981,9 +979,9 @@
       }
     },
     "Ig-Li": {
-      "count": 18,
+      "count": 17,
       "issues_by_project": {
-        "service/support": 18
+        "service/support": 17
       }
     },
     "Ir-Gr": {
