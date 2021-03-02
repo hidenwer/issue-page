@@ -783,13 +783,13 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 8,
+        "WFF": 9,
         "On Hold": 1,
         "Blocked": 0,
         "1": 2,
         "2": 2,
         "3": 0,
-        "4": 5,
+        "4": 4,
         "5": 0,
         "6": 0,
         "7": 0,
@@ -1000,9 +1000,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 24,
+      "count": 25,
       "issues_by_project": {
-        "service/support": 24
+        "service/support": 25
       }
     }
   },
