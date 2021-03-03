@@ -140,14 +140,14 @@
       ]
     },
     "Se-Vo": {
-      "service_count": 20,
-      "count": 21,
+      "service_count": 19,
+      "count": 20,
       "labels": {
         "1M": 1,
         "10M": 1,
         "2S": 2,
         "3M": 1,
-        "3S": 6,
+        "3S": 5,
         "4M": 2,
         "4S": 3,
         "5S": 2,
@@ -155,12 +155,12 @@
         "8S": 1
       },
       "issues_by_project": {
-        "service/support": 15,
+        "service/support": 14,
         "service/thief": 5,
         "shared/salt-common": 1
       },
       "categories": {
-        "low": 12,
+        "low": 11,
         "medium": 5,
         "high": 3
       },
@@ -759,7 +759,7 @@
       }
     },
     "Se-Vo": {
-      "count": 21,
+      "count": 20,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
@@ -768,7 +768,7 @@
         "Blocked": 0,
         "1": 1,
         "2": 0,
-        "3": 6,
+        "3": 5,
         "4": 3,
         "5": 1,
         "6": 1,
@@ -1000,9 +1000,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 26,
+      "count": 25,
       "issues_by_project": {
-        "service/support": 26
+        "service/support": 25
       }
     }
   },
