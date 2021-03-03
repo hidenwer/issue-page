@@ -113,25 +113,25 @@
       }
     },
     "Da-Su": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 15,
+      "count": 15,
       "labels": {
         "1M": 3,
         "2M": 2,
         "2S": 1,
         "3M": 2,
-        "3S": 1,
+        "3S": 2,
         "4S": 2,
         "5S": 2,
         "7M": 1
       },
       "issues_by_project": {
         "service/global": 3,
-        "service/support": 4,
+        "service/support": 5,
         "service/thief": 7
       },
       "categories": {
-        "low": 5,
+        "low": 6,
         "medium": 3,
         "high": 6
       },
@@ -740,7 +740,7 @@
       }
     },
     "Da-Su": {
-      "count": 17,
+      "count": 18,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
@@ -749,7 +749,7 @@
         "Blocked": 0,
         "1": 2,
         "2": 3,
-        "3": 3,
+        "3": 4,
         "4": 1,
         "5": 2,
         "6": 0,
