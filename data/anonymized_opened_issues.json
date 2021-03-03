@@ -196,7 +196,7 @@
     },
     "Da-Ni": {
       "service_count": 13,
-      "count": 18,
+      "count": 17,
       "labels": {
         "1M": 3,
         "1S": 1,
@@ -209,7 +209,7 @@
       },
       "issues_by_project": {
         "DemoJ": 1,
-        "SE/bucket": 5,
+        "SE/bucket": 4,
         "service/global": 1,
         "service/support": 5,
         "service/thief": 6
@@ -981,9 +981,9 @@
       }
     },
     "Ig-Li": {
-      "count": 18,
+      "count": 19,
       "issues_by_project": {
-        "service/support": 18
+        "service/support": 19
       }
     },
     "Ir-Gr": {
