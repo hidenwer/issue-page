@@ -29,8 +29,8 @@
       ]
     },
     "Al-Hi": {
-      "service_count": 25,
-      "count": 27,
+      "service_count": 26,
+      "count": 28,
       "labels": {
         "1L": 1,
         "1M": 2,
@@ -43,14 +43,15 @@
         "4S": 2,
         "5M": 1,
         "7L": 1,
-        "Beta": 1
+        "Beta": 1,
+        "S": 1
       },
       "issues_by_project": {
         "bucket/support": 1,
         "DemoJ": 1,
         "SE/bucket": 1,
         "service/global": 2,
-        "service/support": 10,
+        "service/support": 11,
         "service/thief": 12
       },
       "categories": {
@@ -977,13 +978,13 @@
       }
     },
     "Cr-Bu": {
-      "count": 35,
+      "count": 36,
       "issues_by_project": {
         "bucket/support": 1,
         "psd2/PRR": 1,
         "SE/bucket": 4,
         "SE/docs": 1,
-        "service/support": 27,
+        "service/support": 28,
         "service/thief": 1
       }
     },
