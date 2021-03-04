@@ -142,8 +142,8 @@
       ]
     },
     "Se-Vo": {
-      "service_count": 19,
-      "count": 20,
+      "service_count": 18,
+      "count": 19,
       "labels": {
         "1M": 1,
         "10M": 1,
@@ -152,16 +152,16 @@
         "3S": 5,
         "4M": 2,
         "4S": 4,
-        "5S": 2,
+        "5S": 1,
         "6M": 1
       },
       "issues_by_project": {
-        "service/support": 14,
+        "service/support": 13,
         "service/thief": 5,
         "shared/salt-common": 1
       },
       "categories": {
-        "low": 11,
+        "low": 10,
         "medium": 5,
         "high": 3
       },
@@ -170,24 +170,24 @@
       ]
     },
     "St-Da": {
-      "service_count": 22,
-      "count": 22,
+      "service_count": 21,
+      "count": 21,
       "labels": {
         "1M": 4,
         "1S": 1,
         "2S": 3,
         "3M": 1,
         "3S": 3,
-        "4S": 6,
+        "4S": 5,
         "5S": 3,
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 15,
+        "service/support": 14,
         "service/thief": 7
       },
       "categories": {
-        "low": 12,
+        "low": 11,
         "medium": 1,
         "high": 9
       },
@@ -763,7 +763,7 @@
       }
     },
     "Se-Vo": {
-      "count": 20,
+      "count": 19,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
@@ -774,7 +774,7 @@
         "2": 0,
         "3": 5,
         "4": 4,
-        "5": 2,
+        "5": 1,
         "6": 1,
         "7": 0,
         "8": 0,
@@ -783,7 +783,7 @@
       }
     },
     "St-Da": {
-      "count": 23,
+      "count": 22,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
@@ -793,7 +793,7 @@
         "1": 3,
         "2": 3,
         "3": 2,
-        "4": 5,
+        "4": 4,
         "5": 0,
         "6": 0,
         "7": 0,
@@ -803,12 +803,12 @@
       }
     },
     "Da-Ni": {
-      "count": 22,
+      "count": 21,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
         "WFF": 3,
-        "On Hold": 7,
+        "On Hold": 6,
         "Blocked": 1,
         "1": 3,
         "2": 0,
@@ -1004,9 +1004,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 28,
+      "count": 27,
       "issues_by_project": {
-        "service/support": 28
+        "service/support": 27
       }
     }
   },
