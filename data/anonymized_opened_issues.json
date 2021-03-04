@@ -336,8 +336,7 @@
       "service_count": 15,
       "count": 15,
       "labels": {
-        "1M": 5,
-        "1S": 1,
+        "1M": 6,
         "3M": 1,
         "3S": 4,
         "4S": 1,
@@ -978,9 +977,9 @@
       }
     },
     "Cr-Bu": {
-      "count": 37,
+      "count": 38,
       "issues_by_project": {
-        "bucket/support": 1,
+        "bucket/support": 2,
         "psd2/PRR": 1,
         "SE/bucket": 4,
         "SE/docs": 1,
