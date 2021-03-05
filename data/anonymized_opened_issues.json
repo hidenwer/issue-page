@@ -150,13 +150,12 @@
       ]
     },
     "Se-Vo": {
-      "service_count": 15,
-      "count": 16,
+      "service_count": 14,
+      "count": 15,
       "labels": {
         "1M": 1,
         "10M": 1,
         "2S": 1,
-        "3M": 1,
         "3S": 4,
         "4M": 2,
         "4S": 3,
@@ -165,12 +164,12 @@
       },
       "issues_by_project": {
         "service/support": 10,
-        "service/thief": 5,
+        "service/thief": 4,
         "shared/salt-common": 1
       },
       "categories": {
         "low": 8,
-        "medium": 5,
+        "medium": 4,
         "high": 2
       },
       "no_due_dates": [
@@ -782,8 +781,8 @@
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 5,
-        "On Hold": 1,
+        "WFF": 4,
+        "On Hold": 2,
         "Blocked": 0,
         "1": 0,
         "2": 0,
@@ -989,13 +988,13 @@
       }
     },
     "Cr-Bu": {
-      "count": 35,
+      "count": 36,
       "issues_by_project": {
         "bucket/support": 2,
         "psd2/PRR": 1,
         "SE/bucket": 4,
         "SE/docs": 2,
-        "service/support": 26
+        "service/support": 27
       }
     },
     "Ig-Li": {
@@ -1114,11 +1113,11 @@
     "Se-Vo": {
       "count": 2,
       "labels": {
-        "On Hold": 0,
+        "On Hold": 1,
         "Blocked": 0,
         "1": 1,
         "2": 0,
-        "3": 1,
+        "3": 0,
         "4": 0,
         "5": 0,
         "6": 0,
