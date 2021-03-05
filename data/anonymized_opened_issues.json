@@ -865,7 +865,7 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 11,
+        "WFF": 10,
         "On Hold": 4,
         "Blocked": 0,
         "1": 2,
@@ -874,7 +874,7 @@
         "4": 0,
         "5": 0,
         "6": 0,
-        "7": 0,
+        "7": 1,
         "8": 0,
         "9": 0,
         "10": 0
@@ -1002,8 +1002,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 27,
+      "count": 28,
       "issues_by_project": {
+        "bucket/support": 1,
         "service/support": 27
       }
     }
