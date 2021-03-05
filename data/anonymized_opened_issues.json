@@ -906,12 +906,12 @@
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 4,
+        "WFF": 5,
         "On Hold": 3,
         "Blocked": 0,
         "1": 4,
         "2": 0,
-        "3": 3,
+        "3": 2,
         "4": 1,
         "5": 2,
         "6": 0,
@@ -964,11 +964,11 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 30,
+      "count": 31,
       "issues_by_project": {
         "bucket/support": 4,
         "service/stealer": 1,
-        "service/support": 24,
+        "service/support": 25,
         "service/thief": 1
       }
     },
