@@ -122,7 +122,7 @@
     },
     "Da-Su": {
       "service_count": 15,
-      "count": 15,
+      "count": 16,
       "labels": {
         "1L": 1,
         "1M": 3,
@@ -138,7 +138,8 @@
         "DemoJ": 1,
         "service/global": 3,
         "service/support": 4,
-        "service/thief": 7
+        "service/thief": 7,
+        "shared/salt-common": 1
       },
       "categories": {
         "low": 5,
@@ -151,7 +152,7 @@
     },
     "Se-Vo": {
       "service_count": 14,
-      "count": 15,
+      "count": 14,
       "labels": {
         "1M": 1,
         "10M": 1,
@@ -164,8 +165,7 @@
       },
       "issues_by_project": {
         "service/support": 10,
-        "service/thief": 4,
-        "shared/salt-common": 1
+        "service/thief": 4
       },
       "categories": {
         "low": 8,
@@ -203,7 +203,7 @@
     },
     "Da-Ni": {
       "service_count": 14,
-      "count": 18,
+      "count": 19,
       "labels": {
         "1M": 3,
         "3L": 1,
@@ -216,7 +216,7 @@
       },
       "issues_by_project": {
         "DemoJ": 1,
-        "SE/bucket": 4,
+        "SE/bucket": 5,
         "service/global": 1,
         "service/support": 5,
         "service/thief": 7
@@ -289,13 +289,14 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 15,
-      "count": 15,
+      "service_count": 16,
+      "count": 16,
       "labels": {
         "1M": 2,
         "1S": 1,
         "3M": 2,
         "3S": 5,
+        "4S": 1,
         "5S": 1,
         "6M": 1,
         "7S": 2,
@@ -303,10 +304,10 @@
       },
       "issues_by_project": {
         "service/support": 9,
-        "service/thief": 6
+        "service/thief": 7
       },
       "categories": {
-        "low": 8,
+        "low": 9,
         "medium": 3,
         "high": 4
       },
@@ -372,7 +373,8 @@
       "service_count": 14,
       "count": 14,
       "labels": {
-        "1M": 4,
+        "1L": 1,
+        "1M": 3,
         "2M": 1,
         "2S": 1,
         "4S": 1,
@@ -684,11 +686,11 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 7,
+        "WFF": 8,
         "On Hold": 1,
         "Blocked": 1,
         "1": 1,
-        "2": 5,
+        "2": 4,
         "3": 3,
         "4": 1,
         "5": 0,
@@ -885,12 +887,12 @@
         "NC_Onb": 0,
         "Beta": 1,
         "WFF": 6,
-        "On Hold": 5,
+        "On Hold": 4,
         "Blocked": 0,
         "1": 2,
         "2": 0,
         "3": 3,
-        "4": 0,
+        "4": 1,
         "5": 0,
         "6": 1,
         "7": 2,
