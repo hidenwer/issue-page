@@ -202,15 +202,15 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 14,
-      "count": 20,
+      "service_count": 15,
+      "count": 21,
       "labels": {
         "1M": 3,
         "3L": 1,
         "3M": 1,
         "3S": 5,
         "4M": 1,
-        "4S": 1,
+        "4S": 2,
         "5M": 1,
         "5S": 1
       },
@@ -218,12 +218,12 @@
         "DemoJ": 1,
         "SE/bucket": 5,
         "service/global": 1,
-        "service/support": 5,
+        "service/support": 6,
         "service/thief": 7,
         "shared/salt-common": 1
       },
       "categories": {
-        "low": 7,
+        "low": 8,
         "medium": 4,
         "high": 3
       },
@@ -317,23 +317,24 @@
       ]
     },
     "Se-Ra": {
-      "service_count": 11,
-      "count": 11,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "1M": 2,
+        "2S": 1,
         "3M": 2,
         "4S": 2,
         "5S": 4,
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 8,
+        "service/support": 9,
         "service/thief": 3
       },
       "categories": {
         "low": 6,
         "medium": 2,
-        "high": 3
+        "high": 4
       },
       "overdues": [
 
@@ -343,10 +344,10 @@
       ]
     },
     "Ma-Gu": {
-      "service_count": 17,
-      "count": 17,
+      "service_count": 16,
+      "count": 16,
       "labels": {
-        "1M": 7,
+        "1M": 6,
         "3L": 1,
         "3S": 6,
         "5M": 1,
@@ -355,12 +356,12 @@
       },
       "issues_by_project": {
         "service/support": 10,
-        "service/thief": 7
+        "service/thief": 6
       },
       "categories": {
         "low": 8,
         "medium": 2,
-        "high": 7
+        "high": 6
       },
       "overdues": [
 
@@ -629,11 +630,11 @@
       }
     },
     "Ma-Gu": {
-      "count": 4,
+      "count": 3,
       "labels": {
         "On Hold": 2,
         "Blocked": 0,
-        "1": 2,
+        "1": 1,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -822,7 +823,7 @@
       }
     },
     "Da-Ni": {
-      "count": 20,
+      "count": 21,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
@@ -832,7 +833,7 @@
         "1": 2,
         "2": 0,
         "3": 6,
-        "4": 1,
+        "4": 2,
         "5": 1,
         "6": 0,
         "7": 0,
@@ -902,7 +903,7 @@
       }
     },
     "Se-Ra": {
-      "count": 12,
+      "count": 13,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
@@ -910,7 +911,7 @@
         "On Hold": 1,
         "Blocked": 0,
         "1": 1,
-        "2": 0,
+        "2": 1,
         "3": 2,
         "4": 1,
         "5": 3,
@@ -922,14 +923,14 @@
       }
     },
     "Ma-Gu": {
-      "count": 19,
+      "count": 18,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
         "WFF": 4,
         "On Hold": 2,
         "Blocked": 0,
-        "1": 6,
+        "1": 5,
         "2": 0,
         "3": 3,
         "4": 0,
