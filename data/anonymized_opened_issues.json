@@ -328,23 +328,23 @@
       ]
     },
     "Ma-Gu": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 17,
+      "count": 17,
       "labels": {
         "1M": 6,
         "3M": 1,
-        "3S": 5,
+        "3S": 6,
         "4S": 1,
         "5M": 1,
         "5S": 1,
         "7S": 1
       },
       "issues_by_project": {
-        "service/support": 10,
+        "service/support": 11,
         "service/thief": 6
       },
       "categories": {
-        "low": 8,
+        "low": 9,
         "medium": 2,
         "high": 6
       },
@@ -902,7 +902,7 @@
       }
     },
     "Ma-Gu": {
-      "count": 19,
+      "count": 20,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
@@ -911,7 +911,7 @@
         "Blocked": 0,
         "1": 4,
         "2": 0,
-        "3": 2,
+        "3": 3,
         "4": 1,
         "5": 2,
         "6": 0,
@@ -964,9 +964,9 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 31,
+      "count": 30,
       "issues_by_project": {
-        "bucket/support": 4,
+        "bucket/support": 3,
         "service/stealer": 1,
         "service/support": 25,
         "service/thief": 1
