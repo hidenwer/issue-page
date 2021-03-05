@@ -303,24 +303,24 @@
       ]
     },
     "Se-Ra": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1M": 2,
-        "2S": 2,
+        "2S": 1,
         "3M": 2,
         "4S": 3,
         "5S": 4,
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 11,
+        "service/support": 10,
         "service/thief": 3
       },
       "categories": {
         "low": 7,
         "medium": 2,
-        "high": 5
+        "high": 4
       },
       "no_due_dates": [
 
@@ -881,11 +881,11 @@
       }
     },
     "Se-Ra": {
-      "count": 15,
+      "count": 14,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 2,
+        "WFF": 1,
         "On Hold": 1,
         "Blocked": 0,
         "1": 2,
@@ -1002,10 +1002,10 @@
       }
     },
     "Vi-Sa": {
-      "count": 28,
+      "count": 27,
       "issues_by_project": {
         "bucket/support": 1,
-        "service/support": 27
+        "service/support": 26
       }
     }
   },
