@@ -60,10 +60,7 @@
         "low": 8,
         "medium": 4,
         "high": 13
-      },
-      "overdues": [
-
-      ]
+      }
     },
     "Co-Ci": {
       "service_count": 18,
