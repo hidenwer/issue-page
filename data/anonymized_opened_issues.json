@@ -30,8 +30,8 @@
       ]
     },
     "Al-Hi": {
-      "service_count": 25,
-      "count": 26,
+      "service_count": 24,
+      "count": 25,
       "labels": {
         "1L": 2,
         "1M": 3,
@@ -39,7 +39,7 @@
         "2M": 2,
         "2S": 1,
         "3M": 2,
-        "3S": 6,
+        "3S": 5,
         "4M": 1,
         "4S": 1,
         "5M": 1,
@@ -50,11 +50,11 @@
         "DemoJ": 1,
         "SE/bucket": 1,
         "service/global": 2,
-        "service/support": 10,
+        "service/support": 9,
         "service/thief": 12
       },
       "categories": {
-        "low": 8,
+        "low": 7,
         "medium": 4,
         "high": 13
       }
@@ -687,11 +687,11 @@
       }
     },
     "Al-Hi": {
-      "count": 38,
+      "count": 37,
       "labels": {
         "NC_Onb": 2,
         "Beta": 1,
-        "WFF": 7,
+        "WFF": 6,
         "On Hold": 11,
         "Blocked": 1,
         "1": 6,
@@ -771,12 +771,12 @@
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 3,
+        "WFF": 4,
         "On Hold": 2,
         "Blocked": 0,
         "1": 2,
         "2": 0,
-        "3": 3,
+        "3": 2,
         "4": 4,
         "5": 1,
         "6": 1,
@@ -969,11 +969,11 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 30,
+      "count": 32,
       "issues_by_project": {
         "bucket/support": 3,
         "service/stealer": 1,
-        "service/support": 25,
+        "service/support": 27,
         "service/thief": 1
       }
     },
