@@ -30,8 +30,8 @@
       ]
     },
     "Al-Hi": {
-      "service_count": 27,
-      "count": 28,
+      "service_count": 26,
+      "count": 27,
       "labels": {
         "1L": 2,
         "1M": 3,
@@ -41,7 +41,6 @@
         "3M": 2,
         "3S": 6,
         "4M": 1,
-        "4S": 1,
         "5M": 1,
         "7L": 1,
         "Beta": 1
@@ -50,11 +49,11 @@
         "DemoJ": 1,
         "SE/bucket": 1,
         "service/global": 2,
-        "service/support": 11,
+        "service/support": 10,
         "service/thief": 13
       },
       "categories": {
-        "low": 8,
+        "low": 7,
         "medium": 4,
         "high": 15
       }
@@ -196,7 +195,7 @@
     },
     "Da-Ni": {
       "service_count": 16,
-      "count": 22,
+      "count": 23,
       "labels": {
         "1M": 4,
         "3L": 1,
@@ -208,7 +207,7 @@
       },
       "issues_by_project": {
         "DemoJ": 1,
-        "SE/bucket": 5,
+        "SE/bucket": 6,
         "service/global": 1,
         "service/support": 7,
         "service/thief": 7,
@@ -218,10 +217,7 @@
         "low": 9,
         "medium": 3,
         "high": 4
-      },
-      "no_due_dates": [
-
-      ]
+      }
     },
     "An-Mo": {
       "service_count": 17,
@@ -358,25 +354,26 @@
       ]
     },
     "Al-Je": {
-      "service_count": 15,
-      "count": 15,
+      "service_count": 16,
+      "count": 16,
       "labels": {
         "1L": 1,
         "1M": 3,
         "2M": 1,
         "2S": 1,
         "3S": 2,
+        "4S": 1,
         "5S": 3,
         "6S": 1,
         "8S": 1,
         "Beta": 2
       },
       "issues_by_project": {
-        "service/support": 11,
+        "service/support": 12,
         "service/thief": 4
       },
       "categories": {
-        "low": 7,
+        "low": 8,
         "medium": 0,
         "high": 8
       },
@@ -672,12 +669,12 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 8,
+        "WFF": 9,
         "On Hold": 1,
         "Blocked": 1,
         "1": 1,
         "2": 4,
-        "3": 4,
+        "3": 3,
         "4": 1,
         "5": 0,
         "6": 0,
@@ -688,7 +685,7 @@
       }
     },
     "Al-Hi": {
-      "count": 39,
+      "count": 38,
       "labels": {
         "NC_Onb": 2,
         "Beta": 1,
@@ -698,7 +695,7 @@
         "1": 6,
         "2": 1,
         "3": 6,
-        "4": 2,
+        "4": 1,
         "5": 1,
         "6": 0,
         "7": 1,
@@ -928,7 +925,7 @@
       }
     },
     "Al-Je": {
-      "count": 15,
+      "count": 16,
       "labels": {
         "NC_Onb": 1,
         "Beta": 2,
@@ -938,7 +935,7 @@
         "1": 3,
         "2": 1,
         "3": 2,
-        "4": 0,
+        "4": 1,
         "5": 3,
         "6": 1,
         "7": 0,
@@ -1008,10 +1005,10 @@
       }
     },
     "Vi-Sa": {
-      "count": 23,
+      "count": 24,
       "issues_by_project": {
         "bucket/support": 1,
-        "service/support": 22
+        "service/support": 23
       }
     }
   },
