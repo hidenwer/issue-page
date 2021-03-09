@@ -1,11 +1,11 @@
 {
   "load": {
     "Ed-Ma": {
-      "service_count": 18,
-      "count": 18,
+      "service_count": 17,
+      "count": 17,
       "labels": {
         "1L": 1,
-        "1M": 3,
+        "1M": 2,
         "1S": 1,
         "2M": 4,
         "2S": 2,
@@ -14,7 +14,7 @@
         "4M": 2
       },
       "issues_by_project": {
-        "DemoJ": 2,
+        "DemoJ": 1,
         "service/global": 3,
         "service/kpi": 1,
         "service/support": 5,
@@ -23,7 +23,7 @@
       "categories": {
         "low": 2,
         "medium": 5,
-        "high": 11
+        "high": 10
       },
       "no_due_dates": [
 
@@ -665,11 +665,11 @@
   },
   "lbl": {
     "Ed-Ma": {
-      "count": 20,
+      "count": 19,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 9,
+        "WFF": 8,
         "On Hold": 1,
         "Blocked": 1,
         "1": 1,
