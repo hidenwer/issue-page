@@ -170,29 +170,26 @@
       ]
     },
     "St-Da": {
-      "service_count": 17,
-      "count": 17,
+      "service_count": 18,
+      "count": 18,
       "labels": {
         "1M": 4,
         "2S": 3,
-        "3S": 4,
+        "3S": 5,
         "4M": 1,
         "4S": 3,
         "5S": 1,
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 11,
+        "service/support": 12,
         "service/thief": 6
       },
       "categories": {
-        "low": 8,
+        "low": 9,
         "medium": 1,
         "high": 8
-      },
-      "no_due_dates": [
-
-      ]
+      }
     },
     "Da-Ni": {
       "service_count": 16,
@@ -791,11 +788,11 @@
         "NC_Onb": 0,
         "Beta": 1,
         "WFF": 2,
-        "On Hold": 1,
+        "On Hold": 0,
         "Blocked": 0,
         "1": 4,
         "2": 2,
-        "3": 3,
+        "3": 4,
         "4": 4,
         "5": 1,
         "6": 0,
@@ -987,9 +984,9 @@
       }
     },
     "Ig-Li": {
-      "count": 20,
+      "count": 21,
       "issues_by_project": {
-        "service/support": 20
+        "service/support": 21
       }
     },
     "Ir-Gr": {
@@ -1006,10 +1003,10 @@
       }
     },
     "Vi-Sa": {
-      "count": 24,
+      "count": 25,
       "issues_by_project": {
         "bucket/support": 1,
-        "service/support": 23
+        "service/support": 24
       }
     }
   },
