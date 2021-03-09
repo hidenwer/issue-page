@@ -968,11 +968,11 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 33,
+      "count": 34,
       "issues_by_project": {
         "bucket/support": 3,
         "service/stealer": 1,
-        "service/support": 28,
+        "service/support": 29,
         "service/thief": 1
       }
     },
