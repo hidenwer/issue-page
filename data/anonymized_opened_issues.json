@@ -977,13 +977,13 @@
       }
     },
     "Cr-Bu": {
-      "count": 39,
+      "count": 40,
       "issues_by_project": {
         "bucket/support": 2,
         "psd2/PRR": 1,
         "SE/bucket": 4,
         "SE/docs": 2,
-        "service/support": 30
+        "service/support": 31
       }
     },
     "Ig-Li": {
