@@ -224,10 +224,10 @@
       ]
     },
     "An-Mo": {
-      "service_count": 18,
-      "count": 18,
+      "service_count": 17,
+      "count": 17,
       "labels": {
-        "1M": 2,
+        "1M": 1,
         "2M": 3,
         "2S": 1,
         "3M": 1,
@@ -239,13 +239,13 @@
         "7S": 2
       },
       "issues_by_project": {
-        "service/support": 12,
+        "service/support": 11,
         "service/thief": 6
       },
       "categories": {
         "low": 10,
         "medium": 2,
-        "high": 6
+        "high": 5
       },
       "no_due_dates": [
 
@@ -358,26 +358,25 @@
       ]
     },
     "Al-Je": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 15,
+      "count": 15,
       "labels": {
         "1L": 1,
         "1M": 3,
         "2M": 1,
         "2S": 1,
         "3S": 2,
-        "4S": 1,
         "5S": 3,
         "6S": 1,
         "8S": 1,
         "Beta": 2
       },
       "issues_by_project": {
-        "service/support": 12,
+        "service/support": 11,
         "service/thief": 4
       },
       "categories": {
-        "low": 8,
+        "low": 7,
         "medium": 0,
         "high": 8
       },
@@ -833,8 +832,8 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 5,
-        "On Hold": 2,
+        "WFF": 4,
+        "On Hold": 3,
         "Blocked": 0,
         "1": 1,
         "2": 3,
@@ -929,7 +928,7 @@
       }
     },
     "Al-Je": {
-      "count": 16,
+      "count": 15,
       "labels": {
         "NC_Onb": 1,
         "Beta": 2,
@@ -939,7 +938,7 @@
         "1": 3,
         "2": 1,
         "3": 2,
-        "4": 1,
+        "4": 0,
         "5": 3,
         "6": 1,
         "7": 0,
@@ -1009,10 +1008,10 @@
       }
     },
     "Vi-Sa": {
-      "count": 25,
+      "count": 23,
       "issues_by_project": {
         "bucket/support": 1,
-        "service/support": 24
+        "service/support": 22
       }
     }
   },
