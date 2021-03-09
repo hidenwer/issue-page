@@ -1,8 +1,8 @@
 {
   "load": {
     "Ed-Ma": {
-      "service_count": 18,
-      "count": 18,
+      "service_count": 19,
+      "count": 19,
       "labels": {
         "1L": 1,
         "1M": 3,
@@ -10,18 +10,18 @@
         "2M": 4,
         "2S": 2,
         "3M": 3,
-        "3S": 1,
+        "3S": 2,
         "4M": 2
       },
       "issues_by_project": {
         "DemoJ": 2,
         "service/global": 3,
-        "service/kpi": 1,
+        "service/kpi": 2,
         "service/support": 5,
         "service/thief": 7
       },
       "categories": {
-        "low": 1,
+        "low": 2,
         "medium": 5,
         "high": 12
       },
@@ -30,12 +30,12 @@
       ]
     },
     "Al-Hi": {
-      "service_count": 24,
-      "count": 25,
+      "service_count": 25,
+      "count": 26,
       "labels": {
         "1L": 2,
         "1M": 3,
-        "1S": 4,
+        "1S": 5,
         "2M": 2,
         "2S": 1,
         "3M": 2,
@@ -50,13 +50,13 @@
         "DemoJ": 1,
         "SE/bucket": 1,
         "service/global": 2,
-        "service/support": 9,
+        "service/support": 10,
         "service/thief": 12
       },
       "categories": {
         "low": 7,
         "medium": 4,
-        "high": 13
+        "high": 14
       }
     },
     "Co-Ci": {
@@ -666,7 +666,7 @@
   },
   "lbl": {
     "Ed-Ma": {
-      "count": 20,
+      "count": 21,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
@@ -675,7 +675,7 @@
         "Blocked": 1,
         "1": 2,
         "2": 4,
-        "3": 3,
+        "3": 4,
         "4": 1,
         "5": 0,
         "6": 0,
@@ -686,14 +686,14 @@
       }
     },
     "Al-Hi": {
-      "count": 37,
+      "count": 38,
       "labels": {
         "NC_Onb": 2,
         "Beta": 1,
         "WFF": 6,
         "On Hold": 11,
         "Blocked": 1,
-        "1": 6,
+        "1": 7,
         "2": 1,
         "3": 5,
         "4": 2,
@@ -993,7 +993,7 @@
       }
     },
     "Ir-Gr": {
-      "count": 29,
+      "count": 30,
       "issues_by_project": {
         "care/global": 4,
         "care/internal": 10,
@@ -1001,7 +1001,7 @@
         "SE/bucket": 5,
         "SE/docs": 3,
         "service/global": 3,
-        "service/kpi": 1,
+        "service/kpi": 2,
         "service/support": 2
       }
     },
