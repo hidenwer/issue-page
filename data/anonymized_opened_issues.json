@@ -336,14 +336,13 @@
       "service_count": 18,
       "count": 18,
       "labels": {
-        "1M": 6,
+        "1M": 7,
         "3L": 1,
         "3S": 6,
         "4S": 1,
         "5M": 1,
         "5S": 1,
-        "7S": 1,
-        "M": 1
+        "7S": 1
       },
       "issues_by_project": {
         "service/support": 11,
@@ -352,7 +351,7 @@
       "categories": {
         "low": 9,
         "medium": 2,
-        "high": 6
+        "high": 7
       },
       "no_due_dates": [
 
@@ -621,7 +620,7 @@
       "labels": {
         "On Hold": 1,
         "Blocked": 0,
-        "1": 1,
+        "1": 2,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -910,14 +909,14 @@
       }
     },
     "Ma-Gu": {
-      "count": 18,
+      "count": 19,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
         "WFF": 4,
         "On Hold": 1,
         "Blocked": 0,
-        "1": 5,
+        "1": 6,
         "2": 0,
         "3": 3,
         "4": 1,
