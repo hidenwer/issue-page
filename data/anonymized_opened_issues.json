@@ -195,27 +195,27 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 15,
-      "count": 21,
+      "service_count": 17,
+      "count": 23,
       "labels": {
         "1M": 4,
         "3L": 1,
         "3M": 1,
-        "3S": 4,
+        "3S": 5,
         "4M": 1,
         "4S": 3,
-        "5S": 1
+        "5S": 2
       },
       "issues_by_project": {
         "DemoJ": 1,
         "SE/bucket": 5,
         "service/global": 1,
-        "service/support": 7,
-        "service/thief": 6,
+        "service/support": 8,
+        "service/thief": 7,
         "shared/salt-common": 1
       },
       "categories": {
-        "low": 8,
+        "low": 10,
         "medium": 3,
         "high": 4
       }
@@ -675,12 +675,12 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 7,
+        "WFF": 8,
         "On Hold": 1,
         "Blocked": 1,
         "1": 2,
         "2": 4,
-        "3": 3,
+        "3": 2,
         "4": 1,
         "5": 0,
         "6": 0,
@@ -811,7 +811,7 @@
       }
     },
     "Da-Ni": {
-      "count": 19,
+      "count": 21,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
@@ -820,9 +820,9 @@
         "Blocked": 1,
         "1": 3,
         "2": 0,
-        "3": 4,
+        "3": 5,
         "4": 2,
-        "5": 1,
+        "5": 2,
         "6": 0,
         "7": 0,
         "8": 0,
@@ -982,13 +982,13 @@
       }
     },
     "Cr-Bu": {
-      "count": 45,
+      "count": 46,
       "issues_by_project": {
         "bucket/support": 2,
         "psd2/PRR": 1,
         "SE/bucket": 4,
         "SE/docs": 3,
-        "service/support": 35
+        "service/support": 36
       }
     },
     "Ig-Li": {
