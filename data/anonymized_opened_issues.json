@@ -1,11 +1,11 @@
 {
   "load": {
     "Ed-Ma": {
-      "service_count": 17,
-      "count": 17,
+      "service_count": 16,
+      "count": 16,
       "labels": {
         "1L": 1,
-        "1M": 2,
+        "1M": 1,
         "1S": 2,
         "2M": 4,
         "2S": 2,
@@ -17,12 +17,12 @@
         "DemoJ": 2,
         "service/global": 3,
         "service/support": 5,
-        "service/thief": 7
+        "service/thief": 6
       },
       "categories": {
         "low": 1,
         "medium": 5,
-        "high": 11
+        "high": 10
       },
       "no_due_dates": [
 
@@ -675,9 +675,9 @@
         "NC_Onb": 0,
         "Beta": 0,
         "WFF": 8,
-        "On Hold": 1,
+        "On Hold": 2,
         "Blocked": 1,
-        "1": 2,
+        "1": 1,
         "2": 4,
         "3": 2,
         "4": 1,
@@ -1021,9 +1021,9 @@
     "Ed-Ma": {
       "count": 3,
       "labels": {
-        "On Hold": 0,
+        "On Hold": 1,
         "Blocked": 1,
-        "1": 1,
+        "1": 0,
         "2": 0,
         "3": 1,
         "4": 0,
