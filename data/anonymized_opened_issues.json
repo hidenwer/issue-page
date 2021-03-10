@@ -29,8 +29,8 @@
       ]
     },
     "Al-Hi": {
-      "service_count": 26,
-      "count": 27,
+      "service_count": 27,
+      "count": 28,
       "labels": {
         "1L": 2,
         "1M": 3,
@@ -38,21 +38,21 @@
         "2M": 2,
         "2S": 1,
         "3M": 2,
-        "3S": 6,
+        "3S": 7,
         "4M": 1,
         "5M": 1,
         "7L": 1,
         "Beta": 1
       },
       "issues_by_project": {
-        "DemoJ": 1,
+        "DemoJ": 2,
         "SE/bucket": 1,
         "service/global": 2,
         "service/support": 10,
         "service/thief": 13
       },
       "categories": {
-        "low": 7,
+        "low": 8,
         "medium": 4,
         "high": 15
       }
@@ -114,8 +114,8 @@
       }
     },
     "Da-Su": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 17,
+      "count": 17,
       "labels": {
         "1L": 1,
         "1M": 3,
@@ -123,19 +123,19 @@
         "2M": 2,
         "2S": 1,
         "3M": 2,
-        "3S": 2,
+        "3S": 3,
         "4S": 1,
         "5S": 2,
         "7M": 1
       },
       "issues_by_project": {
-        "DemoJ": 1,
+        "DemoJ": 2,
         "service/global": 3,
         "service/support": 6,
         "service/thief": 6
       },
       "categories": {
-        "low": 5,
+        "low": 6,
         "medium": 3,
         "high": 8
       },
@@ -691,7 +691,7 @@
       }
     },
     "Al-Hi": {
-      "count": 38,
+      "count": 39,
       "labels": {
         "NC_Onb": 2,
         "Beta": 1,
@@ -700,7 +700,7 @@
         "Blocked": 1,
         "1": 6,
         "2": 1,
-        "3": 5,
+        "3": 6,
         "4": 1,
         "5": 1,
         "6": 0,
@@ -751,7 +751,7 @@
       }
     },
     "Da-Su": {
-      "count": 18,
+      "count": 19,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
@@ -760,7 +760,7 @@
         "Blocked": 0,
         "1": 3,
         "2": 3,
-        "3": 4,
+        "3": 5,
         "4": 1,
         "5": 1,
         "6": 0,
@@ -855,13 +855,13 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 2,
-        "WFF": 6,
+        "WFF": 7,
         "On Hold": 1,
         "Blocked": 0,
         "1": 2,
         "2": 2,
         "3": 2,
-        "4": 5,
+        "4": 4,
         "5": 0,
         "6": 0,
         "7": 0,
