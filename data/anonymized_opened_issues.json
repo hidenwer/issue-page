@@ -829,8 +829,8 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 6,
-        "On Hold": 2,
+        "WFF": 7,
+        "On Hold": 1,
         "Blocked": 0,
         "1": 1,
         "2": 4,
@@ -992,7 +992,7 @@
       }
     },
     "Ir-Gr": {
-      "count": 28,
+      "count": 27,
       "issues_by_project": {
         "care/global": 4,
         "care/internal": 10,
@@ -1001,14 +1001,14 @@
         "SE/docs": 2,
         "service/global": 3,
         "service/kpi": 1,
-        "service/support": 2
+        "service/support": 1
       }
     },
     "Vi-Sa": {
-      "count": 24,
+      "count": 25,
       "issues_by_project": {
         "bucket/support": 1,
-        "service/support": 23
+        "service/support": 24
       }
     }
   },
