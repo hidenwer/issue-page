@@ -58,15 +58,15 @@
       }
     },
     "Co-Ci": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 17,
+      "count": 17,
       "labels": {
         "1M": 4,
         "1S": 1,
         "2M": 1,
         "2S": 1,
         "3M": 1,
-        "3S": 2,
+        "3S": 3,
         "4S": 1,
         "5M": 2,
         "5S": 1,
@@ -74,11 +74,11 @@
         "9S": 1
       },
       "issues_by_project": {
-        "service/support": 10,
+        "service/support": 11,
         "service/thief": 6
       },
       "categories": {
-        "low": 5,
+        "low": 6,
         "medium": 4,
         "high": 7
       },
@@ -87,8 +87,8 @@
       ]
     },
     "Eu-Mo": {
-      "service_count": 16,
-      "count": 17,
+      "service_count": 17,
+      "count": 18,
       "labels": {
         "1M": 1,
         "1S": 2,
@@ -98,17 +98,17 @@
         "3S": 2,
         "4S": 2,
         "5M": 1,
-        "5S": 1,
+        "5S": 2,
         "6S": 1,
         "9M": 1
       },
       "issues_by_project": {
         "SE/bucket": 1,
-        "service/support": 10,
+        "service/support": 11,
         "service/thief": 6
       },
       "categories": {
-        "low": 6,
+        "low": 7,
         "medium": 7,
         "high": 3
       }
@@ -143,24 +143,24 @@
       ]
     },
     "Se-Vo": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 17,
+      "count": 17,
       "labels": {
         "1M": 2,
         "10M": 1,
         "2S": 2,
         "3S": 6,
         "4M": 2,
-        "4S": 1,
+        "4S": 2,
         "5S": 1,
         "6L": 1
       },
       "issues_by_project": {
-        "service/support": 11,
+        "service/support": 12,
         "service/thief": 5
       },
       "categories": {
-        "low": 9,
+        "low": 10,
         "medium": 3,
         "high": 4
       },
@@ -194,13 +194,13 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 16,
-      "count": 22,
+      "service_count": 15,
+      "count": 21,
       "labels": {
         "1M": 4,
         "3L": 1,
         "3M": 1,
-        "3S": 5,
+        "3S": 4,
         "4M": 1,
         "4S": 3,
         "5S": 1
@@ -210,11 +210,11 @@
         "SE/bucket": 5,
         "service/global": 1,
         "service/support": 7,
-        "service/thief": 7,
+        "service/thief": 6,
         "shared/salt-common": 1
       },
       "categories": {
-        "low": 9,
+        "low": 8,
         "medium": 3,
         "high": 4
       }
@@ -705,7 +705,7 @@
       }
     },
     "Co-Ci": {
-      "count": 18,
+      "count": 19,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
@@ -714,7 +714,7 @@
         "Blocked": 0,
         "1": 2,
         "2": 1,
-        "3": 2,
+        "3": 3,
         "4": 1,
         "5": 3,
         "6": 0,
@@ -725,7 +725,7 @@
       }
     },
     "Eu-Mo": {
-      "count": 19,
+      "count": 20,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
@@ -736,7 +736,7 @@
         "2": 0,
         "3": 3,
         "4": 0,
-        "5": 1,
+        "5": 2,
         "6": 1,
         "7": 0,
         "8": 0,
@@ -765,7 +765,7 @@
       }
     },
     "Se-Vo": {
-      "count": 18,
+      "count": 19,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
@@ -775,7 +775,7 @@
         "1": 2,
         "2": 1,
         "3": 3,
-        "4": 2,
+        "4": 3,
         "5": 1,
         "6": 1,
         "7": 0,
@@ -805,11 +805,11 @@
       }
     },
     "Da-Ni": {
-      "count": 21,
+      "count": 20,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 5,
+        "WFF": 4,
         "On Hold": 4,
         "Blocked": 1,
         "1": 3,
@@ -829,8 +829,8 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 7,
-        "On Hold": 1,
+        "WFF": 6,
+        "On Hold": 2,
         "Blocked": 0,
         "1": 1,
         "2": 4,
@@ -849,10 +849,10 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 2,
-        "WFF": 5,
+        "WFF": 6,
         "On Hold": 1,
         "Blocked": 0,
-        "1": 3,
+        "1": 2,
         "2": 2,
         "3": 2,
         "4": 5,
