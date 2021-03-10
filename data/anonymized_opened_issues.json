@@ -967,11 +967,11 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 40,
+      "count": 41,
       "issues_by_project": {
         "bucket/support": 3,
         "service/stealer": 1,
-        "service/support": 35,
+        "service/support": 36,
         "service/thief": 1
       }
     },
