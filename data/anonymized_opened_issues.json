@@ -858,8 +858,8 @@
         "On Hold": 1,
         "Blocked": 0,
         "1": 2,
-        "2": 3,
-        "3": 2,
+        "2": 2,
+        "3": 3,
         "4": 4,
         "5": 0,
         "6": 0,
@@ -972,9 +972,9 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 42,
+      "count": 43,
       "issues_by_project": {
-        "bucket/support": 3,
+        "bucket/support": 4,
         "service/stealer": 1,
         "service/support": 37,
         "service/thief": 1
