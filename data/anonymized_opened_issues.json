@@ -195,10 +195,10 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 17,
-      "count": 23,
+      "service_count": 16,
+      "count": 22,
       "labels": {
-        "1M": 4,
+        "1M": 3,
         "3L": 1,
         "3M": 1,
         "3S": 5,
@@ -211,13 +211,13 @@
         "SE/bucket": 5,
         "service/global": 1,
         "service/support": 8,
-        "service/thief": 7,
+        "service/thief": 6,
         "shared/salt-common": 1
       },
       "categories": {
         "low": 10,
         "medium": 3,
-        "high": 4
+        "high": 3
       }
     },
     "An-Mo": {
@@ -810,14 +810,14 @@
       }
     },
     "Da-Ni": {
-      "count": 21,
+      "count": 20,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
         "WFF": 4,
         "On Hold": 3,
         "Blocked": 1,
-        "1": 3,
+        "1": 2,
         "2": 0,
         "3": 5,
         "4": 2,
@@ -894,13 +894,13 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 3,
+        "WFF": 4,
         "On Hold": 1,
         "Blocked": 0,
         "1": 2,
         "2": 1,
         "3": 2,
-        "4": 1,
+        "4": 0,
         "5": 2,
         "6": 1,
         "7": 0,
@@ -1138,11 +1138,11 @@
       }
     },
     "Da-Ni": {
-      "count": 4,
+      "count": 3,
       "labels": {
         "On Hold": 1,
         "Blocked": 0,
-        "1": 3,
+        "1": 2,
         "2": 0,
         "3": 0,
         "4": 0,
