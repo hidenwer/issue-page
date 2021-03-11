@@ -332,10 +332,10 @@
       ]
     },
     "Ma-Gu": {
-      "service_count": 19,
-      "count": 19,
+      "service_count": 18,
+      "count": 18,
       "labels": {
-        "1M": 7,
+        "1M": 6,
         "2S": 1,
         "3L": 1,
         "3S": 5,
@@ -347,12 +347,12 @@
       },
       "issues_by_project": {
         "service/support": 13,
-        "service/thief": 6
+        "service/thief": 5
       },
       "categories": {
         "low": 10,
         "medium": 1,
-        "high": 8
+        "high": 7
       },
       "no_due_dates": [
 
@@ -714,11 +714,11 @@
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 7,
+        "WFF": 8,
         "On Hold": 2,
         "Blocked": 0,
         "1": 2,
-        "2": 2,
+        "2": 1,
         "3": 2,
         "4": 1,
         "5": 2,
@@ -910,14 +910,14 @@
       }
     },
     "Ma-Gu": {
-      "count": 20,
+      "count": 19,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
         "WFF": 6,
         "On Hold": 1,
         "Blocked": 0,
-        "1": 6,
+        "1": 5,
         "2": 1,
         "3": 2,
         "4": 0,
@@ -954,12 +954,12 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 2,
+        "WFF": 3,
         "On Hold": 0,
         "Blocked": 0,
         "1": 1,
         "2": 1,
-        "3": 2,
+        "3": 1,
         "4": 1,
         "5": 0,
         "6": 0,
@@ -1223,11 +1223,11 @@
       }
     },
     "Ma-Gu": {
-      "count": 4,
+      "count": 3,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
-        "1": 4,
+        "1": 3,
         "2": 0,
         "3": 0,
         "4": 0,
