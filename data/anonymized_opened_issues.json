@@ -734,12 +734,12 @@
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 9,
+        "WFF": 10,
         "On Hold": 3,
         "Blocked": 0,
         "1": 1,
         "2": 0,
-        "3": 3,
+        "3": 2,
         "4": 0,
         "5": 2,
         "6": 0,
@@ -794,14 +794,14 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 5,
+        "WFF": 6,
         "On Hold": 0,
         "Blocked": 0,
         "1": 4,
         "2": 2,
         "3": 3,
         "4": 3,
-        "5": 1,
+        "5": 0,
         "6": 0,
         "7": 0,
         "8": 0,
@@ -981,13 +981,13 @@
       }
     },
     "Cr-Bu": {
-      "count": 45,
+      "count": 46,
       "issues_by_project": {
         "bucket/support": 3,
         "psd2/PRR": 1,
         "SE/bucket": 4,
         "SE/docs": 3,
-        "service/support": 34
+        "service/support": 35
       }
     },
     "Ig-Li": {
