@@ -1009,10 +1009,10 @@
       }
     },
     "Vi-Sa": {
-      "count": 24,
+      "count": 25,
       "issues_by_project": {
         "bucket/support": 1,
-        "service/support": 23
+        "service/support": 24
       }
     }
   },
