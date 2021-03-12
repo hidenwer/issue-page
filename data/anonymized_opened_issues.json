@@ -150,23 +150,23 @@
       ]
     },
     "Se-Vo": {
-      "service_count": 11,
-      "count": 11,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "1M": 2,
         "10M": 1,
         "2S": 1,
-        "3S": 2,
+        "3S": 3,
         "4M": 2,
         "4S": 2,
         "6L": 1
       },
       "issues_by_project": {
-        "service/support": 7,
+        "service/support": 8,
         "service/thief": 4
       },
       "categories": {
-        "low": 5,
+        "low": 6,
         "medium": 3,
         "high": 3
       },
@@ -204,8 +204,8 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 12,
-      "count": 18,
+      "service_count": 14,
+      "count": 20,
       "labels": {
         "1M": 2,
         "2S": 1,
@@ -213,17 +213,18 @@
         "3S": 4,
         "4M": 1,
         "4S": 2,
-        "5S": 1
+        "5S": 2,
+        "9S": 1
       },
       "issues_by_project": {
         "SE/bucket": 5,
         "service/global": 1,
-        "service/support": 5,
+        "service/support": 7,
         "service/thief": 6,
         "shared/salt-common": 1
       },
       "categories": {
-        "low": 7,
+        "low": 9,
         "medium": 2,
         "high": 3
       },
@@ -290,11 +291,12 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 11,
-      "count": 11,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "1M": 1,
         "3M": 2,
+        "3S": 1,
         "4S": 1,
         "5S": 2,
         "6M": 1,
@@ -303,23 +305,25 @@
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 5,
+        "service/support": 6,
         "service/thief": 6
       },
       "categories": {
-        "low": 6,
+        "low": 7,
         "medium": 3,
         "high": 2
       },
+      "overdues": [
+
+      ],
       "no_due_dates": [
 
       ]
     },
     "Se-Ra": {
-      "service_count": 15,
-      "count": 15,
+      "service_count": 14,
+      "count": 14,
       "labels": {
-        "1L": 1,
         "1M": 1,
         "2S": 1,
         "3M": 2,
@@ -331,14 +335,17 @@
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 12,
+        "service/support": 11,
         "service/thief": 3
       },
       "categories": {
         "low": 9,
         "medium": 2,
-        "high": 4
+        "high": 3
       },
+      "overdues": [
+
+      ],
       "no_due_dates": [
 
       ]
@@ -747,11 +754,11 @@
       "labels": {
         "NC_Onb": 2,
         "Beta": 0,
-        "WFF": 8,
+        "WFF": 9,
         "On Hold": 2,
         "Blocked": 0,
         "1": 0,
-        "2": 4,
+        "2": 3,
         "3": 2,
         "4": 0,
         "5": 2,
@@ -783,17 +790,17 @@
       }
     },
     "Se-Vo": {
-      "count": 13,
+      "count": 14,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 6,
+        "WFF": 7,
         "On Hold": 2,
         "Blocked": 0,
         "1": 1,
         "2": 1,
-        "3": 1,
-        "4": 2,
+        "3": 2,
+        "4": 1,
         "5": 0,
         "6": 0,
         "7": 0,
@@ -823,7 +830,7 @@
       }
     },
     "Da-Ni": {
-      "count": 17,
+      "count": 19,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
@@ -834,11 +841,11 @@
         "2": 1,
         "3": 3,
         "4": 1,
-        "5": 1,
+        "5": 2,
         "6": 0,
         "7": 0,
         "8": 0,
-        "9": 0,
+        "9": 1,
         "10": 0
       }
     },
@@ -883,7 +890,7 @@
       }
     },
     "Ro-Ci": {
-      "count": 16,
+      "count": 17,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
@@ -892,7 +899,7 @@
         "Blocked": 0,
         "1": 1,
         "2": 0,
-        "3": 1,
+        "3": 2,
         "4": 0,
         "5": 1,
         "6": 1,
@@ -903,14 +910,14 @@
       }
     },
     "Se-Ra": {
-      "count": 16,
+      "count": 15,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
         "WFF": 4,
         "On Hold": 1,
         "Blocked": 0,
-        "1": 2,
+        "1": 1,
         "2": 1,
         "3": 3,
         "4": 1,
@@ -1004,9 +1011,9 @@
       }
     },
     "Ig-Li": {
-      "count": 13,
+      "count": 12,
       "issues_by_project": {
-        "service/support": 13
+        "service/support": 12
       }
     },
     "Ir-Gr": {
