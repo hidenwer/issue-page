@@ -224,14 +224,15 @@
       "labels": {
         "1M": 1,
         "2M": 3,
-        "2S": 2,
+        "2S": 1,
         "3M": 1,
         "3S": 4,
         "4S": 1,
         "5M": 1,
         "5S": 1,
         "6S": 1,
-        "7S": 1
+        "7S": 1,
+        "S": 1
       },
       "issues_by_project": {
         "service/support": 10,
@@ -240,11 +241,8 @@
       "categories": {
         "low": 8,
         "medium": 2,
-        "high": 6
-      },
-      "no_due_dates": [
-
-      ]
+        "high": 5
+      }
     },
     "Se-Tu": {
       "service_count": 17,
@@ -830,11 +828,11 @@
       }
     },
     "An-Mo": {
-      "count": 17,
+      "count": 16,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 6,
+        "WFF": 5,
         "On Hold": 1,
         "Blocked": 0,
         "1": 1,
