@@ -362,15 +362,14 @@
       "count": 18,
       "labels": {
         "1L": 1,
-        "1M": 2,
+        "1M": 4,
         "2M": 1,
         "2S": 1,
         "3S": 4,
         "5S": 3,
         "6S": 1,
         "8S": 1,
-        "Beta": 2,
-        "M": 2
+        "Beta": 2
       },
       "issues_by_project": {
         "service/support": 13,
@@ -379,8 +378,11 @@
       "categories": {
         "low": 9,
         "medium": 0,
-        "high": 7
-      }
+        "high": 9
+      },
+      "no_due_dates": [
+
+      ]
     },
     "Ni-Tr": {
       "service_count": 8,
@@ -635,7 +637,7 @@
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
-        "1": 2,
+        "1": 3,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -927,9 +929,9 @@
       }
     },
     "Al-Je": {
-      "count": 16,
+      "count": 18,
       "labels": {
-        "NC_Onb": 1,
+        "NC_Onb": 3,
         "Beta": 2,
         "WFF": 3,
         "On Hold": 0,
@@ -1241,7 +1243,7 @@
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
-        "1": 1,
+        "1": 2,
         "2": 0,
         "3": 0,
         "4": 0,
