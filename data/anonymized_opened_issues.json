@@ -247,12 +247,12 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 19,
-      "count": 19,
+      "service_count": 18,
+      "count": 18,
       "labels": {
         "1M": 3,
         "2M": 1,
-        "2S": 3,
+        "2S": 2,
         "3L": 1,
         "3M": 2,
         "4M": 3,
@@ -262,24 +262,23 @@
       },
       "issues_by_project": {
         "service/global": 2,
-        "service/support": 8,
+        "service/support": 7,
         "service/thief": 9
       },
       "categories": {
         "low": 5,
         "medium": 6,
-        "high": 8
+        "high": 7
       },
       "no_due_dates": [
 
       ]
     },
     "Ro-Ci": {
-      "service_count": 12,
-      "count": 12,
+      "service_count": 11,
+      "count": 11,
       "labels": {
         "1M": 1,
-        "1S": 1,
         "2S": 1,
         "3M": 2,
         "4S": 1,
@@ -290,13 +289,13 @@
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 7,
+        "service/support": 6,
         "service/thief": 5
       },
       "categories": {
         "low": 5,
         "medium": 3,
-        "high": 4
+        "high": 3
       },
       "no_due_dates": [
 
@@ -851,7 +850,7 @@
       }
     },
     "Se-Tu": {
-      "count": 20,
+      "count": 19,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
@@ -859,7 +858,7 @@
         "On Hold": 1,
         "Blocked": 0,
         "1": 2,
-        "2": 1,
+        "2": 0,
         "3": 2,
         "4": 3,
         "5": 0,
@@ -871,17 +870,17 @@
       }
     },
     "Ro-Ci": {
-      "count": 19,
+      "count": 16,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 3,
-        "On Hold": 7,
+        "WFF": 5,
+        "On Hold": 5,
         "Blocked": 0,
-        "1": 2,
+        "1": 1,
         "2": 1,
-        "3": 2,
-        "4": 1,
+        "3": 1,
+        "4": 0,
         "5": 0,
         "6": 1,
         "7": 0,
@@ -955,14 +954,14 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 0,
+        "WFF": 1,
         "On Hold": 0,
         "Blocked": 0,
         "1": 1,
         "2": 1,
         "3": 2,
         "4": 1,
-        "5": 1,
+        "5": 0,
         "6": 0,
         "7": 0,
         "8": 0,
@@ -982,13 +981,13 @@
       }
     },
     "Cr-Bu": {
-      "count": 46,
+      "count": 45,
       "issues_by_project": {
         "bucket/support": 3,
         "psd2/PRR": 1,
         "SE/bucket": 5,
         "SE/docs": 2,
-        "service/support": 35
+        "service/support": 34
       }
     },
     "Ig-Li": {
