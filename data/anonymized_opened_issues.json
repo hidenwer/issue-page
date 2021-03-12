@@ -874,7 +874,7 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 8,
+        "WFF": 7,
         "On Hold": 4,
         "Blocked": 0,
         "1": 2,
@@ -883,7 +883,7 @@
         "4": 1,
         "5": 0,
         "6": 1,
-        "7": 1,
+        "7": 2,
         "8": 0,
         "9": 1,
         "10": 0
@@ -972,11 +972,11 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 43,
+      "count": 44,
       "issues_by_project": {
         "bucket/support": 4,
         "service/stealer": 1,
-        "service/support": 37,
+        "service/support": 38,
         "service/thief": 1
       }
     },
