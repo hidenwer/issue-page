@@ -772,10 +772,10 @@
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 5,
+        "WFF": 6,
         "On Hold": 2,
         "Blocked": 0,
-        "1": 1,
+        "1": 0,
         "2": 2,
         "3": 3,
         "4": 1,
@@ -979,13 +979,13 @@
       }
     },
     "Cr-Bu": {
-      "count": 45,
+      "count": 46,
       "issues_by_project": {
         "bucket/support": 3,
         "psd2/PRR": 1,
         "SE/bucket": 5,
         "SE/docs": 2,
-        "service/support": 34
+        "service/support": 35
       }
     },
     "Ig-Li": {
