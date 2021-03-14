@@ -56,10 +56,7 @@
         "low": 7,
         "medium": 4,
         "high": 15
-      },
-      "overdues": [
-
-      ]
+      }
     },
     "Co-Ci": {
       "service_count": 16,
@@ -84,9 +81,6 @@
         "medium": 4,
         "high": 6
       },
-      "overdues": [
-
-      ],
       "no_due_dates": [
 
       ]
@@ -117,10 +111,7 @@
         "low": 5,
         "medium": 7,
         "high": 8
-      },
-      "overdues": [
-
-      ]
+      }
     },
     "Da-Su": {
       "service_count": 15,
@@ -171,9 +162,6 @@
         "medium": 3,
         "high": 3
       },
-      "overdues": [
-
-      ],
       "no_due_dates": [
 
       ]
@@ -228,10 +216,7 @@
         "low": 9,
         "medium": 2,
         "high": 3
-      },
-      "overdues": [
-
-      ]
+      }
     },
     "An-Mo": {
       "service_count": 16,
@@ -256,9 +241,6 @@
         "medium": 1,
         "high": 6
       },
-      "overdues": [
-
-      ],
       "no_due_dates": [
 
       ]
@@ -287,9 +269,6 @@
         "medium": 6,
         "high": 6
       },
-      "overdues": [
-
-      ],
       "no_due_dates": [
 
       ]
@@ -317,9 +296,6 @@
         "medium": 3,
         "high": 2
       },
-      "overdues": [
-
-      ],
       "no_due_dates": [
 
       ]
@@ -347,9 +323,6 @@
         "medium": 2,
         "high": 3
       },
-      "overdues": [
-
-      ],
       "no_due_dates": [
 
       ]
