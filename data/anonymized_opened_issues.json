@@ -1,10 +1,11 @@
 {
   "load": {
     "Ed-Ma": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 15,
+      "count": 15,
       "labels": {
         "1L": 1,
+        "1M": 1,
         "1S": 2,
         "2M": 4,
         "2S": 2,
@@ -16,12 +17,12 @@
         "DemoJ": 1,
         "service/global": 3,
         "service/support": 5,
-        "service/thief": 5
+        "service/thief": 6
       },
       "categories": {
         "low": 1,
         "medium": 4,
-        "high": 9
+        "high": 10
       },
       "overdues": [
 
@@ -672,9 +673,9 @@
         "NC_Onb": 1,
         "Beta": 0,
         "WFF": 6,
-        "On Hold": 3,
+        "On Hold": 2,
         "Blocked": 2,
-        "1": 0,
+        "1": 1,
         "2": 4,
         "3": 2,
         "4": 1,
@@ -1007,9 +1008,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 21,
+      "count": 20,
       "issues_by_project": {
-        "service/support": 21
+        "service/support": 20
       }
     }
   },
@@ -1017,9 +1018,9 @@
     "Ed-Ma": {
       "count": 3,
       "labels": {
-        "On Hold": 1,
+        "On Hold": 0,
         "Blocked": 1,
-        "1": 0,
+        "1": 1,
         "2": 0,
         "3": 1,
         "4": 0,
