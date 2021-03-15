@@ -59,8 +59,8 @@
       }
     },
     "Co-Ci": {
-      "service_count": 17,
-      "count": 17,
+      "service_count": 16,
+      "count": 16,
       "labels": {
         "1M": 4,
         "1S": 1,
@@ -68,16 +68,16 @@
         "2S": 1,
         "3M": 1,
         "3S": 3,
-        "4S": 3,
+        "4S": 2,
         "5M": 2,
         "7M": 1
       },
       "issues_by_project": {
-        "service/support": 11,
+        "service/support": 10,
         "service/thief": 6
       },
       "categories": {
-        "low": 6,
+        "low": 5,
         "medium": 4,
         "high": 7
       },
@@ -193,13 +193,13 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 13,
-      "count": 19,
+      "service_count": 14,
+      "count": 20,
       "labels": {
         "1M": 2,
         "2S": 1,
         "3L": 1,
-        "3S": 4,
+        "3S": 5,
         "4M": 1,
         "4S": 1,
         "5S": 2,
@@ -208,12 +208,12 @@
       "issues_by_project": {
         "SE/bucket": 5,
         "service/global": 1,
-        "service/support": 6,
+        "service/support": 7,
         "service/thief": 6,
         "shared/salt-common": 1
       },
       "categories": {
-        "low": 8,
+        "low": 9,
         "medium": 2,
         "high": 3
       }
@@ -708,11 +708,11 @@
       }
     },
     "Co-Ci": {
-      "count": 19,
+      "count": 18,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 8,
+        "WFF": 7,
         "On Hold": 2,
         "Blocked": 0,
         "1": 2,
@@ -808,11 +808,11 @@
       }
     },
     "Da-Ni": {
-      "count": 18,
+      "count": 19,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 3,
+        "WFF": 4,
         "On Hold": 4,
         "Blocked": 1,
         "1": 2,
@@ -979,13 +979,13 @@
       }
     },
     "Cr-Bu": {
-      "count": 43,
+      "count": 42,
       "issues_by_project": {
         "bucket/support": 3,
         "psd2/PRR": 1,
         "SE/bucket": 5,
         "SE/docs": 2,
-        "service/support": 32
+        "service/support": 31
       }
     },
     "Ig-Li": {
