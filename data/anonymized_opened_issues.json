@@ -139,8 +139,8 @@
       ]
     },
     "Se-Vo": {
-      "service_count": 15,
-      "count": 15,
+      "service_count": 14,
+      "count": 14,
       "labels": {
         "1M": 2,
         "10M": 1,
@@ -148,11 +148,9 @@
         "3S": 5,
         "4M": 2,
         "4S": 2,
-        "6L": 1,
-        "S": 1
+        "6L": 1
       },
       "issues_by_project": {
-        "service/robber": 1,
         "service/support": 10,
         "service/thief": 4
       },
