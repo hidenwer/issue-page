@@ -187,6 +187,9 @@
       },
       "no_due_dates": [
 
+      ],
+      "no_spend_time": [
+
       ]
     },
     "Da-Ni": {
@@ -972,13 +975,13 @@
       }
     },
     "Cr-Bu": {
-      "count": 44,
+      "count": 45,
       "issues_by_project": {
         "bucket/support": 3,
         "psd2/PRR": 1,
         "SE/bucket": 5,
         "SE/docs": 2,
-        "service/support": 33
+        "service/support": 34
       }
     },
     "Ig-Li": {
