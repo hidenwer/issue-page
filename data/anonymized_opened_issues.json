@@ -2,7 +2,7 @@
   "load": {
     "Ed-Ma": {
       "service_count": 15,
-      "count": 16,
+      "count": 15,
       "labels": {
         "1L": 1,
         "1M": 1,
@@ -17,8 +17,7 @@
         "DemoJ": 1,
         "service/global": 2,
         "service/support": 6,
-        "service/thief": 6,
-        "shared/salt-common": 1
+        "service/thief": 6
       },
       "categories": {
         "low": 1,
@@ -40,7 +39,7 @@
         "2S": 1,
         "3M": 2,
         "3S": 3,
-        "4M": 1,
+        "4L": 1,
         "5M": 1,
         "7L": 1,
         "8M": 1
@@ -667,11 +666,11 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 4,
+        "WFF": 5,
         "On Hold": 2,
         "Blocked": 2,
         "1": 2,
-        "2": 6,
+        "2": 5,
         "3": 1,
         "4": 1,
         "5": 0,
