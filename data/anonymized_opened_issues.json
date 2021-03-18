@@ -1,8 +1,8 @@
 {
   "load": {
     "Ed-Ma": {
-      "service_count": 15,
-      "count": 15,
+      "service_count": 17,
+      "count": 17,
       "labels": {
         "1L": 1,
         "1M": 1,
@@ -11,13 +11,14 @@
         "2S": 3,
         "3M": 2,
         "4M": 2,
-        "7S": 1
+        "7S": 1,
+        "M": 2
       },
       "issues_by_project": {
         "DemoJ": 1,
         "service/global": 2,
         "service/support": 6,
-        "service/thief": 6
+        "service/thief": 8
       },
       "categories": {
         "low": 1,
@@ -404,7 +405,7 @@
   },
   "int": {
     "Ed-Ma": {
-      "count": 5,
+      "count": 6,
       "labels": {
         "On Hold": 1,
         "Blocked": 0,
@@ -665,11 +666,11 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 6,
+        "WFF": 7,
         "On Hold": 2,
         "Blocked": 2,
         "1": 1,
-        "2": 5,
+        "2": 4,
         "3": 1,
         "4": 1,
         "5": 0,
@@ -1009,7 +1010,7 @@
   },
   "pisp": {
     "Ed-Ma": {
-      "count": 3,
+      "count": 4,
       "labels": {
         "On Hold": 0,
         "Blocked": 1,
