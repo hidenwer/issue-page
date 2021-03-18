@@ -58,8 +58,8 @@
       }
     },
     "Co-Ci": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 15,
+      "count": 15,
       "labels": {
         "1M": 3,
         "1S": 1,
@@ -67,17 +67,17 @@
         "2S": 2,
         "3M": 1,
         "3S": 2,
-        "4S": 2,
+        "4S": 1,
         "5M": 2,
         "7M": 1,
         "7S": 1
       },
       "issues_by_project": {
-        "service/support": 11,
+        "service/support": 10,
         "service/thief": 5
       },
       "categories": {
-        "low": 5,
+        "low": 4,
         "medium": 4,
         "high": 7
       },
@@ -701,7 +701,7 @@
       }
     },
     "Co-Ci": {
-      "count": 18,
+      "count": 17,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
@@ -711,7 +711,7 @@
         "1": 2,
         "2": 2,
         "3": 1,
-        "4": 1,
+        "4": 0,
         "5": 2,
         "6": 0,
         "7": 1,
@@ -972,13 +972,13 @@
       }
     },
     "Cr-Bu": {
-      "count": 49,
+      "count": 48,
       "issues_by_project": {
         "bucket/support": 3,
         "psd2/PRR": 1,
         "SE/bucket": 5,
         "SE/docs": 2,
-        "service/support": 38
+        "service/support": 37
       }
     },
     "Ig-Li": {
