@@ -989,7 +989,7 @@
       }
     },
     "Ir-Gr": {
-      "count": 27,
+      "count": 28,
       "issues_by_project": {
         "care/global": 4,
         "care/internal": 10,
@@ -998,7 +998,7 @@
         "SE/docs": 2,
         "service/global": 3,
         "service/kpi": 1,
-        "service/support": 1
+        "service/support": 2
       }
     },
     "Vi-Sa": {
