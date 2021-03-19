@@ -87,11 +87,11 @@
       ]
     },
     "Eu-Mo": {
-      "service_count": 22,
-      "count": 23,
+      "service_count": 21,
+      "count": 22,
       "labels": {
         "1M": 1,
-        "1S": 3,
+        "1S": 2,
         "10M": 1,
         "2S": 4,
         "3L": 2,
@@ -105,13 +105,13 @@
       },
       "issues_by_project": {
         "SE/bucket": 1,
-        "service/support": 15,
+        "service/support": 14,
         "service/thief": 7
       },
       "categories": {
         "low": 6,
         "medium": 8,
-        "high": 8
+        "high": 7
       }
     },
     "Da-Su": {
@@ -196,13 +196,13 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 13,
-      "count": 20,
+      "service_count": 12,
+      "count": 19,
       "labels": {
         "1M": 2,
         "2S": 1,
         "3L": 1,
-        "3S": 3,
+        "3S": 2,
         "4M": 1,
         "4S": 1,
         "5S": 2,
@@ -212,12 +212,12 @@
       "issues_by_project": {
         "SE/bucket": 6,
         "service/global": 1,
-        "service/support": 8,
+        "service/support": 7,
         "service/thief": 4,
         "shared/salt-common": 1
       },
       "categories": {
-        "low": 8,
+        "low": 7,
         "medium": 2,
         "high": 3
       }
@@ -249,24 +249,23 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "1M": 3,
         "2S": 1,
         "3M": 2,
         "4M": 4,
         "4S": 1,
-        "7S": 1,
         "Beta": 1
       },
       "issues_by_project": {
         "service/global": 2,
-        "service/support": 4,
+        "service/support": 3,
         "service/thief": 7
       },
       "categories": {
-        "low": 2,
+        "low": 1,
         "medium": 6,
         "high": 5
       },
@@ -727,15 +726,15 @@
       }
     },
     "Eu-Mo": {
-      "count": 24,
+      "count": 23,
       "labels": {
-        "NC_Onb": 2,
+        "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 13,
+        "WFF": 12,
         "On Hold": 2,
         "Blocked": 0,
         "1": 0,
-        "2": 1,
+        "2": 2,
         "3": 2,
         "4": 0,
         "5": 2,
@@ -807,7 +806,7 @@
       }
     },
     "Da-Ni": {
-      "count": 18,
+      "count": 17,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
@@ -816,7 +815,7 @@
         "Blocked": 1,
         "1": 2,
         "2": 0,
-        "3": 2,
+        "3": 1,
         "4": 1,
         "5": 2,
         "6": 1,
@@ -847,7 +846,7 @@
       }
     },
     "Se-Tu": {
-      "count": 15,
+      "count": 14,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
@@ -855,7 +854,7 @@
         "On Hold": 2,
         "Blocked": 0,
         "1": 1,
-        "2": 1,
+        "2": 0,
         "3": 1,
         "4": 4,
         "5": 0,
@@ -1007,9 +1006,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 22,
+      "count": 21,
       "issues_by_project": {
-        "service/support": 22
+        "service/support": 21
       }
     }
   },
