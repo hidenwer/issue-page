@@ -5,8 +5,7 @@
       "count": 17,
       "labels": {
         "1L": 1,
-        "1M": 1,
-        "1S": 1,
+        "1M": 2,
         "2M": 4,
         "2S": 3,
         "3M": 2,
@@ -30,9 +29,10 @@
       ]
     },
     "Al-Hi": {
-      "service_count": 29,
-      "count": 31,
+      "service_count": 30,
+      "count": 32,
       "labels": {
+        "1": 1,
         "1L": 2,
         "1M": 3,
         "1S": 11,
@@ -50,7 +50,7 @@
         "DemoJ": 4,
         "SE/bucket": 2,
         "service/global": 3,
-        "service/support": 9,
+        "service/support": 10,
         "service/thief": 13
       },
       "categories": {
@@ -684,14 +684,14 @@
       }
     },
     "Al-Hi": {
-      "count": 43,
+      "count": 45,
       "labels": {
         "NC_Onb": 2,
         "Beta": 1,
-        "WFF": 12,
+        "WFF": 13,
         "On Hold": 11,
         "Blocked": 2,
-        "1": 10,
+        "1": 11,
         "2": 0,
         "3": 2,
         "4": 0,
