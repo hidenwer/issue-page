@@ -197,7 +197,7 @@
     },
     "Da-Ni": {
       "service_count": 12,
-      "count": 19,
+      "count": 18,
       "labels": {
         "1M": 2,
         "2S": 1,
@@ -213,8 +213,7 @@
         "SE/bucket": 6,
         "service/global": 1,
         "service/support": 7,
-        "service/thief": 4,
-        "shared/salt-common": 1
+        "service/thief": 4
       },
       "categories": {
         "low": 7,
