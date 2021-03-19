@@ -198,7 +198,7 @@
     },
     "Da-Ni": {
       "service_count": 11,
-      "count": 17,
+      "count": 18,
       "labels": {
         "1M": 2,
         "2S": 2,
@@ -210,7 +210,7 @@
         "6S": 1
       },
       "issues_by_project": {
-        "SE/bucket": 6,
+        "SE/bucket": 7,
         "service/global": 1,
         "service/support": 6,
         "service/thief": 4
