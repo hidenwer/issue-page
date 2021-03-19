@@ -248,11 +248,11 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 15,
-      "count": 15,
+      "service_count": 14,
+      "count": 14,
       "labels": {
         "1M": 3,
-        "2S": 2,
+        "2S": 1,
         "3M": 2,
         "3S": 2,
         "4M": 4,
@@ -261,13 +261,13 @@
       },
       "issues_by_project": {
         "service/global": 2,
-        "service/support": 6,
+        "service/support": 5,
         "service/thief": 7
       },
       "categories": {
         "low": 3,
         "medium": 6,
-        "high": 6
+        "high": 5
       },
       "no_due_dates": [
 
@@ -809,11 +809,11 @@
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 2,
+        "WFF": 3,
         "On Hold": 4,
         "Blocked": 1,
         "1": 2,
-        "2": 1,
+        "2": 0,
         "3": 1,
         "4": 1,
         "5": 2,
@@ -845,11 +845,11 @@
       }
     },
     "Se-Tu": {
-      "count": 17,
+      "count": 16,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 6,
+        "WFF": 5,
         "On Hold": 2,
         "Blocked": 0,
         "1": 2,
@@ -1004,9 +1004,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 17,
+      "count": 16,
       "issues_by_project": {
-        "service/support": 17
+        "service/support": 16
       }
     }
   },
