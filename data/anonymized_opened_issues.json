@@ -30,8 +30,8 @@
       ]
     },
     "Al-Hi": {
-      "service_count": 28,
-      "count": 30,
+      "service_count": 29,
+      "count": 31,
       "labels": {
         "1L": 2,
         "1M": 3,
@@ -48,7 +48,7 @@
       "issues_by_project": {
         "DemoJ": 4,
         "SE/bucket": 2,
-        "service/global": 2,
+        "service/global": 3,
         "service/support": 9,
         "service/thief": 13
       },
