@@ -60,26 +60,26 @@
       }
     },
     "Co-Ci": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 15,
+      "count": 15,
       "labels": {
         "1M": 3,
         "1S": 1,
         "2M": 1,
         "2S": 3,
         "3M": 1,
-        "3S": 2,
+        "3S": 1,
         "4S": 1,
         "5M": 2,
         "7M": 1,
         "7S": 1
       },
       "issues_by_project": {
-        "service/support": 11,
+        "service/support": 10,
         "service/thief": 5
       },
       "categories": {
-        "low": 4,
+        "low": 3,
         "medium": 4,
         "high": 8
       },
@@ -704,11 +704,11 @@
       }
     },
     "Co-Ci": {
-      "count": 18,
+      "count": 17,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 7,
+        "WFF": 6,
         "On Hold": 2,
         "Blocked": 0,
         "1": 2,
@@ -748,12 +748,12 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 4,
+        "WFF": 3,
         "On Hold": 3,
         "Blocked": 0,
         "1": 2,
         "2": 3,
-        "3": 3,
+        "3": 4,
         "4": 0,
         "5": 0,
         "6": 0,
