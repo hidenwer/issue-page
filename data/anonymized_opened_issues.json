@@ -85,8 +85,8 @@
       ]
     },
     "Eu-Mo": {
-      "service_count": 19,
-      "count": 20,
+      "service_count": 18,
+      "count": 19,
       "labels": {
         "1BetaS": 1,
         "1S": 1,
@@ -96,7 +96,7 @@
         "3M": 2,
         "3S": 3,
         "4S": 1,
-        "5M": 2,
+        "5M": 1,
         "5S": 1,
         "6S": 1
       },
@@ -104,11 +104,11 @@
         "SE/bucket": 1,
         "service/global": 1,
         "service/support": 13,
-        "service/thief": 5
+        "service/thief": 4
       },
       "categories": {
         "low": 6,
-        "medium": 6,
+        "medium": 5,
         "high": 6
       }
     },
@@ -727,7 +727,7 @@
       }
     },
     "Eu-Mo": {
-      "count": 24,
+      "count": 23,
       "labels": {
         "NC_Onb": 1,
         "Beta": 1,
@@ -738,7 +738,7 @@
         "2": 2,
         "3": 4,
         "4": 0,
-        "5": 2,
+        "5": 1,
         "6": 0,
         "7": 0,
         "8": 0,
@@ -969,10 +969,10 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 30,
+      "count": 31,
       "issues_by_project": {
         "service/stealer": 1,
-        "service/support": 28,
+        "service/support": 29,
         "service/thief": 1
       }
     },
