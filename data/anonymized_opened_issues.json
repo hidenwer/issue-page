@@ -29,34 +29,33 @@
       ]
     },
     "Al-Hi": {
-      "service_count": 30,
-      "count": 32,
+      "service_count": 28,
+      "count": 30,
       "labels": {
         "1": 1,
-        "1L": 2,
+        "1L": 1,
         "1M": 3,
-        "1S": 11,
+        "1S": 10,
         "2M": 2,
         "2S": 1,
-        "3M": 2,
-        "3S": 3,
+        "3M": 1,
+        "3S": 5,
         "4L": 1,
         "5M": 1,
         "7L": 1,
-        "8M": 1,
-        "S": 1
+        "8M": 1
       },
       "issues_by_project": {
         "DemoJ": 4,
         "SE/bucket": 2,
-        "service/global": 3,
+        "service/global": 2,
         "service/support": 10,
-        "service/thief": 13
+        "service/thief": 12
       },
       "categories": {
-        "low": 4,
-        "medium": 5,
-        "high": 19
+        "low": 6,
+        "medium": 4,
+        "high": 17
       }
     },
     "Co-Ci": {
@@ -691,16 +690,16 @@
       }
     },
     "Al-Hi": {
-      "count": 45,
+      "count": 43,
       "labels": {
         "NC_Onb": 2,
         "Beta": 1,
-        "WFF": 13,
+        "WFF": 8,
         "On Hold": 11,
         "Blocked": 2,
         "1": 11,
         "2": 0,
-        "3": 2,
+        "3": 5,
         "4": 0,
         "5": 1,
         "6": 0,
@@ -1037,9 +1036,9 @@
     "Al-Hi": {
       "count": 4,
       "labels": {
-        "On Hold": 0,
+        "On Hold": 1,
         "Blocked": 1,
-        "1": 2,
+        "1": 1,
         "2": 0,
         "3": 0,
         "4": 1,
