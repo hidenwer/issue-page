@@ -971,10 +971,10 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 33,
+      "count": 34,
       "issues_by_project": {
         "service/stealer": 1,
-        "service/support": 31,
+        "service/support": 32,
         "service/thief": 1
       }
     },
