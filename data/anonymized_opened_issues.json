@@ -28,8 +28,8 @@
       ]
     },
     "Al-Hi": {
-      "service_count": 30,
-      "count": 32,
+      "service_count": 31,
+      "count": 33,
       "labels": {
         "1L": 1,
         "1M": 3,
@@ -49,7 +49,7 @@
         "SE/bucket": 2,
         "service/global": 2,
         "service/support": 10,
-        "service/thief": 14
+        "service/thief": 15
       },
       "categories": {
         "low": 4,
