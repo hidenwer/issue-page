@@ -51,8 +51,8 @@
         "service/thief": 12
       },
       "categories": {
-        "low": 4,
-        "medium": 5,
+        "low": 3,
+        "medium": 6,
         "high": 13
       }
     },
@@ -160,8 +160,8 @@
         "service/thief": 4
       },
       "categories": {
-        "low": 9,
-        "medium": 4,
+        "low": 8,
+        "medium": 5,
         "high": 4
       },
       "no_due_dates": [
@@ -353,8 +353,8 @@
         "service/thief": 5
       },
       "categories": {
-        "low": 10,
-        "medium": 2,
+        "low": 9,
+        "medium": 3,
         "high": 5
       },
       "no_due_dates": [
