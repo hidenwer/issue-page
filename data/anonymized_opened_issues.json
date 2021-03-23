@@ -86,14 +86,14 @@
       ]
     },
     "Eu-Mo": {
-      "service_count": 20,
-      "count": 21,
+      "service_count": 21,
+      "count": 22,
       "labels": {
         "1BetaS": 1,
         "1S": 1,
         "10M": 1,
         "2M": 1,
-        "2S": 5,
+        "2S": 6,
         "3L": 1,
         "3M": 3,
         "3S": 3,
@@ -105,13 +105,14 @@
       "issues_by_project": {
         "SE/bucket": 1,
         "service/global": 1,
+        "service/kpi": 1,
         "service/support": 13,
         "service/thief": 6
       },
       "categories": {
         "low": 6,
         "medium": 6,
-        "high": 7
+        "high": 8
       }
     },
     "Da-Su": {
@@ -732,7 +733,7 @@
       }
     },
     "Eu-Mo": {
-      "count": 25,
+      "count": 26,
       "labels": {
         "NC_Onb": 1,
         "Beta": 1,
@@ -740,7 +741,7 @@
         "On Hold": 4,
         "Blocked": 0,
         "1": 1,
-        "2": 3,
+        "2": 4,
         "3": 5,
         "4": 0,
         "5": 1,
@@ -836,7 +837,7 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 3,
+        "WFF": 4,
         "On Hold": 2,
         "Blocked": 0,
         "1": 1,
@@ -844,7 +845,7 @@
         "3": 1,
         "4": 1,
         "5": 1,
-        "6": 1,
+        "6": 0,
         "7": 1,
         "8": 0,
         "9": 0,
@@ -916,13 +917,13 @@
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 6,
+        "WFF": 7,
         "On Hold": 2,
         "Blocked": 0,
         "1": 3,
         "2": 0,
         "3": 3,
-        "4": 1,
+        "4": 0,
         "5": 1,
         "6": 1,
         "7": 0,
