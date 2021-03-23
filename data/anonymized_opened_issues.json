@@ -169,12 +169,12 @@
       ]
     },
     "St-Da": {
-      "service_count": 21,
-      "count": 21,
+      "service_count": 22,
+      "count": 22,
       "labels": {
         "1M": 5,
         "2M": 1,
-        "2S": 1,
+        "2S": 2,
         "3M": 1,
         "3S": 5,
         "4M": 1,
@@ -183,18 +183,16 @@
         "Beta": 1
       },
       "issues_by_project": {
+        "service/kpi": 1,
         "service/support": 14,
         "service/thief": 7
       },
       "categories": {
         "low": 11,
         "medium": 2,
-        "high": 8
+        "high": 9
       },
       "no_due_dates": [
-
-      ],
-      "no_spend_time": [
 
       ]
     },
@@ -791,7 +789,7 @@
       }
     },
     "St-Da": {
-      "count": 21,
+      "count": 22,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
@@ -799,7 +797,7 @@
         "On Hold": 0,
         "Blocked": 0,
         "1": 4,
-        "2": 1,
+        "2": 2,
         "3": 4,
         "4": 2,
         "5": 0,
