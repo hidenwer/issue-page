@@ -84,13 +84,13 @@
       ]
     },
     "Eu-Mo": {
-      "service_count": 20,
-      "count": 21,
+      "service_count": 19,
+      "count": 20,
       "labels": {
         "1BetaS": 1,
         "1S": 1,
         "10M": 1,
-        "2S": 7,
+        "2S": 6,
         "3L": 1,
         "3M": 2,
         "3S": 3,
@@ -103,13 +103,13 @@
         "SE/bucket": 1,
         "service/global": 1,
         "service/kpi": 1,
-        "service/support": 13,
+        "service/support": 12,
         "service/thief": 5
       },
       "categories": {
         "low": 6,
         "medium": 5,
-        "high": 8
+        "high": 7
       }
     },
     "Da-Su": {
@@ -168,8 +168,8 @@
       ]
     },
     "St-Da": {
-      "service_count": 23,
-      "count": 23,
+      "service_count": 22,
+      "count": 22,
       "labels": {
         "1M": 5,
         "2M": 1,
@@ -177,17 +177,17 @@
         "3M": 1,
         "3S": 5,
         "4M": 1,
-        "4S": 5,
+        "4S": 4,
         "5S": 2,
         "Beta": 1
       },
       "issues_by_project": {
         "service/kpi": 1,
-        "service/support": 15,
+        "service/support": 14,
         "service/thief": 7
       },
       "categories": {
-        "low": 12,
+        "low": 11,
         "medium": 2,
         "high": 9
       },
@@ -736,7 +736,7 @@
       }
     },
     "Eu-Mo": {
-      "count": 25,
+      "count": 24,
       "labels": {
         "NC_Onb": 1,
         "Beta": 1,
@@ -744,7 +744,7 @@
         "On Hold": 4,
         "Blocked": 0,
         "1": 1,
-        "2": 5,
+        "2": 4,
         "3": 4,
         "4": 0,
         "5": 1,
@@ -796,7 +796,7 @@
       }
     },
     "St-Da": {
-      "count": 24,
+      "count": 23,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
@@ -806,7 +806,7 @@
         "1": 3,
         "2": 1,
         "3": 4,
-        "4": 4,
+        "4": 3,
         "5": 1,
         "6": 0,
         "7": 0,
@@ -986,21 +986,21 @@
       }
     },
     "Cr-Bu": {
-      "count": 49,
+      "count": 48,
       "issues_by_project": {
         "bucket/support": 1,
         "psd2/PRR": 1,
         "SE/bucket": 6,
         "SE/docs": 3,
         "service/kpi": 1,
-        "service/support": 36,
+        "service/support": 35,
         "service/thief": 1
       }
     },
     "Ig-Li": {
-      "count": 24,
+      "count": 23,
       "issues_by_project": {
-        "service/support": 24
+        "service/support": 23
       }
     },
     "Ir-Gr": {
