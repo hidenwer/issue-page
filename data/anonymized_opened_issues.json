@@ -696,12 +696,12 @@
       }
     },
     "Al-Hi": {
-      "count": 37,
+      "count": 36,
       "labels": {
         "NC_Onb": 2,
         "Beta": 1,
         "WFF": 6,
-        "On Hold": 11,
+        "On Hold": 10,
         "Blocked": 2,
         "1": 7,
         "2": 1,
@@ -986,11 +986,11 @@
       }
     },
     "Cr-Bu": {
-      "count": 48,
+      "count": 49,
       "issues_by_project": {
         "bucket/support": 1,
         "psd2/PRR": 1,
-        "SE/bucket": 5,
+        "SE/bucket": 6,
         "SE/docs": 3,
         "service/kpi": 1,
         "service/support": 36,
@@ -1042,9 +1042,9 @@
       }
     },
     "Al-Hi": {
-      "count": 2,
+      "count": 1,
       "labels": {
-        "On Hold": 1,
+        "On Hold": 0,
         "Blocked": 0,
         "1": 0,
         "2": 0,
