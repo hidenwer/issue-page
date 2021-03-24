@@ -252,11 +252,11 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 15,
+      "count": 15,
       "labels": {
         "1M": 3,
-        "2S": 2,
+        "2S": 1,
         "3M": 3,
         "3S": 2,
         "4M": 4,
@@ -264,14 +264,14 @@
         "Beta": 1
       },
       "issues_by_project": {
-        "service/global": 3,
+        "service/global": 2,
         "service/support": 5,
         "service/thief": 8
       },
       "categories": {
         "low": 3,
         "medium": 7,
-        "high": 6
+        "high": 5
       },
       "no_due_dates": [
 
@@ -856,7 +856,7 @@
       }
     },
     "Se-Tu": {
-      "count": 18,
+      "count": 17,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
@@ -864,7 +864,7 @@
         "On Hold": 2,
         "Blocked": 0,
         "1": 2,
-        "2": 1,
+        "2": 0,
         "3": 2,
         "4": 4,
         "5": 0,
