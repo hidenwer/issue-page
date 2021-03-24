@@ -84,13 +84,13 @@
       ]
     },
     "Eu-Mo": {
-      "service_count": 19,
-      "count": 20,
+      "service_count": 20,
+      "count": 21,
       "labels": {
         "1BetaS": 1,
         "1S": 1,
         "10M": 1,
-        "2S": 6,
+        "2S": 7,
         "3L": 1,
         "3M": 2,
         "3S": 3,
@@ -104,12 +104,12 @@
         "service/global": 1,
         "service/kpi": 1,
         "service/support": 13,
-        "service/thief": 4
+        "service/thief": 5
       },
       "categories": {
         "low": 6,
         "medium": 5,
-        "high": 7
+        "high": 8
       }
     },
     "Da-Su": {
@@ -736,7 +736,7 @@
       }
     },
     "Eu-Mo": {
-      "count": 24,
+      "count": 25,
       "labels": {
         "NC_Onb": 1,
         "Beta": 1,
@@ -744,7 +744,7 @@
         "On Hold": 4,
         "Blocked": 0,
         "1": 1,
-        "2": 4,
+        "2": 5,
         "3": 4,
         "4": 0,
         "5": 1,
@@ -840,12 +840,12 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 4,
+        "WFF": 5,
         "On Hold": 2,
         "Blocked": 0,
         "1": 2,
         "2": 6,
-        "3": 3,
+        "3": 2,
         "4": 1,
         "5": 0,
         "6": 0,
@@ -900,14 +900,14 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 6,
+        "WFF": 5,
         "On Hold": 1,
         "Blocked": 0,
         "1": 1,
         "2": 0,
         "3": 1,
         "4": 2,
-        "5": 4,
+        "5": 5,
         "6": 0,
         "7": 0,
         "8": 0,
