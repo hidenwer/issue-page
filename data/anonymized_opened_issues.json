@@ -87,7 +87,6 @@
       "service_count": 19,
       "count": 20,
       "labels": {
-        "1BetaS": 1,
         "1S": 1,
         "10M": 1,
         "2S": 6,
@@ -97,7 +96,8 @@
         "4S": 1,
         "5M": 1,
         "5S": 1,
-        "6S": 1
+        "6S": 1,
+        "Beta": 1
       },
       "issues_by_project": {
         "SE/bucket": 1,
@@ -109,7 +109,7 @@
       "categories": {
         "low": 6,
         "medium": 5,
-        "high": 7
+        "high": 8
       }
     },
     "Da-Su": {
@@ -986,14 +986,14 @@
       }
     },
     "Cr-Bu": {
-      "count": 48,
+      "count": 49,
       "issues_by_project": {
         "bucket/support": 1,
         "psd2/PRR": 1,
         "SE/bucket": 6,
         "SE/docs": 3,
         "service/kpi": 1,
-        "service/support": 35,
+        "service/support": 36,
         "service/thief": 1
       }
     },
