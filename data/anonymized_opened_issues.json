@@ -148,24 +148,24 @@
       ]
     },
     "Se-Vo": {
-      "service_count": 15,
-      "count": 15,
+      "service_count": 14,
+      "count": 14,
       "labels": {
         "1M": 1,
         "10M": 1,
         "2S": 3,
-        "3S": 5,
+        "3S": 4,
         "4M": 2,
         "4S": 1,
         "6L": 1,
         "7S": 1
       },
       "issues_by_project": {
-        "service/support": 13,
+        "service/support": 12,
         "service/thief": 2
       },
       "categories": {
-        "low": 7,
+        "low": 6,
         "medium": 4,
         "high": 4
       }
@@ -777,7 +777,7 @@
       }
     },
     "Se-Vo": {
-      "count": 18,
+      "count": 17,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
@@ -786,7 +786,7 @@
         "Blocked": 0,
         "1": 1,
         "2": 2,
-        "3": 2,
+        "3": 1,
         "4": 2,
         "5": 0,
         "6": 1,
@@ -987,7 +987,7 @@
       }
     },
     "Cr-Bu": {
-      "count": 57,
+      "count": 56,
       "issues_by_project": {
         "bucket/support": 1,
         "business/legal": 1,
@@ -995,7 +995,7 @@
         "SE/bucket": 6,
         "SE/docs": 3,
         "service/pis-support": 5,
-        "service/support": 38,
+        "service/support": 37,
         "service/thief": 2
       }
     },
