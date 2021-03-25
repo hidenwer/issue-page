@@ -257,26 +257,27 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 18,
+      "count": 18,
       "labels": {
         "1M": 3,
         "1S": 2,
         "2S": 1,
         "3M": 3,
-        "3S": 1,
+        "3S": 2,
         "4M": 4,
         "4S": 1,
+        "5S": 1,
         "Beta": 1
       },
       "issues_by_project": {
         "service/global": 2,
         "service/pis-support": 2,
-        "service/support": 4,
+        "service/support": 6,
         "service/thief": 8
       },
       "categories": {
-        "low": 2,
+        "low": 4,
         "medium": 7,
         "high": 7
       },
@@ -368,8 +369,8 @@
       ]
     },
     "Al-Je": {
-      "service_count": 18,
-      "count": 18,
+      "service_count": 19,
+      "count": 19,
       "labels": {
         "1M": 3,
         "2M": 1,
@@ -378,15 +379,15 @@
         "3S": 4,
         "5S": 3,
         "6S": 1,
-        "8S": 2,
+        "8S": 3,
         "Beta": 2
       },
       "issues_by_project": {
-        "service/support": 14,
+        "service/support": 15,
         "service/thief": 4
       },
       "categories": {
-        "low": 10,
+        "low": 11,
         "medium": 1,
         "high": 7
       },
@@ -395,22 +396,23 @@
       ]
     },
     "Ni-Tr": {
-      "service_count": 10,
-      "count": 10,
+      "service_count": 11,
+      "count": 11,
       "labels": {
         "1M": 1,
         "1S": 1,
         "2S": 4,
         "3M": 1,
         "3S": 2,
-        "4S": 1
+        "4S": 1,
+        "5S": 1
       },
       "issues_by_project": {
-        "service/support": 8,
+        "service/support": 9,
         "service/thief": 2
       },
       "categories": {
-        "low": 3,
+        "low": 4,
         "medium": 1,
         "high": 6
       },
@@ -858,7 +860,7 @@
       }
     },
     "Se-Tu": {
-      "count": 18,
+      "count": 20,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
@@ -867,9 +869,9 @@
         "Blocked": 0,
         "1": 4,
         "2": 0,
-        "3": 2,
+        "3": 3,
         "4": 4,
-        "5": 0,
+        "5": 1,
         "6": 0,
         "7": 0,
         "8": 0,
@@ -882,13 +884,13 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 8,
+        "WFF": 9,
         "On Hold": 7,
         "Blocked": 0,
         "1": 1,
         "2": 0,
         "3": 0,
-        "4": 3,
+        "4": 2,
         "5": 1,
         "6": 1,
         "7": 0,
@@ -938,7 +940,7 @@
       }
     },
     "Al-Je": {
-      "count": 18,
+      "count": 19,
       "labels": {
         "NC_Onb": 2,
         "Beta": 2,
@@ -952,13 +954,13 @@
         "5": 1,
         "6": 0,
         "7": 0,
-        "8": 1,
+        "8": 2,
         "9": 0,
         "10": 0
       }
     },
     "Ni-Tr": {
-      "count": 10,
+      "count": 11,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
@@ -969,7 +971,7 @@
         "2": 4,
         "3": 2,
         "4": 1,
-        "5": 0,
+        "5": 1,
         "6": 0,
         "7": 0,
         "8": 0,
