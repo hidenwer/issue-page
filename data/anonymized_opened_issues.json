@@ -992,9 +992,10 @@
       }
     },
     "Cr-Bu": {
-      "count": 54,
+      "count": 55,
       "issues_by_project": {
         "bucket/support": 1,
+        "business/legal": 1,
         "psd2/PRR": 1,
         "SE/bucket": 6,
         "SE/docs": 3,
