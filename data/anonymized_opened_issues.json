@@ -119,14 +119,14 @@
       }
     },
     "Da-Su": {
-      "service_count": 15,
-      "count": 15,
+      "service_count": 14,
+      "count": 14,
       "labels": {
         "1M": 3,
         "1S": 3,
         "2M": 2,
         "2S": 1,
-        "3M": 3,
+        "3M": 2,
         "3S": 1,
         "4M": 1,
         "7M": 1
@@ -136,11 +136,11 @@
         "service/global": 3,
         "service/pis-support": 3,
         "service/support": 2,
-        "service/thief": 5
+        "service/thief": 4
       },
       "categories": {
         "low": 1,
-        "medium": 5,
+        "medium": 4,
         "high": 9
       },
       "no_due_dates": [
@@ -194,6 +194,9 @@
         "high": 7
       },
       "no_due_dates": [
+
+      ],
+      "no_spend_time": [
 
       ]
     },
@@ -761,12 +764,12 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 3,
-        "On Hold": 4,
+        "WFF": 4,
+        "On Hold": 5,
         "Blocked": 0,
-        "1": 5,
+        "1": 4,
         "2": 2,
-        "3": 4,
+        "3": 3,
         "4": 0,
         "5": 0,
         "6": 0,
@@ -1006,7 +1009,7 @@
       }
     },
     "Ir-Gr": {
-      "count": 36,
+      "count": 37,
       "issues_by_project": {
         "business/legal": 1,
         "care/global": 4,
@@ -1016,7 +1019,7 @@
         "SE/docs": 2,
         "service/global": 3,
         "service/kpi": 1,
-        "service/pis-support": 7,
+        "service/pis-support": 8,
         "service/support": 3
       }
     },
