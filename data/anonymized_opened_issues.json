@@ -724,11 +724,11 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 7,
+        "WFF": 6,
         "On Hold": 2,
         "Blocked": 0,
         "1": 2,
-        "2": 2,
+        "2": 3,
         "3": 3,
         "4": 1,
         "5": 1,
@@ -1009,7 +1009,7 @@
       }
     },
     "Ir-Gr": {
-      "count": 36,
+      "count": 37,
       "issues_by_project": {
         "business/legal": 1,
         "care/global": 4,
@@ -1019,7 +1019,7 @@
         "SE/docs": 2,
         "service/global": 3,
         "service/kpi": 1,
-        "service/pis-support": 7,
+        "service/pis-support": 8,
         "service/support": 3
       }
     },
