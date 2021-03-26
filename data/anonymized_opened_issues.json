@@ -205,14 +205,14 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 15,
-      "count": 22,
+      "service_count": 16,
+      "count": 23,
       "labels": {
         "1M": 2,
         "2M": 1,
         "2S": 2,
         "3L": 1,
-        "3S": 3,
+        "3S": 4,
         "4M": 1,
         "5S": 2,
         "6S": 1,
@@ -223,16 +223,13 @@
         "SE/bucket": 7,
         "service/global": 1,
         "service/support": 7,
-        "service/thief": 6
+        "service/thief": 7
       },
       "categories": {
-        "low": 8,
+        "low": 9,
         "medium": 2,
         "high": 5
-      },
-      "no_due_dates": [
-
-      ]
+      }
     },
     "An-Mo": {
       "service_count": 15,
@@ -261,13 +258,13 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 15,
+      "count": 15,
       "labels": {
         "1M": 3,
         "1S": 2,
         "3M": 3,
-        "3S": 2,
+        "3S": 3,
         "4M": 3,
         "Beta": 1
       },
@@ -275,10 +272,10 @@
         "service/global": 1,
         "service/pis-support": 2,
         "service/support": 3,
-        "service/thief": 8
+        "service/thief": 9
       },
       "categories": {
-        "low": 2,
+        "low": 3,
         "medium": 6,
         "high": 6
       },
@@ -819,7 +816,7 @@
       }
     },
     "Da-Ni": {
-      "count": 18,
+      "count": 19,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
@@ -828,7 +825,7 @@
         "Blocked": 1,
         "1": 1,
         "2": 2,
-        "3": 4,
+        "3": 5,
         "4": 0,
         "5": 2,
         "6": 1,
@@ -859,7 +856,7 @@
       }
     },
     "Se-Tu": {
-      "count": 16,
+      "count": 17,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
@@ -868,7 +865,7 @@
         "Blocked": 0,
         "1": 4,
         "2": 0,
-        "3": 2,
+        "3": 3,
         "4": 3,
         "5": 0,
         "6": 0,
