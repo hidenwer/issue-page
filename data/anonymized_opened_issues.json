@@ -148,12 +148,12 @@
       ]
     },
     "Se-Vo": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 17,
+      "count": 17,
       "labels": {
         "1M": 1,
         "10M": 1,
-        "2S": 3,
+        "2S": 4,
         "3S": 6,
         "4M": 2,
         "4S": 1,
@@ -161,13 +161,13 @@
         "7S": 1
       },
       "issues_by_project": {
-        "service/support": 14,
+        "service/support": 15,
         "service/thief": 2
       },
       "categories": {
         "low": 8,
         "medium": 4,
-        "high": 4
+        "high": 5
       }
     },
     "St-Da": {
@@ -201,27 +201,28 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 14,
-      "count": 21,
+      "service_count": 15,
+      "count": 22,
       "labels": {
         "1M": 2,
         "2M": 2,
         "2S": 2,
         "3L": 1,
-        "3S": 3,
+        "3S": 2,
         "4M": 1,
         "5S": 2,
-        "6S": 1
+        "6S": 1,
+        "8S": 2
       },
       "issues_by_project": {
         "DemoF": 1,
         "SE/bucket": 7,
         "service/global": 1,
-        "service/support": 6,
+        "service/support": 7,
         "service/thief": 6
       },
       "categories": {
-        "low": 6,
+        "low": 7,
         "medium": 2,
         "high": 6
       },
@@ -251,7 +252,10 @@
         "low": 8,
         "medium": 1,
         "high": 8
-      }
+      },
+      "no_due_dates": [
+
+      ]
     },
     "Se-Tu": {
       "service_count": 17,
@@ -283,29 +287,29 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 17,
-      "count": 17,
+      "service_count": 19,
+      "count": 19,
       "labels": {
-        "1S": 1,
+        "1S": 3,
         "2S": 1,
         "3M": 1,
-        "3S": 2,
+        "3S": 3,
         "4S": 3,
-        "5S": 3,
+        "5S": 2,
         "6M": 1,
         "7S": 3,
         "9S": 1,
         "Beta": 1
       },
       "issues_by_project": {
-        "service/pis-support": 1,
+        "service/pis-support": 3,
         "service/support": 12,
         "service/thief": 4
       },
       "categories": {
         "low": 12,
         "medium": 2,
-        "high": 3
+        "high": 5
       },
       "no_due_dates": [
 
@@ -340,13 +344,13 @@
       ]
     },
     "Ma-Gu": {
-      "service_count": 17,
-      "count": 17,
+      "service_count": 18,
+      "count": 18,
       "labels": {
         "1L": 1,
         "1M": 4,
         "3L": 1,
-        "3S": 6,
+        "3S": 7,
         "4S": 1,
         "5L": 1,
         "6S": 1,
@@ -354,18 +358,15 @@
         "9S": 1
       },
       "issues_by_project": {
-        "service/support": 13,
+        "service/support": 14,
         "service/thief": 4
       },
       "categories": {
-        "low": 10,
+        "low": 11,
         "medium": 2,
         "high": 5
       },
       "no_due_dates": [
-
-      ],
-      "no_spend_time": [
 
       ]
     },
@@ -725,7 +726,7 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 8,
+        "WFF": 7,
         "On Hold": 2,
         "Blocked": 0,
         "1": 2,
@@ -734,7 +735,7 @@
         "4": 1,
         "5": 1,
         "6": 0,
-        "7": 0,
+        "7": 1,
         "8": 0,
         "9": 0,
         "10": 0
@@ -781,7 +782,7 @@
       }
     },
     "Se-Vo": {
-      "count": 19,
+      "count": 20,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
@@ -789,7 +790,7 @@
         "On Hold": 3,
         "Blocked": 0,
         "1": 1,
-        "2": 1,
+        "2": 2,
         "3": 2,
         "4": 2,
         "5": 0,
@@ -821,11 +822,11 @@
       }
     },
     "Da-Ni": {
-      "count": 18,
+      "count": 19,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 4,
+        "WFF": 3,
         "On Hold": 3,
         "Blocked": 1,
         "1": 1,
@@ -835,7 +836,7 @@
         "5": 1,
         "6": 1,
         "7": 0,
-        "8": 0,
+        "8": 2,
         "9": 0,
         "10": 0
       }
@@ -881,18 +882,18 @@
       }
     },
     "Ro-Ci": {
-      "count": 24,
+      "count": 26,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
         "WFF": 9,
         "On Hold": 7,
         "Blocked": 0,
-        "1": 1,
+        "1": 3,
         "2": 0,
-        "3": 0,
+        "3": 1,
         "4": 2,
-        "5": 2,
+        "5": 1,
         "6": 1,
         "7": 0,
         "8": 0,
@@ -921,7 +922,7 @@
       }
     },
     "Ma-Gu": {
-      "count": 19,
+      "count": 20,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
@@ -930,7 +931,7 @@
         "Blocked": 0,
         "1": 3,
         "2": 0,
-        "3": 3,
+        "3": 4,
         "4": 1,
         "5": 1,
         "6": 1,
@@ -991,7 +992,7 @@
       }
     },
     "Cr-Bu": {
-      "count": 58,
+      "count": 57,
       "issues_by_project": {
         "bucket/support": 2,
         "business/legal": 1,
@@ -999,7 +1000,7 @@
         "SE/bucket": 6,
         "SE/docs": 3,
         "service/pis-support": 5,
-        "service/support": 38,
+        "service/support": 37,
         "service/thief": 2
       }
     },
@@ -1203,15 +1204,15 @@
       }
     },
     "Ro-Ci": {
-      "count": 1,
+      "count": 3,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
-        "1": 0,
+        "1": 2,
         "2": 0,
-        "3": 0,
+        "3": 1,
         "4": 0,
-        "5": 1,
+        "5": 0,
         "6": 0,
         "7": 0,
         "8": 0,
