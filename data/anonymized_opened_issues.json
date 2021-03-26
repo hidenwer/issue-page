@@ -1013,7 +1013,7 @@
       }
     },
     "Ir-Gr": {
-      "count": 37,
+      "count": 36,
       "issues_by_project": {
         "business/legal": 1,
         "care/global": 4,
@@ -1024,7 +1024,7 @@
         "service/global": 3,
         "service/kpi": 1,
         "service/pis-support": 8,
-        "service/support": 2
+        "service/support": 1
       }
     },
     "Vi-Sa": {
