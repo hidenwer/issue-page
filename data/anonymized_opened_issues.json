@@ -92,7 +92,7 @@
       "service_count": 23,
       "count": 24,
       "labels": {
-        "1S": 5,
+        "1S": 4,
         "10M": 1,
         "2S": 6,
         "3L": 1,
@@ -115,7 +115,7 @@
       "categories": {
         "low": 6,
         "medium": 5,
-        "high": 12
+        "high": 11
       }
     },
     "Da-Su": {
@@ -742,14 +742,14 @@
       }
     },
     "Eu-Mo": {
-      "count": 28,
+      "count": 27,
       "labels": {
         "NC_Onb": 1,
         "Beta": 1,
         "WFF": 8,
         "On Hold": 4,
         "Blocked": 0,
-        "1": 5,
+        "1": 4,
         "2": 3,
         "3": 4,
         "4": 0,
