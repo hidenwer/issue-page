@@ -1,8 +1,8 @@
 {
   "load": {
     "Ed-Ma": {
-      "service_count": 24,
-      "count": 24,
+      "service_count": 25,
+      "count": 25,
       "labels": {
         "1L": 1,
         "1M": 2,
@@ -13,6 +13,7 @@
         "3M": 2,
         "3S": 1,
         "4M": 2,
+        "4S": 1,
         "7S": 1
       },
       "issues_by_project": {
@@ -20,10 +21,10 @@
         "service/global": 2,
         "service/pis-support": 4,
         "service/support": 7,
-        "service/thief": 9
+        "service/thief": 10
       },
       "categories": {
-        "low": 2,
+        "low": 3,
         "medium": 4,
         "high": 18
       },
@@ -94,6 +95,7 @@
       "labels": {
         "1S": 4,
         "10M": 1,
+        "2M": 1,
         "2S": 6,
         "3L": 1,
         "3M": 2,
@@ -115,7 +117,7 @@
       "categories": {
         "low": 6,
         "medium": 5,
-        "high": 11
+        "high": 12
       }
     },
     "Da-Su": {
@@ -682,7 +684,7 @@
   },
   "lbl": {
     "Ed-Ma": {
-      "count": 28,
+      "count": 29,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
@@ -692,7 +694,7 @@
         "1": 4,
         "2": 6,
         "3": 3,
-        "4": 1,
+        "4": 2,
         "5": 0,
         "6": 0,
         "7": 1,
@@ -742,7 +744,7 @@
       }
     },
     "Eu-Mo": {
-      "count": 27,
+      "count": 28,
       "labels": {
         "NC_Onb": 1,
         "Beta": 1,
@@ -750,7 +752,7 @@
         "On Hold": 4,
         "Blocked": 0,
         "1": 4,
-        "2": 3,
+        "2": 4,
         "3": 4,
         "4": 0,
         "5": 1,
@@ -984,10 +986,10 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 36,
+      "count": 37,
       "issues_by_project": {
         "service/stealer": 1,
-        "service/support": 34,
+        "service/support": 35,
         "service/thief": 1
       }
     },
@@ -1085,12 +1087,12 @@
       }
     },
     "Eu-Mo": {
-      "count": 3,
+      "count": 4,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
         "1": 2,
-        "2": 1,
+        "2": 2,
         "3": 0,
         "4": 0,
         "5": 0,
