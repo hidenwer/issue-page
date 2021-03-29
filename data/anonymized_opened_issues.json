@@ -972,12 +972,12 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 32,
+      "count": 33,
       "issues_by_project": {
         "bucket/support": 1,
         "SE/bucket": 1,
         "service/stealer": 1,
-        "service/support": 28,
+        "service/support": 29,
         "service/thief": 1
       }
     },
@@ -1001,13 +1001,13 @@
       }
     },
     "Ir-Gr": {
-      "count": 44,
+      "count": 43,
       "issues_by_project": {
         "business/legal": 1,
         "care/global": 4,
         "care/internal": 10,
         "psd2/PRR": 1,
-        "SE/bucket": 5,
+        "SE/bucket": 4,
         "SE/docs": 2,
         "service/global": 3,
         "service/kpi": 1,
