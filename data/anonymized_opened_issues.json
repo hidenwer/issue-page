@@ -992,10 +992,10 @@
       }
     },
     "Cr-Bu": {
-      "count": 49,
+      "count": 50,
       "issues_by_project": {
         "bucket/support": 2,
-        "business/legal": 1,
+        "business/legal": 2,
         "psd2/PRR": 1,
         "SE/bucket": 6,
         "SE/docs": 3,
@@ -1011,7 +1011,7 @@
       }
     },
     "Ir-Gr": {
-      "count": 46,
+      "count": 45,
       "issues_by_project": {
         "business/legal": 1,
         "care/global": 4,
@@ -1021,7 +1021,7 @@
         "SE/docs": 2,
         "service/global": 3,
         "service/kpi": 1,
-        "service/pis-support": 18,
+        "service/pis-support": 17,
         "service/support": 1
       }
     },
