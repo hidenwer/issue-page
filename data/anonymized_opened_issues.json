@@ -124,11 +124,11 @@
       }
     },
     "Da-Su": {
-      "service_count": 15,
-      "count": 15,
+      "service_count": 13,
+      "count": 13,
       "labels": {
-        "1M": 3,
-        "1S": 4,
+        "1M": 2,
+        "1S": 3,
         "2M": 2,
         "2S": 1,
         "3M": 2,
@@ -137,16 +137,16 @@
         "7M": 1
       },
       "issues_by_project": {
-        "DemoJ": 2,
+        "DemoJ": 1,
         "service/global": 3,
         "service/pis-support": 4,
-        "service/support": 2,
+        "service/support": 1,
         "service/thief": 4
       },
       "categories": {
         "low": 1,
         "medium": 4,
-        "high": 10
+        "high": 8
       }
     },
     "Se-Vo": {
@@ -756,11 +756,11 @@
       }
     },
     "Da-Su": {
-      "count": 20,
+      "count": 18,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 3,
+        "WFF": 1,
         "On Hold": 5,
         "Blocked": 0,
         "1": 5,
