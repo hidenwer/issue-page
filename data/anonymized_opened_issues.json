@@ -263,24 +263,24 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 17,
-      "count": 17,
+      "service_count": 16,
+      "count": 16,
       "labels": {
         "1M": 3,
         "1S": 3,
         "3M": 3,
-        "3S": 4,
+        "3S": 3,
         "4M": 3,
         "Beta": 1
       },
       "issues_by_project": {
         "service/global": 1,
         "service/pis-support": 3,
-        "service/support": 3,
+        "service/support": 2,
         "service/thief": 10
       },
       "categories": {
-        "low": 4,
+        "low": 3,
         "medium": 6,
         "high": 7
       },
@@ -861,11 +861,11 @@
       }
     },
     "Se-Tu": {
-      "count": 19,
+      "count": 18,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 4,
+        "WFF": 3,
         "On Hold": 2,
         "Blocked": 0,
         "1": 5,
@@ -1005,9 +1005,9 @@
       }
     },
     "Ig-Li": {
-      "count": 27,
+      "count": 26,
       "issues_by_project": {
-        "service/support": 27
+        "service/support": 26
       }
     },
     "Ir-Gr": {
