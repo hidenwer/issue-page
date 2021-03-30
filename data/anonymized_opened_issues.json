@@ -64,8 +64,8 @@
       }
     },
     "Co-Ci": {
-      "service_count": 18,
-      "count": 18,
+      "service_count": 17,
+      "count": 17,
       "labels": {
         "1M": 3,
         "2M": 1,
@@ -75,15 +75,14 @@
         "4S": 2,
         "5M": 2,
         "5S": 1,
-        "7M": 1,
-        "7S": 1
+        "7M": 1
       },
       "issues_by_project": {
-        "service/support": 10,
+        "service/support": 9,
         "service/thief": 8
       },
       "categories": {
-        "low": 6,
+        "low": 5,
         "medium": 6,
         "high": 6
       }
@@ -713,11 +712,11 @@
       }
     },
     "Co-Ci": {
-      "count": 20,
+      "count": 19,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 9,
+        "WFF": 8,
         "On Hold": 2,
         "Blocked": 0,
         "1": 2,
@@ -837,13 +836,13 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 3,
+        "WFF": 4,
         "On Hold": 1,
         "Blocked": 0,
         "1": 1,
         "2": 3,
         "3": 2,
-        "4": 5,
+        "4": 4,
         "5": 3,
         "6": 0,
         "7": 1,
@@ -985,15 +984,15 @@
       }
     },
     "Cr-Bu": {
-      "count": 50,
+      "count": 48,
       "issues_by_project": {
         "bucket/support": 2,
         "business/legal": 1,
         "psd2/PRR": 1,
         "SE/bucket": 6,
-        "SE/docs": 3,
+        "SE/docs": 2,
         "service/pis-support": 3,
-        "service/support": 32,
+        "service/support": 31,
         "service/thief": 2
       }
     },
@@ -1004,14 +1003,14 @@
       }
     },
     "Ir-Gr": {
-      "count": 43,
+      "count": 42,
       "issues_by_project": {
         "business/legal": 1,
         "care/global": 4,
         "care/internal": 10,
         "psd2/PRR": 1,
         "SE/bucket": 4,
-        "SE/docs": 2,
+        "SE/docs": 1,
         "service/global": 3,
         "service/kpi": 1,
         "service/pis-support": 16,
