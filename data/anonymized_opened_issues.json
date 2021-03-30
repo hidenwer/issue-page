@@ -388,8 +388,8 @@
       ]
     },
     "Ni-Tr": {
-      "service_count": 15,
-      "count": 15,
+      "service_count": 14,
+      "count": 14,
       "labels": {
         "1M": 1,
         "2M": 1,
@@ -398,15 +398,14 @@
         "3S": 3,
         "4S": 2,
         "5S": 2,
-        "6S": 1,
-        "8S": 1
+        "6S": 1
       },
       "issues_by_project": {
-        "service/support": 13,
+        "service/support": 12,
         "service/thief": 2
       },
       "categories": {
-        "low": 9,
+        "low": 8,
         "medium": 1,
         "high": 5
       },
@@ -954,7 +953,7 @@
       }
     },
     "Ni-Tr": {
-      "count": 15,
+      "count": 14,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
@@ -968,7 +967,7 @@
         "5": 2,
         "6": 1,
         "7": 0,
-        "8": 1,
+        "8": 0,
         "9": 0,
         "10": 0
       }
@@ -976,24 +975,24 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 32,
+      "count": 33,
       "issues_by_project": {
         "bucket/support": 1,
         "SE/bucket": 1,
         "service/stealer": 1,
-        "service/support": 28,
+        "service/support": 29,
         "service/thief": 1
       }
     },
     "Cr-Bu": {
-      "count": 46,
+      "count": 45,
       "issues_by_project": {
         "bucket/support": 2,
         "psd2/PRR": 1,
         "SE/bucket": 6,
         "SE/docs": 1,
         "service/pis-support": 3,
-        "service/support": 31,
+        "service/support": 30,
         "service/thief": 2
       }
     },
