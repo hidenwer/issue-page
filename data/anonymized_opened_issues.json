@@ -226,9 +226,10 @@
       ]
     },
     "An-Mo": {
-      "service_count": 18,
-      "count": 18,
+      "service_count": 19,
+      "count": 19,
       "labels": {
+        "1M": 1,
         "1S": 1,
         "2M": 3,
         "2S": 3,
@@ -240,12 +241,12 @@
       },
       "issues_by_project": {
         "service/support": 12,
-        "service/thief": 6
+        "service/thief": 7
       },
       "categories": {
         "low": 10,
         "medium": 1,
-        "high": 7
+        "high": 8
       },
       "no_due_dates": [
 
@@ -551,11 +552,11 @@
       }
     },
     "An-Mo": {
-      "count": 4,
+      "count": 5,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
-        "1": 0,
+        "1": 1,
         "2": 3,
         "3": 0,
         "4": 0,
@@ -832,14 +833,14 @@
       }
     },
     "An-Mo": {
-      "count": 19,
+      "count": 20,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
         "WFF": 4,
         "On Hold": 1,
         "Blocked": 0,
-        "1": 1,
+        "1": 2,
         "2": 3,
         "3": 2,
         "4": 4,
@@ -984,10 +985,9 @@
       }
     },
     "Cr-Bu": {
-      "count": 48,
+      "count": 47,
       "issues_by_project": {
         "bucket/support": 2,
-        "business/legal": 1,
         "psd2/PRR": 1,
         "SE/bucket": 6,
         "SE/docs": 2,
@@ -1003,7 +1003,7 @@
       }
     },
     "Ir-Gr": {
-      "count": 42,
+      "count": 41,
       "issues_by_project": {
         "business/legal": 1,
         "care/global": 4,
@@ -1013,7 +1013,7 @@
         "SE/docs": 1,
         "service/global": 3,
         "service/kpi": 1,
-        "service/pis-support": 16,
+        "service/pis-support": 15,
         "service/support": 1
       }
     },
