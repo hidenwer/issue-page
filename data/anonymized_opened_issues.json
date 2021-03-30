@@ -199,14 +199,14 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 15,
-      "count": 21,
+      "service_count": 14,
+      "count": 20,
       "labels": {
         "1M": 2,
         "2M": 1,
         "2S": 1,
         "3L": 1,
-        "3S": 4,
+        "3S": 3,
         "4M": 1,
         "5S": 2,
         "6S": 1,
@@ -217,10 +217,10 @@
         "SE/bucket": 6,
         "service/global": 1,
         "service/support": 7,
-        "service/thief": 6
+        "service/thief": 5
       },
       "categories": {
-        "low": 9,
+        "low": 8,
         "medium": 2,
         "high": 4
       },
@@ -816,7 +816,7 @@
       }
     },
     "Da-Ni": {
-      "count": 19,
+      "count": 18,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
@@ -825,7 +825,7 @@
         "Blocked": 1,
         "1": 1,
         "2": 1,
-        "3": 5,
+        "3": 4,
         "4": 0,
         "5": 2,
         "6": 1,
@@ -1006,14 +1006,14 @@
       }
     },
     "Ir-Gr": {
-      "count": 42,
+      "count": 43,
       "issues_by_project": {
         "business/legal": 1,
         "care/global": 4,
         "care/internal": 10,
         "psd2/PRR": 1,
         "SE/bucket": 5,
-        "SE/docs": 1,
+        "SE/docs": 2,
         "service/global": 3,
         "service/kpi": 1,
         "service/pis-support": 15,
@@ -1148,13 +1148,13 @@
       }
     },
     "Da-Ni": {
-      "count": 3,
+      "count": 2,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
         "1": 1,
         "2": 0,
-        "3": 2,
+        "3": 1,
         "4": 0,
         "5": 0,
         "6": 0,
@@ -1405,13 +1405,13 @@
       }
     },
     "Da-Ni": {
-      "count": 3,
+      "count": 2,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
         "1": 1,
         "2": 0,
-        "3": 2,
+        "3": 1,
         "4": 0,
         "5": 0,
         "6": 0,
