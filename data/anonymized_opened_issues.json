@@ -33,12 +33,12 @@
       ]
     },
     "Al-Hi": {
-      "service_count": 27,
-      "count": 29,
+      "service_count": 26,
+      "count": 28,
       "labels": {
         "1L": 1,
         "1M": 3,
-        "1S": 10,
+        "1S": 9,
         "2M": 1,
         "2S": 1,
         "3M": 3,
@@ -53,14 +53,14 @@
         "DemoJ": 3,
         "SE/bucket": 2,
         "service/global": 2,
-        "service/pis-support": 7,
+        "service/pis-support": 6,
         "service/support": 2,
         "service/thief": 13
       },
       "categories": {
         "low": 3,
         "medium": 8,
-        "high": 16
+        "high": 15
       }
     },
     "Co-Ci": {
@@ -694,11 +694,11 @@
       }
     },
     "Al-Hi": {
-      "count": 45,
+      "count": 44,
       "labels": {
         "NC_Onb": 1,
         "Beta": 1,
-        "WFF": 8,
+        "WFF": 7,
         "On Hold": 13,
         "Blocked": 3,
         "1": 9,
@@ -1044,11 +1044,11 @@
       }
     },
     "Al-Hi": {
-      "count": 11,
+      "count": 10,
       "labels": {
         "On Hold": 1,
         "Blocked": 1,
-        "1": 7,
+        "1": 6,
         "2": 0,
         "3": 0,
         "4": 2,
@@ -1301,11 +1301,11 @@
       }
     },
     "Al-Hi": {
-      "count": 11,
+      "count": 10,
       "labels": {
         "On Hold": 1,
         "Blocked": 1,
-        "1": 7,
+        "1": 6,
         "2": 0,
         "3": 0,
         "4": 2,
