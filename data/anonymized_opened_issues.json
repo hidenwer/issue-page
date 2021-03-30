@@ -122,12 +122,12 @@
       }
     },
     "Da-Su": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 18,
+      "count": 18,
       "labels": {
         "1M": 2,
         "1S": 5,
-        "2M": 2,
+        "2M": 4,
         "2S": 1,
         "3M": 3,
         "3S": 1,
@@ -139,12 +139,12 @@
         "service/global": 3,
         "service/pis-support": 6,
         "service/support": 1,
-        "service/thief": 5
+        "service/thief": 7
       },
       "categories": {
         "low": 1,
         "medium": 5,
-        "high": 10
+        "high": 12
       }
     },
     "Se-Vo": {
@@ -487,12 +487,12 @@
       }
     },
     "Da-Su": {
-      "count": 5,
+      "count": 6,
       "labels": {
         "On Hold": 2,
         "Blocked": 0,
         "1": 1,
-        "2": 1,
+        "2": 2,
         "3": 0,
         "4": 0,
         "5": 0,
@@ -756,7 +756,7 @@
       }
     },
     "Da-Su": {
-      "count": 20,
+      "count": 22,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
@@ -764,7 +764,7 @@
         "On Hold": 4,
         "Blocked": 0,
         "1": 6,
-        "2": 3,
+        "2": 5,
         "3": 4,
         "4": 0,
         "5": 0,
@@ -1097,12 +1097,12 @@
       }
     },
     "Da-Su": {
-      "count": 6,
+      "count": 7,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
         "1": 5,
-        "2": 1,
+        "2": 2,
         "3": 0,
         "4": 0,
         "5": 0,
@@ -1354,12 +1354,12 @@
       }
     },
     "Da-Su": {
-      "count": 6,
+      "count": 7,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
         "1": 5,
-        "2": 1,
+        "2": 2,
         "3": 0,
         "4": 0,
         "5": 0,
