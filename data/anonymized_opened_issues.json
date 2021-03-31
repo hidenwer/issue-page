@@ -1005,7 +1005,7 @@
       }
     },
     "Ir-Gr": {
-      "count": 44,
+      "count": 47,
       "issues_by_project": {
         "business/legal": 1,
         "care/global": 4,
@@ -1015,7 +1015,7 @@
         "SE/docs": 2,
         "service/global": 3,
         "service/kpi": 1,
-        "service/pis-support": 16,
+        "service/pis-support": 19,
         "service/support": 1
       }
     },
