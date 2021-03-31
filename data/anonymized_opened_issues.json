@@ -92,10 +92,10 @@
       ]
     },
     "Eu-Mo": {
-      "service_count": 24,
-      "count": 25,
+      "service_count": 23,
+      "count": 24,
       "labels": {
-        "1S": 5,
+        "1S": 4,
         "10M": 1,
         "2M": 1,
         "2S": 6,
@@ -112,14 +112,14 @@
         "SE/bucket": 1,
         "service/global": 1,
         "service/kpi": 1,
-        "service/pis-support": 4,
+        "service/pis-support": 3,
         "service/support": 12,
         "service/thief": 6
       },
       "categories": {
         "low": 6,
         "medium": 5,
-        "high": 13
+        "high": 12
       }
     },
     "Da-Su": {
@@ -741,14 +741,14 @@
       }
     },
     "Eu-Mo": {
-      "count": 28,
+      "count": 27,
       "labels": {
         "NC_Onb": 1,
         "Beta": 1,
         "WFF": 5,
         "On Hold": 4,
         "Blocked": 0,
-        "1": 4,
+        "1": 3,
         "2": 6,
         "3": 4,
         "4": 1,
@@ -1010,7 +1010,7 @@
       }
     },
     "Ir-Gr": {
-      "count": 45,
+      "count": 44,
       "issues_by_project": {
         "business/legal": 1,
         "care/global": 4,
@@ -1020,7 +1020,7 @@
         "SE/docs": 1,
         "service/global": 3,
         "service/kpi": 1,
-        "service/pis-support": 18,
+        "service/pis-support": 17,
         "service/support": 1
       }
     },
@@ -1084,11 +1084,11 @@
       }
     },
     "Eu-Mo": {
-      "count": 6,
+      "count": 5,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
-        "1": 3,
+        "1": 2,
         "2": 2,
         "3": 0,
         "4": 1,
@@ -1341,11 +1341,11 @@
       }
     },
     "Eu-Mo": {
-      "count": 6,
+      "count": 5,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
-        "1": 3,
+        "1": 2,
         "2": 2,
         "3": 0,
         "4": 1,
