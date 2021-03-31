@@ -338,11 +338,11 @@
       ]
     },
     "Ma-Gu": {
-      "service_count": 17,
-      "count": 17,
+      "service_count": 16,
+      "count": 16,
       "labels": {
         "1M": 3,
-        "3S": 8,
+        "3S": 7,
         "4S": 2,
         "5L": 1,
         "5S": 1,
@@ -350,11 +350,11 @@
         "7S": 1
       },
       "issues_by_project": {
-        "service/support": 9,
+        "service/support": 8,
         "service/thief": 8
       },
       "categories": {
-        "low": 12,
+        "low": 11,
         "medium": 2,
         "high": 3
       },
@@ -390,24 +390,24 @@
       ]
     },
     "Ni-Tr": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1M": 2,
         "2M": 1,
         "2S": 2,
         "3M": 1,
-        "3S": 3,
+        "3S": 2,
         "4S": 2,
         "5S": 2,
         "6S": 1
       },
       "issues_by_project": {
-        "service/support": 11,
+        "service/support": 10,
         "service/thief": 3
       },
       "categories": {
-        "low": 8,
+        "low": 7,
         "medium": 1,
         "high": 5
       },
@@ -739,11 +739,11 @@
       "labels": {
         "NC_Onb": 1,
         "Beta": 1,
-        "WFF": 6,
+        "WFF": 5,
         "On Hold": 4,
         "Blocked": 0,
         "1": 3,
-        "2": 5,
+        "2": 6,
         "3": 4,
         "4": 1,
         "5": 1,
@@ -799,13 +799,13 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 6,
+        "WFF": 5,
         "On Hold": 3,
         "Blocked": 0,
         "1": 3,
         "2": 1,
         "3": 5,
-        "4": 1,
+        "4": 2,
         "5": 1,
         "6": 0,
         "7": 0,
@@ -879,13 +879,13 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 4,
+        "WFF": 3,
         "On Hold": 6,
         "Blocked": 0,
         "1": 0,
         "2": 1,
         "3": 4,
-        "4": 1,
+        "4": 2,
         "5": 1,
         "6": 3,
         "7": 2,
@@ -915,11 +915,11 @@
       }
     },
     "Ma-Gu": {
-      "count": 20,
+      "count": 19,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 6,
+        "WFF": 5,
         "On Hold": 3,
         "Blocked": 0,
         "1": 2,
@@ -939,11 +939,11 @@
       "labels": {
         "NC_Onb": 2,
         "Beta": 2,
-        "WFF": 1,
+        "WFF": 2,
         "On Hold": 0,
         "Blocked": 0,
         "1": 1,
-        "2": 2,
+        "2": 1,
         "3": 4,
         "4": 0,
         "5": 2,
@@ -955,7 +955,7 @@
       }
     },
     "Ni-Tr": {
-      "count": 14,
+      "count": 13,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
@@ -964,7 +964,7 @@
         "Blocked": 0,
         "1": 2,
         "2": 2,
-        "3": 4,
+        "3": 3,
         "4": 2,
         "5": 2,
         "6": 1,
@@ -987,20 +987,20 @@
       }
     },
     "Cr-Bu": {
-      "count": 43,
+      "count": 42,
       "issues_by_project": {
         "bucket/support": 2,
         "psd2/PRR": 1,
         "SE/bucket": 6,
         "service/pis-support": 3,
-        "service/support": 30,
+        "service/support": 29,
         "service/thief": 1
       }
     },
     "Ig-Li": {
-      "count": 27,
+      "count": 26,
       "issues_by_project": {
-        "service/support": 27
+        "service/support": 26
       }
     },
     "Ir-Gr": {
