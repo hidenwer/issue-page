@@ -5,9 +5,9 @@
       "count": 21,
       "labels": {
         "1M": 3,
-        "1S": 2,
+        "1S": 3,
         "2L": 1,
-        "2M": 4,
+        "2M": 3,
         "2S": 4,
         "3M": 2,
         "3S": 2,
@@ -18,9 +18,9 @@
       "issues_by_project": {
         "DemoJ": 2,
         "service/global": 2,
-        "service/pis-support": 2,
+        "service/pis-support": 3,
         "service/support": 7,
-        "service/thief": 8
+        "service/thief": 7
       },
       "categories": {
         "low": 3,
@@ -685,8 +685,8 @@
         "WFF": 6,
         "On Hold": 3,
         "Blocked": 1,
-        "1": 3,
-        "2": 8,
+        "1": 4,
+        "2": 7,
         "3": 2,
         "4": 2,
         "5": 0,
@@ -1029,11 +1029,11 @@
   },
   "pisp": {
     "Ed-Ma": {
-      "count": 2,
+      "count": 3,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
-        "1": 2,
+        "1": 3,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -1286,11 +1286,11 @@
   },
   "pisp_int": {
     "Ed-Ma": {
-      "count": 2,
+      "count": 3,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
-        "1": 2,
+        "1": 3,
         "2": 0,
         "3": 0,
         "4": 0,
