@@ -91,10 +91,10 @@
       ]
     },
     "Eu-Mo": {
-      "service_count": 23,
-      "count": 24,
+      "service_count": 22,
+      "count": 23,
       "labels": {
-        "1S": 4,
+        "1S": 3,
         "10M": 1,
         "2M": 1,
         "2S": 6,
@@ -111,14 +111,14 @@
         "SE/bucket": 1,
         "service/global": 1,
         "service/kpi": 1,
-        "service/pis-support": 3,
+        "service/pis-support": 2,
         "service/support": 12,
         "service/thief": 6
       },
       "categories": {
         "low": 6,
         "medium": 5,
-        "high": 12
+        "high": 11
       }
     },
     "Da-Su": {
@@ -145,7 +145,10 @@
         "low": 1,
         "medium": 5,
         "high": 9
-      }
+      },
+      "no_due_dates": [
+
+      ]
     },
     "Se-Vo": {
       "service_count": 17,
@@ -257,11 +260,11 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 19,
-      "count": 19,
+      "service_count": 20,
+      "count": 20,
       "labels": {
         "1M": 3,
-        "1S": 4,
+        "1S": 5,
         "3M": 2,
         "3S": 3,
         "4M": 3,
@@ -271,14 +274,14 @@
       },
       "issues_by_project": {
         "service/global": 1,
-        "service/pis-support": 4,
+        "service/pis-support": 5,
         "service/support": 1,
         "service/thief": 13
       },
       "categories": {
         "low": 5,
         "medium": 6,
-        "high": 8
+        "high": 9
       },
       "no_due_dates": [
 
@@ -680,12 +683,12 @@
   },
   "lbl": {
     "Ed-Ma": {
-      "count": 27,
+      "count": 26,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
         "WFF": 6,
-        "On Hold": 5,
+        "On Hold": 4,
         "Blocked": 2,
         "1": 1,
         "2": 8,
@@ -740,14 +743,14 @@
       }
     },
     "Eu-Mo": {
-      "count": 27,
+      "count": 26,
       "labels": {
         "NC_Onb": 1,
         "Beta": 1,
-        "WFF": 5,
+        "WFF": 6,
         "On Hold": 4,
         "Blocked": 0,
-        "1": 3,
+        "1": 1,
         "2": 6,
         "3": 4,
         "4": 1,
@@ -860,11 +863,11 @@
       }
     },
     "Se-Tu": {
-      "count": 21,
+      "count": 22,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 5,
+        "WFF": 6,
         "On Hold": 2,
         "Blocked": 0,
         "1": 3,
@@ -1009,7 +1012,7 @@
       }
     },
     "Ir-Gr": {
-      "count": 44,
+      "count": 42,
       "issues_by_project": {
         "business/legal": 1,
         "care/global": 4,
@@ -1019,7 +1022,7 @@
         "SE/docs": 1,
         "service/global": 3,
         "service/kpi": 1,
-        "service/pis-support": 17,
+        "service/pis-support": 15,
         "service/support": 1
       }
     },
@@ -1032,9 +1035,9 @@
   },
   "pisp": {
     "Ed-Ma": {
-      "count": 3,
+      "count": 2,
       "labels": {
-        "On Hold": 1,
+        "On Hold": 0,
         "Blocked": 0,
         "1": 2,
         "2": 0,
@@ -1083,11 +1086,11 @@
       }
     },
     "Eu-Mo": {
-      "count": 5,
+      "count": 4,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
-        "1": 2,
+        "1": 1,
         "2": 2,
         "3": 0,
         "4": 1,
@@ -1185,11 +1188,11 @@
       }
     },
     "Se-Tu": {
-      "count": 6,
+      "count": 7,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
-        "1": 4,
+        "1": 5,
         "2": 0,
         "3": 2,
         "4": 0,
@@ -1289,9 +1292,9 @@
   },
   "pisp_int": {
     "Ed-Ma": {
-      "count": 3,
+      "count": 2,
       "labels": {
-        "On Hold": 1,
+        "On Hold": 0,
         "Blocked": 0,
         "1": 2,
         "2": 0,
@@ -1340,11 +1343,11 @@
       }
     },
     "Eu-Mo": {
-      "count": 5,
+      "count": 4,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
-        "1": 2,
+        "1": 1,
         "2": 2,
         "3": 0,
         "4": 1,
@@ -1442,11 +1445,11 @@
       }
     },
     "Se-Tu": {
-      "count": 6,
+      "count": 7,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
-        "1": 4,
+        "1": 5,
         "2": 0,
         "3": 2,
         "4": 0,
