@@ -34,7 +34,7 @@
     },
     "Al-Hi": {
       "service_count": 26,
-      "count": 28,
+      "count": 29,
       "labels": {
         "1L": 1,
         "1M": 2,
@@ -52,7 +52,7 @@
       },
       "issues_by_project": {
         "DemoJ": 3,
-        "SE/bucket": 2,
+        "SE/bucket": 3,
         "service/global": 2,
         "service/pis-support": 6,
         "service/support": 2,
@@ -390,12 +390,12 @@
       ]
     },
     "Ni-Tr": {
-      "service_count": 15,
-      "count": 15,
+      "service_count": 14,
+      "count": 14,
       "labels": {
         "1M": 2,
         "2M": 1,
-        "2S": 3,
+        "2S": 2,
         "3M": 1,
         "3S": 3,
         "4S": 2,
@@ -403,13 +403,13 @@
         "6S": 1
       },
       "issues_by_project": {
-        "service/support": 12,
+        "service/support": 11,
         "service/thief": 3
       },
       "categories": {
         "low": 8,
         "medium": 1,
-        "high": 6
+        "high": 5
       },
       "no_due_dates": [
 
@@ -955,11 +955,11 @@
       }
     },
     "Ni-Tr": {
-      "count": 15,
+      "count": 14,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 3,
+        "WFF": 2,
         "On Hold": 0,
         "Blocked": 0,
         "1": 2,
@@ -1019,9 +1019,9 @@
       }
     },
     "Vi-Sa": {
-      "count": 21,
+      "count": 20,
       "issues_by_project": {
-        "service/support": 21
+        "service/support": 20
       }
     }
   },
