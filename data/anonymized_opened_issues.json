@@ -33,8 +33,8 @@
       ]
     },
     "Al-Hi": {
-      "service_count": 25,
-      "count": 27,
+      "service_count": 24,
+      "count": 26,
       "labels": {
         "1L": 1,
         "1M": 2,
@@ -43,7 +43,6 @@
         "2S": 1,
         "3M": 3,
         "3S": 3,
-        "4L": 1,
         "4M": 1,
         "5M": 1,
         "5S": 1,
@@ -54,13 +53,13 @@
         "DemoJ": 3,
         "SE/bucket": 2,
         "service/global": 2,
-        "service/pis-support": 5,
+        "service/pis-support": 4,
         "service/support": 2,
         "service/thief": 13
       },
       "categories": {
         "low": 4,
-        "medium": 8,
+        "medium": 7,
         "high": 13
       }
     },
@@ -123,11 +122,11 @@
       }
     },
     "Da-Su": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 15,
+      "count": 15,
       "labels": {
         "1M": 2,
-        "1S": 4,
+        "1S": 3,
         "2M": 3,
         "2S": 1,
         "3M": 3,
@@ -138,14 +137,14 @@
       "issues_by_project": {
         "DemoJ": 1,
         "service/global": 3,
-        "service/pis-support": 5,
+        "service/pis-support": 4,
         "service/support": 1,
         "service/thief": 6
       },
       "categories": {
         "low": 1,
         "medium": 5,
-        "high": 10
+        "high": 9
       }
     },
     "Se-Vo": {
@@ -701,12 +700,12 @@
       }
     },
     "Al-Hi": {
-      "count": 44,
+      "count": 42,
       "labels": {
         "NC_Onb": 1,
         "Beta": 1,
-        "WFF": 7,
-        "On Hold": 14,
+        "WFF": 6,
+        "On Hold": 13,
         "Blocked": 3,
         "1": 7,
         "2": 1,
@@ -765,8 +764,8 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 1,
-        "On Hold": 4,
+        "WFF": 0,
+        "On Hold": 5,
         "Blocked": 0,
         "1": 5,
         "2": 4,
@@ -925,12 +924,12 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 5,
+        "WFF": 6,
         "On Hold": 3,
         "Blocked": 0,
         "1": 3,
         "2": 1,
-        "3": 3,
+        "3": 2,
         "4": 2,
         "5": 2,
         "6": 1,
@@ -993,12 +992,12 @@
       }
     },
     "Cr-Bu": {
-      "count": 41,
+      "count": 40,
       "issues_by_project": {
         "bucket/support": 2,
         "psd2/PRR": 1,
         "SE/bucket": 6,
-        "service/pis-support": 3,
+        "service/pis-support": 2,
         "service/support": 28,
         "service/thief": 1
       }
@@ -1050,14 +1049,14 @@
       }
     },
     "Al-Hi": {
-      "count": 10,
+      "count": 8,
       "labels": {
-        "On Hold": 2,
+        "On Hold": 1,
         "Blocked": 1,
         "1": 5,
         "2": 0,
         "3": 0,
-        "4": 2,
+        "4": 1,
         "5": 0,
         "6": 0,
         "7": 0,
@@ -1103,9 +1102,9 @@
     "Da-Su": {
       "count": 6,
       "labels": {
-        "On Hold": 0,
+        "On Hold": 1,
         "Blocked": 0,
-        "1": 4,
+        "1": 3,
         "2": 2,
         "3": 0,
         "4": 0,
@@ -1307,14 +1306,14 @@
       }
     },
     "Al-Hi": {
-      "count": 10,
+      "count": 8,
       "labels": {
-        "On Hold": 2,
+        "On Hold": 1,
         "Blocked": 1,
         "1": 5,
         "2": 0,
         "3": 0,
-        "4": 2,
+        "4": 1,
         "5": 0,
         "6": 0,
         "7": 0,
@@ -1360,9 +1359,9 @@
     "Da-Su": {
       "count": 6,
       "labels": {
-        "On Hold": 0,
+        "On Hold": 1,
         "Blocked": 0,
-        "1": 4,
+        "1": 3,
         "2": 2,
         "3": 0,
         "4": 0,
