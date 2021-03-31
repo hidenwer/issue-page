@@ -121,11 +121,11 @@
       }
     },
     "Da-Su": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1M": 2,
-        "1S": 3,
+        "1S": 2,
         "2M": 2,
         "2S": 1,
         "3M": 3,
@@ -136,14 +136,14 @@
       "issues_by_project": {
         "DemoJ": 1,
         "service/global": 2,
-        "service/pis-support": 4,
+        "service/pis-support": 3,
         "service/support": 1,
         "service/thief": 6
       },
       "categories": {
         "low": 1,
         "medium": 5,
-        "high": 8
+        "high": 7
       },
       "no_due_dates": [
 
@@ -760,15 +760,15 @@
       }
     },
     "Da-Su": {
-      "count": 20,
+      "count": 19,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 5,
+        "WFF": 3,
         "On Hold": 6,
         "Blocked": 0,
         "1": 2,
-        "2": 2,
+        "2": 3,
         "3": 4,
         "4": 0,
         "5": 0,
@@ -864,10 +864,10 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 6,
+        "WFF": 7,
         "On Hold": 2,
         "Blocked": 0,
-        "1": 3,
+        "1": 2,
         "2": 0,
         "3": 4,
         "4": 3,
@@ -982,12 +982,12 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 34,
+      "count": 35,
       "issues_by_project": {
         "SE/bucket": 1,
         "service/global": 1,
         "service/stealer": 1,
-        "service/support": 30,
+        "service/support": 31,
         "service/thief": 1
       }
     },
@@ -1009,7 +1009,7 @@
       }
     },
     "Ir-Gr": {
-      "count": 40,
+      "count": 39,
       "issues_by_project": {
         "business/legal": 1,
         "care/global": 4,
@@ -1019,14 +1019,14 @@
         "SE/docs": 1,
         "service/global": 3,
         "service/kpi": 1,
-        "service/pis-support": 13,
+        "service/pis-support": 12,
         "service/support": 1
       }
     },
     "Vi-Sa": {
-      "count": 21,
+      "count": 22,
       "issues_by_project": {
-        "service/support": 21
+        "service/support": 22
       }
     }
   },
@@ -1100,11 +1100,11 @@
       }
     },
     "Da-Su": {
-      "count": 6,
+      "count": 5,
       "labels": {
         "On Hold": 1,
         "Blocked": 0,
-        "1": 3,
+        "1": 2,
         "2": 2,
         "3": 0,
         "4": 0,
@@ -1357,11 +1357,11 @@
       }
     },
     "Da-Su": {
-      "count": 6,
+      "count": 5,
       "labels": {
         "On Hold": 1,
         "Blocked": 0,
-        "1": 3,
+        "1": 2,
         "2": 2,
         "3": 0,
         "4": 0,
