@@ -987,12 +987,11 @@
       }
     },
     "Cr-Bu": {
-      "count": 44,
+      "count": 43,
       "issues_by_project": {
         "bucket/support": 2,
         "psd2/PRR": 1,
         "SE/bucket": 6,
-        "SE/docs": 1,
         "service/pis-support": 3,
         "service/support": 30,
         "service/thief": 1
