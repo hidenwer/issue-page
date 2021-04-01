@@ -294,10 +294,10 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 17,
-      "count": 17,
+      "service_count": 18,
+      "count": 18,
       "labels": {
-        "1S": 1,
+        "1S": 2,
         "2S": 1,
         "3M": 2,
         "3S": 1,
@@ -310,14 +310,14 @@
         "Beta": 1
       },
       "issues_by_project": {
-        "service/pis-support": 1,
+        "service/pis-support": 2,
         "service/support": 12,
         "service/thief": 4
       },
       "categories": {
         "low": 10,
         "medium": 4,
-        "high": 3
+        "high": 4
       },
       "no_due_dates": [
 
@@ -887,14 +887,14 @@
       }
     },
     "Ro-Ci": {
-      "count": 23,
+      "count": 24,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
         "WFF": 5,
         "On Hold": 6,
         "Blocked": 0,
-        "1": 1,
+        "1": 2,
         "2": 1,
         "3": 2,
         "4": 1,
@@ -1014,7 +1014,7 @@
       }
     },
     "Ir-Gr": {
-      "count": 40,
+      "count": 41,
       "issues_by_project": {
         "business/legal": 1,
         "care/global": 4,
@@ -1024,7 +1024,7 @@
         "SE/docs": 1,
         "service/global": 3,
         "service/kpi": 1,
-        "service/pis-support": 13,
+        "service/pis-support": 14,
         "service/support": 1
       }
     },
@@ -1207,11 +1207,11 @@
       }
     },
     "Ro-Ci": {
-      "count": 2,
+      "count": 3,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
-        "1": 1,
+        "1": 2,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -1464,11 +1464,11 @@
       }
     },
     "Ro-Ci": {
-      "count": 2,
+      "count": 3,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
-        "1": 1,
+        "1": 2,
         "2": 0,
         "3": 0,
         "4": 0,
