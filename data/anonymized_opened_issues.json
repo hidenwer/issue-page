@@ -32,33 +32,34 @@
       ]
     },
     "Al-Hi": {
-      "service_count": 21,
-      "count": 23,
+      "service_count": 18,
+      "count": 21,
       "labels": {
-        "1M": 2,
-        "1S": 9,
+        "1M": 1,
+        "1S": 8,
         "2M": 1,
         "3M": 3,
         "3S": 1,
         "4M": 1,
         "5M": 1,
         "5S": 1,
-        "7L": 1,
         "8M": 1
       },
       "issues_by_project": {
         "DemoJ": 1,
-        "SE/bucket": 2,
+        "SE/bucket": 3,
         "service/global": 1,
         "service/pis-support": 5,
-        "service/support": 2,
-        "service/thief": 12
+        "service/thief": 11
       },
       "categories": {
         "low": 2,
-        "medium": 7,
-        "high": 12
-      }
+        "medium": 6,
+        "high": 10
+      },
+      "no_due_dates": [
+
+      ]
     },
     "Co-Ci": {
       "service_count": 18,
@@ -702,12 +703,12 @@
       }
     },
     "Al-Hi": {
-      "count": 36,
+      "count": 34,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 5,
-        "On Hold": 11,
+        "WFF": 3,
+        "On Hold": 12,
         "Blocked": 3,
         "1": 8,
         "2": 1,
@@ -715,7 +716,7 @@
         "4": 1,
         "5": 2,
         "6": 0,
-        "7": 1,
+        "7": 0,
         "8": 1,
         "9": 0,
         "10": 0
@@ -766,10 +767,10 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 2,
+        "WFF": 3,
         "On Hold": 5,
         "Blocked": 0,
-        "1": 4,
+        "1": 3,
         "2": 2,
         "3": 5,
         "4": 1,
@@ -984,10 +985,10 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 38,
+      "count": 37,
       "issues_by_project": {
         "service/stealer": 1,
-        "service/support": 36,
+        "service/support": 35,
         "service/thief": 1
       }
     },
@@ -1003,19 +1004,19 @@
       }
     },
     "Ig-Li": {
-      "count": 24,
+      "count": 25,
       "issues_by_project": {
-        "service/support": 24
+        "service/support": 25
       }
     },
     "Ir-Gr": {
-      "count": 41,
+      "count": 42,
       "issues_by_project": {
         "business/legal": 1,
         "care/global": 4,
         "care/internal": 10,
         "psd2/PRR": 1,
-        "SE/bucket": 5,
+        "SE/bucket": 6,
         "SE/docs": 1,
         "service/global": 3,
         "service/kpi": 1,
