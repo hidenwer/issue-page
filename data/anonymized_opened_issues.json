@@ -377,25 +377,24 @@
       ]
     },
     "Al-Je": {
-      "service_count": 17,
-      "count": 17,
+      "service_count": 16,
+      "count": 16,
       "labels": {
         "1M": 3,
         "2M": 2,
         "3S": 3,
         "5M": 1,
         "5S": 2,
-        "6M": 1,
         "8S": 3,
         "Beta": 2
       },
       "issues_by_project": {
-        "service/support": 14,
+        "service/support": 13,
         "service/thief": 3
       },
       "categories": {
         "low": 8,
-        "medium": 2,
+        "medium": 1,
         "high": 7
       },
       "no_due_dates": [
@@ -948,7 +947,7 @@
       }
     },
     "Al-Je": {
-      "count": 17,
+      "count": 16,
       "labels": {
         "NC_Onb": 2,
         "Beta": 2,
@@ -960,7 +959,7 @@
         "3": 3,
         "4": 0,
         "5": 2,
-        "6": 1,
+        "6": 0,
         "7": 0,
         "8": 3,
         "9": 0,
@@ -998,13 +997,13 @@
       }
     },
     "Cr-Bu": {
-      "count": 39,
+      "count": 38,
       "issues_by_project": {
         "bucket/support": 2,
         "psd2/PRR": 1,
         "SE/bucket": 5,
         "service/pis-support": 1,
-        "service/support": 29,
+        "service/support": 28,
         "service/thief": 1
       }
     },
