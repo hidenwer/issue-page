@@ -771,10 +771,10 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 4,
+        "WFF": 3,
         "On Hold": 6,
         "Blocked": 0,
-        "1": 1,
+        "1": 2,
         "2": 2,
         "3": 4,
         "4": 1,
@@ -989,21 +989,21 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 35,
+      "count": 36,
       "issues_by_project": {
         "service/stealer": 1,
-        "service/support": 33,
+        "service/support": 34,
         "service/thief": 1
       }
     },
     "Cr-Bu": {
-      "count": 38,
+      "count": 39,
       "issues_by_project": {
         "bucket/support": 2,
         "psd2/PRR": 1,
         "SE/bucket": 5,
         "service/pis-support": 1,
-        "service/support": 28,
+        "service/support": 29,
         "service/thief": 1
       }
     },
