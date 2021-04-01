@@ -32,12 +32,12 @@
       ]
     },
     "Al-Hi": {
-      "service_count": 22,
-      "count": 24,
+      "service_count": 23,
+      "count": 25,
       "labels": {
         "1L": 1,
         "1M": 2,
-        "1S": 7,
+        "1S": 8,
         "2M": 1,
         "2S": 1,
         "3M": 3,
@@ -52,19 +52,19 @@
         "DemoJ": 3,
         "SE/bucket": 2,
         "service/global": 2,
-        "service/pis-support": 3,
+        "service/pis-support": 4,
         "service/support": 2,
         "service/thief": 12
       },
       "categories": {
         "low": 3,
         "medium": 7,
-        "high": 12
+        "high": 13
       }
     },
     "Co-Ci": {
-      "service_count": 18,
-      "count": 18,
+      "service_count": 19,
+      "count": 19,
       "labels": {
         "1M": 3,
         "2M": 1,
@@ -74,14 +74,15 @@
         "4S": 2,
         "5M": 2,
         "5S": 1,
-        "7M": 1
+        "7M": 1,
+        "7S": 1
       },
       "issues_by_project": {
-        "service/support": 10,
+        "service/support": 11,
         "service/thief": 8
       },
       "categories": {
-        "low": 7,
+        "low": 8,
         "medium": 6,
         "high": 5
       },
@@ -323,24 +324,23 @@
       ]
     },
     "Se-Ra": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 10,
+      "count": 10,
       "labels": {
         "1M": 1,
-        "3S": 4,
+        "3S": 3,
         "4M": 1,
         "4S": 1,
-        "5S": 3,
-        "6S": 2,
-        "7S": 1,
+        "5S": 2,
+        "6S": 1,
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 12,
+        "service/support": 8,
         "service/thief": 2
       },
       "categories": {
-        "low": 11,
+        "low": 7,
         "medium": 1,
         "high": 2
       },
@@ -349,25 +349,26 @@
       ]
     },
     "Ma-Gu": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 19,
+      "count": 19,
       "labels": {
         "1M": 3,
         "2S": 1,
-        "3S": 7,
+        "3S": 8,
         "4S": 1,
         "5L": 1,
-        "5S": 1,
+        "5S": 2,
         "6M": 1,
+        "6S": 1,
         "7S": 1
       },
       "issues_by_project": {
         "service/global": 2,
-        "service/support": 8,
+        "service/support": 11,
         "service/thief": 6
       },
       "categories": {
-        "low": 10,
+        "low": 13,
         "medium": 2,
         "high": 4
       },
@@ -707,14 +708,14 @@
       }
     },
     "Al-Hi": {
-      "count": 40,
+      "count": 41,
       "labels": {
         "NC_Onb": 1,
         "Beta": 1,
         "WFF": 5,
         "On Hold": 13,
         "Blocked": 3,
-        "1": 7,
+        "1": 8,
         "2": 1,
         "3": 4,
         "4": 1,
@@ -727,7 +728,7 @@
       }
     },
     "Co-Ci": {
-      "count": 20,
+      "count": 21,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
@@ -740,7 +741,7 @@
         "4": 1,
         "5": 2,
         "6": 0,
-        "7": 0,
+        "7": 1,
         "8": 0,
         "9": 0,
         "10": 0
@@ -907,7 +908,7 @@
       }
     },
     "Se-Ra": {
-      "count": 17,
+      "count": 13,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
@@ -916,18 +917,18 @@
         "Blocked": 0,
         "1": 1,
         "2": 0,
-        "3": 3,
+        "3": 2,
         "4": 1,
-        "5": 2,
-        "6": 1,
-        "7": 1,
+        "5": 1,
+        "6": 0,
+        "7": 0,
         "8": 0,
         "9": 0,
         "10": 0
       }
     },
     "Ma-Gu": {
-      "count": 19,
+      "count": 22,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
@@ -936,10 +937,10 @@
         "Blocked": 0,
         "1": 2,
         "2": 1,
-        "3": 2,
+        "3": 3,
         "4": 1,
-        "5": 2,
-        "6": 1,
+        "5": 3,
+        "6": 2,
         "7": 0,
         "8": 0,
         "9": 0,
@@ -1055,11 +1056,11 @@
       }
     },
     "Al-Hi": {
-      "count": 7,
+      "count": 8,
       "labels": {
         "On Hold": 1,
         "Blocked": 1,
-        "1": 4,
+        "1": 5,
         "2": 0,
         "3": 0,
         "4": 1,
@@ -1312,11 +1313,11 @@
       }
     },
     "Al-Hi": {
-      "count": 7,
+      "count": 8,
       "labels": {
         "On Hold": 1,
         "Blocked": 1,
-        "1": 4,
+        "1": 5,
         "2": 0,
         "3": 0,
         "4": 1,
