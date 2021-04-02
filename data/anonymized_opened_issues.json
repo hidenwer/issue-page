@@ -90,11 +90,11 @@
       ]
     },
     "Eu-Mo": {
-      "service_count": 21,
-      "count": 22,
+      "service_count": 22,
+      "count": 23,
       "labels": {
         "1M": 1,
-        "1S": 2,
+        "1S": 3,
         "10M": 1,
         "2M": 1,
         "2S": 4,
@@ -112,12 +112,12 @@
         "service/kpi": 1,
         "service/pis-support": 2,
         "service/support": 9,
-        "service/thief": 9
+        "service/thief": 10
       },
       "categories": {
         "low": 7,
         "medium": 5,
-        "high": 9
+        "high": 10
       }
     },
     "Da-Su": {
@@ -210,7 +210,7 @@
         "1S": 3,
         "2M": 2,
         "2S": 1,
-        "3S": 3,
+        "3S": 4,
         "4M": 1,
         "4S": 1,
         "5S": 2,
@@ -225,10 +225,13 @@
         "service/thief": 7
       },
       "categories": {
-        "low": 9,
+        "low": 10,
         "medium": 1,
         "high": 8
-      }
+      },
+      "no_due_dates": [
+
+      ]
     },
     "An-Mo": {
       "service_count": 21,
@@ -743,14 +746,14 @@
       }
     },
     "Eu-Mo": {
-      "count": 25,
+      "count": 26,
       "labels": {
         "NC_Onb": 1,
         "Beta": 1,
         "WFF": 9,
         "On Hold": 3,
         "Blocked": 0,
-        "1": 1,
+        "1": 2,
         "2": 2,
         "3": 4,
         "4": 2,
@@ -823,7 +826,7 @@
       }
     },
     "Da-Ni": {
-      "count": 21,
+      "count": 22,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
@@ -832,7 +835,7 @@
         "Blocked": 1,
         "1": 2,
         "2": 2,
-        "3": 2,
+        "3": 3,
         "4": 1,
         "5": 2,
         "6": 1,
