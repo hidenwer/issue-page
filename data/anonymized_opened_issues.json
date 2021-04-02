@@ -203,14 +203,14 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 19,
-      "count": 25,
+      "service_count": 20,
+      "count": 26,
       "labels": {
         "1M": 2,
         "1S": 3,
         "2M": 2,
         "2S": 1,
-        "3S": 4,
+        "3S": 5,
         "4M": 1,
         "4S": 1,
         "5S": 2,
@@ -221,11 +221,11 @@
         "DemoF": 2,
         "SE/bucket": 6,
         "service/pis-support": 2,
-        "service/support": 8,
+        "service/support": 9,
         "service/thief": 7
       },
       "categories": {
-        "low": 10,
+        "low": 11,
         "medium": 1,
         "high": 8
       },
@@ -822,11 +822,11 @@
       }
     },
     "Da-Ni": {
-      "count": 22,
+      "count": 23,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 6,
+        "WFF": 7,
         "On Hold": 2,
         "Blocked": 1,
         "1": 2,
