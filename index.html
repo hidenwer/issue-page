@@ -37,6 +37,9 @@
             <a class="nav-link" id="pisp-tab" data-toggle="pill" href="#pisp" role="tab" aria-controls="pisp" aria-selected="false">PISP</a>
         </li>
         <li class="nav-item">
+            <a class="nav-link" id="pisp_int-tab" data-toggle="pill" href="#pisp_int" role="tab" aria-controls="pisp_int" aria-selected="false">PISP Int</a>
+        </li>
+        <li class="nav-item">
             <a class="nav-link" id="s-tab" data-toggle="pill" href="#s" role="tab" aria-controls="s" aria-selected="false">S</a>
         </li>
     </ul>
@@ -60,6 +63,11 @@
           <div class="chart-container center">
               <canvas></canvas>
           </div>
+        </div>
+        <div class="tab-pane fade" id="pisp_int" role="tabpanel" aria-labelledby="pills-contact-tab">
+            <div class="chart-container center">
+                <canvas></canvas>
+            </div>
         </div>
         <div class="tab-pane fade" id="s" role="tabpanel" aria-labelledby="pills-contact-tab">
           <div class="chart-container center">
@@ -189,6 +197,7 @@
             draw("int")
             draw("lbl")
             draw("pisp")
+            draw("pisp_int")
             draw("s")
         });
     </script>
