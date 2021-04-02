@@ -262,12 +262,12 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 19,
-      "count": 19,
+      "service_count": 18,
+      "count": 18,
       "labels": {
         "1M": 2,
         "1S": 6,
-        "3M": 2,
+        "3M": 1,
         "3S": 1,
         "4M": 3,
         "4S": 1,
@@ -278,12 +278,12 @@
       "issues_by_project": {
         "service/global": 1,
         "service/pis-support": 5,
-        "service/support": 2,
+        "service/support": 1,
         "service/thief": 11
       },
       "categories": {
         "low": 4,
-        "medium": 6,
+        "medium": 5,
         "high": 9
       },
       "no_due_dates": [
@@ -321,23 +321,22 @@
       ]
     },
     "Se-Ra": {
-      "service_count": 9,
-      "count": 9,
+      "service_count": 8,
+      "count": 8,
       "labels": {
         "1M": 1,
         "3S": 2,
         "4M": 1,
         "4S": 1,
         "5S": 2,
-        "6S": 1,
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 7,
+        "service/support": 6,
         "service/thief": 2
       },
       "categories": {
-        "low": 6,
+        "low": 5,
         "medium": 1,
         "high": 2
       },
@@ -400,26 +399,25 @@
       ]
     },
     "Ni-Tr": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "1M": 2,
-        "2M": 1,
         "2S": 2,
         "3M": 1,
         "3S": 2,
-        "4S": 2,
+        "4S": 1,
         "5S": 3,
         "6S": 1
       },
       "issues_by_project": {
-        "service/support": 11,
+        "service/support": 9,
         "service/thief": 3
       },
       "categories": {
-        "low": 8,
+        "low": 7,
         "medium": 1,
-        "high": 5
+        "high": 4
       },
       "no_due_dates": [
 
@@ -865,11 +863,11 @@
       }
     },
     "Se-Tu": {
-      "count": 22,
+      "count": 21,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 7,
+        "WFF": 6,
         "On Hold": 3,
         "Blocked": 0,
         "1": 3,
@@ -905,11 +903,11 @@
       }
     },
     "Se-Ra": {
-      "count": 12,
+      "count": 11,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 4,
+        "WFF": 3,
         "On Hold": 3,
         "Blocked": 0,
         "1": 1,
@@ -965,11 +963,11 @@
       }
     },
     "Ni-Tr": {
-      "count": 14,
+      "count": 12,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 4,
+        "WFF": 2,
         "On Hold": 0,
         "Blocked": 0,
         "1": 2,
@@ -987,10 +985,10 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 39,
+      "count": 35,
       "issues_by_project": {
         "service/stealer": 1,
-        "service/support": 37,
+        "service/support": 33,
         "service/thief": 1
       }
     },
