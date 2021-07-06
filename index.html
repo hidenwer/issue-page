@@ -40,166 +40,189 @@
             <a class="nav-link" id="pisp_int-tab" data-toggle="pill" href="#pisp_int" role="tab" aria-controls="pisp_int" aria-selected="false">PISP Int</a>
         </li>
         <li class="nav-item">
+            <a class="nav-link" id="distr-tab" data-toggle="pill" href="#distr" role="tab" aria-controls="distr" aria-selected="false">Distr</a>
+        </li>
+        <li class="nav-item">
             <a class="nav-link" id="s-tab" data-toggle="pill" href="#s" role="tab" aria-controls="s" aria-selected="false">S</a>
         </li>
     </ul>
     <div class="tab-content" id="pills-tabContent">
         <div class="tab-pane fade" id="lbl" role="tabpanel" aria-labelledby="pills-profile-tab">
-          <div class="chart-container center">
-              <canvas></canvas>
-          </div>
+            <div class="chart-container center">
+                <canvas></canvas>
+            </div>
         </div>
         <div class="tab-pane fade" id="load" role="tabpanel" aria-labelledby="pills-home-tab">
-          <div class="chart-container center">
-              <canvas></canvas>
-          </div>
+            <div class="chart-container center">
+                <canvas></canvas>
+            </div>
         </div>
         <div class="tab-pane fade" id="int" role="tabpanel" aria-labelledby="pills-profile-tab">
-          <div class="chart-container center">
-              <canvas></canvas>
-          </div>
+            <div class="chart-container center">
+                <canvas></canvas>
+            </div>
         </div>
         <div class="tab-pane fade" id="pisp" role="tabpanel" aria-labelledby="pills-contact-tab">
-          <div class="chart-container center">
-              <canvas></canvas>
-          </div>
+            <div class="chart-container center">
+                <canvas></canvas>
+            </div>
         </div>
         <div class="tab-pane fade" id="pisp_int" role="tabpanel" aria-labelledby="pills-contact-tab">
             <div class="chart-container center">
                 <canvas></canvas>
             </div>
         </div>
+        <div class="tab-pane fade" id="distr" role="tabpanel" aria-labelledby="pills-contact-tab">
+            <div class="chart-container center">
+                <canvas></canvas>
+            </div>
+        </div>
         <div class="tab-pane fade" id="s" role="tabpanel" aria-labelledby="pills-contact-tab">
-          <div class="chart-container center">
-              <canvas></canvas>
-          </div>
+            <div class="chart-container center">
+                <canvas></canvas>
+            </div>
         </div>
     </div>
-
     <script>
-        $(`#${localStorage.selectedTab || 'load-tab'}`).tab('show')
-        $('a[data-toggle="pill"]').on('shown.bs.tab', event => localStorage.selectedTab = event.target.id)
+    $(`#${localStorage.selectedTab || 'load-tab'}`).tab('show')
+    $('a[data-toggle="pill"]').on('shown.bs.tab', event => localStorage.selectedTab = event.target.id)
 
-        const randomColor = () => `#${Math.floor(Math.random() * 0xffffff).toString(16)}`
-        function pickColor(label) {
-            var color;
-            switch (label) {
-                case "1":
-                    color = "#e91414";
-                    break;
-                case "2":
-                    color = "#e96414";
-                    break;
-                case "3":
-                    color = "#e9bd14";
-                    break;
-                case "4":
-                    color = "#cddd14";
-                    break;
-                case "5":
-                    color = "#86c612";
-                    break;
-                case "6":
-                    color = "#2c9f40";
-                    break;
-                case "7":
-                    color = "#14a7dd";
-                    break;
-                case "8":
-                    color = "#1490be";
-                    break;
-                case "9":
-                    color = "#11799f";
-                    break;
-                case "10":
-                    color = "#0f6585";
-                    break;
-                case "Ne", "NC_Onb":
-                    color = "#FF0000";
-                    break;
-                case "WA", "WFF":
-                    color = "#93004a";
-                    break;
-                case "On", "On Hold":
-                    color = "#8E44AD";
-                    break;
-                case "Bl", "Blocked":
-                    color = "#8E44AD";
-                    break;
-                case "Beta":
-                    color = "#DB123D";
-                    break;
-                default: color = randomColor();
-            }
-            return color;
+    const randomColor = () => `#${Math.floor(Math.random() * 0xffffff).toString(16)}`
+
+    function pickColor(label) {
+        var color;
+        switch (label) {
+            case "1":
+                color = "#e91414";
+                break;
+            case "2", "Feature":
+                color = "#e96414";
+                break;
+            case "3":
+                color = "#e9bd14";
+                break;
+            case "4":
+                color = "#cddd14";
+                break;
+            case "5":
+                color = "#86c612";
+                break;
+            case "6":
+                color = "#2c9f40";
+                break;
+            case "7":
+                color = "#14a7dd";
+                break;
+            case "8", "support":
+                color = "#1490be";
+                break;
+            case "9", "pis-support":
+                color = "#11799f";
+                break;
+            case "10":
+                color = "#0f6585";
+                break;
+            case "Ne", "NC_Onb":
+                color = "#FF0000";
+                break;
+            case "WA", "WFF":
+                color = "#93004a";
+                break;
+            case "On", "On Hold":
+                color = "#8E44AD";
+                break;
+            case "Bl", "Blocked":
+                color = "#8E44AD";
+                break;
+            case "Beta":
+                color = "#DB123D";
+                break;
+            case "New dev":
+                color = "#F0AD4E";
+                break
+            case "Non-Service":
+                color = "#51916d";
+                break
+            case "API-updates":
+                color = "#A295D6";
+                break
+            case "Other":
+                color = "#7F8C8D";
+                break
+            default:
+                color = randomColor();
         }
+        return color;
+    }
 
-        function draw(tab) {
-            // console.log(tab)
-            data = Object.keys(window.json[tab]).map(name => {
-                // console.log(name)
-                const dev = window.json[tab][name]
-                dev.name  = name
-                return dev
-            }).sort((a, b) => b.count - a.count)
+    function draw(tab) {
+        console.log(tab)
+        data = Object.keys(window.json[tab]).map(name => {
+            // console.log(name)
+            const dev = window.json[tab][name]
+            dev.name = name
+            return dev
+        }).sort((a, b) => b.count - a.count)
+        console.log(data)
+        let labels = data
+            .map(dev => Object.keys(dev.issues_by_project || dev.labels))
+            .reduce((a, b) => a.concat(b))
 
-            let labels = data
-                .map(dev => Object.keys(dev.issues_by_project || dev.labels))
-                .reduce((a, b) => a.concat(b))
+        labels = [...new Set(labels)].sort((a, b) => a - b)
 
-            labels = [...new Set(labels)].sort((a,b)=>a-b)
-
-            const barChartData = {
-                labels: data.map(dev => dev.name),
-                datasets: labels.map(label => {
-                    const values = data.map(dev => labelContainer(dev)[label] || 0)
-                    return {
-                        label: label,
-                        backgroundColor: pickColor(label),
-                        data: values
-                    }
-                })
-            }
-
-            function labelContainer(dev) {
-              if (dev.issues_by_project) {
-                return dev.issues_by_project;
-              } else {
-                return dev.labels;
-              }
-            }
-
-            const ctx = document.querySelector(`div#${tab} canvas`).getContext('2d');
-            window.myBar = new Chart(ctx, {
-                type: 'bar',
-                data: barChartData,
-                options: {
-                    tooltips: {
-                        mode: 'index',
-                        intersect: false
-                    },
-                    responsive: true,
-                    scales: {
-                        xAxes: [{
-                            stacked: true,
-                        }],
-                        yAxes: [{
-                            stacked: true
-                        }]
-                    }
+        const barChartData = {
+            labels: data.map(dev => dev.name),
+            datasets: labels.map(label => {
+                const values = data.map(dev => labelContainer(dev)[label] || 0)
+                return {
+                    label: label,
+                    backgroundColor: pickColor(label),
+                    data: values
                 }
-            });
+            })
         }
 
-        $.getJSON("https://hidenwer.github.io/issue-page/data/anonymized_opened_issues.json", function(json) {
-            window.json = json
-            draw("load")
-            draw("int")
-            draw("lbl")
-            draw("pisp")
-            draw("pisp_int")
-            draw("s")
+        function labelContainer(dev) {
+            if (dev.issues_by_project) {
+                return dev.issues_by_project;
+            } else {
+                return dev.labels;
+            }
+        }
+
+        const ctx = document.querySelector(`div#${tab} canvas`).getContext('2d');
+        window.myBar = new Chart(ctx, {
+            type: 'bar',
+            data: barChartData,
+            options: {
+                tooltips: {
+                    mode: 'index',
+                    intersect: false
+                },
+                responsive: true,
+                scales: {
+                    xAxes: [{
+                        stacked: true,
+                    }],
+                    yAxes: [{
+                        stacked: true
+                    }]
+                }
+            }
         });
+    }
+
+    $.getJSON("https://hidenwer.github.io/issue-page/data/anonymized_opened_issues.json", function(json) {
+        window.json = json
+        draw("load")
+        draw("int")
+        draw("lbl")
+        draw("pisp")
+        draw("pisp_int")
+        draw("distr")
+        draw("s")
+    });
+
     </script>
 </body>
 
