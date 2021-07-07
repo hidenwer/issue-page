@@ -28,6 +28,9 @@
             <a class="nav-link" id="lbl-tab" data-toggle="pill" href="#lbl" role="tab" aria-controls="lbl" aria-selected="false">lbl</a>
         </li>
         <li class="nav-item">
+            <a class="nav-link" id="distr-tab" data-toggle="pill" href="#distr" role="tab" aria-controls="distr" aria-selected="false">Distr</a>
+        </li>
+        <li class="nav-item">
             <a class="nav-link" id="load-tab" data-toggle="pill" href="#load" role="tab" aria-controls="load" aria-selected="false">load</a>
         </li>
         <li class="nav-item">
@@ -40,14 +43,16 @@
             <a class="nav-link" id="pisp_int-tab" data-toggle="pill" href="#pisp_int" role="tab" aria-controls="pisp_int" aria-selected="false">PISP Int</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" id="distr-tab" data-toggle="pill" href="#distr" role="tab" aria-controls="distr" aria-selected="false">Distr</a>
-        </li>
-        <li class="nav-item">
             <a class="nav-link" id="s-tab" data-toggle="pill" href="#s" role="tab" aria-controls="s" aria-selected="false">S</a>
         </li>
     </ul>
     <div class="tab-content" id="pills-tabContent">
         <div class="tab-pane fade" id="lbl" role="tabpanel" aria-labelledby="pills-profile-tab">
+            <div class="chart-container center">
+                <canvas></canvas>
+            </div>
+        </div>
+        <div class="tab-pane fade" id="distr" role="tabpanel" aria-labelledby="pills-contact-tab">
             <div class="chart-container center">
                 <canvas></canvas>
             </div>
@@ -72,11 +77,6 @@
                 <canvas></canvas>
             </div>
         </div>
-        <div class="tab-pane fade" id="distr" role="tabpanel" aria-labelledby="pills-contact-tab">
-            <div class="chart-container center">
-                <canvas></canvas>
-            </div>
-        </div>
         <div class="tab-pane fade" id="s" role="tabpanel" aria-labelledby="pills-contact-tab">
             <div class="chart-container center">
                 <canvas></canvas>
@@ -95,7 +95,7 @@
             case "1":
                 color = "#e91414";
                 break;
-            case "2", "Feature":
+            case "2":
                 color = "#e96414";
                 break;
             case "3":
@@ -113,10 +113,10 @@
             case "7":
                 color = "#14a7dd";
                 break;
-            case "8", "support":
+            case "8":
                 color = "#1490be";
                 break;
-            case "9", "pis-support":
+            case "9":
                 color = "#11799f";
                 break;
             case "10":
@@ -134,6 +134,15 @@
             case "Bl", "Blocked":
                 color = "#8E44AD";
                 break;
+            case "supp+global":
+                color = "#1490be";
+                break;
+            case "pis-support":
+                color = "#11799f";
+                break;
+            case "Feature":
+                color = "#e96414";
+                break;
             case "Beta":
                 color = "#DB123D";
                 break;
@@ -145,6 +154,12 @@
                 break
             case "API-updates":
                 color = "#A295D6";
+                break
+            case "J-Demo":
+                color = "#2F23A7";
+                break
+            case "Finovate":
+                color = "#4E3DF3";
                 break
             case "Other":
                 color = "#7F8C8D";
