@@ -203,7 +203,10 @@
         "low": 10,
         "medium": 3,
         "high": 3
-      }
+      },
+      "no_spend_time": [
+
+      ]
     },
     "Da-Ni": {
       "service_count": 17,
