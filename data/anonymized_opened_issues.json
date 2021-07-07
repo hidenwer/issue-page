@@ -1009,181 +1009,241 @@
     "Ed-Ma": {
       "count": 20,
       "labels": {
-        "support": 4,
-        "pis-support": 4,
-        "New dev": 5,
-        "Feature": 2,
-        "API-updates": 1,
-        "Non-Service": 0,
-        "Other": 4
+        "supp+global": 15,
+        "pis-support": 19,
+        "New dev": 6,
+        "Feature": 8,
+        "API-updates": 9,
+        "J-Demo": 20,
+        "Finovate": 19,
+        "On Hold": 3,
+        "Blocked": 1,
+        "Non-Service": 20,
+        "Other": 20
       }
     },
     "Al-Hi": {
       "count": 28,
       "labels": {
-        "support": 6,
-        "pis-support": 5,
-        "New dev": 4,
-        "Feature": 1,
-        "API-updates": 1,
-        "Non-Service": 2,
-        "Other": 9
+        "supp+global": 16,
+        "pis-support": 21,
+        "New dev": 7,
+        "Feature": 8,
+        "API-updates": 9,
+        "J-Demo": 22,
+        "Finovate": 21,
+        "On Hold": 5,
+        "Blocked": 0,
+        "Non-Service": 24,
+        "Other": 24
       }
     },
     "Co-Ci": {
       "count": 15,
       "labels": {
-        "support": 5,
-        "pis-support": 0,
-        "New dev": 6,
-        "Feature": 1,
-        "API-updates": 0,
-        "Non-Service": 1,
-        "Other": 2
+        "supp+global": 12,
+        "pis-support": 12,
+        "New dev": 7,
+        "Feature": 8,
+        "API-updates": 8,
+        "J-Demo": 12,
+        "Finovate": 12,
+        "On Hold": 1,
+        "Blocked": 0,
+        "Non-Service": 13,
+        "Other": 13
       }
     },
     "Eu-Mo": {
       "count": 19,
       "labels": {
-        "support": 8,
-        "pis-support": 0,
-        "New dev": 4,
-        "Feature": 1,
-        "API-updates": 3,
-        "Non-Service": 0,
-        "Other": 3
+        "supp+global": 17,
+        "pis-support": 17,
+        "New dev": 7,
+        "Feature": 8,
+        "API-updates": 11,
+        "J-Demo": 17,
+        "Finovate": 17,
+        "On Hold": 3,
+        "Blocked": 0,
+        "Non-Service": 17,
+        "Other": 17
       }
     },
     "Da-Su": {
       "count": 16,
       "labels": {
-        "support": 3,
-        "pis-support": 1,
-        "New dev": 5,
-        "Feature": 1,
-        "API-updates": 0,
-        "Non-Service": 1,
-        "Other": 5
+        "supp+global": 11,
+        "pis-support": 12,
+        "New dev": 6,
+        "Feature": 7,
+        "API-updates": 7,
+        "J-Demo": 14,
+        "Finovate": 13,
+        "On Hold": 1,
+        "Blocked": 0,
+        "Non-Service": 15,
+        "Other": 15
       }
     },
     "Se-Vo": {
       "count": 14,
       "labels": {
-        "support": 11,
-        "pis-support": 0,
-        "New dev": 3,
-        "Feature": 0,
-        "API-updates": 0,
-        "Non-Service": 0,
-        "Other": 0
+        "supp+global": 14,
+        "pis-support": 14,
+        "New dev": 4,
+        "Feature": 4,
+        "API-updates": 4,
+        "J-Demo": 14,
+        "Finovate": 14,
+        "On Hold": 1,
+        "Blocked": 0,
+        "Non-Service": 14,
+        "Other": 14
       }
     },
     "St-Da": {
       "count": 17,
       "labels": {
-        "support": 13,
-        "pis-support": 0,
+        "supp+global": 17,
+        "pis-support": 17,
         "New dev": 3,
-        "Feature": 0,
-        "API-updates": 0,
-        "Non-Service": 0,
-        "Other": 1
+        "Feature": 3,
+        "API-updates": 3,
+        "J-Demo": 17,
+        "Finovate": 17,
+        "On Hold": 1,
+        "Blocked": 0,
+        "Non-Service": 17,
+        "Other": 17
       }
     },
     "Da-Ni": {
       "count": 20,
       "labels": {
-        "support": 9,
-        "pis-support": 1,
+        "supp+global": 16,
+        "pis-support": 17,
         "New dev": 4,
-        "Feature": 0,
-        "API-updates": 2,
-        "Non-Service": 2,
-        "Other": 2
+        "Feature": 4,
+        "API-updates": 6,
+        "J-Demo": 17,
+        "Finovate": 17,
+        "On Hold": 1,
+        "Blocked": 0,
+        "Non-Service": 19,
+        "Other": 19
       }
     },
     "An-Mo": {
       "count": 18,
       "labels": {
-        "support": 10,
-        "pis-support": 0,
-        "New dev": 6,
-        "Feature": 1,
-        "API-updates": 0,
-        "Non-Service": 0,
-        "Other": 1
+        "supp+global": 18,
+        "pis-support": 18,
+        "New dev": 7,
+        "Feature": 8,
+        "API-updates": 8,
+        "J-Demo": 18,
+        "Finovate": 18,
+        "On Hold": 5,
+        "Blocked": 0,
+        "Non-Service": 18,
+        "Other": 18
       }
     },
     "Se-Tu": {
       "count": 19,
       "labels": {
-        "support": 5,
-        "pis-support": 0,
-        "New dev": 8,
-        "Feature": 1,
-        "API-updates": 3,
-        "Non-Service": 1,
-        "Other": 1
+        "supp+global": 17,
+        "pis-support": 17,
+        "New dev": 11,
+        "Feature": 11,
+        "API-updates": 13,
+        "J-Demo": 17,
+        "Finovate": 17,
+        "On Hold": 5,
+        "Blocked": 0,
+        "Non-Service": 18,
+        "Other": 18
       }
     },
     "Ro-Ci": {
       "count": 13,
       "labels": {
-        "support": 4,
-        "pis-support": 1,
-        "New dev": 6,
-        "Feature": 0,
-        "API-updates": 2,
-        "Non-Service": 0,
-        "Other": 0
+        "supp+global": 12,
+        "pis-support": 13,
+        "New dev": 7,
+        "Feature": 7,
+        "API-updates": 9,
+        "J-Demo": 13,
+        "Finovate": 13,
+        "On Hold": 4,
+        "Blocked": 0,
+        "Non-Service": 13,
+        "Other": 13
       }
     },
     "Se-Ra": {
       "count": 15,
       "labels": {
-        "support": 13,
-        "pis-support": 0,
-        "New dev": 2,
-        "Feature": 0,
-        "API-updates": 0,
-        "Non-Service": 0,
-        "Other": 0
+        "supp+global": 15,
+        "pis-support": 15,
+        "New dev": 3,
+        "Feature": 3,
+        "API-updates": 3,
+        "J-Demo": 15,
+        "Finovate": 15,
+        "On Hold": 1,
+        "Blocked": 0,
+        "Non-Service": 15,
+        "Other": 15
       }
     },
     "Ma-Gu": {
       "count": 17,
       "labels": {
-        "support": 7,
-        "pis-support": 2,
-        "New dev": 4,
-        "Feature": 0,
-        "API-updates": 1,
-        "Non-Service": 0,
-        "Other": 3
+        "supp+global": 13,
+        "pis-support": 15,
+        "New dev": 5,
+        "Feature": 5,
+        "API-updates": 5,
+        "J-Demo": 15,
+        "Finovate": 15,
+        "On Hold": 2,
+        "Blocked": 0,
+        "Non-Service": 15,
+        "Other": 15
       }
     },
     "Al-Je": {
       "count": 17,
       "labels": {
-        "support": 10,
-        "pis-support": 1,
-        "New dev": 5,
-        "Feature": 0,
-        "API-updates": 1,
-        "Non-Service": 0,
-        "Other": 0
+        "supp+global": 16,
+        "pis-support": 17,
+        "New dev": 6,
+        "Feature": 6,
+        "API-updates": 7,
+        "J-Demo": 17,
+        "Finovate": 17,
+        "On Hold": 2,
+        "Blocked": 0,
+        "Non-Service": 17,
+        "Other": 17
       }
     },
     "Ni-Tr": {
       "count": 13,
       "labels": {
-        "support": 8,
-        "pis-support": 0,
-        "New dev": 5,
-        "Feature": 0,
-        "API-updates": 0,
-        "Non-Service": 0,
-        "Other": 0
+        "supp+global": 13,
+        "pis-support": 13,
+        "New dev": 6,
+        "Feature": 6,
+        "API-updates": 6,
+        "J-Demo": 13,
+        "Finovate": 13,
+        "On Hold": 1,
+        "Blocked": 0,
+        "Non-Service": 13,
+        "Other": 13
       }
     }
   },
