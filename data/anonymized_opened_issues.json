@@ -861,12 +861,12 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 1,
+        "WFF": 2,
         "On Hold": 3,
         "Blocked": 0,
         "1": 0,
         "2": 3,
-        "3": 3,
+        "3": 2,
         "4": 4,
         "5": 1,
         "6": 0,
@@ -1250,7 +1250,7 @@
       }
     },
     "Cr-Bu": {
-      "count": 48,
+      "count": 47,
       "issues_by_project": {
         "bucket/support": 1,
         "business/legal": 1,
@@ -1258,16 +1258,16 @@
         "psd2/PRR": 1,
         "SE/bucket": 8,
         "SE/docs": 1,
-        "service/bank-support": 10,
+        "service/bank-support": 9,
         "service/pis-support": 4,
         "service/support": 18,
         "service/thief": 3
       }
     },
     "Ig-Li": {
-      "count": 21,
+      "count": 22,
       "issues_by_project": {
-        "service/support": 21
+        "service/support": 22
       }
     },
     "Ir-Gr": {
