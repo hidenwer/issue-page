@@ -258,12 +258,12 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 13,
-      "count": 14,
+      "service_count": 12,
+      "count": 13,
       "labels": {
         "1L": 2,
         "2L": 1,
-        "2S": 2,
+        "2S": 1,
         "3L": 1,
         "3M": 3,
         "5M": 1,
@@ -275,12 +275,12 @@
         "internal/localizer": 1,
         "service/kpi": 1,
         "service/support": 4,
-        "service/thief": 8
+        "service/thief": 7
       },
       "categories": {
         "low": 1,
         "medium": 6,
-        "high": 6
+        "high": 5
       },
       "no_due_dates": [
 
@@ -587,13 +587,13 @@
       }
     },
     "Se-Tu": {
-      "count": 6,
+      "count": 5,
       "labels": {
         "Beta": 2,
         "On Hold": 1,
         "Blocked": 0,
         "1": 2,
-        "2": 1,
+        "2": 0,
         "3": 0,
         "4": 0,
         "5": 0,
@@ -877,7 +877,7 @@
       }
     },
     "Se-Tu": {
-      "count": 18,
+      "count": 17,
       "labels": {
         "NC_Onb": 0,
         "Beta": 2,
@@ -885,7 +885,7 @@
         "On Hold": 4,
         "Blocked": 0,
         "1": 2,
-        "2": 3,
+        "2": 2,
         "3": 3,
         "4": 0,
         "5": 1,
@@ -1143,11 +1143,11 @@
       }
     },
     "Se-Tu": {
-      "count": 19,
+      "count": 18,
       "labels": {
         "supp+global": 3,
         "pis-support": 0,
-        "New dev": 7,
+        "New dev": 6,
         "Feature": 0,
         "API-updates": 2,
         "J-Demo": 0,
