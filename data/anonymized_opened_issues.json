@@ -94,10 +94,11 @@
       ]
     },
     "Eu-Mo": {
-      "service_count": 18,
-      "count": 18,
+      "service_count": 19,
+      "count": 19,
       "labels": {
         "1M": 1,
+        "1S": 1,
         "2S": 4,
         "3L": 3,
         "3M": 1,
@@ -110,13 +111,13 @@
       },
       "issues_by_project": {
         "service/kpi": 1,
-        "service/support": 9,
+        "service/support": 10,
         "service/thief": 8
       },
       "categories": {
         "low": 7,
         "medium": 5,
-        "high": 6
+        "high": 7
       },
       "no_due_dates": [
 
@@ -761,9 +762,9 @@
       }
     },
     "Eu-Mo": {
-      "count": 21,
+      "count": 22,
       "labels": {
-        "NC_Onb": 0,
+        "NC_Onb": 1,
         "Beta": 1,
         "WFF": 9,
         "On Hold": 3,
@@ -1051,9 +1052,9 @@
       }
     },
     "Eu-Mo": {
-      "count": 21,
+      "count": 22,
       "labels": {
-        "supp+global": 8,
+        "supp+global": 9,
         "pis-support": 0,
         "New dev": 4,
         "Feature": 1,
@@ -1270,8 +1271,9 @@
       }
     },
     "Ig-Li": {
-      "count": 23,
+      "count": 24,
       "issues_by_project": {
+        "bucket/support": 1,
         "service/support": 23
       }
     },
