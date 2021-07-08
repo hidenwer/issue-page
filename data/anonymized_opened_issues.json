@@ -262,8 +262,8 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 13,
-      "count": 14,
+      "service_count": 12,
+      "count": 13,
       "labels": {
         "1L": 2,
         "2L": 1,
@@ -271,18 +271,18 @@
         "3L": 1,
         "3M": 3,
         "5M": 1,
-        "5S": 2,
+        "5S": 1,
         "7L": 1,
         "Beta": 1
       },
       "issues_by_project": {
         "internal/localizer": 1,
         "service/kpi": 1,
-        "service/support": 5,
+        "service/support": 4,
         "service/thief": 7
       },
       "categories": {
-        "low": 2,
+        "low": 1,
         "medium": 6,
         "high": 5
       },
@@ -883,11 +883,11 @@
       }
     },
     "Se-Tu": {
-      "count": 18,
+      "count": 17,
       "labels": {
         "NC_Onb": 0,
         "Beta": 2,
-        "WFF": 4,
+        "WFF": 3,
         "On Hold": 4,
         "Blocked": 0,
         "1": 2,
@@ -1149,9 +1149,9 @@
       }
     },
     "Se-Tu": {
-      "count": 19,
+      "count": 18,
       "labels": {
-        "supp+global": 4,
+        "supp+global": 3,
         "pis-support": 0,
         "New dev": 6,
         "Feature": 0,
@@ -1278,13 +1278,13 @@
       }
     },
     "Ir-Gr": {
-      "count": 34,
+      "count": 35,
       "issues_by_project": {
         "business/legal": 1,
         "care/global": 2,
         "care/internal": 11,
         "psd2/PRR": 1,
-        "SE/bucket": 8,
+        "SE/bucket": 9,
         "SE/docs": 1,
         "service/global": 3,
         "service/kpi": 1,
@@ -1293,11 +1293,11 @@
       }
     },
     "Vi-Sa": {
-      "count": 33,
+      "count": 32,
       "issues_by_project": {
         "care/localizer": 2,
         "service/bank-support": 3,
-        "service/support": 28
+        "service/support": 27
       }
     }
   },
