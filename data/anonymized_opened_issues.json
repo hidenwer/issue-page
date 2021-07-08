@@ -155,13 +155,13 @@
       ]
     },
     "Se-Vo": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1L": 1,
         "2M": 1,
         "2S": 3,
-        "3L": 2,
+        "3L": 1,
         "3S": 2,
         "4S": 2,
         "5S": 2,
@@ -170,11 +170,11 @@
       "issues_by_project": {
         "service/kpi": 1,
         "service/support": 10,
-        "service/thief": 3
+        "service/thief": 2
       },
       "categories": {
         "low": 6,
-        "medium": 3,
+        "medium": 2,
         "high": 5
       },
       "no_due_dates": [
@@ -803,16 +803,16 @@
       }
     },
     "Se-Vo": {
-      "count": 15,
+      "count": 14,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 3,
+        "WFF": 2,
         "On Hold": 0,
         "Blocked": 0,
         "1": 1,
-        "2": 3,
-        "3": 3,
+        "2": 4,
+        "3": 2,
         "4": 2,
         "5": 2,
         "6": 0,
@@ -1085,11 +1085,11 @@
       }
     },
     "Se-Vo": {
-      "count": 15,
+      "count": 14,
       "labels": {
         "supp+global": 10,
         "pis-support": 0,
-        "New dev": 3,
+        "New dev": 2,
         "Feature": 0,
         "API-updates": 0,
         "J-Demo": 0,
@@ -1665,14 +1665,14 @@
       }
     },
     "Se-Vo": {
-      "count": 2,
+      "count": 1,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
         "WFF": 0,
         "1": 0,
         "2": 0,
-        "3": 2,
+        "3": 1,
         "4": 0,
         "5": 0,
         "6": 0,
