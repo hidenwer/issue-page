@@ -1244,9 +1244,9 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 33,
+      "count": 32,
       "issues_by_project": {
-        "business/legal": 3,
+        "business/legal": 2,
         "care/localizer": 1,
         "service/support": 27,
         "service/thief": 2
