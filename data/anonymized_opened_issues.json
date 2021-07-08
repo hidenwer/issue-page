@@ -32,15 +32,15 @@
       ]
     },
     "Al-Hi": {
-      "service_count": 16,
-      "count": 18,
+      "service_count": 17,
+      "count": 19,
       "labels": {
         "1L": 1,
         "1M": 1,
         "1S": 5,
         "2S": 1,
         "3L": 2,
-        "3S": 2,
+        "3S": 3,
         "4S": 1,
         "6S": 1,
         "8S": 1,
@@ -52,11 +52,11 @@
         "service/global": 1,
         "service/pis-support": 5,
         "service/stealer": 1,
-        "service/support": 3,
+        "service/support": 4,
         "service/thief": 5
       },
       "categories": {
-        "low": 5,
+        "low": 6,
         "medium": 2,
         "high": 9
       },
@@ -723,7 +723,7 @@
       }
     },
     "Al-Hi": {
-      "count": 22,
+      "count": 23,
       "labels": {
         "NC_Onb": 0,
         "Beta": 2,
@@ -732,7 +732,7 @@
         "Blocked": 0,
         "1": 5,
         "2": 1,
-        "3": 2,
+        "3": 3,
         "4": 1,
         "5": 0,
         "6": 0,
@@ -1021,9 +1021,9 @@
       }
     },
     "Al-Hi": {
-      "count": 24,
+      "count": 25,
       "labels": {
-        "supp+global": 4,
+        "supp+global": 5,
         "pis-support": 5,
         "New dev": 1,
         "Feature": 1,
