@@ -209,8 +209,8 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 19,
-      "count": 21,
+      "service_count": 20,
+      "count": 22,
       "labels": {
         "1M": 2,
         "1S": 1,
@@ -219,13 +219,13 @@
         "4S": 3,
         "5M": 1,
         "5S": 6,
-        "M": 1
+        "M": 2
       },
       "issues_by_project": {
         "SE/bucket": 2,
         "service/global": 1,
         "service/support": 10,
-        "service/thief": 8
+        "service/thief": 9
       },
       "categories": {
         "low": 13,
@@ -1114,11 +1114,11 @@
       }
     },
     "Da-Ni": {
-      "count": 22,
+      "count": 23,
       "labels": {
         "supp+global": 11,
         "pis-support": 0,
-        "New dev": 5,
+        "New dev": 6,
         "Feature": 0,
         "API-updates": 2,
         "J-Demo": 0,
@@ -1698,7 +1698,7 @@
       }
     },
     "Da-Ni": {
-      "count": 3,
+      "count": 4,
       "labels": {
         "On Hold": 1,
         "Blocked": 0,
