@@ -236,23 +236,23 @@
       ]
     },
     "An-Mo": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "1L": 1,
         "2M": 1,
         "2S": 2,
-        "3S": 3,
+        "3S": 2,
         "4S": 4,
         "5L": 1,
         "8S": 1
       },
       "issues_by_project": {
-        "service/support": 10,
+        "service/support": 9,
         "service/thief": 3
       },
       "categories": {
-        "low": 8,
+        "low": 7,
         "medium": 1,
         "high": 4
       },
@@ -862,11 +862,11 @@
       }
     },
     "An-Mo": {
-      "count": 17,
+      "count": 16,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 4,
+        "WFF": 3,
         "On Hold": 3,
         "Blocked": 0,
         "1": 0,
@@ -1132,9 +1132,9 @@
       }
     },
     "An-Mo": {
-      "count": 17,
+      "count": 16,
       "labels": {
-        "supp+global": 10,
+        "supp+global": 9,
         "pis-support": 0,
         "New dev": 2,
         "Feature": 1,
@@ -1255,7 +1255,7 @@
       }
     },
     "Cr-Bu": {
-      "count": 53,
+      "count": 52,
       "issues_by_project": {
         "bucket/support": 1,
         "business/legal": 1,
@@ -1266,7 +1266,7 @@
         "SE/docs": 1,
         "service/bank-support": 10,
         "service/pis-support": 3,
-        "service/support": 22,
+        "service/support": 21,
         "service/thief": 3
       }
     },
