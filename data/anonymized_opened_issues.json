@@ -290,22 +290,22 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 10,
-      "count": 10,
+      "service_count": 11,
+      "count": 11,
       "labels": {
         "1M": 3,
         "1S": 1,
         "3M": 1,
-        "3S": 3,
+        "3S": 4,
         "5S": 2
       },
       "issues_by_project": {
         "service/pis-support": 1,
-        "service/support": 3,
+        "service/support": 4,
         "service/thief": 6
       },
       "categories": {
-        "low": 5,
+        "low": 6,
         "medium": 1,
         "high": 4
       },
@@ -371,14 +371,14 @@
       ]
     },
     "Al-Je": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 18,
+      "count": 18,
       "labels": {
         "2S": 2,
         "3M": 2,
-        "3S": 1,
+        "3S": 2,
         "4M": 1,
-        "4S": 3,
+        "4S": 4,
         "5S": 3,
         "6L": 1,
         "6S": 1,
@@ -386,11 +386,11 @@
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 12,
+        "service/support": 14,
         "service/thief": 4
       },
       "categories": {
-        "low": 9,
+        "low": 11,
         "medium": 4,
         "high": 3
       },
@@ -786,13 +786,13 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 3,
+        "WFF": 2,
         "On Hold": 1,
         "Blocked": 0,
         "1": 3,
         "2": 1,
         "3": 3,
-        "4": 2,
+        "4": 3,
         "5": 0,
         "6": 1,
         "7": 0,
@@ -902,7 +902,7 @@
       }
     },
     "Ro-Ci": {
-      "count": 14,
+      "count": 15,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
@@ -911,7 +911,7 @@
         "Blocked": 0,
         "1": 3,
         "2": 0,
-        "3": 3,
+        "3": 4,
         "4": 0,
         "5": 2,
         "6": 0,
@@ -962,7 +962,7 @@
       }
     },
     "Al-Je": {
-      "count": 18,
+      "count": 20,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
@@ -971,8 +971,8 @@
         "Blocked": 0,
         "1": 0,
         "2": 2,
-        "3": 2,
-        "4": 1,
+        "3": 3,
+        "4": 2,
         "5": 2,
         "6": 2,
         "7": 0,
@@ -1164,9 +1164,9 @@
       }
     },
     "Ro-Ci": {
-      "count": 14,
+      "count": 15,
       "labels": {
-        "supp+global": 3,
+        "supp+global": 4,
         "pis-support": 1,
         "New dev": 4,
         "Feature": 0,
@@ -1212,9 +1212,9 @@
       }
     },
     "Al-Je": {
-      "count": 18,
+      "count": 20,
       "labels": {
-        "supp+global": 11,
+        "supp+global": 13,
         "pis-support": 0,
         "New dev": 4,
         "Feature": 0,
