@@ -338,11 +338,11 @@
       ]
     },
     "Ma-Gu": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "1L": 1,
-        "1S": 2,
+        "1S": 1,
         "3L": 1,
         "3M": 3,
         "3S": 1,
@@ -351,14 +351,14 @@
         "5S": 3
       },
       "issues_by_project": {
-        "service/pis-support": 2,
+        "service/pis-support": 1,
         "service/support": 6,
         "service/thief": 5
       },
       "categories": {
         "low": 5,
         "medium": 5,
-        "high": 3
+        "high": 2
       },
       "no_due_dates": [
 
@@ -933,14 +933,14 @@
       }
     },
     "Ma-Gu": {
-      "count": 15,
+      "count": 14,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
         "WFF": 1,
         "On Hold": 2,
         "Blocked": 0,
-        "1": 2,
+        "1": 1,
         "2": 0,
         "3": 5,
         "4": 1,
@@ -1187,10 +1187,10 @@
       }
     },
     "Ma-Gu": {
-      "count": 15,
+      "count": 14,
       "labels": {
         "supp+global": 6,
-        "pis-support": 2,
+        "pis-support": 1,
         "New dev": 3,
         "Feature": 0,
         "API-updates": 0,
@@ -1246,7 +1246,7 @@
       }
     },
     "Cr-Bu": {
-      "count": 53,
+      "count": 52,
       "issues_by_project": {
         "business/legal": 1,
         "care/global": 2,
@@ -1255,7 +1255,7 @@
         "SE/bucket": 8,
         "SE/docs": 1,
         "service/bank-support": 9,
-        "service/pis-support": 3,
+        "service/pis-support": 2,
         "service/support": 24,
         "service/thief": 3
       }
@@ -1508,12 +1508,12 @@
       }
     },
     "Ma-Gu": {
-      "count": 2,
+      "count": 1,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
         "WFF": 1,
-        "1": 1,
+        "1": 0,
         "2": 0,
         "3": 0,
         "4": 0,
