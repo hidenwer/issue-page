@@ -1252,7 +1252,7 @@
       }
     },
     "Cr-Bu": {
-      "count": 50,
+      "count": 51,
       "issues_by_project": {
         "business/legal": 1,
         "care/global": 2,
@@ -1262,7 +1262,7 @@
         "SE/docs": 1,
         "service/bank-support": 9,
         "service/pis-support": 3,
-        "service/support": 21,
+        "service/support": 22,
         "service/thief": 3
       }
     },
