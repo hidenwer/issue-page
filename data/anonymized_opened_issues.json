@@ -29,11 +29,11 @@
       ]
     },
     "Al-Hi": {
-      "service_count": 15,
-      "count": 17,
+      "service_count": 14,
+      "count": 16,
       "labels": {
         "1L": 1,
-        "1S": 5,
+        "1S": 4,
         "2S": 1,
         "3L": 2,
         "3S": 2,
@@ -46,7 +46,7 @@
         "DemoJ": 1,
         "SE/bucket": 2,
         "service/global": 1,
-        "service/pis-support": 4,
+        "service/pis-support": 3,
         "service/stealer": 1,
         "service/support": 5,
         "service/thief": 3
@@ -54,7 +54,7 @@
       "categories": {
         "low": 5,
         "medium": 2,
-        "high": 8
+        "high": 7
       },
       "no_due_dates": [
 
@@ -695,12 +695,12 @@
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 7,
+        "WFF": 6,
         "On Hold": 2,
         "Blocked": 1,
         "1": 2,
         "2": 0,
-        "3": 2,
+        "3": 3,
         "4": 0,
         "5": 0,
         "6": 0,
@@ -715,8 +715,8 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 2,
-        "WFF": 10,
-        "On Hold": 4,
+        "WFF": 9,
+        "On Hold": 5,
         "Blocked": 0,
         "1": 2,
         "2": 1,
@@ -1012,13 +1012,13 @@
       "count": 23,
       "labels": {
         "supp+global": 6,
-        "pis-support": 4,
+        "pis-support": 3,
         "New dev": 1,
         "Feature": 1,
         "API-updates": 0,
         "J-Demo": 1,
         "Finovate": 0,
-        "On Hold": 5,
+        "On Hold": 6,
         "Blocked": 0,
         "Non-Service": 2,
         "Other": 3
@@ -1310,9 +1310,9 @@
     "Al-Hi": {
       "count": 5,
       "labels": {
-        "On Hold": 0,
+        "On Hold": 1,
         "Blocked": 0,
-        "WFF": 4,
+        "WFF": 3,
         "1": 0,
         "2": 0,
         "3": 0,
