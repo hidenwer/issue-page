@@ -937,12 +937,12 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 1,
+        "WFF": 2,
         "On Hold": 2,
         "Blocked": 0,
         "1": 1,
         "2": 0,
-        "3": 5,
+        "3": 4,
         "4": 1,
         "5": 4,
         "6": 0,
@@ -1246,7 +1246,7 @@
       }
     },
     "Cr-Bu": {
-      "count": 52,
+      "count": 51,
       "issues_by_project": {
         "business/legal": 1,
         "care/global": 2,
@@ -1256,7 +1256,7 @@
         "SE/docs": 1,
         "service/bank-support": 9,
         "service/pis-support": 2,
-        "service/support": 24,
+        "service/support": 23,
         "service/thief": 3
       }
     },
