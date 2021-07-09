@@ -90,8 +90,8 @@
       ]
     },
     "Eu-Mo": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 15,
+      "count": 15,
       "labels": {
         "1M": 1,
         "1S": 1,
@@ -99,18 +99,17 @@
         "3L": 3,
         "3M": 1,
         "4S": 3,
-        "5L": 1,
         "5S": 1,
         "Beta": 1
       },
       "issues_by_project": {
         "service/kpi": 1,
         "service/support": 7,
-        "service/thief": 8
+        "service/thief": 7
       },
       "categories": {
         "low": 4,
-        "medium": 5,
+        "medium": 4,
         "high": 7
       },
       "no_due_dates": [
@@ -362,25 +361,25 @@
       ]
     },
     "Al-Je": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 15,
+      "count": 15,
       "labels": {
         "2S": 2,
         "3M": 2,
         "3S": 2,
         "4M": 1,
         "4S": 3,
-        "5S": 3,
+        "5S": 2,
         "6L": 1,
         "6S": 1,
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 12,
+        "service/support": 11,
         "service/thief": 4
       },
       "categories": {
-        "low": 9,
+        "low": 8,
         "medium": 4,
         "high": 3
       },
@@ -472,7 +471,7 @@
       }
     },
     "Eu-Mo": {
-      "count": 4,
+      "count": 3,
       "labels": {
         "Beta": 1,
         "On Hold": 0,
@@ -481,7 +480,7 @@
         "2": 0,
         "3": 1,
         "4": 0,
-        "5": 1,
+        "5": 0,
         "6": 0,
         "7": 0,
         "8": 0,
@@ -750,7 +749,7 @@
       }
     },
     "Eu-Mo": {
-      "count": 19,
+      "count": 18,
       "labels": {
         "NC_Onb": 1,
         "Beta": 1,
@@ -761,7 +760,7 @@
         "2": 2,
         "3": 3,
         "4": 2,
-        "5": 1,
+        "5": 0,
         "6": 0,
         "7": 0,
         "8": 0,
@@ -794,11 +793,11 @@
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 6,
+        "WFF": 7,
         "On Hold": 0,
         "Blocked": 0,
         "1": 0,
-        "2": 3,
+        "2": 2,
         "3": 0,
         "4": 2,
         "5": 2,
@@ -950,7 +949,7 @@
       }
     },
     "Al-Je": {
-      "count": 18,
+      "count": 17,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
@@ -961,7 +960,7 @@
         "2": 1,
         "3": 2,
         "4": 3,
-        "5": 3,
+        "5": 2,
         "6": 2,
         "7": 0,
         "8": 0,
@@ -1040,11 +1039,11 @@
       }
     },
     "Eu-Mo": {
-      "count": 19,
+      "count": 18,
       "labels": {
         "supp+global": 6,
         "pis-support": 0,
-        "New dev": 4,
+        "New dev": 3,
         "Feature": 1,
         "API-updates": 3,
         "J-Demo": 0,
@@ -1200,9 +1199,9 @@
       }
     },
     "Al-Je": {
-      "count": 18,
+      "count": 17,
       "labels": {
-        "supp+global": 11,
+        "supp+global": 10,
         "pis-support": 0,
         "New dev": 4,
         "Feature": 0,
@@ -1258,9 +1257,9 @@
       }
     },
     "Ig-Li": {
-      "count": 18,
+      "count": 17,
       "issues_by_project": {
-        "service/support": 18
+        "service/support": 17
       }
     },
     "Ir-Gr": {
