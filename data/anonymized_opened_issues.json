@@ -201,11 +201,10 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 19,
-      "count": 21,
+      "service_count": 18,
+      "count": 20,
       "labels": {
         "1M": 3,
-        "1S": 1,
         "2M": 1,
         "3S": 4,
         "4S": 3,
@@ -215,14 +214,17 @@
       "issues_by_project": {
         "SE/bucket": 2,
         "service/global": 1,
-        "service/support": 10,
+        "service/support": 9,
         "service/thief": 8
       },
       "categories": {
         "low": 13,
         "medium": 1,
-        "high": 5
+        "high": 4
       },
+      "overdues": [
+
+      ],
       "no_due_dates": [
 
       ]
@@ -526,10 +528,10 @@
       }
     },
     "St-Da": {
-      "count": 3,
+      "count": 2,
       "labels": {
         "Beta": 1,
-        "On Hold": 1,
+        "On Hold": 0,
         "Blocked": 0,
         "1": 0,
         "2": 0,
@@ -714,12 +716,12 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 2,
-        "WFF": 9,
+        "WFF": 8,
         "On Hold": 5,
         "Blocked": 0,
         "1": 2,
         "2": 1,
-        "3": 1,
+        "3": 2,
         "4": 0,
         "5": 0,
         "6": 0,
@@ -810,12 +812,12 @@
       }
     },
     "St-Da": {
-      "count": 12,
+      "count": 11,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
         "WFF": 2,
-        "On Hold": 1,
+        "On Hold": 0,
         "Blocked": 0,
         "1": 0,
         "2": 1,
@@ -1088,7 +1090,7 @@
       }
     },
     "St-Da": {
-      "count": 12,
+      "count": 11,
       "labels": {
         "supp+global": 9,
         "pis-support": 0,
@@ -1097,7 +1099,7 @@
         "API-updates": 0,
         "J-Demo": 0,
         "Finovate": 0,
-        "On Hold": 1,
+        "On Hold": 0,
         "Blocked": 0,
         "Non-Service": 0,
         "Other": 0
@@ -1106,14 +1108,14 @@
     "Da-Ni": {
       "count": 22,
       "labels": {
-        "supp+global": 11,
+        "supp+global": 10,
         "pis-support": 0,
         "New dev": 5,
         "Feature": 0,
         "API-updates": 2,
         "J-Demo": 0,
         "Finovate": 0,
-        "On Hold": 1,
+        "On Hold": 2,
         "Blocked": 0,
         "Non-Service": 2,
         "Other": 1
