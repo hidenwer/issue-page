@@ -73,8 +73,8 @@
         "3L": 1,
         "3S": 1,
         "4L": 2,
-        "4M": 1,
-        "4S": 2
+        "4M": 2,
+        "4S": 1
       },
       "issues_by_project": {
         "service/global": 1,
@@ -83,8 +83,8 @@
         "shared/salt-common": 1
       },
       "categories": {
-        "low": 3,
-        "medium": 4,
+        "low": 2,
+        "medium": 5,
         "high": 7
       },
       "no_due_dates": [
@@ -233,10 +233,10 @@
       ]
     },
     "An-Mo": {
-      "service_count": 12,
-      "count": 12,
+      "service_count": 13,
+      "count": 13,
       "labels": {
-        "1L": 1,
+        "1L": 2,
         "2M": 1,
         "2S": 2,
         "3S": 2,
@@ -246,12 +246,12 @@
       },
       "issues_by_project": {
         "service/support": 9,
-        "service/thief": 3
+        "service/thief": 4
       },
       "categories": {
         "low": 7,
         "medium": 1,
-        "high": 4
+        "high": 5
       },
       "no_due_dates": [
 
@@ -865,9 +865,9 @@
         "NC_Onb": 0,
         "Beta": 1,
         "WFF": 3,
-        "On Hold": 3,
+        "On Hold": 2,
         "Blocked": 0,
-        "1": 0,
+        "1": 1,
         "2": 3,
         "3": 1,
         "4": 3,
@@ -1139,10 +1139,10 @@
         "API-updates": 0,
         "J-Demo": 0,
         "Finovate": 0,
-        "On Hold": 4,
+        "On Hold": 3,
         "Blocked": 0,
         "Non-Service": 0,
-        "Other": 0
+        "Other": 1
       }
     },
     "Se-Tu": {
