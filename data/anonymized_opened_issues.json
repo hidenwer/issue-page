@@ -392,11 +392,10 @@
       ]
     },
     "Ni-Tr": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "1M": 1,
-        "2L": 1,
         "3L": 3,
         "3S": 1,
         "4L": 1,
@@ -407,13 +406,13 @@
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 9,
+        "service/support": 8,
         "service/thief": 4
       },
       "categories": {
         "low": 5,
         "medium": 5,
-        "high": 3
+        "high": 2
       },
       "no_due_dates": [
 
@@ -974,11 +973,11 @@
       }
     },
     "Ni-Tr": {
-      "count": 14,
+      "count": 13,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 3,
+        "WFF": 2,
         "On Hold": 1,
         "Blocked": 0,
         "1": 1,
@@ -1220,9 +1219,9 @@
       }
     },
     "Ni-Tr": {
-      "count": 14,
+      "count": 13,
       "labels": {
-        "supp+global": 8,
+        "supp+global": 7,
         "pis-support": 0,
         "New dev": 5,
         "Feature": 0,
@@ -1238,11 +1237,11 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 27,
+      "count": 26,
       "issues_by_project": {
         "business/legal": 1,
         "care/localizer": 1,
-        "service/support": 23,
+        "service/support": 22,
         "service/thief": 2
       }
     },
