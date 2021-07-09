@@ -1269,9 +1269,8 @@
       }
     },
     "Ig-Li": {
-      "count": 24,
+      "count": 23,
       "issues_by_project": {
-        "bucket/support": 1,
         "service/support": 23
       }
     },
