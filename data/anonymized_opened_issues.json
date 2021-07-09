@@ -172,29 +172,30 @@
       ]
     },
     "St-Da": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 11,
+      "count": 11,
       "labels": {
         "2S": 1,
-        "3L": 1,
         "3M": 1,
         "3S": 2,
         "4L": 1,
-        "4M": 1,
         "4S": 2,
         "6S": 3,
         "Beta": 1
       },
       "issues_by_project": {
         "service/global": 1,
-        "service/support": 10,
-        "service/thief": 2
+        "service/support": 9,
+        "service/thief": 1
       },
       "categories": {
         "low": 7,
-        "medium": 4,
+        "medium": 2,
         "high": 2
       },
+      "overdues": [
+
+      ],
       "no_due_dates": [
 
       ]
@@ -809,7 +810,7 @@
       }
     },
     "St-Da": {
-      "count": 14,
+      "count": 12,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
@@ -818,8 +819,8 @@
         "Blocked": 0,
         "1": 0,
         "2": 1,
-        "3": 3,
-        "4": 3,
+        "3": 2,
+        "4": 2,
         "5": 0,
         "6": 3,
         "7": 0,
@@ -1087,11 +1088,11 @@
       }
     },
     "St-Da": {
-      "count": 14,
+      "count": 12,
       "labels": {
-        "supp+global": 10,
+        "supp+global": 9,
         "pis-support": 0,
-        "New dev": 3,
+        "New dev": 2,
         "Feature": 0,
         "API-updates": 0,
         "J-Demo": 0,
@@ -1233,11 +1234,11 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 26,
+      "count": 25,
       "issues_by_project": {
         "business/legal": 1,
         "care/localizer": 1,
-        "service/support": 22,
+        "service/support": 21,
         "service/thief": 2
       }
     },
@@ -1668,14 +1669,14 @@
       }
     },
     "St-Da": {
-      "count": 1,
+      "count": 0,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
         "WFF": 0,
         "1": 0,
         "2": 0,
-        "3": 1,
+        "3": 0,
         "4": 0,
         "5": 0,
         "6": 0,
