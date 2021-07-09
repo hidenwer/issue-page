@@ -1244,7 +1244,7 @@
       }
     },
     "Cr-Bu": {
-      "count": 51,
+      "count": 52,
       "issues_by_project": {
         "business/legal": 1,
         "care/global": 2,
@@ -1254,7 +1254,7 @@
         "SE/docs": 1,
         "service/bank-support": 9,
         "service/pis-support": 2,
-        "service/support": 23,
+        "service/support": 24,
         "service/thief": 3
       }
     },
