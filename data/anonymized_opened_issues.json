@@ -340,12 +340,11 @@
       ]
     },
     "Ma-Gu": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1L": 1,
         "1S": 2,
-        "2L": 1,
         "3L": 1,
         "3M": 3,
         "3S": 1,
@@ -354,7 +353,6 @@
         "5S": 3
       },
       "issues_by_project": {
-        "service/global": 1,
         "service/pis-support": 2,
         "service/support": 6,
         "service/thief": 5
@@ -362,7 +360,7 @@
       "categories": {
         "low": 5,
         "medium": 5,
-        "high": 4
+        "high": 3
       },
       "no_due_dates": [
 
@@ -938,7 +936,7 @@
       }
     },
     "Ma-Gu": {
-      "count": 16,
+      "count": 15,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
@@ -946,7 +944,7 @@
         "On Hold": 2,
         "Blocked": 0,
         "1": 2,
-        "2": 1,
+        "2": 0,
         "3": 5,
         "4": 1,
         "5": 4,
@@ -1192,9 +1190,9 @@
       }
     },
     "Ma-Gu": {
-      "count": 16,
+      "count": 15,
       "labels": {
-        "supp+global": 7,
+        "supp+global": 6,
         "pis-support": 2,
         "New dev": 3,
         "Feature": 0,
