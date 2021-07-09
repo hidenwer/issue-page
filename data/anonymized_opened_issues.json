@@ -366,25 +366,25 @@
       ]
     },
     "Al-Je": {
-      "service_count": 17,
-      "count": 17,
+      "service_count": 16,
+      "count": 16,
       "labels": {
         "2S": 2,
         "3M": 2,
         "3S": 2,
         "4M": 1,
         "4S": 3,
-        "5S": 4,
+        "5S": 3,
         "6L": 1,
         "6S": 1,
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 13,
+        "service/support": 12,
         "service/thief": 4
       },
       "categories": {
-        "low": 10,
+        "low": 9,
         "medium": 4,
         "high": 3
       },
@@ -699,10 +699,10 @@
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 8,
+        "WFF": 7,
         "On Hold": 2,
         "Blocked": 1,
-        "1": 2,
+        "1": 3,
         "2": 1,
         "3": 2,
         "4": 0,
@@ -955,11 +955,11 @@
       }
     },
     "Al-Je": {
-      "count": 19,
+      "count": 18,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 4,
+        "WFF": 3,
         "On Hold": 2,
         "Blocked": 0,
         "1": 0,
@@ -1205,9 +1205,9 @@
       }
     },
     "Al-Je": {
-      "count": 19,
+      "count": 18,
       "labels": {
-        "supp+global": 12,
+        "supp+global": 11,
         "pis-support": 0,
         "New dev": 4,
         "Feature": 0,
@@ -1263,9 +1263,9 @@
       }
     },
     "Ig-Li": {
-      "count": 21,
+      "count": 20,
       "issues_by_project": {
-        "service/support": 21
+        "service/support": 20
       }
     },
     "Ir-Gr": {
@@ -1298,8 +1298,8 @@
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
-        "WFF": 3,
-        "1": 0,
+        "WFF": 2,
+        "1": 1,
         "2": 0,
         "3": 0,
         "4": 0,
