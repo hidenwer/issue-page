@@ -232,8 +232,8 @@
       ]
     },
     "An-Mo": {
-      "service_count": 12,
-      "count": 12,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1L": 2,
         "2M": 1,
@@ -241,16 +241,17 @@
         "3S": 2,
         "4S": 3,
         "5L": 1,
-        "8S": 1
+        "8S": 1,
+        "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 8,
+        "service/support": 9,
         "service/thief": 4
       },
       "categories": {
         "low": 6,
         "medium": 1,
-        "high": 5
+        "high": 6
       },
       "no_due_dates": [
 
@@ -1129,12 +1130,12 @@
       "labels": {
         "supp+global": 8,
         "pis-support": 0,
-        "New dev": 2,
+        "New dev": 3,
         "Feature": 1,
         "API-updates": 0,
         "J-Demo": 0,
         "Finovate": 0,
-        "On Hold": 3,
+        "On Hold": 2,
         "Blocked": 0,
         "Non-Service": 0,
         "Other": 1
