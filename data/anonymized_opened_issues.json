@@ -311,10 +311,9 @@
       ]
     },
     "Se-Ra": {
-      "service_count": 17,
-      "count": 17,
+      "service_count": 16,
+      "count": 16,
       "labels": {
-        "2S": 1,
         "3L": 1,
         "3M": 2,
         "3S": 1,
@@ -326,13 +325,13 @@
         "8M": 1
       },
       "issues_by_project": {
-        "service/support": 15,
+        "service/support": 14,
         "service/thief": 2
       },
       "categories": {
         "low": 10,
         "medium": 6,
-        "high": 1
+        "high": 0
       },
       "no_due_dates": [
 
@@ -915,11 +914,11 @@
       }
     },
     "Se-Ra": {
-      "count": 18,
+      "count": 17,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 8,
+        "WFF": 7,
         "On Hold": 1,
         "Blocked": 0,
         "1": 0,
@@ -1173,9 +1172,9 @@
       }
     },
     "Se-Ra": {
-      "count": 18,
+      "count": 17,
       "labels": {
-        "supp+global": 15,
+        "supp+global": 14,
         "pis-support": 0,
         "New dev": 2,
         "Feature": 0,
@@ -1239,11 +1238,11 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 29,
+      "count": 28,
       "issues_by_project": {
         "business/legal": 2,
         "care/localizer": 1,
-        "service/support": 24,
+        "service/support": 23,
         "service/thief": 2
       }
     },
