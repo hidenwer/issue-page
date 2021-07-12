@@ -311,23 +311,23 @@
       ]
     },
     "Se-Ra": {
-      "service_count": 12,
-      "count": 12,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "3L": 1,
         "3M": 2,
         "3S": 1,
         "4S": 2,
-        "5S": 4,
+        "5S": 5,
         "6L": 1,
         "6S": 1
       },
       "issues_by_project": {
-        "service/support": 10,
+        "service/support": 11,
         "service/thief": 2
       },
       "categories": {
-        "low": 8,
+        "low": 9,
         "medium": 4,
         "high": 0
       },
@@ -910,7 +910,7 @@
       }
     },
     "Se-Ra": {
-      "count": 13,
+      "count": 14,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
@@ -921,7 +921,7 @@
         "2": 0,
         "3": 3,
         "4": 2,
-        "5": 2,
+        "5": 3,
         "6": 2,
         "7": 0,
         "8": 0,
@@ -1168,9 +1168,9 @@
       }
     },
     "Se-Ra": {
-      "count": 13,
+      "count": 14,
       "labels": {
-        "supp+global": 10,
+        "supp+global": 11,
         "pis-support": 0,
         "New dev": 2,
         "Feature": 0,
@@ -1279,11 +1279,11 @@
       }
     },
     "Vi-Sa": {
-      "count": 28,
+      "count": 29,
       "issues_by_project": {
         "care/localizer": 2,
         "service/bank-support": 3,
-        "service/support": 23
+        "service/support": 24
       }
     }
   },
