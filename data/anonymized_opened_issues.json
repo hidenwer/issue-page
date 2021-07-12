@@ -1243,7 +1243,7 @@
       }
     },
     "Cr-Bu": {
-      "count": 52,
+      "count": 51,
       "issues_by_project": {
         "business/legal": 1,
         "care/global": 2,
@@ -1251,16 +1251,16 @@
         "psd2/PRR": 1,
         "SE/bucket": 8,
         "SE/docs": 1,
-        "service/bank-support": 9,
+        "service/bank-support": 8,
         "service/pis-support": 2,
         "service/support": 24,
         "service/thief": 3
       }
     },
     "Ig-Li": {
-      "count": 17,
+      "count": 18,
       "issues_by_project": {
-        "service/support": 17
+        "service/support": 18
       }
     },
     "Ir-Gr": {
