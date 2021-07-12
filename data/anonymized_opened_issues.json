@@ -387,8 +387,8 @@
       ]
     },
     "Ni-Tr": {
-      "service_count": 12,
-      "count": 12,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1M": 1,
         "3L": 3,
@@ -396,16 +396,16 @@
         "4L": 1,
         "4M": 1,
         "4S": 2,
-        "5S": 1,
+        "5S": 2,
         "6S": 1,
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 8,
+        "service/support": 9,
         "service/thief": 4
       },
       "categories": {
-        "low": 5,
+        "low": 6,
         "medium": 5,
         "high": 2
       },
@@ -968,7 +968,7 @@
       }
     },
     "Ni-Tr": {
-      "count": 13,
+      "count": 14,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
@@ -979,7 +979,7 @@
         "2": 0,
         "3": 3,
         "4": 3,
-        "5": 1,
+        "5": 2,
         "6": 0,
         "7": 0,
         "8": 0,
@@ -1214,9 +1214,9 @@
       }
     },
     "Ni-Tr": {
-      "count": 13,
+      "count": 14,
       "labels": {
-        "supp+global": 7,
+        "supp+global": 8,
         "pis-support": 0,
         "New dev": 5,
         "Feature": 0,
