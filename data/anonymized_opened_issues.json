@@ -336,8 +336,8 @@
       ]
     },
     "Ma-Gu": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 14,
+      "count": 14,
       "labels": {
         "1L": 1,
         "2S": 1,
@@ -347,15 +347,16 @@
         "4S": 2,
         "5L": 1,
         "5M": 1,
-        "5S": 3
+        "5S": 4
       },
       "issues_by_project": {
+        "DemoF": 1,
         "DemoJ": 1,
         "service/support": 7,
         "service/thief": 5
       },
       "categories": {
-        "low": 6,
+        "low": 7,
         "medium": 5,
         "high": 2
       },
@@ -758,11 +759,11 @@
       "labels": {
         "NC_Onb": 1,
         "Beta": 1,
-        "WFF": 6,
+        "WFF": 7,
         "On Hold": 3,
         "Blocked": 0,
         "1": 0,
-        "2": 2,
+        "2": 1,
         "3": 2,
         "4": 2,
         "5": 1,
@@ -934,7 +935,7 @@
       }
     },
     "Ma-Gu": {
-      "count": 16,
+      "count": 17,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
@@ -945,7 +946,7 @@
         "2": 1,
         "3": 2,
         "4": 1,
-        "5": 5,
+        "5": 6,
         "6": 0,
         "7": 0,
         "8": 0,
@@ -1188,7 +1189,7 @@
       }
     },
     "Ma-Gu": {
-      "count": 16,
+      "count": 17,
       "labels": {
         "supp+global": 7,
         "pis-support": 0,
@@ -1196,7 +1197,7 @@
         "Feature": 0,
         "API-updates": 0,
         "J-Demo": 1,
-        "Finovate": 0,
+        "Finovate": 1,
         "On Hold": 3,
         "Blocked": 0,
         "Non-Service": 0,
