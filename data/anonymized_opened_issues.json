@@ -754,11 +754,11 @@
       "labels": {
         "NC_Onb": 1,
         "Beta": 1,
-        "WFF": 6,
+        "WFF": 5,
         "On Hold": 3,
         "Blocked": 0,
         "1": 0,
-        "2": 1,
+        "2": 2,
         "3": 3,
         "4": 2,
         "5": 1,
@@ -1279,11 +1279,11 @@
       }
     },
     "Vi-Sa": {
-      "count": 29,
+      "count": 30,
       "issues_by_project": {
         "care/localizer": 2,
         "service/bank-support": 3,
-        "service/support": 24
+        "service/support": 25
       }
     }
   },
