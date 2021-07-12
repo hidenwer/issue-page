@@ -255,8 +255,8 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 12,
-      "count": 13,
+      "service_count": 13,
+      "count": 14,
       "labels": {
         "1L": 1,
         "2S": 1,
@@ -265,20 +265,20 @@
         "3S": 1,
         "4L": 1,
         "4S": 1,
-        "5L": 1,
+        "5L": 2,
         "5S": 1,
         "Beta": 1
       },
       "issues_by_project": {
         "internal/localizer": 1,
-        "service/global": 1,
+        "service/global": 2,
         "service/kpi": 1,
         "service/support": 3,
         "service/thief": 7
       },
       "categories": {
         "low": 3,
-        "medium": 6,
+        "medium": 7,
         "high": 3
       },
       "no_due_dates": [
@@ -875,7 +875,7 @@
       }
     },
     "Se-Tu": {
-      "count": 16,
+      "count": 17,
       "labels": {
         "NC_Onb": 0,
         "Beta": 2,
@@ -886,7 +886,7 @@
         "2": 0,
         "3": 1,
         "4": 2,
-        "5": 2,
+        "5": 3,
         "6": 0,
         "7": 0,
         "8": 0,
@@ -1141,9 +1141,9 @@
       }
     },
     "Se-Tu": {
-      "count": 17,
+      "count": 18,
       "labels": {
-        "supp+global": 3,
+        "supp+global": 4,
         "pis-support": 0,
         "New dev": 5,
         "Feature": 1,
