@@ -32,7 +32,7 @@
     },
     "Al-Hi": {
       "service_count": 15,
-      "count": 17,
+      "count": 16,
       "labels": {
         "1L": 2,
         "1S": 4,
@@ -46,7 +46,7 @@
       },
       "issues_by_project": {
         "DemoJ": 1,
-        "SE/bucket": 2,
+        "SE/bucket": 1,
         "service/global": 1,
         "service/pis-support": 3,
         "service/stealer": 1,
@@ -1018,7 +1018,7 @@
       }
     },
     "Al-Hi": {
-      "count": 24,
+      "count": 23,
       "labels": {
         "supp+global": 6,
         "pis-support": 3,
@@ -1029,7 +1029,7 @@
         "Finovate": 0,
         "On Hold": 6,
         "Blocked": 0,
-        "Non-Service": 2,
+        "Non-Service": 1,
         "Other": 3
       }
     },
