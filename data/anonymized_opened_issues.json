@@ -1279,11 +1279,11 @@
       }
     },
     "Vi-Sa": {
-      "count": 33,
+      "count": 34,
       "issues_by_project": {
         "care/localizer": 2,
         "service/bank-support": 3,
-        "service/support": 28
+        "service/support": 29
       }
     }
   },
