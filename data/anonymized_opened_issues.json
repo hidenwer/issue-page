@@ -203,8 +203,8 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 17,
-      "count": 19,
+      "service_count": 16,
+      "count": 18,
       "labels": {
         "1M": 3,
         "1S": 1,
@@ -212,16 +212,16 @@
         "3S": 5,
         "4S": 1,
         "5M": 1,
-        "5S": 5
+        "5S": 4
       },
       "issues_by_project": {
         "SE/bucket": 2,
         "service/global": 1,
-        "service/support": 9,
+        "service/support": 8,
         "service/thief": 7
       },
       "categories": {
-        "low": 11,
+        "low": 10,
         "medium": 1,
         "high": 5
       }
@@ -830,11 +830,11 @@
       }
     },
     "Da-Ni": {
-      "count": 18,
+      "count": 17,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 8,
+        "WFF": 7,
         "On Hold": 1,
         "Blocked": 0,
         "1": 2,
@@ -1104,9 +1104,9 @@
       }
     },
     "Da-Ni": {
-      "count": 20,
+      "count": 19,
       "labels": {
-        "supp+global": 10,
+        "supp+global": 9,
         "pis-support": 0,
         "New dev": 5,
         "Feature": 0,
@@ -1234,11 +1234,11 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 24,
+      "count": 23,
       "issues_by_project": {
         "business/legal": 1,
         "care/localizer": 1,
-        "service/support": 20,
+        "service/support": 19,
         "service/thief": 2
       }
     },
