@@ -1,15 +1,15 @@
 {
   "load": {
     "Ed-Ma": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 15,
+      "count": 15,
       "labels": {
         "1L": 1,
         "1M": 1,
         "1S": 1,
         "2L": 1,
         "2M": 2,
-        "2S": 1,
+        "2S": 2,
         "3L": 2,
         "3M": 2,
         "3S": 2,
@@ -19,13 +19,13 @@
         "DemoJ": 1,
         "service/global": 2,
         "service/pis-support": 3,
-        "service/support": 4,
+        "service/support": 5,
         "service/thief": 4
       },
       "categories": {
         "low": 3,
         "medium": 4,
-        "high": 7
+        "high": 8
       },
       "no_due_dates": [
 
@@ -93,14 +93,14 @@
       ]
     },
     "Eu-Mo": {
-      "service_count": 17,
-      "count": 17,
+      "service_count": 18,
+      "count": 18,
       "labels": {
         "1M": 1,
         "1S": 1,
         "2S": 4,
         "3L": 3,
-        "3S": 2,
+        "3S": 3,
         "4S": 4,
         "5S": 1,
         "Beta": 1
@@ -108,11 +108,11 @@
       "issues_by_project": {
         "service/kpi": 1,
         "service/pis-support": 1,
-        "service/support": 9,
+        "service/support": 10,
         "service/thief": 6
       },
       "categories": {
-        "low": 7,
+        "low": 8,
         "medium": 3,
         "high": 7
       },
@@ -226,13 +226,13 @@
       }
     },
     "An-Mo": {
-      "service_count": 11,
-      "count": 11,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1L": 1,
         "2L": 1,
         "2S": 1,
-        "3S": 1,
+        "3S": 3,
         "4S": 2,
         "5L": 1,
         "5S": 2,
@@ -240,11 +240,11 @@
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 8,
+        "service/support": 10,
         "service/thief": 3
       },
       "categories": {
-        "low": 6,
+        "low": 8,
         "medium": 1,
         "high": 4
       },
@@ -278,7 +278,10 @@
         "low": 5,
         "medium": 7,
         "high": 3
-      }
+      },
+      "no_due_dates": [
+
+      ]
     },
     "Ro-Ci": {
       "service_count": 13,
@@ -689,7 +692,7 @@
   },
   "lbl": {
     "Ed-Ma": {
-      "count": 17,
+      "count": 18,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
@@ -697,7 +700,7 @@
         "On Hold": 2,
         "Blocked": 1,
         "1": 2,
-        "2": 0,
+        "2": 1,
         "3": 3,
         "4": 0,
         "5": 1,
@@ -749,7 +752,7 @@
       }
     },
     "Eu-Mo": {
-      "count": 20,
+      "count": 21,
       "labels": {
         "NC_Onb": 1,
         "Beta": 1,
@@ -758,7 +761,7 @@
         "Blocked": 0,
         "1": 0,
         "2": 1,
-        "3": 3,
+        "3": 4,
         "4": 3,
         "5": 1,
         "6": 0,
@@ -849,7 +852,7 @@
       }
     },
     "An-Mo": {
-      "count": 14,
+      "count": 16,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
@@ -858,7 +861,7 @@
         "Blocked": 0,
         "1": 1,
         "2": 1,
-        "3": 1,
+        "3": 3,
         "4": 2,
         "5": 3,
         "6": 0,
@@ -991,9 +994,9 @@
   },
   "distr": {
     "Ed-Ma": {
-      "count": 17,
+      "count": 18,
       "labels": {
-        "supp+global": 6,
+        "supp+global": 7,
         "pis-support": 3,
         "New dev": 3,
         "Feature": 0,
@@ -1039,9 +1042,9 @@
       }
     },
     "Eu-Mo": {
-      "count": 20,
+      "count": 21,
       "labels": {
-        "supp+global": 8,
+        "supp+global": 9,
         "pis-support": 1,
         "New dev": 2,
         "Feature": 1,
@@ -1119,9 +1122,9 @@
       }
     },
     "An-Mo": {
-      "count": 14,
+      "count": 16,
       "labels": {
-        "supp+global": 7,
+        "supp+global": 9,
         "pis-support": 0,
         "New dev": 2,
         "Feature": 1,
