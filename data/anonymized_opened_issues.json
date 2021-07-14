@@ -1246,13 +1246,13 @@
       }
     },
     "Cr-Bu": {
-      "count": 59,
+      "count": 58,
       "issues_by_project": {
         "business/legal": 1,
         "care/global": 2,
         "care/localizer": 1,
         "psd2/PRR": 1,
-        "SE/bucket": 8,
+        "SE/bucket": 7,
         "SE/docs": 1,
         "service/bank-support": 8,
         "service/pis-support": 2,
