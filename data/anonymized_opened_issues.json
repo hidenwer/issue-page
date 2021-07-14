@@ -176,10 +176,10 @@
       ]
     },
     "St-Da": {
-      "service_count": 15,
-      "count": 15,
+      "service_count": 14,
+      "count": 14,
       "labels": {
-        "2S": 2,
+        "2S": 1,
         "3M": 1,
         "3S": 4,
         "4L": 1,
@@ -191,13 +191,13 @@
       },
       "issues_by_project": {
         "service/global": 1,
-        "service/support": 13,
+        "service/support": 12,
         "service/thief": 1
       },
       "categories": {
         "low": 9,
         "medium": 3,
-        "high": 3
+        "high": 2
       },
       "no_due_dates": [
 
@@ -797,11 +797,11 @@
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 5,
+        "WFF": 4,
         "On Hold": 2,
         "Blocked": 0,
         "1": 0,
-        "2": 3,
+        "2": 4,
         "3": 1,
         "4": 3,
         "5": 2,
@@ -813,11 +813,11 @@
       }
     },
     "St-Da": {
-      "count": 15,
+      "count": 14,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 5,
+        "WFF": 4,
         "On Hold": 0,
         "Blocked": 0,
         "1": 0,
@@ -1091,9 +1091,9 @@
       }
     },
     "St-Da": {
-      "count": 15,
+      "count": 14,
       "labels": {
-        "supp+global": 13,
+        "supp+global": 12,
         "pis-support": 0,
         "New dev": 2,
         "Feature": 0,
@@ -1282,11 +1282,11 @@
       }
     },
     "Vi-Sa": {
-      "count": 34,
+      "count": 33,
       "issues_by_project": {
         "care/localizer": 2,
         "service/bank-support": 3,
-        "service/support": 29
+        "service/support": 28
       }
     }
   },
