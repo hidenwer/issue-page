@@ -317,21 +317,23 @@
       "labels": {
         "3L": 1,
         "3M": 2,
-        "3S": 1,
+        "3S": 2,
         "4S": 2,
         "5S": 5,
-        "6L": 1,
-        "S": 1
+        "6L": 1
       },
       "issues_by_project": {
         "service/support": 11,
         "service/thief": 2
       },
       "categories": {
-        "low": 8,
+        "low": 9,
         "medium": 4,
         "high": 0
-      }
+      },
+      "no_due_dates": [
+
+      ]
     },
     "Ma-Gu": {
       "service_count": 14,
@@ -911,7 +913,7 @@
       }
     },
     "Se-Ra": {
-      "count": 13,
+      "count": 14,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
@@ -920,7 +922,7 @@
         "Blocked": 0,
         "1": 0,
         "2": 0,
-        "3": 2,
+        "3": 3,
         "4": 2,
         "5": 2,
         "6": 1,
