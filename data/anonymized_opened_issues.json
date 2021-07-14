@@ -1,12 +1,11 @@
 {
   "load": {
     "Ed-Ma": {
-      "service_count": 15,
-      "count": 15,
+      "service_count": 14,
+      "count": 14,
       "labels": {
         "1L": 1,
         "1M": 1,
-        "1S": 1,
         "2L": 1,
         "2M": 2,
         "2S": 2,
@@ -18,14 +17,14 @@
       "issues_by_project": {
         "DemoJ": 1,
         "service/global": 2,
-        "service/pis-support": 3,
+        "service/pis-support": 2,
         "service/support": 5,
         "service/thief": 4
       },
       "categories": {
         "low": 3,
         "medium": 4,
-        "high": 8
+        "high": 7
       },
       "no_due_dates": [
 
@@ -692,11 +691,11 @@
   },
   "lbl": {
     "Ed-Ma": {
-      "count": 18,
+      "count": 17,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 10,
+        "WFF": 9,
         "On Hold": 2,
         "Blocked": 1,
         "1": 2,
@@ -994,10 +993,10 @@
   },
   "distr": {
     "Ed-Ma": {
-      "count": 18,
+      "count": 17,
       "labels": {
         "supp+global": 7,
-        "pis-support": 3,
+        "pis-support": 2,
         "New dev": 3,
         "Feature": 0,
         "API-updates": 0,
@@ -1266,7 +1265,7 @@
       }
     },
     "Ir-Gr": {
-      "count": 33,
+      "count": 32,
       "issues_by_project": {
         "business/legal": 1,
         "care/global": 2,
@@ -1276,7 +1275,7 @@
         "SE/docs": 1,
         "service/global": 3,
         "service/kpi": 1,
-        "service/pis-support": 3,
+        "service/pis-support": 2,
         "service/thief": 1
       }
     },
@@ -1291,11 +1290,11 @@
   },
   "pisp": {
     "Ed-Ma": {
-      "count": 3,
+      "count": 2,
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
-        "WFF": 3,
+        "WFF": 2,
         "1": 0,
         "2": 0,
         "3": 0,
