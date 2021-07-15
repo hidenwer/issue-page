@@ -391,8 +391,8 @@
       ]
     },
     "Ni-Tr": {
-      "service_count": 15,
-      "count": 15,
+      "service_count": 14,
+      "count": 14,
       "labels": {
         "1M": 1,
         "2S": 1,
@@ -402,16 +402,16 @@
         "4L": 1,
         "4M": 1,
         "4S": 2,
-        "5S": 3,
+        "5S": 2,
         "6S": 1,
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 11,
+        "service/support": 10,
         "service/thief": 4
       },
       "categories": {
-        "low": 7,
+        "low": 6,
         "medium": 5,
         "high": 3
       },
@@ -974,7 +974,7 @@
       }
     },
     "Ni-Tr": {
-      "count": 16,
+      "count": 15,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
@@ -985,7 +985,7 @@
         "2": 1,
         "3": 3,
         "4": 3,
-        "5": 2,
+        "5": 1,
         "6": 0,
         "7": 0,
         "8": 0,
@@ -1220,9 +1220,9 @@
       }
     },
     "Ni-Tr": {
-      "count": 16,
+      "count": 15,
       "labels": {
-        "supp+global": 10,
+        "supp+global": 9,
         "pis-support": 0,
         "New dev": 5,
         "Feature": 0,
@@ -1247,7 +1247,7 @@
       }
     },
     "Cr-Bu": {
-      "count": 59,
+      "count": 58,
       "issues_by_project": {
         "business/legal": 1,
         "care/global": 2,
@@ -1257,7 +1257,7 @@
         "SE/docs": 1,
         "service/bank-support": 8,
         "service/pis-support": 2,
-        "service/support": 33,
+        "service/support": 32,
         "service/thief": 4
       }
     },
