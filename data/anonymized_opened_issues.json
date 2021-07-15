@@ -32,7 +32,7 @@
     },
     "Al-Hi": {
       "service_count": 16,
-      "count": 17,
+      "count": 18,
       "labels": {
         "1L": 2,
         "1S": 4,
@@ -46,7 +46,7 @@
       },
       "issues_by_project": {
         "DemoJ": 1,
-        "SE/bucket": 1,
+        "SE/bucket": 2,
         "service/global": 1,
         "service/pis-support": 3,
         "service/stealer": 1,
@@ -151,8 +151,8 @@
       ]
     },
     "Se-Vo": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "2L": 1,
         "2M": 1,
@@ -160,16 +160,15 @@
         "3S": 3,
         "4M": 1,
         "4S": 2,
-        "5S": 3,
-        "6M": 1
+        "5S": 3
       },
       "issues_by_project": {
         "service/kpi": 1,
-        "service/support": 13
+        "service/support": 12
       },
       "categories": {
         "low": 8,
-        "medium": 2,
+        "medium": 1,
         "high": 4
       },
       "no_due_dates": [
@@ -699,12 +698,12 @@
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 10,
+        "WFF": 11,
         "On Hold": 2,
         "Blocked": 1,
         "1": 1,
         "2": 0,
-        "3": 3,
+        "3": 2,
         "4": 0,
         "5": 1,
         "6": 0,
@@ -800,14 +799,14 @@
         "NC_Onb": 1,
         "Beta": 0,
         "WFF": 2,
-        "On Hold": 2,
+        "On Hold": 3,
         "Blocked": 0,
         "1": 0,
         "2": 4,
         "3": 1,
         "4": 3,
         "5": 3,
-        "6": 1,
+        "6": 0,
         "7": 0,
         "8": 0,
         "9": 0,
@@ -1013,7 +1012,7 @@
       }
     },
     "Al-Hi": {
-      "count": 24,
+      "count": 25,
       "labels": {
         "supp+global": 7,
         "pis-support": 3,
@@ -1024,7 +1023,7 @@
         "Finovate": 0,
         "On Hold": 6,
         "Blocked": 0,
-        "Non-Service": 1,
+        "Non-Service": 2,
         "Other": 3
       }
     },
@@ -1079,14 +1078,14 @@
     "Se-Vo": {
       "count": 17,
       "labels": {
-        "supp+global": 13,
+        "supp+global": 12,
         "pis-support": 0,
         "New dev": 0,
         "Feature": 0,
         "API-updates": 0,
         "J-Demo": 0,
         "Finovate": 0,
-        "On Hold": 3,
+        "On Hold": 4,
         "Blocked": 0,
         "Non-Service": 0,
         "Other": 1
@@ -1248,7 +1247,7 @@
       }
     },
     "Cr-Bu": {
-      "count": 61,
+      "count": 60,
       "issues_by_project": {
         "business/legal": 1,
         "care/global": 2,
@@ -1258,7 +1257,7 @@
         "SE/docs": 1,
         "service/bank-support": 9,
         "service/pis-support": 2,
-        "service/support": 34,
+        "service/support": 33,
         "service/thief": 4
       }
     },
