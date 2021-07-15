@@ -365,24 +365,24 @@
       ]
     },
     "Al-Je": {
-      "service_count": 12,
-      "count": 12,
+      "service_count": 11,
+      "count": 11,
       "labels": {
         "2S": 1,
         "3M": 1,
         "3S": 2,
         "4S": 3,
-        "5S": 2,
+        "5S": 1,
         "6L": 1,
         "6S": 1,
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 10,
+        "service/support": 9,
         "service/thief": 2
       },
       "categories": {
-        "low": 8,
+        "low": 7,
         "medium": 2,
         "high": 2
       },
@@ -954,7 +954,7 @@
       }
     },
     "Al-Je": {
-      "count": 15,
+      "count": 14,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
@@ -965,7 +965,7 @@
         "2": 1,
         "3": 2,
         "4": 2,
-        "5": 2,
+        "5": 1,
         "6": 1,
         "7": 0,
         "8": 0,
@@ -978,14 +978,14 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 4,
+        "WFF": 5,
         "On Hold": 1,
         "Blocked": 0,
         "1": 1,
         "2": 1,
         "3": 3,
         "4": 3,
-        "5": 1,
+        "5": 0,
         "6": 0,
         "7": 0,
         "8": 0,
@@ -1204,9 +1204,9 @@
       }
     },
     "Al-Je": {
-      "count": 15,
+      "count": 14,
       "labels": {
-        "supp+global": 9,
+        "supp+global": 8,
         "pis-support": 0,
         "New dev": 2,
         "Feature": 0,
@@ -1262,9 +1262,9 @@
       }
     },
     "Ig-Li": {
-      "count": 23,
+      "count": 24,
       "issues_by_project": {
-        "service/support": 23
+        "service/support": 24
       }
     },
     "Ir-Gr": {
@@ -1283,11 +1283,11 @@
       }
     },
     "Vi-Sa": {
-      "count": 33,
+      "count": 32,
       "issues_by_project": {
         "care/localizer": 2,
         "service/bank-support": 3,
-        "service/support": 28
+        "service/support": 27
       }
     }
   },
