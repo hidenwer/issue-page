@@ -339,11 +339,10 @@
       ]
     },
     "Ma-Gu": {
-      "service_count": 15,
-      "count": 15,
+      "service_count": 14,
+      "count": 14,
       "labels": {
         "1L": 1,
-        "2S": 1,
         "3L": 2,
         "3M": 1,
         "3S": 2,
@@ -354,13 +353,13 @@
       "issues_by_project": {
         "DemoF": 1,
         "DemoJ": 1,
-        "service/support": 8,
+        "service/support": 7,
         "service/thief": 5
       },
       "categories": {
         "low": 8,
         "medium": 5,
-        "high": 2
+        "high": 1
       },
       "no_due_dates": [
 
@@ -936,11 +935,11 @@
       }
     },
     "Ma-Gu": {
-      "count": 18,
+      "count": 17,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 5,
+        "WFF": 4,
         "On Hold": 3,
         "Blocked": 0,
         "1": 0,
@@ -1190,9 +1189,9 @@
       }
     },
     "Ma-Gu": {
-      "count": 18,
+      "count": 17,
       "labels": {
-        "supp+global": 8,
+        "supp+global": 7,
         "pis-support": 0,
         "New dev": 3,
         "Feature": 0,
@@ -1285,11 +1284,11 @@
       }
     },
     "Vi-Sa": {
-      "count": 31,
+      "count": 30,
       "issues_by_project": {
         "care/localizer": 2,
         "service/bank-support": 3,
-        "service/support": 26
+        "service/support": 25
       }
     }
   },
