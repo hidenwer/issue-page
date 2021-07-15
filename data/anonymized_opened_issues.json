@@ -313,9 +313,10 @@
       ]
     },
     "Se-Ra": {
-      "service_count": 12,
-      "count": 12,
+      "service_count": 13,
+      "count": 13,
       "labels": {
+        "2S": 1,
         "3L": 1,
         "3M": 2,
         "3S": 2,
@@ -324,13 +325,13 @@
         "6L": 1
       },
       "issues_by_project": {
-        "service/support": 10,
+        "service/support": 11,
         "service/thief": 2
       },
       "categories": {
         "low": 8,
         "medium": 4,
-        "high": 0
+        "high": 1
       },
       "no_due_dates": [
 
@@ -914,7 +915,7 @@
       }
     },
     "Se-Ra": {
-      "count": 13,
+      "count": 14,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
@@ -922,7 +923,7 @@
         "On Hold": 1,
         "Blocked": 0,
         "1": 0,
-        "2": 0,
+        "2": 1,
         "3": 3,
         "4": 2,
         "5": 1,
@@ -1172,9 +1173,9 @@
       }
     },
     "Se-Ra": {
-      "count": 13,
+      "count": 14,
       "labels": {
-        "supp+global": 10,
+        "supp+global": 11,
         "pis-support": 0,
         "New dev": 2,
         "Feature": 0,
