@@ -205,8 +205,8 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 16,
-      "count": 18,
+      "service_count": 15,
+      "count": 17,
       "labels": {
         "1M": 3,
         "1S": 1,
@@ -214,16 +214,16 @@
         "3S": 5,
         "4S": 1,
         "5M": 1,
-        "5S": 4
+        "5S": 3
       },
       "issues_by_project": {
         "SE/bucket": 2,
         "service/global": 1,
-        "service/support": 8,
+        "service/support": 7,
         "service/thief": 7
       },
       "categories": {
-        "low": 10,
+        "low": 9,
         "medium": 1,
         "high": 5
       }
@@ -313,22 +313,22 @@
       ]
     },
     "Se-Ra": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "3L": 1,
         "3M": 2,
         "3S": 2,
         "4S": 2,
-        "5S": 5,
+        "5S": 4,
         "6L": 1
       },
       "issues_by_project": {
-        "service/support": 11,
+        "service/support": 10,
         "service/thief": 2
       },
       "categories": {
-        "low": 9,
+        "low": 8,
         "medium": 4,
         "high": 0
       },
@@ -834,7 +834,7 @@
       }
     },
     "Da-Ni": {
-      "count": 17,
+      "count": 16,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
@@ -845,7 +845,7 @@
         "2": 0,
         "3": 3,
         "4": 0,
-        "5": 3,
+        "5": 2,
         "6": 0,
         "7": 0,
         "8": 0,
@@ -914,11 +914,11 @@
       }
     },
     "Se-Ra": {
-      "count": 14,
+      "count": 13,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 7,
+        "WFF": 6,
         "On Hold": 1,
         "Blocked": 0,
         "1": 0,
@@ -1108,9 +1108,9 @@
       }
     },
     "Da-Ni": {
-      "count": 19,
+      "count": 18,
       "labels": {
-        "supp+global": 9,
+        "supp+global": 8,
         "pis-support": 0,
         "New dev": 5,
         "Feature": 0,
@@ -1172,9 +1172,9 @@
       }
     },
     "Se-Ra": {
-      "count": 14,
+      "count": 13,
       "labels": {
-        "supp+global": 11,
+        "supp+global": 10,
         "pis-support": 0,
         "New dev": 2,
         "Feature": 0,
@@ -1238,11 +1238,11 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 22,
+      "count": 21,
       "issues_by_project": {
         "business/legal": 1,
         "care/localizer": 1,
-        "service/support": 18,
+        "service/support": 17,
         "service/thief": 2
       }
     },
@@ -1283,11 +1283,11 @@
       }
     },
     "Vi-Sa": {
-      "count": 32,
+      "count": 31,
       "issues_by_project": {
         "care/localizer": 2,
         "service/bank-support": 3,
-        "service/support": 27
+        "service/support": 26
       }
     }
   },
