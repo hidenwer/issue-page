@@ -178,7 +178,7 @@
     },
     "St-Da": {
       "service_count": 16,
-      "count": 16,
+      "count": 17,
       "labels": {
         "2S": 1,
         "3M": 1,
@@ -191,6 +191,7 @@
         "Beta": 1
       },
       "issues_by_project": {
+        "internal/desk": 1,
         "service/global": 1,
         "service/support": 14,
         "service/thief": 1
@@ -1093,7 +1094,7 @@
       }
     },
     "St-Da": {
-      "count": 16,
+      "count": 17,
       "labels": {
         "supp+global": 14,
         "pis-support": 0,
@@ -1104,7 +1105,7 @@
         "Finovate": 0,
         "On Hold": 0,
         "Blocked": 0,
-        "Non-Service": 0,
+        "Non-Service": 1,
         "Other": 0
       }
     },
