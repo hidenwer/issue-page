@@ -754,13 +754,13 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 4,
+        "WFF": 3,
         "On Hold": 1,
         "Blocked": 0,
         "1": 5,
         "2": 4,
         "3": 1,
-        "4": 2,
+        "4": 3,
         "5": 1,
         "6": 0,
         "7": 0,
@@ -794,12 +794,12 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 2,
+        "WFF": 3,
         "On Hold": 0,
         "Blocked": 0,
         "1": 2,
         "2": 2,
-        "3": 6,
+        "3": 5,
         "4": 1,
         "5": 0,
         "6": 1,
@@ -1263,7 +1263,7 @@
       }
     },
     "Cr-Bu": {
-      "count": 56,
+      "count": 54,
       "issues_by_project": {
         "business/legal": 1,
         "care/global": 2,
@@ -1271,7 +1271,7 @@
         "psd2/PRR": 1,
         "SE/bucket": 6,
         "SE/docs": 1,
-        "service/bank-support": 11,
+        "service/bank-support": 9,
         "service/pis-support": 1,
         "service/support": 30,
         "service/thief": 2
@@ -1657,10 +1657,10 @@
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
-        "WFF": 0,
+        "WFF": 1,
         "1": 0,
         "2": 0,
-        "3": 2,
+        "3": 1,
         "4": 0,
         "5": 0,
         "6": 0,
