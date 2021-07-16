@@ -33,13 +33,13 @@
       ]
     },
     "Al-Hi": {
-      "service_count": 8,
-      "count": 10,
+      "service_count": 9,
+      "count": 11,
       "labels": {
         "1L": 1,
         "1M": 1,
         "1S": 1,
-        "3L": 1,
+        "3L": 2,
         "3M": 1,
         "3S": 1,
         "4M": 1,
@@ -50,11 +50,11 @@
         "SE/bucket": 2,
         "service/pis-support": 1,
         "service/support": 4,
-        "service/thief": 2
+        "service/thief": 3
       },
       "categories": {
         "low": 2,
-        "medium": 3,
+        "medium": 4,
         "high": 3
       },
       "overdues": [
@@ -750,11 +750,11 @@
         "NC_Onb": 0,
         "Beta": 2,
         "WFF": 4,
-        "On Hold": 9,
+        "On Hold": 8,
         "Blocked": 0,
         "1": 2,
         "2": 0,
-        "3": 2,
+        "3": 3,
         "4": 0,
         "5": 0,
         "6": 0,
@@ -949,14 +949,14 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 2,
+        "WFF": 3,
         "On Hold": 1,
         "Blocked": 0,
         "1": 0,
         "2": 2,
         "3": 3,
         "4": 2,
-        "5": 3,
+        "5": 2,
         "6": 0,
         "7": 0,
         "8": 0,
@@ -1052,10 +1052,10 @@
         "API-updates": 0,
         "J-Demo": 1,
         "Finovate": 0,
-        "On Hold": 10,
+        "On Hold": 9,
         "Blocked": 1,
         "Non-Service": 2,
-        "Other": 1
+        "Other": 2
       }
     },
     "Co-Ci": {
@@ -1278,7 +1278,7 @@
       }
     },
     "Cr-Bu": {
-      "count": 55,
+      "count": 56,
       "issues_by_project": {
         "business/legal": 1,
         "care/global": 2,
@@ -1289,7 +1289,7 @@
         "service/bank-support": 9,
         "service/pis-support": 1,
         "service/support": 31,
-        "service/thief": 2
+        "service/thief": 3
       }
     },
     "Ig-Li": {
