@@ -203,24 +203,24 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 14,
-      "count": 16,
+      "service_count": 13,
+      "count": 15,
       "labels": {
         "1M": 3,
         "1S": 1,
         "2M": 1,
         "3S": 4,
-        "4S": 2,
+        "4S": 1,
         "5M": 1,
         "5S": 2
       },
       "issues_by_project": {
         "SE/bucket": 2,
-        "service/support": 7,
+        "service/support": 6,
         "service/thief": 7
       },
       "categories": {
-        "low": 8,
+        "low": 7,
         "medium": 1,
         "high": 5
       }
@@ -828,11 +828,11 @@
       }
     },
     "Da-Ni": {
-      "count": 16,
+      "count": 15,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 4,
+        "WFF": 3,
         "On Hold": 2,
         "Blocked": 0,
         "1": 2,
@@ -1102,9 +1102,9 @@
       }
     },
     "Da-Ni": {
-      "count": 18,
+      "count": 17,
       "labels": {
-        "supp+global": 7,
+        "supp+global": 6,
         "pis-support": 0,
         "New dev": 5,
         "Feature": 0,
