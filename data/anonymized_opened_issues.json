@@ -227,8 +227,8 @@
       }
     },
     "An-Mo": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "1L": 1,
         "2S": 1,
@@ -237,15 +237,14 @@
         "4S": 1,
         "5L": 1,
         "5S": 2,
-        "8S": 1,
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 9,
+        "service/support": 8,
         "service/thief": 4
       },
       "categories": {
-        "low": 8,
+        "low": 7,
         "medium": 2,
         "high": 3
       },
@@ -312,23 +311,23 @@
       ]
     },
     "Se-Ra": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "2S": 2,
         "3L": 1,
         "3M": 1,
         "3S": 2,
         "4S": 2,
-        "5S": 4,
+        "5S": 3,
         "6L": 1
       },
       "issues_by_project": {
-        "service/support": 11,
+        "service/support": 10,
         "service/thief": 2
       },
       "categories": {
-        "low": 8,
+        "low": 7,
         "medium": 3,
         "high": 2
       },
@@ -337,24 +336,24 @@
       ]
     },
     "Ma-Gu": {
-      "service_count": 12,
-      "count": 12,
+      "service_count": 11,
+      "count": 11,
       "labels": {
         "1L": 1,
         "3L": 2,
         "3M": 1,
         "3S": 2,
         "5L": 2,
-        "5S": 4
+        "5S": 3
       },
       "issues_by_project": {
         "DemoF": 1,
         "DemoJ": 1,
-        "service/support": 5,
+        "service/support": 4,
         "service/thief": 5
       },
       "categories": {
-        "low": 6,
+        "low": 5,
         "medium": 5,
         "high": 1
       },
@@ -848,11 +847,11 @@
       }
     },
     "An-Mo": {
-      "count": 15,
+      "count": 14,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 2,
+        "WFF": 1,
         "On Hold": 2,
         "Blocked": 0,
         "1": 1,
@@ -908,18 +907,18 @@
       }
     },
     "Se-Ra": {
-      "count": 14,
+      "count": 13,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 4,
+        "WFF": 2,
         "On Hold": 1,
         "Blocked": 0,
         "1": 0,
         "2": 2,
         "3": 3,
         "4": 2,
-        "5": 2,
+        "5": 3,
         "6": 0,
         "7": 0,
         "8": 0,
@@ -928,7 +927,7 @@
       }
     },
     "Ma-Gu": {
-      "count": 15,
+      "count": 14,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
@@ -939,7 +938,7 @@
         "2": 0,
         "3": 3,
         "4": 0,
-        "5": 5,
+        "5": 4,
         "6": 0,
         "7": 0,
         "8": 0,
@@ -1118,9 +1117,9 @@
       }
     },
     "An-Mo": {
-      "count": 15,
+      "count": 14,
       "labels": {
-        "supp+global": 8,
+        "supp+global": 7,
         "pis-support": 0,
         "New dev": 3,
         "Feature": 0,
@@ -1166,9 +1165,9 @@
       }
     },
     "Se-Ra": {
-      "count": 14,
+      "count": 13,
       "labels": {
-        "supp+global": 11,
+        "supp+global": 10,
         "pis-support": 0,
         "New dev": 2,
         "Feature": 0,
@@ -1182,9 +1181,9 @@
       }
     },
     "Ma-Gu": {
-      "count": 15,
+      "count": 14,
       "labels": {
-        "supp+global": 5,
+        "supp+global": 4,
         "pis-support": 0,
         "New dev": 3,
         "Feature": 0,
@@ -1277,11 +1276,11 @@
       }
     },
     "Vi-Sa": {
-      "count": 26,
+      "count": 23,
       "issues_by_project": {
         "care/localizer": 2,
         "service/bank-support": 3,
-        "service/support": 21
+        "service/support": 18
       }
     }
   },
