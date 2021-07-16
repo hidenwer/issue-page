@@ -174,13 +174,12 @@
       ]
     },
     "St-Da": {
-      "service_count": 16,
-      "count": 17,
+      "service_count": 15,
+      "count": 16,
       "labels": {
         "2S": 1,
         "3M": 1,
         "3S": 4,
-        "4L": 1,
         "4M": 1,
         "4S": 3,
         "5S": 2,
@@ -190,12 +189,12 @@
       "issues_by_project": {
         "internal/desk": 1,
         "service/global": 1,
-        "service/support": 14,
+        "service/support": 13,
         "service/thief": 1
       },
       "categories": {
         "low": 11,
-        "medium": 3,
+        "medium": 2,
         "high": 2
       },
       "no_due_dates": [
@@ -253,14 +252,14 @@
       ]
     },
     "Se-Tu": {
-      "service_count": 16,
-      "count": 17,
+      "service_count": 15,
+      "count": 16,
       "labels": {
         "1L": 1,
         "2S": 1,
         "3L": 2,
         "3M": 2,
-        "3S": 4,
+        "3S": 3,
         "4L": 1,
         "4S": 1,
         "5L": 2,
@@ -271,11 +270,11 @@
         "internal/localizer": 1,
         "service/global": 2,
         "service/kpi": 1,
-        "service/support": 6,
+        "service/support": 5,
         "service/thief": 7
       },
       "categories": {
-        "low": 6,
+        "low": 5,
         "medium": 7,
         "high": 3
       },
@@ -809,11 +808,11 @@
       }
     },
     "St-Da": {
-      "count": 16,
+      "count": 15,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 6,
+        "WFF": 5,
         "On Hold": 0,
         "Blocked": 0,
         "1": 0,
@@ -869,7 +868,7 @@
       }
     },
     "Se-Tu": {
-      "count": 20,
+      "count": 19,
       "labels": {
         "NC_Onb": 0,
         "Beta": 2,
@@ -878,7 +877,7 @@
         "Blocked": 0,
         "1": 0,
         "2": 0,
-        "3": 3,
+        "3": 2,
         "4": 1,
         "5": 2,
         "6": 0,
@@ -1087,9 +1086,9 @@
       }
     },
     "St-Da": {
-      "count": 17,
+      "count": 16,
       "labels": {
-        "supp+global": 14,
+        "supp+global": 13,
         "pis-support": 0,
         "New dev": 2,
         "Feature": 0,
@@ -1135,9 +1134,9 @@
       }
     },
     "Se-Tu": {
-      "count": 21,
+      "count": 20,
       "labels": {
-        "supp+global": 7,
+        "supp+global": 6,
         "pis-support": 0,
         "New dev": 5,
         "Feature": 1,
@@ -1242,7 +1241,7 @@
       }
     },
     "Cr-Bu": {
-      "count": 62,
+      "count": 61,
       "issues_by_project": {
         "business/legal": 1,
         "care/global": 2,
@@ -1252,7 +1251,7 @@
         "SE/docs": 1,
         "service/bank-support": 11,
         "service/pis-support": 2,
-        "service/support": 34,
+        "service/support": 33,
         "service/thief": 3
       }
     },
