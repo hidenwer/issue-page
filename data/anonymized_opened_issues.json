@@ -283,13 +283,13 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 12,
-      "count": 12,
+      "service_count": 11,
+      "count": 11,
       "labels": {
         "1M": 2,
         "1S": 1,
         "3M": 2,
-        "3S": 3,
+        "3S": 2,
         "4S": 1,
         "5S": 2,
         "Beta": 1
@@ -297,10 +297,10 @@
       "issues_by_project": {
         "service/pis-support": 1,
         "service/support": 4,
-        "service/thief": 7
+        "service/thief": 6
       },
       "categories": {
-        "low": 6,
+        "low": 5,
         "medium": 2,
         "high": 4
       },
@@ -888,7 +888,7 @@
       }
     },
     "Ro-Ci": {
-      "count": 15,
+      "count": 14,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
@@ -897,7 +897,7 @@
         "Blocked": 0,
         "1": 1,
         "2": 0,
-        "3": 3,
+        "3": 2,
         "4": 1,
         "5": 1,
         "6": 0,
@@ -1150,13 +1150,13 @@
       }
     },
     "Ro-Ci": {
-      "count": 15,
+      "count": 14,
       "labels": {
         "supp+global": 3,
         "pis-support": 1,
         "New dev": 5,
         "Feature": 0,
-        "API-updates": 2,
+        "API-updates": 1,
         "J-Demo": 0,
         "Finovate": 0,
         "On Hold": 3,
