@@ -60,6 +60,9 @@
       ],
       "no_due_dates": [
 
+      ],
+      "no_spend_time": [
+
       ]
     },
     "Co-Ci": {
@@ -767,12 +770,12 @@
       }
     },
     "Eu-Mo": {
-      "count": 21,
+      "count": 20,
       "labels": {
         "NC_Onb": 1,
         "Beta": 1,
         "WFF": 6,
-        "On Hold": 4,
+        "On Hold": 3,
         "Blocked": 0,
         "1": 0,
         "2": 3,
@@ -891,12 +894,12 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 7,
+        "WFF": 8,
         "On Hold": 5,
         "Blocked": 0,
         "1": 0,
         "2": 0,
-        "3": 2,
+        "3": 1,
         "4": 1,
         "5": 2,
         "6": 0,
@@ -1057,7 +1060,7 @@
       }
     },
     "Eu-Mo": {
-      "count": 21,
+      "count": 20,
       "labels": {
         "supp+global": 8,
         "pis-support": 2,
@@ -1066,7 +1069,7 @@
         "API-updates": 3,
         "J-Demo": 0,
         "Finovate": 0,
-        "On Hold": 4,
+        "On Hold": 3,
         "Blocked": 0,
         "Non-Service": 0,
         "Other": 2
@@ -1296,11 +1299,11 @@
       }
     },
     "Vi-Sa": {
-      "count": 23,
+      "count": 24,
       "issues_by_project": {
         "care/localizer": 2,
         "service/bank-support": 3,
-        "service/support": 18
+        "service/support": 19
       }
     }
   },
