@@ -362,25 +362,25 @@
       ]
     },
     "Al-Je": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1S": 1,
         "2S": 1,
         "3M": 1,
         "3S": 2,
-        "4S": 3,
+        "4S": 2,
         "5S": 3,
         "6L": 1,
         "6S": 1,
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 13,
+        "service/support": 12,
         "service/thief": 1
       },
       "categories": {
-        "low": 9,
+        "low": 8,
         "medium": 2,
         "high": 3
       }
@@ -949,18 +949,18 @@
       }
     },
     "Al-Je": {
-      "count": 16,
+      "count": 15,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 3,
+        "WFF": 4,
         "On Hold": 2,
         "Blocked": 0,
         "1": 1,
         "2": 1,
         "3": 2,
-        "4": 3,
-        "5": 3,
+        "4": 2,
+        "5": 2,
         "6": 0,
         "7": 0,
         "8": 0,
@@ -1199,9 +1199,9 @@
       }
     },
     "Al-Je": {
-      "count": 16,
+      "count": 15,
       "labels": {
-        "supp+global": 12,
+        "supp+global": 11,
         "pis-support": 0,
         "New dev": 2,
         "Feature": 0,
@@ -1278,11 +1278,11 @@
       }
     },
     "Vi-Sa": {
-      "count": 29,
+      "count": 28,
       "issues_by_project": {
         "care/localizer": 2,
         "service/bank-support": 3,
-        "service/support": 24
+        "service/support": 23
       }
     }
   },
