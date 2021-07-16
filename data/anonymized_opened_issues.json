@@ -122,10 +122,10 @@
       ]
     },
     "Da-Su": {
-      "service_count": 15,
-      "count": 16,
+      "service_count": 14,
+      "count": 15,
       "labels": {
-        "1L": 3,
+        "1L": 2,
         "2M": 2,
         "3L": 2,
         "3M": 3,
@@ -137,7 +137,7 @@
       "issues_by_project": {
         "DemoJ": 1,
         "SE/docs": 1,
-        "service/global": 4,
+        "service/global": 3,
         "service/pis-support": 1,
         "service/support": 4,
         "service/thief": 5
@@ -145,7 +145,7 @@
       "categories": {
         "low": 4,
         "medium": 6,
-        "high": 5
+        "high": 4
       },
       "no_due_dates": [
 
@@ -785,11 +785,11 @@
       }
     },
     "Da-Su": {
-      "count": 15,
+      "count": 14,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 3,
+        "WFF": 2,
         "On Hold": 0,
         "Blocked": 0,
         "1": 2,
@@ -945,12 +945,12 @@
       }
     },
     "Ma-Gu": {
-      "count": 14,
+      "count": 13,
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
         "WFF": 2,
-        "On Hold": 4,
+        "On Hold": 3,
         "Blocked": 0,
         "1": 1,
         "2": 0,
@@ -1071,12 +1071,12 @@
       }
     },
     "Da-Su": {
-      "count": 16,
+      "count": 15,
       "labels": {
         "supp+global": 7,
         "pis-support": 1,
         "New dev": 5,
-        "Feature": 1,
+        "Feature": 0,
         "API-updates": 0,
         "J-Demo": 1,
         "Finovate": 0,
@@ -1199,7 +1199,7 @@
       }
     },
     "Ma-Gu": {
-      "count": 14,
+      "count": 13,
       "labels": {
         "supp+global": 4,
         "pis-support": 0,
@@ -1208,7 +1208,7 @@
         "API-updates": 0,
         "J-Demo": 1,
         "Finovate": 1,
-        "On Hold": 4,
+        "On Hold": 3,
         "Blocked": 0,
         "Non-Service": 0,
         "Other": 2
@@ -1294,11 +1294,11 @@
       }
     },
     "Vi-Sa": {
-      "count": 22,
+      "count": 23,
       "issues_by_project": {
         "care/localizer": 2,
         "service/bank-support": 3,
-        "service/support": 17
+        "service/support": 18
       }
     }
   },
@@ -1380,8 +1380,8 @@
       "labels": {
         "On Hold": 0,
         "Blocked": 0,
-        "WFF": 1,
-        "1": 0,
+        "WFF": 0,
+        "1": 1,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -1520,9 +1520,9 @@
       }
     },
     "Ma-Gu": {
-      "count": 1,
+      "count": 0,
       "labels": {
-        "On Hold": 1,
+        "On Hold": 0,
         "Blocked": 0,
         "WFF": 0,
         "1": 0,
