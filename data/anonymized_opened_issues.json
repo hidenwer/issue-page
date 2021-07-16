@@ -226,11 +226,10 @@
       }
     },
     "An-Mo": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "1L": 1,
-        "2L": 1,
         "2S": 1,
         "3S": 4,
         "4S": 1,
@@ -241,12 +240,12 @@
       },
       "issues_by_project": {
         "service/support": 9,
-        "service/thief": 4
+        "service/thief": 3
       },
       "categories": {
         "low": 8,
         "medium": 1,
-        "high": 4
+        "high": 3
       },
       "no_due_dates": [
 
@@ -284,10 +283,10 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 12,
+      "count": 12,
       "labels": {
-        "1M": 3,
+        "1M": 2,
         "1S": 1,
         "3M": 2,
         "3S": 3,
@@ -298,12 +297,12 @@
       "issues_by_project": {
         "service/pis-support": 1,
         "service/support": 4,
-        "service/thief": 8
+        "service/thief": 7
       },
       "categories": {
         "low": 6,
         "medium": 2,
-        "high": 5
+        "high": 4
       },
       "no_due_dates": [
 
@@ -600,9 +599,9 @@
       "count": 5,
       "labels": {
         "Beta": 1,
-        "On Hold": 1,
+        "On Hold": 2,
         "Blocked": 0,
-        "1": 2,
+        "1": 1,
         "2": 0,
         "3": 1,
         "4": 0,
@@ -849,11 +848,11 @@
       }
     },
     "An-Mo": {
-      "count": 16,
+      "count": 15,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 3,
+        "WFF": 2,
         "On Hold": 3,
         "Blocked": 0,
         "1": 1,
@@ -894,9 +893,9 @@
         "NC_Onb": 0,
         "Beta": 1,
         "WFF": 5,
-        "On Hold": 2,
+        "On Hold": 3,
         "Blocked": 0,
-        "1": 2,
+        "1": 1,
         "2": 0,
         "3": 3,
         "4": 1,
@@ -1119,12 +1118,12 @@
       }
     },
     "An-Mo": {
-      "count": 16,
+      "count": 15,
       "labels": {
         "supp+global": 8,
         "pis-support": 0,
         "New dev": 2,
-        "Feature": 1,
+        "Feature": 0,
         "API-updates": 1,
         "J-Demo": 0,
         "Finovate": 0,
@@ -1155,12 +1154,12 @@
       "labels": {
         "supp+global": 3,
         "pis-support": 1,
-        "New dev": 6,
+        "New dev": 5,
         "Feature": 0,
         "API-updates": 2,
         "J-Demo": 0,
         "Finovate": 0,
-        "On Hold": 2,
+        "On Hold": 3,
         "Blocked": 0,
         "Non-Service": 0,
         "Other": 1
