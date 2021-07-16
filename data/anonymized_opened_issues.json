@@ -94,13 +94,13 @@
       ]
     },
     "Eu-Mo": {
-      "service_count": 19,
-      "count": 19,
+      "service_count": 17,
+      "count": 17,
       "labels": {
         "1M": 1,
         "1S": 1,
-        "2S": 4,
-        "3L": 3,
+        "2S": 3,
+        "3L": 2,
         "3S": 4,
         "4S": 4,
         "5S": 1,
@@ -109,13 +109,13 @@
       "issues_by_project": {
         "service/kpi": 1,
         "service/pis-support": 2,
-        "service/support": 10,
-        "service/thief": 6
+        "service/support": 9,
+        "service/thief": 5
       },
       "categories": {
         "low": 9,
-        "medium": 3,
-        "high": 7
+        "medium": 2,
+        "high": 6
       },
       "no_due_dates": [
 
@@ -765,12 +765,12 @@
       }
     },
     "Eu-Mo": {
-      "count": 22,
+      "count": 21,
       "labels": {
         "NC_Onb": 1,
         "Beta": 1,
-        "WFF": 8,
-        "On Hold": 3,
+        "WFF": 6,
+        "On Hold": 4,
         "Blocked": 0,
         "1": 0,
         "2": 3,
@@ -1055,16 +1055,16 @@
       }
     },
     "Eu-Mo": {
-      "count": 22,
+      "count": 21,
       "labels": {
-        "supp+global": 9,
+        "supp+global": 8,
         "pis-support": 2,
         "New dev": 2,
-        "Feature": 1,
+        "Feature": 0,
         "API-updates": 3,
         "J-Demo": 0,
         "Finovate": 0,
-        "On Hold": 3,
+        "On Hold": 4,
         "Blocked": 0,
         "Non-Service": 0,
         "Other": 2
@@ -1249,12 +1249,12 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 20,
+      "count": 19,
       "issues_by_project": {
         "business/legal": 1,
         "care/localizer": 1,
         "service/support": 16,
-        "service/thief": 2
+        "service/thief": 1
       }
     },
     "Cr-Bu": {
