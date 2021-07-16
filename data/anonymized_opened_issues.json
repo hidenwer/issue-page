@@ -363,30 +363,27 @@
       ]
     },
     "Al-Je": {
-      "service_count": 11,
-      "count": 11,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "2S": 1,
         "3M": 1,
         "3S": 2,
         "4S": 3,
-        "5S": 1,
+        "5S": 2,
         "6L": 1,
         "6S": 1,
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 10,
+        "service/support": 11,
         "service/thief": 1
       },
       "categories": {
-        "low": 7,
+        "low": 8,
         "medium": 2,
         "high": 2
-      },
-      "no_due_dates": [
-
-      ]
+      }
     },
     "Ni-Tr": {
       "service_count": 16,
@@ -957,13 +954,13 @@
         "NC_Onb": 0,
         "Beta": 1,
         "WFF": 4,
-        "On Hold": 3,
+        "On Hold": 2,
         "Blocked": 0,
         "1": 0,
         "2": 1,
         "3": 2,
         "4": 2,
-        "5": 1,
+        "5": 2,
         "6": 0,
         "7": 0,
         "8": 0,
@@ -1204,14 +1201,14 @@
     "Al-Je": {
       "count": 14,
       "labels": {
-        "supp+global": 9,
+        "supp+global": 10,
         "pis-support": 0,
         "New dev": 2,
         "Feature": 0,
         "API-updates": 0,
         "J-Demo": 0,
         "Finovate": 0,
-        "On Hold": 3,
+        "On Hold": 2,
         "Blocked": 0,
         "Non-Service": 0,
         "Other": 0
@@ -1236,11 +1233,11 @@
   },
   "s": {
     "Co-Ur": {
-      "count": 20,
+      "count": 21,
       "issues_by_project": {
         "business/legal": 1,
         "care/localizer": 1,
-        "service/support": 16,
+        "service/support": 17,
         "service/thief": 2
       }
     },
