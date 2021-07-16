@@ -388,15 +388,14 @@
       }
     },
     "Ni-Tr": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 15,
+      "count": 15,
       "labels": {
         "1M": 1,
         "2S": 2,
         "3L": 2,
         "3M": 1,
         "4L": 1,
-        "4M": 1,
         "4S": 2,
         "5S": 4,
         "6S": 1,
@@ -404,11 +403,11 @@
       },
       "issues_by_project": {
         "service/support": 12,
-        "service/thief": 4
+        "service/thief": 3
       },
       "categories": {
         "low": 7,
-        "medium": 5,
+        "medium": 4,
         "high": 4
       },
       "no_due_dates": [
@@ -673,12 +672,12 @@
       "count": 4,
       "labels": {
         "Beta": 1,
-        "On Hold": 0,
+        "On Hold": 1,
         "Blocked": 0,
         "1": 1,
         "2": 0,
         "3": 1,
-        "4": 1,
+        "4": 0,
         "5": 0,
         "6": 0,
         "7": 0,
@@ -974,8 +973,8 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 9,
-        "On Hold": 2,
+        "WFF": 8,
+        "On Hold": 3,
         "Blocked": 0,
         "1": 1,
         "2": 1,
@@ -1220,12 +1219,12 @@
       "labels": {
         "supp+global": 11,
         "pis-support": 0,
-        "New dev": 5,
+        "New dev": 4,
         "Feature": 0,
         "API-updates": 0,
         "J-Demo": 0,
         "Finovate": 0,
-        "On Hold": 2,
+        "On Hold": 3,
         "Blocked": 0,
         "Non-Service": 0,
         "Other": 0
@@ -1258,9 +1257,9 @@
       }
     },
     "Ig-Li": {
-      "count": 22,
+      "count": 23,
       "issues_by_project": {
-        "service/support": 22
+        "service/support": 23
       }
     },
     "Ir-Gr": {
