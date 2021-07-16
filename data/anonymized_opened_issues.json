@@ -336,12 +336,11 @@
       ]
     },
     "Ma-Gu": {
-      "service_count": 11,
-      "count": 11,
+      "service_count": 10,
+      "count": 10,
       "labels": {
         "1L": 1,
         "3L": 2,
-        "3M": 1,
         "3S": 2,
         "5L": 2,
         "5S": 3
@@ -350,37 +349,40 @@
         "DemoF": 1,
         "DemoJ": 1,
         "service/support": 4,
-        "service/thief": 5
+        "service/thief": 4
       },
       "categories": {
         "low": 5,
-        "medium": 5,
+        "medium": 4,
         "high": 1
       },
+      "overdues": [
+
+      ],
       "no_due_dates": [
 
       ]
     },
     "Al-Je": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "1S": 1,
         "2S": 1,
         "3L": 1,
         "3S": 2,
-        "4S": 2,
+        "4S": 1,
         "5S": 3,
         "6L": 1,
         "6S": 1,
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 12,
+        "service/support": 11,
         "service/thief": 1
       },
       "categories": {
-        "low": 8,
+        "low": 7,
         "medium": 2,
         "high": 3
       }
@@ -634,11 +636,11 @@
       "count": 3,
       "labels": {
         "Beta": 0,
-        "On Hold": 0,
+        "On Hold": 1,
         "Blocked": 0,
         "1": 1,
         "2": 0,
-        "3": 2,
+        "3": 1,
         "4": 0,
         "5": 0,
         "6": 0,
@@ -931,10 +933,10 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 4,
-        "On Hold": 3,
+        "WFF": 2,
+        "On Hold": 4,
         "Blocked": 0,
-        "1": 0,
+        "1": 1,
         "2": 0,
         "3": 3,
         "4": 0,
@@ -947,7 +949,7 @@
       }
     },
     "Al-Je": {
-      "count": 15,
+      "count": 14,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
@@ -957,7 +959,7 @@
         "1": 1,
         "2": 1,
         "3": 2,
-        "4": 2,
+        "4": 1,
         "5": 2,
         "6": 0,
         "7": 0,
@@ -1185,21 +1187,21 @@
       "labels": {
         "supp+global": 4,
         "pis-support": 0,
-        "New dev": 3,
+        "New dev": 2,
         "Feature": 0,
         "API-updates": 0,
         "J-Demo": 1,
         "Finovate": 1,
-        "On Hold": 3,
+        "On Hold": 4,
         "Blocked": 0,
         "Non-Service": 0,
         "Other": 2
       }
     },
     "Al-Je": {
-      "count": 15,
+      "count": 14,
       "labels": {
-        "supp+global": 11,
+        "supp+global": 10,
         "pis-support": 0,
         "New dev": 2,
         "Feature": 0,
@@ -1240,7 +1242,7 @@
       }
     },
     "Cr-Bu": {
-      "count": 60,
+      "count": 59,
       "issues_by_project": {
         "business/legal": 1,
         "care/global": 2,
@@ -1250,7 +1252,7 @@
         "SE/docs": 1,
         "service/bank-support": 11,
         "service/pis-support": 2,
-        "service/support": 32,
+        "service/support": 31,
         "service/thief": 3
       }
     },
