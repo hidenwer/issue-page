@@ -226,11 +226,12 @@
       }
     },
     "An-Mo": {
-      "service_count": 12,
-      "count": 12,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1L": 1,
         "2S": 1,
+        "3M": 1,
         "3S": 4,
         "4S": 1,
         "5L": 1,
@@ -240,11 +241,11 @@
       },
       "issues_by_project": {
         "service/support": 9,
-        "service/thief": 3
+        "service/thief": 4
       },
       "categories": {
         "low": 8,
-        "medium": 1,
+        "medium": 2,
         "high": 3
       },
       "no_due_dates": [
@@ -853,11 +854,11 @@
         "NC_Onb": 0,
         "Beta": 1,
         "WFF": 2,
-        "On Hold": 3,
+        "On Hold": 2,
         "Blocked": 0,
         "1": 1,
         "2": 0,
-        "3": 4,
+        "3": 5,
         "4": 1,
         "5": 3,
         "6": 0,
@@ -1122,12 +1123,12 @@
       "labels": {
         "supp+global": 8,
         "pis-support": 0,
-        "New dev": 2,
+        "New dev": 3,
         "Feature": 0,
         "API-updates": 1,
         "J-Demo": 0,
         "Finovate": 0,
-        "On Hold": 3,
+        "On Hold": 2,
         "Blocked": 0,
         "Non-Service": 0,
         "Other": 1
@@ -1705,12 +1706,12 @@
     "An-Mo": {
       "count": 1,
       "labels": {
-        "On Hold": 1,
+        "On Hold": 0,
         "Blocked": 0,
         "WFF": 0,
         "1": 0,
         "2": 0,
-        "3": 0,
+        "3": 1,
         "4": 0,
         "5": 0,
         "6": 0,
