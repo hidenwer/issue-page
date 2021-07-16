@@ -203,24 +203,24 @@
       ]
     },
     "Da-Ni": {
-      "service_count": 13,
-      "count": 15,
+      "service_count": 14,
+      "count": 16,
       "labels": {
         "1M": 3,
         "1S": 1,
         "2M": 1,
         "3S": 4,
-        "4S": 1,
+        "4S": 2,
         "5M": 1,
         "5S": 2
       },
       "issues_by_project": {
         "SE/bucket": 2,
-        "service/support": 6,
+        "service/support": 7,
         "service/thief": 7
       },
       "categories": {
-        "low": 7,
+        "low": 8,
         "medium": 1,
         "high": 5
       }
@@ -386,8 +386,8 @@
       }
     },
     "Ni-Tr": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 17,
+      "count": 17,
       "labels": {
         "1M": 1,
         "2S": 2,
@@ -397,16 +397,16 @@
         "4L": 1,
         "4M": 1,
         "4S": 2,
-        "5S": 3,
+        "5S": 4,
         "6S": 1,
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 12,
+        "service/support": 13,
         "service/thief": 4
       },
       "categories": {
-        "low": 7,
+        "low": 8,
         "medium": 5,
         "high": 4
       },
@@ -829,7 +829,7 @@
       }
     },
     "Da-Ni": {
-      "count": 15,
+      "count": 16,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
@@ -839,7 +839,7 @@
         "1": 2,
         "2": 1,
         "3": 3,
-        "4": 0,
+        "4": 1,
         "5": 2,
         "6": 0,
         "7": 0,
@@ -969,7 +969,7 @@
       }
     },
     "Ni-Tr": {
-      "count": 17,
+      "count": 18,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
@@ -980,7 +980,7 @@
         "2": 2,
         "3": 3,
         "4": 1,
-        "5": 0,
+        "5": 1,
         "6": 0,
         "7": 0,
         "8": 0,
@@ -1103,9 +1103,9 @@
       }
     },
     "Da-Ni": {
-      "count": 17,
+      "count": 18,
       "labels": {
-        "supp+global": 6,
+        "supp+global": 7,
         "pis-support": 0,
         "New dev": 5,
         "Feature": 0,
@@ -1215,9 +1215,9 @@
       }
     },
     "Ni-Tr": {
-      "count": 17,
+      "count": 18,
       "labels": {
-        "supp+global": 11,
+        "supp+global": 12,
         "pis-support": 0,
         "New dev": 5,
         "Feature": 0,
