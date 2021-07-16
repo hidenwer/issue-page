@@ -284,24 +284,24 @@
       ]
     },
     "Ro-Ci": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1M": 3,
         "1S": 1,
         "3M": 2,
-        "3S": 4,
+        "3S": 3,
         "4S": 1,
         "5S": 2,
         "Beta": 1
       },
       "issues_by_project": {
         "service/pis-support": 1,
-        "service/support": 5,
+        "service/support": 4,
         "service/thief": 8
       },
       "categories": {
-        "low": 7,
+        "low": 6,
         "medium": 2,
         "high": 5
       },
@@ -889,7 +889,7 @@
       }
     },
     "Ro-Ci": {
-      "count": 16,
+      "count": 15,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
@@ -898,7 +898,7 @@
         "Blocked": 0,
         "1": 2,
         "2": 0,
-        "3": 4,
+        "3": 3,
         "4": 1,
         "5": 1,
         "6": 0,
@@ -1151,9 +1151,9 @@
       }
     },
     "Ro-Ci": {
-      "count": 16,
+      "count": 15,
       "labels": {
-        "supp+global": 4,
+        "supp+global": 3,
         "pis-support": 1,
         "New dev": 6,
         "Feature": 0,
@@ -1242,7 +1242,7 @@
       }
     },
     "Cr-Bu": {
-      "count": 62,
+      "count": 60,
       "issues_by_project": {
         "business/legal": 1,
         "care/global": 2,
@@ -1250,9 +1250,9 @@
         "psd2/PRR": 1,
         "SE/bucket": 6,
         "SE/docs": 1,
-        "service/bank-support": 11,
+        "service/bank-support": 10,
         "service/pis-support": 2,
-        "service/support": 34,
+        "service/support": 33,
         "service/thief": 3
       }
     },
