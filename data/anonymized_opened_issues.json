@@ -1,8 +1,8 @@
 {
   "load": {
     "Ed-Ma": {
-      "service_count": 15,
-      "count": 15,
+      "service_count": 14,
+      "count": 14,
       "labels": {
         "1L": 1,
         "1M": 1,
@@ -10,7 +10,7 @@
         "2M": 2,
         "2S": 1,
         "3L": 1,
-        "3M": 2,
+        "3M": 1,
         "3S": 3,
         "4S": 1,
         "5S": 2
@@ -18,13 +18,12 @@
       "issues_by_project": {
         "DemoJ": 1,
         "service/global": 2,
-        "service/pis-support": 1,
         "service/support": 8,
         "service/thief": 3
       },
       "categories": {
         "low": 6,
-        "medium": 3,
+        "medium": 2,
         "high": 6
       },
       "no_due_dates": [
@@ -63,8 +62,8 @@
       ]
     },
     "Co-Ci": {
-      "service_count": 18,
-      "count": 19,
+      "service_count": 17,
+      "count": 18,
       "labels": {
         "1L": 3,
         "1M": 2,
@@ -73,19 +72,19 @@
         "3L": 1,
         "3S": 1,
         "4L": 2,
-        "4M": 2,
+        "4M": 1,
         "4S": 2,
         "5S": 1
       },
       "issues_by_project": {
         "service/global": 1,
         "service/support": 6,
-        "service/thief": 11,
+        "service/thief": 10,
         "shared/salt-common": 1
       },
       "categories": {
         "low": 4,
-        "medium": 5,
+        "medium": 4,
         "high": 9
       },
       "no_due_dates": [
@@ -474,12 +473,12 @@
       "count": 4,
       "labels": {
         "Beta": 0,
-        "On Hold": 0,
+        "On Hold": 1,
         "Blocked": 0,
         "1": 2,
         "2": 0,
         "3": 1,
-        "4": 1,
+        "4": 0,
         "5": 0,
         "6": 0,
         "7": 0,
@@ -751,8 +750,8 @@
       "labels": {
         "NC_Onb": 0,
         "Beta": 0,
-        "WFF": 5,
-        "On Hold": 0,
+        "WFF": 4,
+        "On Hold": 1,
         "Blocked": 0,
         "1": 5,
         "2": 4,
@@ -1012,13 +1011,13 @@
       "count": 18,
       "labels": {
         "supp+global": 10,
-        "pis-support": 1,
+        "pis-support": 0,
         "New dev": 3,
         "Feature": 0,
         "API-updates": 0,
         "J-Demo": 1,
         "Finovate": 0,
-        "On Hold": 2,
+        "On Hold": 3,
         "Blocked": 1,
         "Non-Service": 0,
         "Other": 0
@@ -1045,12 +1044,12 @@
       "labels": {
         "supp+global": 6,
         "pis-support": 0,
-        "New dev": 8,
+        "New dev": 7,
         "Feature": 1,
         "API-updates": 1,
         "J-Demo": 0,
         "Finovate": 0,
-        "On Hold": 0,
+        "On Hold": 1,
         "Blocked": 0,
         "Non-Service": 1,
         "Other": 2
@@ -1275,9 +1274,9 @@
       }
     },
     "Ig-Li": {
-      "count": 24,
+      "count": 25,
       "issues_by_project": {
-        "service/support": 24
+        "service/support": 25
       }
     },
     "Ir-Gr": {
@@ -1308,9 +1307,9 @@
     "Ed-Ma": {
       "count": 1,
       "labels": {
-        "On Hold": 0,
+        "On Hold": 1,
         "Blocked": 0,
-        "WFF": 1,
+        "WFF": 0,
         "1": 0,
         "2": 0,
         "3": 0,
