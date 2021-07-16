@@ -1,15 +1,14 @@
 {
   "load": {
     "Ed-Ma": {
-      "service_count": 16,
-      "count": 16,
+      "service_count": 14,
+      "count": 14,
       "labels": {
         "1L": 1,
         "1M": 1,
-        "2L": 1,
         "2M": 2,
         "2S": 2,
-        "3L": 2,
+        "3L": 1,
         "3M": 2,
         "3S": 3,
         "5S": 2
@@ -18,13 +17,13 @@
         "DemoJ": 1,
         "service/global": 2,
         "service/pis-support": 2,
-        "service/support": 7,
-        "service/thief": 4
+        "service/support": 6,
+        "service/thief": 3
       },
       "categories": {
         "low": 5,
-        "medium": 4,
-        "high": 7
+        "medium": 3,
+        "high": 6
       },
       "no_due_dates": [
 
@@ -227,25 +226,25 @@
       }
     },
     "An-Mo": {
-      "service_count": 14,
-      "count": 14,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "1L": 1,
         "2L": 1,
         "2S": 1,
         "3S": 4,
-        "4S": 2,
+        "4S": 1,
         "5L": 1,
         "5S": 2,
         "8S": 1,
         "Beta": 1
       },
       "issues_by_project": {
-        "service/support": 10,
+        "service/support": 9,
         "service/thief": 4
       },
       "categories": {
-        "low": 9,
+        "low": 8,
         "medium": 1,
         "high": 4
       },
@@ -689,11 +688,11 @@
   },
   "lbl": {
     "Ed-Ma": {
-      "count": 19,
+      "count": 17,
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 12,
+        "WFF": 10,
         "On Hold": 2,
         "Blocked": 1,
         "1": 1,
@@ -849,11 +848,11 @@
       }
     },
     "An-Mo": {
-      "count": 17,
+      "count": 16,
       "labels": {
         "NC_Onb": 0,
         "Beta": 1,
-        "WFF": 4,
+        "WFF": 3,
         "On Hold": 3,
         "Blocked": 0,
         "1": 1,
@@ -991,9 +990,9 @@
   },
   "distr": {
     "Ed-Ma": {
-      "count": 19,
+      "count": 17,
       "labels": {
-        "supp+global": 9,
+        "supp+global": 8,
         "pis-support": 2,
         "New dev": 3,
         "Feature": 0,
@@ -1003,7 +1002,7 @@
         "On Hold": 2,
         "Blocked": 1,
         "Non-Service": 0,
-        "Other": 1
+        "Other": 0
       }
     },
     "Al-Hi": {
@@ -1119,9 +1118,9 @@
       }
     },
     "An-Mo": {
-      "count": 17,
+      "count": 16,
       "labels": {
-        "supp+global": 9,
+        "supp+global": 8,
         "pis-support": 0,
         "New dev": 2,
         "Feature": 1,
