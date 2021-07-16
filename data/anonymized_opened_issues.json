@@ -68,8 +68,7 @@
       "labels": {
         "1L": 3,
         "1M": 2,
-        "2L": 2,
-        "2M": 1,
+        "2L": 3,
         "2S": 1,
         "3L": 1,
         "3S": 1,
@@ -401,7 +400,10 @@
         "low": 7,
         "medium": 2,
         "high": 3
-      }
+      },
+      "overdues": [
+
+      ]
     },
     "Ni-Tr": {
       "service_count": 15,
@@ -1258,7 +1260,7 @@
       }
     },
     "Cr-Bu": {
-      "count": 59,
+      "count": 58,
       "issues_by_project": {
         "business/legal": 1,
         "care/global": 2,
@@ -1269,7 +1271,7 @@
         "service/bank-support": 11,
         "service/pis-support": 2,
         "service/support": 31,
-        "service/thief": 3
+        "service/thief": 2
       }
     },
     "Ig-Li": {
