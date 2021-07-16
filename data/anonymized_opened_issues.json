@@ -153,12 +153,13 @@
       ]
     },
     "Se-Vo": {
-      "service_count": 12,
-      "count": 12,
+      "service_count": 13,
+      "count": 13,
       "labels": {
         "2L": 1,
         "2M": 1,
         "2S": 1,
+        "3L": 1,
         "3S": 3,
         "4M": 1,
         "4S": 2,
@@ -166,20 +167,24 @@
       },
       "issues_by_project": {
         "service/kpi": 1,
-        "service/support": 11
+        "service/support": 11,
+        "service/thief": 1
       },
       "categories": {
         "low": 8,
-        "medium": 1,
+        "medium": 2,
         "high": 3
       },
+      "overdues": [
+
+      ],
       "no_due_dates": [
 
       ]
     },
     "St-Da": {
-      "service_count": 13,
-      "count": 13,
+      "service_count": 12,
+      "count": 12,
       "labels": {
         "2S": 1,
         "3M": 1,
@@ -187,19 +192,21 @@
         "4M": 1,
         "4S": 3,
         "5S": 2,
-        "6S": 1,
-        "Beta": 1
+        "6S": 1
       },
       "issues_by_project": {
         "service/global": 1,
-        "service/support": 11,
+        "service/support": 10,
         "service/thief": 1
       },
       "categories": {
         "low": 9,
         "medium": 2,
-        "high": 2
+        "high": 1
       },
+      "overdues": [
+
+      ],
       "no_due_dates": [
 
       ]
@@ -535,9 +542,9 @@
       }
     },
     "St-Da": {
-      "count": 2,
+      "count": 1,
       "labels": {
-        "Beta": 1,
+        "Beta": 0,
         "On Hold": 0,
         "Blocked": 0,
         "1": 0,
@@ -803,12 +810,12 @@
       "labels": {
         "NC_Onb": 1,
         "Beta": 0,
-        "WFF": 2,
-        "On Hold": 3,
+        "WFF": 1,
+        "On Hold": 2,
         "Blocked": 0,
         "1": 0,
         "2": 3,
-        "3": 1,
+        "3": 3,
         "4": 3,
         "5": 3,
         "6": 0,
@@ -819,10 +826,10 @@
       }
     },
     "St-Da": {
-      "count": 13,
+      "count": 12,
       "labels": {
         "NC_Onb": 0,
-        "Beta": 1,
+        "Beta": 0,
         "WFF": 3,
         "On Hold": 0,
         "Blocked": 0,
@@ -1085,23 +1092,23 @@
       "labels": {
         "supp+global": 11,
         "pis-support": 0,
-        "New dev": 0,
+        "New dev": 1,
         "Feature": 0,
         "API-updates": 0,
         "J-Demo": 0,
         "Finovate": 0,
-        "On Hold": 4,
+        "On Hold": 3,
         "Blocked": 0,
         "Non-Service": 0,
         "Other": 1
       }
     },
     "St-Da": {
-      "count": 13,
+      "count": 12,
       "labels": {
         "supp+global": 11,
         "pis-support": 0,
-        "New dev": 2,
+        "New dev": 1,
         "Feature": 0,
         "API-updates": 0,
         "J-Demo": 0,
@@ -1662,12 +1669,12 @@
     "Se-Vo": {
       "count": 1,
       "labels": {
-        "On Hold": 1,
+        "On Hold": 0,
         "Blocked": 0,
         "WFF": 0,
         "1": 0,
         "2": 0,
-        "3": 0,
+        "3": 1,
         "4": 0,
         "5": 0,
         "6": 0,
